@@ -1,6 +1,6 @@
 # bioRSS
 
-A successor to ubioRSS
+A potential successor to ubioRSS.
 
 
 ## Feeds
@@ -14,6 +14,9 @@ A successor to ubioRSS
 
 [RSS.app](https://rss.app)
 
+### Gotcha’s
+
+RSS feeds are wildly variable in terms of tags included and how they handle external namespaces. Note also that dates in RSS feeds need not be in English, which means we need to translate them before converting to ISO8601.
 
 ## Validation
 

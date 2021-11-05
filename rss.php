@@ -5,7 +5,7 @@ error_reporting(E_ALL);
 require_once (dirname(__FILE__) . '/utils.php');
 
 //----------------------------------------------------------------------------------------
-// Parse RSS feed in RSS1, RSS2, or ATOM and return internal datastructure
+// Parse RSS feed in RSS1, RSS2, or ATOM and return internal datastructure in JSON-LD
 function rss_to_internal($xml)
 {
 	$dom = new DOMDocument;
@@ -185,10 +185,15 @@ function rss_to_internal($xml)
 			// date
 	
 			// ATOM
-			foreach ($xpath->query('atom:updated', $item) as $node)
+			foreach ($xpath->query('atom:published', $item) as $node)
 			{
 				$dataFeedElement->datePublished = date(DATE_ISO8601, strtotime($node->firstChild->nodeValue));
 			}
+			foreach ($xpath->query('atom:updated', $item) as $node)
+			{
+				$dataFeedElement->dateModified = date(DATE_ISO8601, strtotime($node->firstChild->nodeValue));
+			}
+			
 	
 			// RSS2
 			foreach ($xpath->query('pubDate', $item) as $node)
@@ -343,11 +348,331 @@ function rss_to_internal($xml)
 
 }
 
+//----------------------------------------------------------------------------------------
+function rss_content($dataFeedElement, $feed, $item, $tagname = 'content')
+{
+	if (isset($dataFeedElement->description))
+	{
+		$description_content = '';
+		
+		if (isset($dataFeedElement->image))
+		{
+			$description_content = '<p>' . '<img src="' . $dataFeedElement->image . '" width="240"></p>';
+			$description_content .= '<p>' . $dataFeedElement->description . '</p>';
+		}
+		else
+		{
+			$description_content = '<p>' . $dataFeedElement->description . '</p>';
+		}				
+		
+		if (isset($dataFeedElement->url))
+		{
+			$host = parse_url($dataFeedElement->url, PHP_URL_HOST);
+			$description_content .= '<p><a href="' .$dataFeedElement->url . '">' . $host . '</a></p>';
+		}
+	
+		$description = $item->appendChild($feed->createElement($tagname));
+		
+		if ($tagname == 'content')
+		{
+			$description->setAttribute('type', 'html');	
+		}		
+		$description->appendChild($feed->createTextNode($description_content));
+	}
+}
+
+//----------------------------------------------------------------------------------------
+function rss_geo($dataFeedElement, $feed, $item)
+{
+	if (isset($dataFeedElement->contentLocation))
+	{
+		foreach ($dataFeedElement->contentLocation as $place)
+		{
+			$georss = $item->appendChild($feed->createElement('georss:point'));
+			$georss->appendChild($feed->createTextNode($place->geo->latitude . ' ' .  $place->geo->longitude)); 
+		}
+	
+	}
+}
+
+//----------------------------------------------------------------------------------------
+function internal_to_rss($dataFeed, $format = 'atom')
+{
+	$feed = new DomDocument('1.0', 'UTF-8');
+	$feed->formatOutput = true;
+
+	switch ($format)
+	{
+		case 'atom':
+			$rss = $feed->createElement('feed');
+			$rss->setAttribute('xmlns', 'http://www.w3.org/2005/Atom');
+			$rss->setAttribute('xmlns:geo', 'http://www.w3.org/2003/01/geo/wgs84_pos#');
+			$rss->setAttribute('xmlns:georss', 'http://www.georss.org/georss');
+			$rss = $feed->appendChild($rss);
+		
+			// feed
+		
+			// title
+			$title = $feed->createElement('title');
+			$title = $rss->appendChild($title);
+			$value = $feed->createTextNode($dataFeed->name);
+			$value = $title->appendChild($value);
+		
+			// link
+			$link = $feed->createElement('link');
+			$link->setAttribute('href', $dataFeed->url);
+			$link = $rss->appendChild($link);
+		
+			$link = $feed->createElement('link');
+			$link->setAttribute('rel', 'self');
+			$link->setAttribute('type', 'application/atom+xml');
+			$link->setAttribute('href', $dataFeed->url);
+			$link = $rss->appendChild($link);
+				
+			// updated
+			$updated = $feed->createElement('updated');
+			$updated = $rss->appendChild($updated);
+			$value = $feed->createTextNode(date(DATE_ATOM));
+			$value = $updated->appendChild($value);
+		
+			// id
+			$id = $feed->createElement('id');
+			$id = $rss->appendChild($id);
+			$id->appendChild($feed->createTextNode($dataFeed->url));
+		
+			// items
+			foreach ($dataFeed->dataFeedElement as $dataFeedElement)
+			{
+				$item = $rss->appendChild($feed->createElement('entry'));
+				
+				// title
+				if (isset($dataFeedElement->name))
+				{
+					$title = $item->appendChild($feed->createElement('title'));
+					$title->appendChild($feed->createTextNode($dataFeedElement->name));
+				}
+				
+				rss_content($dataFeedElement, $feed, $item);
+				
+				// id
+				if (isset($dataFeedElement->{'@id'}))
+				{
+					$id = $item->appendChild($feed->createElement('id'));
+					$id->appendChild($feed->createTextNode($dataFeedElement->{'@id'}));
+				}
+				
+							
+				// link
+				if (isset($dataFeedElement->url))
+				{
+					$link = $item->appendChild($feed->createElement('link'));
+					$link->setAttribute('href', $dataFeedElement->url);					
+				}
+				
+				// published
+				if (isset($dataFeedElement->datePublished))
+				{
+					$published = $item->appendChild($feed->createElement('published'));
+					$published->appendChild($feed->createTextNode(date(DATE_ATOM, strtotime($dataFeedElement->datePublished))));
+				}
+				
+				// updated
+				if (isset($dataFeedElement->dateModified))
+				{
+					$updated = $item->appendChild($feed->createElement('updated'));
+					$updated->appendChild($feed->createTextNode(date(DATE_ATOM, strtotime($dataFeedElement->dateModified))));
+				}
+				else
+				{
+					// ATOM expects updated so use datePublished
+					if (isset($dataFeedElement->datePublished))
+					{
+						$updated = $item->appendChild($feed->createElement('updated'));
+						$updated->appendChild($feed->createTextNode(date(DATE_ATOM, strtotime($dataFeedElement->datePublished))));
+					}
+					
+				}
+				
+				
+				// geo
+				rss_geo($dataFeedElement, $feed, $item);
+			
+			}
+		
+			break;
+			
+		case 'rss2':
+			$rss = $feed->createElement('rss');
+			$rss->setAttribute('version', '2.0');
+			$rss->setAttribute('xmlns:atom', 'http://www.w3.org/2005/Atom');
+			$rss->setAttribute('xmlns:georss', 'http://www.georss.org/georss');
+			$rss = $feed->appendChild($rss);
+
+			// channel
+			$channel = $feed->createElement('channel');
+			$channel = $rss->appendChild($channel);
+		
+			// title
+			$title = $channel->appendChild($feed->createElement('title'));
+			$title->appendChild($feed->createTextNode($dataFeed->name));
+			
+			// description
+			rss_content($dataFeedElement, $feed, $item, 'description');
+			
+			// link
+			$link = $channel->appendChild($feed->createElement('link'));
+			$link->appendChild($feed->createTextNode($dataFeed->url));
+			
+			$link = $feed->createElement('atom:link');
+			$link->setAttribute('rel', 'self');
+			$link->setAttribute('type', 'application/atom+xml');
+			$link->setAttribute('href', $dataFeed->url);
+			$link = $channel->appendChild($link);
+			
+			foreach ($dataFeed->dataFeedElement as $dataFeedElement)
+			{
+				$item = $channel->appendChild($feed->createElement('item'));
+				
+				// title
+				if (isset($dataFeedElement->name))
+				{
+					$title = $item->appendChild($feed->createElement('title'));
+					$title->appendChild($feed->createTextNode($dataFeedElement->name));
+				}
+				
+				// description
+				if (isset($dataFeedElement->description))
+				{
+					$description_content = '';
+					
+					if (isset($dataFeedElement->image))
+					{
+						$description_content = '<p>' . '<img src="' . $dataFeedElement->image . '" width="240"></p>';
+						$description_content .= '<p>' . $dataFeedElement->description . '</p>';
+						$description_content .= '<p>' . $dataFeedElement->url . '</p>';
+						
+					}
+					else
+					{
+						$description_content = $dataFeedElement->description;
+					}				
+				
+					$description = $item->appendChild($feed->createElement('description'));
+					$description->appendChild($feed->createTextNode($description_content));
+				}
+				
+				// link
+				if (isset($dataFeedElement->url))
+				{
+					$link = $item->appendChild($feed->createElement('link'));
+					$link->appendChild($feed->createTextNode($dataFeedElement->url));
+				}
+				
+				// pubDate
+				if (isset($dataFeedElement->datePublished))
+				{
+					$pubDate = $item->appendChild($feed->createElement('pubDate'));
+					$pubDate->appendChild($feed->createTextNode(date(DATE_RSS, strtotime($dataFeedElement->datePublished))));
+				}
+				
+				// guid
+				if (isset($dataFeedElement->doi))
+				{
+					$guid = $item->appendChild($feed->createElement('guid'));
+					$guid->setAttribute('isPermaLink', 'true');
+					$guid->appendChild($feed->createTextNode('https://doi.org/' . strtolower($dataFeedElement->doi)));
+				}
+				else
+				{
+					if (isset($dataFeedElement->url))
+					{
+						$guid = $item->appendChild($feed->createElement('guid'));
+						$guid->setAttribute('href', $dataFeedElement->url);					
+					}
+				}
+				
+				// geo
+				rss_geo($dataFeedElement, $feed, $item);
+				
+			}
+						
+			break;
+			
+		
+		case 'rss1':
+			$rss = $feed->createElement('rdf:RDF');
+			$rss->setAttribute('xmlns', 'http://purl.org/rss/1.0/');
+			$rss->setAttribute('xmlns:rdf', 'http://www.w3.org/1999/02/22-rdf-syntax-ns#');
+			$rss = $feed->appendChild($rss);
+
+			// channel
+			$channel = $feed->createElement('channel');
+			$channel->setAttribute('rdf:about', $dataFeed->url);
+			$channel = $rss->appendChild($channel);
+		
+			// title
+			$title = $channel->appendChild($feed->createElement('title'));
+			$title->appendChild($feed->createTextNode($dataFeed->name));
+
+			// link
+			$link = $channel->appendChild($feed->createElement('link'));
+			$link->appendChild($feed->createTextNode($dataFeed->url));
+
+			// description
+			$description = $channel->appendChild($feed->createElement('description'));
+			$description->appendChild($feed->createTextNode($dataFeed->name));
+
+			// items
+
+			$items = $channel->appendChild($feed->createElement('items'));
+			$seq = $items->appendChild($feed->createElement('rdf:Seq'));
+			
+			foreach ($dataFeed->dataFeedElement as $dataFeedElement)
+			{
+				$li = $seq->appendChild($feed->createElement('rdf:li'));
+				$li->setAttribute('rdf:resource', $dataFeedElement->url);
+			}			
+			
+			foreach ($dataFeed->dataFeedElement as $dataFeedElement)
+			{
+				$item = $rss->appendChild($feed->createElement('item'));
+				$item->setAttribute('rdf:about', $dataFeedElement->url);
+				
+				// title
+				if (isset($dataFeedElement->name))
+				{
+					$title = $item->appendChild($feed->createElement('title'));
+					$title->appendChild($feed->createTextNode($dataFeedElement->name));
+				}
+				
+				// link
+				if (isset($dataFeedElement->url))
+				{
+					$link = $item->appendChild($feed->createElement('link'));
+					$link->appendChild($feed->createTextNode($dataFeedElement->url));
+				}
+				
+				// could add more RDF here so we could feed a triple store
+				
+			}
+			
+	
+			break;
+		
+		default:
+			break;
+	}
+
+	return $feed->saveXML();
+
+}
+
+
 
 //----------------------------------------------------------------------------------------
 // test cases
 
-if (1)
+if (0)
 {
 	
 
@@ -358,7 +683,7 @@ if (1)
 	$filename = 'examples/oup.xml'; // rss2
 	
 	$filename = 'examples/aby.xml'; // rss 2 Chinese
-	$filename = 'examples/ce.xml'; // rss 2 German
+	//$filename = 'examples/ce.xml'; // rss 2 German
 	
 	//$filename = 'examples/elsevier.xml'; // rss 2 with <![CDATA[ ... ]]>
 	
@@ -369,6 +694,7 @@ if (1)
 	
 	
 	//$filename = 'examples/oup.xml'; // rss2
+	//$filename = 'examples/phytokeys.xml'; // rss2
 	
 	
 
@@ -378,7 +704,11 @@ if (1)
 	
 	$dataFeed = rss_to_internal($xml);
 
-	//echo json_encode($dataFeed, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
+	echo json_encode($dataFeed, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
+	
+	$rss = internal_to_rss($dataFeed);
+	
+	echo $rss;
 
 }
 
