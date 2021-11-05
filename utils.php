@@ -23,7 +23,8 @@ function full_clean_text($text)
 {
 	$text = strip_tags($text);
 	$text = clean_text($text);
-	$text  = trim($text);
+	$text = html_entity_decode($text, ENT_QUOTES | ENT_HTML5, 'UTF-8');
+	$text = trim($text);
 
 	return $text;
 }
