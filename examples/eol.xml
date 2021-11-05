@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+	    
+    xmlns:media="http://search.yahoo.com/mrss/"
+	    
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+	    
+    xmlns:creativeCommons="http://cyber.law.harvard.edu/rss/creativeCommonsRssModule.html"
+	          
+    xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+      
+    xmlns:georss="http://www.georss.org/georss"
+      
+    xmlns:woe="http://where.yahooapis.com/v1/schema.rng"
+	    
+    xmlns:flickr="urn:flickr:user" >
+    <channel>
+        <title>The Encyclopedia of Life Images Pool, with geodata</title>
+        <link>https://www.flickr.com/photos/</link>
+        <description>Through this group Flickr users can provide images and videos of organisms for the &lt;a href=&quot;http://www.eol.org&quot; rel=&quot;nofollow&quot;&gt;Encyclopedia of Life&lt;/a&gt; web site.
+
+We regularly harvest images from this pool so they can be displayed on EOL taxon pages.  Please note that your images will be imported to the EOL site only if they have the following characteristics:
+&lt;blockquote&gt;
+&lt;b&gt;1. The image is public.&lt;/b&gt;
+&lt;b&gt;2. The image is licensed with one of the following licenses:&lt;/b&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;- Creative Commons Attribution (CC-BY)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;- Creative Commons Non-Commercial (CC-BY-NC)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;- Creative Commons Share-Alike (CC-BY-SA)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;- Creative Commons Non-Commercial Share Alike (CC-BY-NC-SA)
+&lt;b&gt;Please do not post All Rights Reserved images or images with  NoDeriv (=) creative commons licenses to the group.&lt;/b&gt;  We cannot harvest such images, and they will be removed from the pool. (&lt;a href=&quot;http://www.flickr.com/groups/encyclopedia_of_life/discuss/72157626269659466/&quot;&gt;why?&lt;/a&gt;)
+&lt;b&gt;3. The image has at least one machine tag with a scientific name: &lt;/b&gt;e.g. 
+     &amp;quot;taxonomy:binomial=Corvus brachyrhynchos&amp;quot;
+     &lt;a href=&quot;http://www.flickr.com/groups/encyclopedia_of_life/discuss/72157612488733900/&quot;&gt;Additional machine tags&lt;/a&gt; are encouraged but not necessary.
+&lt;/blockquote&gt;
+Images that don&#039;t meet these criteria will not make it to EOL and may be removed from the group pool by administrators. See the &lt;a href=&quot;http://www.flickr.com/groups/encyclopedia_of_life/&quot;&gt;group description&lt;/a&gt; and &lt;a href=&quot;http://www.flickr.com/groups/encyclopedia_of_life/discuss/&quot;&gt;discussion&lt;/a&gt; for help.
+
+&lt;img src=&quot;http://farm4.static.flickr.com/3411/3208824510_3f05aa4605_o.jpg&quot; /&gt;
+Encyclopedia of Life&#039;s harvester frequently checks this Flickr group for any new or modified images and places them on pages (if the above rules are followed). If you made a mistake, don&#039;t worry.  Revisions to tags and image descriptions will automatically update on EOL with the next harvest.  Your image will initially appear as &#039;unreviewed&#039; as our curators need to validate that the tag correctly identifies the organism in the photo. 
+
+If you tweet, you can &lt;a href=&quot;http://twitter.com/eoflife&quot; rel=&quot;nofollow&quot;&gt;follow EOL&lt;/a&gt;.  We&#039;re also on &lt;a href=&quot;http://www.facebook.com/pages/Encyclopedia-of-Life/62911075968&quot; rel=&quot;nofollow&quot;&gt;facebook&lt;/a&gt;.
+
+&lt;a href=&quot;http://flickriver.com/groups/encyclopedia_of_life/pool/interesting/&quot; rel=&quot;nofollow&quot;&gt;View the most interesting images in this group on flickriver&lt;/a&gt;.
+
+&lt;img src=&quot;http://farm4.static.flickr.com/3411/3208824510_3f05aa4605_o.jpg&quot; /&gt;
+&lt;b&gt;Helpful links&lt;/b&gt;:
+
+&lt;a href=&quot;http://www.slideshare.net/eoleducation/eol-flickr-tutorial&quot; rel=&quot;nofollow&quot;&gt;Eol Flickr Tutorial&lt;/a&gt;
+&lt;a href=&quot;http://flickr.com/groups/encyclopedia_of_life/discuss/72157607325951917/&quot;&gt;Changing your licenses&lt;/a&gt;  (also see: &lt;a href=&quot;http://www.flickr.com/groups/encyclopedia_of_life/discuss/72157626269659466/&quot;&gt;Why does EOL require creative commons licenses for all its content?&lt;/a&gt;)
+&lt;a href=&quot;http://www.flickr.com/groups/encyclopedia_of_life/discuss/72157621847862713/&quot;&gt;Images I posted to the group aren&#039;t showing up on the EOL web site?&lt;/a&gt;
+&lt;a href=&quot;http://www.flickr.com/groups/encyclopedia_of_life/discuss/72157622727252637/&quot;&gt;Online Identification Guides&lt;/a&gt;
+
+&lt;b&gt;All about tagging:&lt;/b&gt;
+
+&lt;a href=&quot;http://www.flickr.com/groups/encyclopedia_of_life/discuss/72157629880155291/&quot;&gt;EOL machine tags&lt;/a&gt; - quick &amp;amp; dirty
+ &lt;a href=&quot;http://www.flickr.com/groups/encyclopedia_of_life/discuss/72157629880163919/&quot;&gt;Frequently Asked Questions about EOL machine tags&lt;/a&gt; - gorey details
+ &lt;a href=&quot;http://www.flickr.com/groups/encyclopedia_of_life/discuss/72157629515768640/&quot;&gt;Tagging images for the Biodiversity Heritage Library&lt;/a&gt; - tag beautiful drawings &amp;amp; paintings for EOL use
+&lt;a href=&quot;http://inaturalist.org/taxa/flickr_tagger&quot; rel=&quot;nofollow&quot;&gt;iNaturalist tagging tool&lt;/a&gt; - find your taxon on iNaturalist, and it will tag your photo for you, very slick!
+
+&lt;img src=&quot;http://farm4.static.flickr.com/3411/3208824510_3f05aa4605_o.jpg&quot; /&gt;
+A note for our Australian friends: The &lt;a href=&quot;http://www.ala.org.au/&quot; rel=&quot;nofollow&quot;&gt;Atlas of Living Australia&lt;/a&gt; (ALA) is a government-funded project to bring together information about Australian plants, animals and microorganisms.  The ALA is working with the Encyclopedia of Life and is encouraging Australian photographers to contribute to this group.  Images of Australian species shared under Creative Commons licences are displayed through ALA tools.  The ALA attributes each such image to the photographer.
+
+&lt;img src=&quot;http://farm4.static.flickr.com/3411/3208824510_3f05aa4605_o.jpg&quot; /&gt;
+&lt;strong&gt;Please help growing and maintaining the group!&lt;/strong&gt;
+
+To invite others to join the group and add to the pool, you can use this text:
+
+&lt;b&gt;Start copy here&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&lt;/b&gt;
+We&#039;d love to have this and other nature photos from your photo stream in the &amp;lt;a href=&amp;quot;http://www.flickr.com/groups/encyclopedia_of_life/&amp;quot;&amp;gt;Encyclopedia of Life Images group&amp;lt;/a&amp;gt;.  Images from this group are harvested regularly to illustrate the pages of the &amp;lt;a href=&amp;quot;http://eol.org&amp;quot; rel=&amp;quot;nofollow&amp;quot;&amp;gt;Encyclopedia of Life project&amp;lt;/a&amp;gt;. EOL needs images for all 1.9 million known species, and every image helps!
+
+If you&#039;re interested in participating, please have a look at the &amp;lt;a href=&amp;quot;http://www.flickr.com/groups/encyclopedia_of_life/rules/&amp;quot;&amp;gt;group rules&amp;lt;/a&amp;gt;.  If you need help or have questions, please post a message to our lively &amp;lt;a href=&amp;quot;http://www.flickr.com/groups/encyclopedia_of_life/discuss/&amp;quot;&amp;gt;Group Discussion&amp;lt;/a&amp;gt;.
+&lt;b&gt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;Stop copy here.&lt;/b&gt;
+
+Auf deutsch:
+
+&lt;b&gt;Hier mit dem Kopieren anfangen&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&lt;/b&gt;
+Wir würden dieses Naturfoto und andere Fotos aus deinem Fotostream sehr gerne in der &amp;lt;a href=&amp;quot;http://www.flickr.com/groups/encyclopedia_of_life/&amp;quot;&amp;gt;Encyclopedia of Life Images Gruppe&amp;lt;/a&amp;gt; haben.  Fotos aus dieser Gruppe werden regelmäßig für die Seiten der &amp;lt;a href=&amp;quot;http://eol.org&amp;quot; rel=&amp;quot;nofollow&amp;quot;&amp;gt;Encyclopedia of Life&amp;lt;/a&amp;gt; heruntergeladen. EOL braucht Bilder für jede der 1.9 Millionen bekannten Arten, und jedes Foto hilft!
+
+Wenn du mitmachen wlllst, schau dir bitte die &amp;lt;a href=&amp;quot;http://www.flickr.com/groups/encyclopedia_of_life/rules/&amp;quot;&amp;gt;Gruppenregeln&amp;lt;/a&amp;gt; an.  Falls du Hilfe brauchst oder Fragen hast, wende dich bitte an unsere &amp;lt;a href=&amp;quot;http://www.flickr.com/groups/encyclopedia_of_life/discuss/&amp;quot;&amp;gt;Gruppen Diskussionsrunde&amp;lt;/a&amp;gt;.
+&lt;b&gt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;Hier mit dem Kopieren aufhören.&lt;/b&gt;
+
+If you see that another group member needs a reminder of the group rules, you can use this text:
+
+&lt;b&gt;Start copy here&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&lt;/b&gt;
+Thanks for posting your photo to the &amp;lt;a href=&amp;quot;http://www.flickr.com/groups/encyclopedia_of_life/&amp;quot;&amp;gt;Encyclopedia of Life Images Group&amp;lt;/a&amp;gt;.  Please note that your image cannot currently be imported to the &amp;lt;a href=&amp;quot;http://eol.org&amp;quot;&amp;gt;Encyclopedia of Life&amp;lt;/a&amp;gt; because it does not have the proper creative commons license and taxonomy machine tag. Please read the &amp;lt;a href=&amp;quot;http://www.flickr.com/groups/encyclopedia_of_life/rules/&amp;quot;&amp;gt;Group Rules&amp;lt;/a&amp;gt;, then&amp;lt;a href=&amp;quot;http://www.flickr.com/groups/encyclopedia_of_life/discuss/72157607325951917/&amp;quot;&amp;gt;change your license&amp;lt;/a&amp;gt; and &amp;lt;a href=&amp;quot;http://www.flickr.com/groups/encyclopedia_of_life/discuss/72157629880155291/&amp;quot;&amp;gt;tag your photo&amp;lt;/a&amp;gt; if you would like to contribute your image to EOL.
+&lt;b&gt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;Stop copy here.&lt;/b&gt;
+
+Auf deutsch:
+
+&lt;b&gt;Hier mit dem Kopieren anfangen&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&lt;/b&gt;
+Danke daß du dein Foto zur  &amp;lt;a href=&amp;quot;http://www.flickr.com/groups/encyclopedia_of_life/&amp;quot;&amp;gt;Encyclopedia of Life Images Gruppe&amp;lt;/a&amp;gt; hinzugefügt hast.  Leider kann dein Foto zur Zeit nicht zur  &amp;lt;a href=&amp;quot;http://eol.org&amp;quot;&amp;gt;Encyclopedia of Life&amp;lt;/a&amp;gt; importiert werden, weil es nicht die richtige Lizenz hat und die taxonomischen Machine Tags fehlen.  Bitte schau dir die &amp;lt;a href=&amp;quot;http://www.flickr.com/groups/encyclopedia_of_life/rules/&amp;quot;&amp;gt;Gruppenregeln&amp;lt;/a&amp;gt; an, dann &amp;lt;a href=&amp;quot;http://www.flickr.com/groups/encyclopedia_of_life/discuss/72157607325951917/&amp;quot;&amp;gt;ändere deine Lizenzen&amp;lt;/a&amp;gt; und &amp;lt;a href=&amp;quot;http://www.flickr.com/groups/encyclopedia_of_life/discuss/72157629880155291/&amp;quot;&amp;gt;gib deinen Fotos Tags&amp;lt;/a&amp;gt; wenn du sie der EOL zur Verfügung stellen möchtest.
+&lt;b&gt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;HIer mit dem Kopieren aufhôren.&lt;/b&gt;
+
+&lt;img src=&quot;http://farm4.static.flickr.com/3411/3208824510_3f05aa4605_o.jpg&quot; /&gt;
+&lt;a href=&quot;http://s03.flagcounter.com/more/JkXH&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://s03.flagcounter.com/count/JkXH/bg=FFFFFF/txt=000000/border=CCCCCC/columns=2/maxflags=12/viewers=0/labels=1/&quot; alt=&quot;free counters&quot; /&gt;&lt;/a&gt;</description>
+        <pubDate>Thu, 04 Nov 2021 00:46:21 -0700</pubDate>
+        <lastBuildDate>Thu, 04 Nov 2021 00:46:21 -0700</lastBuildDate>
+        <generator>https://www.flickr.com/</generator>
+        <image>
+            <url>https://farm6.staticflickr.com/5455/buddyicons/806927@N20.jpg?1375369283</url>
+            <title>The Encyclopedia of Life Images Pool, with geodata</title>
+            <link>https://www.flickr.com/photos/</link>
+        </image>
+        <item>
+            <title>35.153 Pseudotelphusa paripunctella, Insh Marshes, Highland</title>
+            <link>https://www.flickr.com/photos/nvoaden/51654307674/</link>
+            <description>			&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/nvoaden/&quot;&gt;Terathopius&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/nvoaden/51654307674/&quot; title=&quot;35.153 Pseudotelphusa paripunctella, Insh Marshes, Highland&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/51654307674_a17295b1e6_m.jpg&quot; width=&quot;240&quot; height=&quot;160&quot; alt=&quot;35.153 Pseudotelphusa paripunctella, Insh Marshes, Highland&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+            <pubDate>Thu, 04 Nov 2021 00:46:21 -0700</pubDate>
+            <dc:date.Taken>2021-06-04T18:10:13-08:00</dc:date.Taken>
+            <author flickr:profile="https://www.flickr.com/people/nvoaden/">nobody@flickr.com (Terathopius)</author>
+            <guid isPermaLink="false">tag:flickr.com,2004:/photo/51654307674</guid>
+            <georss:point>57.075315 -4.012885</georss:point>
+            <geo:lat>57.075315</geo:lat>
+            <geo:long>-4.012885</geo:long>
+            <woe:woeid>2638923</woe:woeid>
+            <media:content url="https://live.staticflickr.com/65535/51654307674_a17295b1e6_b.jpg" 
+                   type="image/jpeg"
+                   height="683"
+                   width="1024"/>
+            <media:title>35.153 Pseudotelphusa paripunctella, Insh Marshes, Highland</media:title>
+            <media:thumbnail url="https://live.staticflickr.com/65535/51654307674_a17295b1e6_s.jpg" height="75" width="75" />
+            <media:credit role="photographer">Terathopius</media:credit>
+            <media:category scheme="urn:flickr:tags">pseudotelphusaparipunctella gelechiidae gelechiinae inshmarshes rspb naturereserve speyside nationalpark cairngormnationalpark highland moth lepidoptera arthropod entomology insect invertebrate macro closeup animal fauna wildlife wildlifephotography nature naturephotography naturaleza natureza outside canon scotland unitedkingdom greatbritain</media:category>
+        </item>
+        <item>
+            <title>52.007 Large Red-belted Clearwing (Synanthedon culiciformis), Muir of Dinnet, Aberdeenshire</title>
+            <link>https://www.flickr.com/photos/nvoaden/51654304534/</link>
+            <description>			&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/nvoaden/&quot;&gt;Terathopius&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/nvoaden/51654304534/&quot; title=&quot;52.007 Large Red-belted Clearwing (Synanthedon culiciformis), Muir of Dinnet, Aberdeenshire&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/51654304534_09e140022d_m.jpg&quot; width=&quot;240&quot; height=&quot;160&quot; alt=&quot;52.007 Large Red-belted Clearwing (Synanthedon culiciformis), Muir of Dinnet, Aberdeenshire&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+            <pubDate>Thu, 04 Nov 2021 00:46:23 -0700</pubDate>
+            <dc:date.Taken>2021-06-03T17:15:08-08:00</dc:date.Taken>
+            <author flickr:profile="https://www.flickr.com/people/nvoaden/">nobody@flickr.com (Terathopius)</author>
+            <guid isPermaLink="false">tag:flickr.com,2004:/photo/51654304534</guid>
+            <georss:point>57.069185 -2.936289</georss:point>
+            <geo:lat>57.069185</geo:lat>
+            <geo:long>-2.936289</geo:long>
+            <woe:woeid>2642812</woe:woeid>
+            <media:content url="https://live.staticflickr.com/65535/51654304534_09e140022d_b.jpg" 
+                   type="image/jpeg"
+                   height="683"
+                   width="1024"/>
+            <media:title>52.007 Large Red-belted Clearwing (Synanthedon culiciformis), Muir of Dinnet, Aberdeenshire</media:title>
+            <media:thumbnail url="https://live.staticflickr.com/65535/51654304534_09e140022d_s.jpg" height="75" width="75" />
+            <media:credit role="photographer">Terathopius</media:credit>
+            <media:category scheme="urn:flickr:tags">largeredbeltedclearwing synanthedonculiciformis sesiidae sesiinae muirofdinnet naturereserve naturescot nationalpark cairngormnationalpark aberdeenshire moth lepidoptera arthropod entomology insect invertebrate macro closeup animal fauna wildlife wildlifephotography nature naturephotography naturaleza natureza outside canon scotland unitedkingdom greatbritain</media:category>
+        </item>
+        <item>
+            <title>37.063 Coleophora albicosta, Burntisland, Fife</title>
+            <link>https://www.flickr.com/photos/nvoaden/51653635801/</link>
+            <description>			&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/nvoaden/&quot;&gt;Terathopius&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/nvoaden/51653635801/&quot; title=&quot;37.063 Coleophora albicosta, Burntisland, Fife&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/51653635801_a645e7d125_m.jpg&quot; width=&quot;240&quot; height=&quot;160&quot; alt=&quot;37.063 Coleophora albicosta, Burntisland, Fife&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+            <pubDate>Thu, 04 Nov 2021 00:46:23 -0700</pubDate>
+            <dc:date.Taken>2021-06-04T18:15:19-08:00</dc:date.Taken>
+            <author flickr:profile="https://www.flickr.com/people/nvoaden/">nobody@flickr.com (Terathopius)</author>
+            <guid isPermaLink="false">tag:flickr.com,2004:/photo/51653635801</guid>
+            <georss:point>56.066849 -3.235141</georss:point>
+            <geo:lat>56.066849</geo:lat>
+            <geo:long>-3.235141</geo:long>
+            <woe:woeid>2654255</woe:woeid>
+            <media:content url="https://live.staticflickr.com/65535/51653635801_a645e7d125_b.jpg" 
+                   type="image/jpeg"
+                   height="683"
+                   width="1024"/>
+            <media:title>37.063 Coleophora albicosta, Burntisland, Fife</media:title>
+            <media:thumbnail url="https://live.staticflickr.com/65535/51653635801_a645e7d125_s.jpg" height="75" width="75" />
+            <media:credit role="photographer">Terathopius</media:credit>
+            <media:category scheme="urn:flickr:tags">coleophoraalbicosta coleophoridae burntisland fife moth lepidoptera arthropod entomology insect invertebrate macro closeup animal fauna wildlife wildlifephotography nature naturephotography naturaleza natureza outside canon scotland unitedkingdom greatbritain</media:category>
+        </item>
+        <item>
+            <title>262A8026 Witte Kwikstaart, White Wagtail, Motacilla alba.</title>
+            <link>https://www.flickr.com/photos/jwsteffelaar/51651807508/</link>
+            <description>			&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/jwsteffelaar/&quot;&gt;jwsteffelaar&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/jwsteffelaar/51651807508/&quot; title=&quot;262A8026 Witte Kwikstaart, White Wagtail, Motacilla alba.&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/51651807508_e71e01f1e9_m.jpg&quot; width=&quot;240&quot; height=&quot;160&quot; alt=&quot;262A8026 Witte Kwikstaart, White Wagtail, Motacilla alba.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+            <pubDate>Wed, 03 Nov 2021 04:25:06 -0700</pubDate>
+            <dc:date.Taken>2016-04-18T13:16:26-08:00</dc:date.Taken>
+            <author flickr:profile="https://www.flickr.com/people/jwsteffelaar/">nobody@flickr.com (jwsteffelaar)</author>
+            <guid isPermaLink="false">tag:flickr.com,2004:/photo/51651807508</guid>
+            <georss:point>45.164476 29.715528</georss:point>
+            <geo:lat>45.164476</geo:lat>
+            <geo:long>29.715528</geo:long>
+            <woe:woeid>665790</woe:woeid>
+            <media:content url="https://live.staticflickr.com/65535/51651807508_e71e01f1e9_b.jpg" 
+                   type="image/jpeg"
+                   height="683"
+                   width="1024"/>
+            <media:title>262A8026 Witte Kwikstaart, White Wagtail, Motacilla alba.</media:title>
+            <media:thumbnail url="https://live.staticflickr.com/65535/51651807508_e71e01f1e9_s.jpg" height="75" width="75" />
+            <media:credit role="photographer">jwsteffelaar</media:credit>
+            <media:category scheme="urn:flickr:tags">motacillaalba whitewagtail wittekwikstaart taxonomy:binomial=motacillaalba</media:category>
+        </item>
+        <item>
+            <title>262A8250 Hop, Hoopoe, Upupa epops.</title>
+            <link>https://www.flickr.com/photos/jwsteffelaar/51651550461/</link>
+            <description>			&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/jwsteffelaar/&quot;&gt;jwsteffelaar&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/jwsteffelaar/51651550461/&quot; title=&quot;262A8250 Hop, Hoopoe, Upupa epops.&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/51651550461_a1257a8dee_m.jpg&quot; width=&quot;240&quot; height=&quot;160&quot; alt=&quot;262A8250 Hop, Hoopoe, Upupa epops.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+            <pubDate>Wed, 03 Nov 2021 04:08:22 -0700</pubDate>
+            <dc:date.Taken>2016-04-18T16:40:01-08:00</dc:date.Taken>
+            <author flickr:profile="https://www.flickr.com/people/jwsteffelaar/">nobody@flickr.com (jwsteffelaar)</author>
+            <guid isPermaLink="false">tag:flickr.com,2004:/photo/51651550461</guid>
+            <georss:point>45.164476 29.715528</georss:point>
+            <geo:lat>45.164476</geo:lat>
+            <geo:long>29.715528</geo:long>
+            <woe:woeid>665790</woe:woeid>
+            <media:content url="https://live.staticflickr.com/65535/51651550461_a1257a8dee_b.jpg" 
+                   type="image/jpeg"
+                   height="683"
+                   width="1024"/>
+            <media:title>262A8250 Hop, Hoopoe, Upupa epops.</media:title>
+            <media:thumbnail url="https://live.staticflickr.com/65535/51651550461_a1257a8dee_s.jpg" height="75" width="75" />
+            <media:credit role="photographer">jwsteffelaar</media:credit>
+            <media:category scheme="urn:flickr:tags">upupaepops hop hoopoe taxonomy:binomial=upupaepops</media:category>
+        </item>
+        <item>
+            <title>Trechus alpicola Sturm, 1825</title>
+            <link>https://www.flickr.com/photos/coleoptera-us/51652221765/</link>
+            <description>			&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/coleoptera-us/&quot;&gt;urjsa&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/coleoptera-us/51652221765/&quot; title=&quot;Trechus alpicola Sturm, 1825&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/51652221765_8d318b3549_m.jpg&quot; width=&quot;240&quot; height=&quot;140&quot; alt=&quot;Trechus alpicola Sturm, 1825&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Family: Carabidae&lt;br /&gt;
+Size: 3.3 mm (3.2 to 3.7 mm)&lt;br /&gt;
+Distribution: Eastern Alps&lt;br /&gt;
+Biology: Lives in damp and cool biotopes, alpine and subalpine&lt;br /&gt;
+Location: Austria, Kaernten, Zell-Homoelisch, Hochobir, 1800 m&lt;br /&gt;
+leg.det. U.Schmidt,17.IX.1982&lt;br /&gt;
+Photo: U.Schmidt, 2021&lt;/p&gt;</description>
+            <pubDate>Wed, 03 Nov 2021 01:57:29 -0700</pubDate>
+            <dc:date.Taken>2021-11-03T09:50:51-08:00</dc:date.Taken>
+            <author flickr:profile="https://www.flickr.com/people/coleoptera-us/">nobody@flickr.com (urjsa)</author>
+            <guid isPermaLink="false">tag:flickr.com,2004:/photo/51652221765</guid>
+            <georss:point>46.507135 14.480667</georss:point>
+            <geo:lat>46.507135</geo:lat>
+            <geo:long>14.480667</geo:long>
+            <woe:woeid>2775551</woe:woeid>
+            <media:content url="https://live.staticflickr.com/65535/51652221765_8d318b3549_b.jpg" 
+                   type="image/jpeg"
+                   height="598"
+                   width="1024"/>
+            <media:title>Trechus alpicola Sturm, 1825</media:title>
+            <media:description type="html">&lt;p&gt;Family: Carabidae&lt;br /&gt;
+Size: 3.3 mm (3.2 to 3.7 mm)&lt;br /&gt;
+Distribution: Eastern Alps&lt;br /&gt;
+Biology: Lives in damp and cool biotopes, alpine and subalpine&lt;br /&gt;
+Location: Austria, Kaernten, Zell-Homoelisch, Hochobir, 1800 m&lt;br /&gt;
+leg.det. U.Schmidt,17.IX.1982&lt;br /&gt;
+Photo: U.Schmidt, 2021&lt;/p&gt;</media:description>
+            <media:thumbnail url="https://live.staticflickr.com/65535/51652221765_8d318b3549_s.jpg" height="75" width="75" />
+            <media:credit role="photographer">urjsa</media:credit>
+            <media:category scheme="urn:flickr:tags">coleoptera käfer insect carabidae trechusalpicola trechus alpicola taxonomy:family=carabidae taxonomy:genus=trechus taxonomy:species=alpicola taxonomy:binomial=trechusalpicola geo:country=austria oesterreich austria europe coleopteraus kaefer insekt europa</media:category>
+            <creativeCommons:license>https://creativecommons.org/licenses/by-sa/2.0/deed.en</creativeCommons:license>
+        </item>
+        <item>
+            <title>262A9110 Kroeskoppelikaan, Dalmatian Pelican, Pelecanus crispus.</title>
+            <link>https://www.flickr.com/photos/jwsteffelaar/51652154990/</link>
+            <description>			&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/jwsteffelaar/&quot;&gt;jwsteffelaar&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/jwsteffelaar/51652154990/&quot; title=&quot;262A9110 Kroeskoppelikaan, Dalmatian Pelican, Pelecanus crispus.&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/51652154990_44deed701a_m.jpg&quot; width=&quot;240&quot; height=&quot;160&quot; alt=&quot;262A9110 Kroeskoppelikaan, Dalmatian Pelican, Pelecanus crispus.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+            <pubDate>Wed, 03 Nov 2021 01:00:42 -0700</pubDate>
+            <dc:date.Taken>2016-04-19T08:38:11-08:00</dc:date.Taken>
+            <author flickr:profile="https://www.flickr.com/people/jwsteffelaar/">nobody@flickr.com (jwsteffelaar)</author>
+            <guid isPermaLink="false">tag:flickr.com,2004:/photo/51652154990</guid>
+            <georss:point>45.188086 29.293327</georss:point>
+            <geo:lat>45.188086</geo:lat>
+            <geo:long>29.293327</geo:long>
+            <woe:woeid>680201</woe:woeid>
+            <media:content url="https://live.staticflickr.com/65535/51652154990_44deed701a_b.jpg" 
+                   type="image/jpeg"
+                   height="683"
+                   width="1024"/>
+            <media:title>262A9110 Kroeskoppelikaan, Dalmatian Pelican, Pelecanus crispus.</media:title>
+            <media:thumbnail url="https://live.staticflickr.com/65535/51652154990_44deed701a_s.jpg" height="75" width="75" />
+            <media:credit role="photographer">jwsteffelaar</media:credit>
+            <media:category scheme="urn:flickr:tags">dalmatianpelican kroeskoppelikaan pelecanuscrispus taxonomy:binomial=pelecanuscrispus</media:category>
+        </item>
+        <item>
+            <title>262A9165 Kokmeeuw, Black-Headed Gull, Larus ridibundus.</title>
+            <link>https://www.flickr.com/photos/jwsteffelaar/51652147865/</link>
+            <description>			&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/jwsteffelaar/&quot;&gt;jwsteffelaar&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/jwsteffelaar/51652147865/&quot; title=&quot;262A9165 Kokmeeuw, Black-Headed Gull, Larus ridibundus.&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/51652147865_e1d2befe4f_m.jpg&quot; width=&quot;240&quot; height=&quot;160&quot; alt=&quot;262A9165 Kokmeeuw, Black-Headed Gull, Larus ridibundus.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+            <pubDate>Wed, 03 Nov 2021 00:54:53 -0700</pubDate>
+            <dc:date.Taken>2016-04-19T08:57:41-08:00</dc:date.Taken>
+            <author flickr:profile="https://www.flickr.com/people/jwsteffelaar/">nobody@flickr.com (jwsteffelaar)</author>
+            <guid isPermaLink="false">tag:flickr.com,2004:/photo/51652147865</guid>
+            <georss:point>45.188086 29.293327</georss:point>
+            <geo:lat>45.188086</geo:lat>
+            <geo:long>29.293327</geo:long>
+            <woe:woeid>680201</woe:woeid>
+            <media:content url="https://live.staticflickr.com/65535/51652147865_e1d2befe4f_b.jpg" 
+                   type="image/jpeg"
+                   height="683"
+                   width="1024"/>
+            <media:title>262A9165 Kokmeeuw, Black-Headed Gull, Larus ridibundus.</media:title>
+            <media:thumbnail url="https://live.staticflickr.com/65535/51652147865_e1d2befe4f_s.jpg" height="75" width="75" />
+            <media:credit role="photographer">jwsteffelaar</media:credit>
+            <media:category scheme="urn:flickr:tags">blackheadedgull larusridibundus kokmeeuw taxonomy:binomial=larusridibundus</media:category>
+        </item>
+        <item>
+            <title>73.319 Turnip Moth (Agrotis segetum), Burntisland, Fife</title>
+            <link>https://www.flickr.com/photos/nvoaden/51651245926/</link>
+            <description>			&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/nvoaden/&quot;&gt;Terathopius&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/nvoaden/51651245926/&quot; title=&quot;73.319 Turnip Moth (Agrotis segetum), Burntisland, Fife&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/51651245926_270f85b58f_m.jpg&quot; width=&quot;240&quot; height=&quot;160&quot; alt=&quot;73.319 Turnip Moth (Agrotis segetum), Burntisland, Fife&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+            <pubDate>Wed, 03 Nov 2021 00:18:58 -0700</pubDate>
+            <dc:date.Taken>2021-06-01T20:20:46-08:00</dc:date.Taken>
+            <author flickr:profile="https://www.flickr.com/people/nvoaden/">nobody@flickr.com (Terathopius)</author>
+            <guid isPermaLink="false">tag:flickr.com,2004:/photo/51651245926</guid>
+            <georss:point>56.066849 -3.235141</georss:point>
+            <geo:lat>56.066849</geo:lat>
+            <geo:long>-3.235141</geo:long>
+            <woe:woeid>2654255</woe:woeid>
+            <media:content url="https://live.staticflickr.com/65535/51651245926_270f85b58f_b.jpg" 
+                   type="image/jpeg"
+                   height="683"
+                   width="1024"/>
+            <media:title>73.319 Turnip Moth (Agrotis segetum), Burntisland, Fife</media:title>
+            <media:thumbnail url="https://live.staticflickr.com/65535/51651245926_270f85b58f_s.jpg" height="75" width="75" />
+            <media:credit role="photographer">Terathopius</media:credit>
+            <media:category scheme="urn:flickr:tags">turnipmoth agrotissegetum noctuidae noctuinae burntisland fife moth lepidoptera arthropod entomology insect invertebrate macro closeup scotland unitedkingdom greatbritain animal fauna wildlife wildlifephotography nature naturephotography naturaleza natureza outside canon</media:category>
+        </item>
+        <item>
+            <title>49.301 Retinia resinella, Muir of Dinnet, Aberdeenshire</title>
+            <link>https://www.flickr.com/photos/nvoaden/51651912394/</link>
+            <description>			&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/nvoaden/&quot;&gt;Terathopius&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/nvoaden/51651912394/&quot; title=&quot;49.301 Retinia resinella, Muir of Dinnet, Aberdeenshire&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/51651912394_aa72a2984a_m.jpg&quot; width=&quot;240&quot; height=&quot;160&quot; alt=&quot;49.301 Retinia resinella, Muir of Dinnet, Aberdeenshire&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+            <pubDate>Wed, 03 Nov 2021 00:18:59 -0700</pubDate>
+            <dc:date.Taken>2021-06-02T18:42:03-08:00</dc:date.Taken>
+            <author flickr:profile="https://www.flickr.com/people/nvoaden/">nobody@flickr.com (Terathopius)</author>
+            <guid isPermaLink="false">tag:flickr.com,2004:/photo/51651912394</guid>
+            <georss:point>57.071734 -2.930796</georss:point>
+            <geo:lat>57.071734</geo:lat>
+            <geo:long>-2.930796</geo:long>
+            <woe:woeid>2642812</woe:woeid>
+            <media:content url="https://live.staticflickr.com/65535/51651912394_aa72a2984a_b.jpg" 
+                   type="image/jpeg"
+                   height="683"
+                   width="1024"/>
+            <media:title>49.301 Retinia resinella, Muir of Dinnet, Aberdeenshire</media:title>
+            <media:thumbnail url="https://live.staticflickr.com/65535/51651912394_aa72a2984a_s.jpg" height="75" width="75" />
+            <media:credit role="photographer">Terathopius</media:credit>
+            <media:category scheme="urn:flickr:tags">retiniaresinella tortricidae olethreutinae muirofdinnet naturescot naturereserve deeside nationalpark cairngormnationalpark mating copulation moth lepidoptera arthropod entomology insect invertebrate macro closeup scotland unitedkingdom greatbritain animal fauna wildlife wildlifephotography nature naturephotography naturaleza natureza outside canon</media:category>
+        </item>
+        <item>
+            <title>73.279 Broad-barred White (Hecatera bicolorata), Burntisland, Fife</title>
+            <link>https://www.flickr.com/photos/nvoaden/51652101950/</link>
+            <description>			&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/nvoaden/&quot;&gt;Terathopius&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/nvoaden/51652101950/&quot; title=&quot;73.279 Broad-barred White (Hecatera bicolorata), Burntisland, Fife&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/51652101950_54f17c2aba_m.jpg&quot; width=&quot;240&quot; height=&quot;160&quot; alt=&quot;73.279 Broad-barred White (Hecatera bicolorata), Burntisland, Fife&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+            <pubDate>Wed, 03 Nov 2021 00:18:58 -0700</pubDate>
+            <dc:date.Taken>2021-06-01T20:21:40-08:00</dc:date.Taken>
+            <author flickr:profile="https://www.flickr.com/people/nvoaden/">nobody@flickr.com (Terathopius)</author>
+            <guid isPermaLink="false">tag:flickr.com,2004:/photo/51652101950</guid>
+            <georss:point>56.066849 -3.235141</georss:point>
+            <geo:lat>56.066849</geo:lat>
+            <geo:long>-3.235141</geo:long>
+            <woe:woeid>2654255</woe:woeid>
+            <media:content url="https://live.staticflickr.com/65535/51652101950_54f17c2aba_b.jpg" 
+                   type="image/jpeg"
+                   height="683"
+                   width="1024"/>
+            <media:title>73.279 Broad-barred White (Hecatera bicolorata), Burntisland, Fife</media:title>
+            <media:thumbnail url="https://live.staticflickr.com/65535/51652101950_54f17c2aba_s.jpg" height="75" width="75" />
+            <media:credit role="photographer">Terathopius</media:credit>
+            <media:category scheme="urn:flickr:tags">broadbarredwhite hecaterabicolorata noctuidae hadeninae burntisland fife moth lepidoptera arthropod entomology insect invertebrate macro closeup scotland unitedkingdom greatbritain animal fauna wildlife wildlifephotography nature naturephotography naturaleza natureza outside canon</media:category>
+        </item>
+        <item>
+            <title>UNSEEN BEAUTY (Limoncello Art Gallery)</title>
+            <link>https://www.flickr.com/photos/microagua/51650098618/</link>
+            <description>			&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/microagua/&quot;&gt;PROYECTO AGUA** /** WATER PROJECT&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/microagua/51650098618/&quot; title=&quot;UNSEEN BEAUTY (Limoncello Art Gallery)&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/51650098618_7cac757e9d_m.jpg&quot; width=&quot;240&quot; height=&quot;128&quot; alt=&quot;UNSEEN BEAUTY (Limoncello Art Gallery)&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;It is possible that this is the first time that a sample of these characteristics has been exhibited in SL, as in RL this type of exhibition is extraordinarily scarce, as well as the knowledge of these wonderful and fascinating living beings to whom it is dedicated.&lt;br /&gt;
+&lt;br /&gt;
+Some of them, like cyanobacteria, made life on our planet possible, others like the microscopic algae that are part of plankton in oceans, seas and other bodies of water, are the true lung of our precious Earth.&lt;br /&gt;
+&lt;br /&gt;
+Almost all of them are very little known, and some of the smallest, contain the keys to know how we are and how we have evolved.&lt;br /&gt;
+&lt;br /&gt;
+Under its miniscule size, very complex mechanisms of movement, feeding, reproduction or defense are enclosed, and they all offer us the wonderful spectacle of their shapes, colors and movements, as if it were a magical universe and parallel to ours.&lt;br /&gt;
+&lt;br /&gt;
+All the images have been taken under the microscope, on living organisms that, after being observed, have been returned to the place from which they were collected.&lt;br /&gt;
+&lt;br /&gt;
+Their size is much more than small, they are invisible beings that measure very few tens of thousandths of a millimeter and approaching them is one of the most exciting adventures to discover life and beauty.&lt;br /&gt;
+&lt;br /&gt;
+Thanks to the generosity of many people, no matter what world - we are all universe - today we can see this small sample here, especially my gratitude to Kimika Ying, who encouraged me to enter and participate actively in this world.&lt;br /&gt;
+&lt;br /&gt;
+I also appreciate the generosity and help of Xia Chieng, Leticia (JustOxy) and Amanda AmandaT Tamatzui -she will host the opening-&lt;br /&gt;
+&lt;br /&gt;
+And to conclude, it is necessary to point out that this exhibition would not have been possible without Dave (Lord Junibalya) thanks to his trust, interest and sensitivity, today we can enjoy the beauty of this Art that is hidden in Nature, disguised in his little size, in this impressive Limoncello art gallery.&lt;br /&gt;
+&lt;br /&gt;
+Guille&lt;br /&gt;
+&lt;br /&gt;
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::&lt;br /&gt;
+&lt;br /&gt;
+UNSEEN BEAUTY (Limoncello Art Gallery)&lt;br /&gt;
+&lt;br /&gt;
+Es posible que ésta sea la primera vez que se exponga en SL una muestra de estas características, al igual que en RL este tipo de exposiciones son extraordinariamente escasas, tanto como el conocimiento de estos seres vivos maravillosos y fascinantes a quienes está dedicada. &lt;br /&gt;
+&lt;br /&gt;
+Algunos de ellos, como las cianobacterias hicieron posible la vida en nuestro planeta, otros como las algas microscópicas que forman parte del plancton en océanos, mares y otras masas de agua, son el verdadero pulmón de nuestra preciosa Tierra. &lt;br /&gt;
+&lt;br /&gt;
+Casi todos son muy poco conocidos, y algunos de los más diminutos, encierran las claves para conocer cómo somos y cómo hemos evolucionado. &lt;br /&gt;
+&lt;br /&gt;
+Bajo su minúsculo tamaño se encierran mecanismos muy complejos de movimiento, alimentación, reproducción o defensa, y todos nos ofrecen el maravilloso espectáculo de sus formas, colores y movimientos, como si se tratase de un universo mágico y pararelo al nuestro. &lt;br /&gt;
+&lt;br /&gt;
+Todas las imágenes se han tomado con el microscopio, sobre organismos vivos que después de observados, se han devuelto al lugar de donde fueron recogidos. &lt;br /&gt;
+&lt;br /&gt;
+Su tamaño es mucho más que pequeño, son seres invisibles que miden muy pocas decenas de milésimas de milímetro y el aproximarse a ellos, es una de las más apasionantes aventuras para conocer la vida y la belleza. &lt;br /&gt;
+&lt;br /&gt;
+Gracias a la generosidad de muchas personas, no importa de qué mundo -todos somos universo- hoy podemos ver esta pequeña muestra aquí, especialmente mi gratitud a Kimika Ying, que me animó a entrar y participar de manera activa en este mundo.&lt;br /&gt;
+&lt;br /&gt;
+Tambien  agradezco la generosidad y la ayuda de Xia Chieng, Leticia (JustOxy) y Amanda AmandaT Tamatzui -ella será la anfitriona en la  inauguración-  &lt;br /&gt;
+&lt;br /&gt;
+Y para concluir, es obligado señalar, que esta exposicion no habría sido posible sin Dave (Lord Junibalya)  gracias a su confianza, interés y sensibilidad,  hoy podemos disfrutar de la belleza de este Arte que está escondido en la Naturaleza, disfrazado en su pequeño tamaño, en esta impresionante galeria de Arte de Limoncello.&lt;br /&gt;
+&lt;br /&gt;
+Guille&lt;/p&gt;</description>
+            <pubDate>Tue, 02 Nov 2021 10:37:03 -0700</pubDate>
+            <dc:date.Taken>2021-11-02T18:33:58-08:00</dc:date.Taken>
+            <author flickr:profile="https://www.flickr.com/people/microagua/">nobody@flickr.com (PROYECTO AGUA** /** WATER PROJECT)</author>
+            <guid isPermaLink="false">tag:flickr.com,2004:/photo/51650098618</guid>
+            <georss:point>42.466955 -2.461720</georss:point>
+            <geo:lat>42.466955</geo:lat>
+            <geo:long>-2.461720</geo:long>
+            <woe:woeid>3118150</woe:woeid>
+            <media:content url="https://live.staticflickr.com/65535/51650098618_7cac757e9d_b.jpg" 
+                   type="image/jpeg"
+                   height="546"
+                   width="1024"/>
+            <media:title>UNSEEN BEAUTY (Limoncello Art Gallery)</media:title>
+            <media:description type="html">&lt;p&gt;It is possible that this is the first time that a sample of these characteristics has been exhibited in SL, as in RL this type of exhibition is extraordinarily scarce, as well as the knowledge of these wonderful and fascinating living beings to whom it is dedicated.&lt;br /&gt;
+&lt;br /&gt;
+Some of them, like cyanobacteria, made life on our planet possible, others like the microscopic algae that are part of plankton in oceans, seas and other bodies of water, are the true lung of our precious Earth.&lt;br /&gt;
+&lt;br /&gt;
+Almost all of them are very little known, and some of the smallest, contain the keys to know how we are and how we have evolved.&lt;br /&gt;
+&lt;br /&gt;
+Under its miniscule size, very complex mechanisms of movement, feeding, reproduction or defense are enclosed, and they all offer us the wonderful spectacle of their shapes, colors and movements, as if it were a magical universe and parallel to ours.&lt;br /&gt;
+&lt;br /&gt;
+All the images have been taken under the microscope, on living organisms that, after being observed, have been returned to the place from which they were collected.&lt;br /&gt;
+&lt;br /&gt;
+Their size is much more than small, they are invisible beings that measure very few tens of thousandths of a millimeter and approaching them is one of the most exciting adventures to discover life and beauty.&lt;br /&gt;
+&lt;br /&gt;
+Thanks to the generosity of many people, no matter what world - we are all universe - today we can see this small sample here, especially my gratitude to Kimika Ying, who encouraged me to enter and participate actively in this world.&lt;br /&gt;
+&lt;br /&gt;
+I also appreciate the generosity and help of Xia Chieng, Leticia (JustOxy) and Amanda AmandaT Tamatzui -she will host the opening-&lt;br /&gt;
+&lt;br /&gt;
+And to conclude, it is necessary to point out that this exhibition would not have been possible without Dave (Lord Junibalya) thanks to his trust, interest and sensitivity, today we can enjoy the beauty of this Art that is hidden in Nature, disguised in his little size, in this impressive Limoncello art gallery.&lt;br /&gt;
+&lt;br /&gt;
+Guille&lt;br /&gt;
+&lt;br /&gt;
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::&lt;br /&gt;
+&lt;br /&gt;
+UNSEEN BEAUTY (Limoncello Art Gallery)&lt;br /&gt;
+&lt;br /&gt;
+Es posible que ésta sea la primera vez que se exponga en SL una muestra de estas características, al igual que en RL este tipo de exposiciones son extraordinariamente escasas, tanto como el conocimiento de estos seres vivos maravillosos y fascinantes a quienes está dedicada. &lt;br /&gt;
+&lt;br /&gt;
+Algunos de ellos, como las cianobacterias hicieron posible la vida en nuestro planeta, otros como las algas microscópicas que forman parte del plancton en océanos, mares y otras masas de agua, son el verdadero pulmón de nuestra preciosa Tierra. &lt;br /&gt;
+&lt;br /&gt;
+Casi todos son muy poco conocidos, y algunos de los más diminutos, encierran las claves para conocer cómo somos y cómo hemos evolucionado. &lt;br /&gt;
+&lt;br /&gt;
+Bajo su minúsculo tamaño se encierran mecanismos muy complejos de movimiento, alimentación, reproducción o defensa, y todos nos ofrecen el maravilloso espectáculo de sus formas, colores y movimientos, como si se tratase de un universo mágico y pararelo al nuestro. &lt;br /&gt;
+&lt;br /&gt;
+Todas las imágenes se han tomado con el microscopio, sobre organismos vivos que después de observados, se han devuelto al lugar de donde fueron recogidos. &lt;br /&gt;
+&lt;br /&gt;
+Su tamaño es mucho más que pequeño, son seres invisibles que miden muy pocas decenas de milésimas de milímetro y el aproximarse a ellos, es una de las más apasionantes aventuras para conocer la vida y la belleza. &lt;br /&gt;
+&lt;br /&gt;
+Gracias a la generosidad de muchas personas, no importa de qué mundo -todos somos universo- hoy podemos ver esta pequeña muestra aquí, especialmente mi gratitud a Kimika Ying, que me animó a entrar y participar de manera activa en este mundo.&lt;br /&gt;
+&lt;br /&gt;
+Tambien  agradezco la generosidad y la ayuda de Xia Chieng, Leticia (JustOxy) y Amanda AmandaT Tamatzui -ella será la anfitriona en la  inauguración-  &lt;br /&gt;
+&lt;br /&gt;
+Y para concluir, es obligado señalar, que esta exposicion no habría sido posible sin Dave (Lord Junibalya)  gracias a su confianza, interés y sensibilidad,  hoy podemos disfrutar de la belleza de este Arte que está escondido en la Naturaleza, disfrazado en su pequeño tamaño, en esta impresionante galeria de Arte de Limoncello.&lt;br /&gt;
+&lt;br /&gt;
+Guille&lt;/p&gt;</media:description>
+            <media:thumbnail url="https://live.staticflickr.com/65535/51650098618_7cac757e9d_s.jpg" height="75" width="75" />
+            <media:credit role="photographer">PROYECTO AGUA** /** WATER PROJECT</media:credit>
+            <creativeCommons:license>https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en</creativeCommons:license>
+        </item>
+        <item>
+            <title>Delta Flower Scarab (Trigonopeltastes delta)</title>
+            <link>https://www.flickr.com/photos/38514062@N03/51649828614/</link>
+            <description>			&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/38514062@N03/&quot;&gt;Mary Keim&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/38514062@N03/51649828614/&quot; title=&quot;Delta Flower Scarab (Trigonopeltastes delta)&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/51649828614_891cfea48a_m.jpg&quot; width=&quot;240&quot; height=&quot;192&quot; alt=&quot;Delta Flower Scarab (Trigonopeltastes delta)&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Split Oak Forest WEA, Orange County, FL, October 2021.  Bioblitz.&lt;/p&gt;</description>
+            <pubDate>Tue, 02 Nov 2021 05:20:15 -0700</pubDate>
+            <dc:date.Taken>2021-10-30T12:07:30-08:00</dc:date.Taken>
+            <author flickr:profile="https://www.flickr.com/people/38514062@N03/">nobody@flickr.com (Mary Keim)</author>
+            <guid isPermaLink="false">tag:flickr.com,2004:/photo/51649828614</guid>
+            <georss:point>28.355207 -81.202354</georss:point>
+            <geo:lat>28.355207</geo:lat>
+            <geo:long>-81.202354</geo:long>
+            <woe:woeid>7192999</woe:woeid>
+            <media:content url="https://live.staticflickr.com/65535/51649828614_891cfea48a_b.jpg" 
+                   type="image/jpeg"
+                   height="819"
+                   width="1024"/>
+            <media:title>Delta Flower Scarab (Trigonopeltastes delta)</media:title>
+            <media:description type="html">&lt;p&gt;Split Oak Forest WEA, Orange County, FL, October 2021.  Bioblitz.&lt;/p&gt;</media:description>
+            <media:thumbnail url="https://live.staticflickr.com/65535/51649828614_891cfea48a_s.jpg" height="75" width="75" />
+            <media:credit role="photographer">Mary Keim</media:credit>
+            <media:category scheme="urn:flickr:tags">centralflorida marykeim splitoakforestwea taxonomy:binomial=trigonopeltastesdelta</media:category>
+            <creativeCommons:license>https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en</creativeCommons:license>
+        </item>
+        <item>
+            <title>Bluecurls (Trichostema sp.)</title>
+            <link>https://www.flickr.com/photos/38514062@N03/51648337907/</link>
+            <description>			&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/38514062@N03/&quot;&gt;Mary Keim&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/38514062@N03/51648337907/&quot; title=&quot;Bluecurls (Trichostema sp.)&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/51648337907_ee025feb28_m.jpg&quot; width=&quot;192&quot; height=&quot;240&quot; alt=&quot;Bluecurls (Trichostema sp.)&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Split Oak Forest WEA, Orange County, FL, October 2021.  Bioblitz.&lt;/p&gt;</description>
+            <pubDate>Tue, 02 Nov 2021 05:20:19 -0700</pubDate>
+            <dc:date.Taken>2021-10-30T12:34:43-08:00</dc:date.Taken>
+            <author flickr:profile="https://www.flickr.com/people/38514062@N03/">nobody@flickr.com (Mary Keim)</author>
+            <guid isPermaLink="false">tag:flickr.com,2004:/photo/51648337907</guid>
+            <georss:point>28.356208 -81.199800</georss:point>
+            <geo:lat>28.356208</geo:lat>
+            <geo:long>-81.199800</geo:long>
+            <woe:woeid>7192999</woe:woeid>
+            <media:content url="https://live.staticflickr.com/65535/51648337907_ee025feb28_b.jpg" 
+                   type="image/jpeg"
+                   height="1024"
+                   width="819"/>
+            <media:title>Bluecurls (Trichostema sp.)</media:title>
+            <media:description type="html">&lt;p&gt;Split Oak Forest WEA, Orange County, FL, October 2021.  Bioblitz.&lt;/p&gt;</media:description>
+            <media:thumbnail url="https://live.staticflickr.com/65535/51648337907_ee025feb28_s.jpg" height="75" width="75" />
+            <media:credit role="photographer">Mary Keim</media:credit>
+            <media:category scheme="urn:flickr:tags">centralflorida marykeim splitoakforestwea taxonomy:genus=trichostema</media:category>
+            <creativeCommons:license>https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en</creativeCommons:license>
+        </item>
+        <item>
+            <title>Gulf Fritillary (Dione vanillae)</title>
+            <link>https://www.flickr.com/photos/38514062@N03/51650019865/</link>
+            <description>			&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/38514062@N03/&quot;&gt;Mary Keim&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/38514062@N03/51650019865/&quot; title=&quot;Gulf Fritillary (Dione vanillae)&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/51650019865_b3c73ebed7_m.jpg&quot; width=&quot;240&quot; height=&quot;192&quot; alt=&quot;Gulf Fritillary (Dione vanillae)&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Split Oak Forest WEA, Orange County, FL, October 2021.  Bioblitz.&lt;/p&gt;</description>
+            <pubDate>Tue, 02 Nov 2021 05:20:14 -0700</pubDate>
+            <dc:date.Taken>2021-10-30T12:01:56-08:00</dc:date.Taken>
+            <author flickr:profile="https://www.flickr.com/people/38514062@N03/">nobody@flickr.com (Mary Keim)</author>
+            <guid isPermaLink="false">tag:flickr.com,2004:/photo/51650019865</guid>
+            <georss:point>28.354244 -81.202998</georss:point>
+            <geo:lat>28.354244</geo:lat>
+            <geo:long>-81.202998</geo:long>
+            <woe:woeid>7192999</woe:woeid>
+            <media:content url="https://live.staticflickr.com/65535/51650019865_b3c73ebed7_b.jpg" 
+                   type="image/jpeg"
+                   height="819"
+                   width="1024"/>
+            <media:title>Gulf Fritillary (Dione vanillae)</media:title>
+            <media:description type="html">&lt;p&gt;Split Oak Forest WEA, Orange County, FL, October 2021.  Bioblitz.&lt;/p&gt;</media:description>
+            <media:thumbnail url="https://live.staticflickr.com/65535/51650019865_b3c73ebed7_s.jpg" height="75" width="75" />
+            <media:credit role="photographer">Mary Keim</media:credit>
+            <media:category scheme="urn:flickr:tags">centralflorida marykeim splitoakforestwea taxonomy:binomial=dionevanillae</media:category>
+            <creativeCommons:license>https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en</creativeCommons:license>
+        </item>
+        <item>
+            <title>Leafcutter Bee (Megachile sp.)</title>
+            <link>https://www.flickr.com/photos/38514062@N03/51649389873/</link>
+            <description>			&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/38514062@N03/&quot;&gt;Mary Keim&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/38514062@N03/51649389873/&quot; title=&quot;Leafcutter Bee (Megachile sp.)&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/51649389873_c338745e22_m.jpg&quot; width=&quot;240&quot; height=&quot;192&quot; alt=&quot;Leafcutter Bee (Megachile sp.)&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Split Oak Forest WEA, Orange County, FL, October 2021.  Bioblitz.&lt;/p&gt;</description>
+            <pubDate>Tue, 02 Nov 2021 05:20:11 -0700</pubDate>
+            <dc:date.Taken>2021-10-30T13:09:28-08:00</dc:date.Taken>
+            <author flickr:profile="https://www.flickr.com/people/38514062@N03/">nobody@flickr.com (Mary Keim)</author>
+            <guid isPermaLink="false">tag:flickr.com,2004:/photo/51649389873</guid>
+            <georss:point>28.355471 -81.197333</georss:point>
+            <geo:lat>28.355471</geo:lat>
+            <geo:long>-81.197333</geo:long>
+            <woe:woeid>7192999</woe:woeid>
+            <media:content url="https://live.staticflickr.com/65535/51649389873_c338745e22_b.jpg" 
+                   type="image/jpeg"
+                   height="819"
+                   width="1024"/>
+            <media:title>Leafcutter Bee (Megachile sp.)</media:title>
+            <media:description type="html">&lt;p&gt;Split Oak Forest WEA, Orange County, FL, October 2021.  Bioblitz.&lt;/p&gt;</media:description>
+            <media:thumbnail url="https://live.staticflickr.com/65535/51649389873_c338745e22_s.jpg" height="75" width="75" />
+            <media:credit role="photographer">Mary Keim</media:credit>
+            <media:category scheme="urn:flickr:tags">centralflorida marykeim splitoakforestwea taxonomy:genus=megachile</media:category>
+            <creativeCommons:license>https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en</creativeCommons:license>
+        </item>
+        <item>
+            <title>Leafcutter Bee (Megachile sp.)</title>
+            <link>https://www.flickr.com/photos/38514062@N03/51649824834/</link>
+            <description>			&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/38514062@N03/&quot;&gt;Mary Keim&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/38514062@N03/51649824834/&quot; title=&quot;Leafcutter Bee (Megachile sp.)&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/51649824834_7d54f9966b_m.jpg&quot; width=&quot;240&quot; height=&quot;192&quot; alt=&quot;Leafcutter Bee (Megachile sp.)&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Split Oak Forest WEA, Orange County, FL, October 2021.  Bioblitz.&lt;/p&gt;</description>
+            <pubDate>Tue, 02 Nov 2021 05:20:10 -0700</pubDate>
+            <dc:date.Taken>2021-10-30T12:04:33-08:00</dc:date.Taken>
+            <author flickr:profile="https://www.flickr.com/people/38514062@N03/">nobody@flickr.com (Mary Keim)</author>
+            <guid isPermaLink="false">tag:flickr.com,2004:/photo/51649824834</guid>
+            <georss:point>28.355207 -81.202354</georss:point>
+            <geo:lat>28.355207</geo:lat>
+            <geo:long>-81.202354</geo:long>
+            <woe:woeid>7192999</woe:woeid>
+            <media:content url="https://live.staticflickr.com/65535/51649824834_7d54f9966b_b.jpg" 
+                   type="image/jpeg"
+                   height="819"
+                   width="1024"/>
+            <media:title>Leafcutter Bee (Megachile sp.)</media:title>
+            <media:description type="html">&lt;p&gt;Split Oak Forest WEA, Orange County, FL, October 2021.  Bioblitz.&lt;/p&gt;</media:description>
+            <media:thumbnail url="https://live.staticflickr.com/65535/51649824834_7d54f9966b_s.jpg" height="75" width="75" />
+            <media:credit role="photographer">Mary Keim</media:credit>
+            <media:category scheme="urn:flickr:tags">centralflorida marykeim splitoakforestwea taxonomy:genus=megachile</media:category>
+            <creativeCommons:license>https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en</creativeCommons:license>
+        </item>
+        <item>
+            <title>Honey Bee (Apis mellifera)</title>
+            <link>https://www.flickr.com/photos/38514062@N03/51648332827/</link>
+            <description>			&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/38514062@N03/&quot;&gt;Mary Keim&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/38514062@N03/51648332827/&quot; title=&quot;Honey Bee (Apis mellifera)&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/51648332827_d3fbddb9ab_m.jpg&quot; width=&quot;240&quot; height=&quot;171&quot; alt=&quot;Honey Bee (Apis mellifera)&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Split Oak Forest WEA, Orange County, FL, October 2021.  Bioblitz.&lt;/p&gt;</description>
+            <pubDate>Tue, 02 Nov 2021 05:20:10 -0700</pubDate>
+            <dc:date.Taken>2021-10-30T12:04:17-08:00</dc:date.Taken>
+            <author flickr:profile="https://www.flickr.com/people/38514062@N03/">nobody@flickr.com (Mary Keim)</author>
+            <guid isPermaLink="false">tag:flickr.com,2004:/photo/51648332827</guid>
+            <georss:point>28.355207 -81.202354</georss:point>
+            <geo:lat>28.355207</geo:lat>
+            <geo:long>-81.202354</geo:long>
+            <woe:woeid>7192999</woe:woeid>
+            <media:content url="https://live.staticflickr.com/65535/51648332827_d3fbddb9ab_b.jpg" 
+                   type="image/jpeg"
+                   height="731"
+                   width="1024"/>
+            <media:title>Honey Bee (Apis mellifera)</media:title>
+            <media:description type="html">&lt;p&gt;Split Oak Forest WEA, Orange County, FL, October 2021.  Bioblitz.&lt;/p&gt;</media:description>
+            <media:thumbnail url="https://live.staticflickr.com/65535/51648332827_d3fbddb9ab_s.jpg" height="75" width="75" />
+            <media:credit role="photographer">Mary Keim</media:credit>
+            <media:category scheme="urn:flickr:tags">centralflorida marykeim splitoakforestwea taxonomy:binomial=apismellifera</media:category>
+            <creativeCommons:license>https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en</creativeCommons:license>
+        </item>
+        <item>
+            <title>Bumble Bee (Bombus sp.)</title>
+            <link>https://www.flickr.com/photos/38514062@N03/51649170481/</link>
+            <description>			&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/38514062@N03/&quot;&gt;Mary Keim&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/38514062@N03/51649170481/&quot; title=&quot;Bumble Bee (Bombus sp.)&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/51649170481_e9cd117b24_m.jpg&quot; width=&quot;240&quot; height=&quot;171&quot; alt=&quot;Bumble Bee (Bombus sp.)&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Split Oak Forest WEA, Orange County, FL, October 2021.  Bioblitz.&lt;/p&gt;</description>
+            <pubDate>Tue, 02 Nov 2021 05:20:09 -0700</pubDate>
+            <dc:date.Taken>2021-10-30T13:03:39-08:00</dc:date.Taken>
+            <author flickr:profile="https://www.flickr.com/people/38514062@N03/">nobody@flickr.com (Mary Keim)</author>
+            <guid isPermaLink="false">tag:flickr.com,2004:/photo/51649170481</guid>
+            <georss:point>28.355868 -81.197440</georss:point>
+            <geo:lat>28.355868</geo:lat>
+            <geo:long>-81.197440</geo:long>
+            <woe:woeid>7192999</woe:woeid>
+            <media:content url="https://live.staticflickr.com/65535/51649170481_e9cd117b24_b.jpg" 
+                   type="image/jpeg"
+                   height="732"
+                   width="1024"/>
+            <media:title>Bumble Bee (Bombus sp.)</media:title>
+            <media:description type="html">&lt;p&gt;Split Oak Forest WEA, Orange County, FL, October 2021.  Bioblitz.&lt;/p&gt;</media:description>
+            <media:thumbnail url="https://live.staticflickr.com/65535/51649170481_e9cd117b24_s.jpg" height="75" width="75" />
+            <media:credit role="photographer">Mary Keim</media:credit>
+            <media:category scheme="urn:flickr:tags">centralflorida marykeim splitoakforestwea taxonomy:family=apidae</media:category>
+            <creativeCommons:license>https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en</creativeCommons:license>
+        </item>
+        <item>
+            <title>Sugarcane Plumegrass (Saccharum giganteum)</title>
+            <link>https://www.flickr.com/photos/38514062@N03/51648329507/</link>
+            <description>			&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/38514062@N03/&quot;&gt;Mary Keim&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/38514062@N03/51648329507/&quot; title=&quot;Sugarcane Plumegrass (Saccharum giganteum)&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/51648329507_cd40ae25d0_m.jpg&quot; width=&quot;171&quot; height=&quot;240&quot; alt=&quot;Sugarcane Plumegrass (Saccharum giganteum)&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Split Oak Forest WEA, Orange County, FL, October 2021.  Bioblitz.&lt;/p&gt;</description>
+            <pubDate>Tue, 02 Nov 2021 05:20:21 -0700</pubDate>
+            <dc:date.Taken>2021-10-30T13:47:35-08:00</dc:date.Taken>
+            <author flickr:profile="https://www.flickr.com/people/38514062@N03/">nobody@flickr.com (Mary Keim)</author>
+            <guid isPermaLink="false">tag:flickr.com,2004:/photo/51648329507</guid>
+            <georss:point>28.352337 -81.202225</georss:point>
+            <geo:lat>28.352337</geo:lat>
+            <geo:long>-81.202225</geo:long>
+            <woe:woeid>7192999</woe:woeid>
+            <media:content url="https://live.staticflickr.com/65535/51648329507_cd40ae25d0_b.jpg" 
+                   type="image/jpeg"
+                   height="1024"
+                   width="731"/>
+            <media:title>Sugarcane Plumegrass (Saccharum giganteum)</media:title>
+            <media:description type="html">&lt;p&gt;Split Oak Forest WEA, Orange County, FL, October 2021.  Bioblitz.&lt;/p&gt;</media:description>
+            <media:thumbnail url="https://live.staticflickr.com/65535/51648329507_cd40ae25d0_s.jpg" height="75" width="75" />
+            <media:credit role="photographer">Mary Keim</media:credit>
+            <media:category scheme="urn:flickr:tags">centralflorida marykeim splitoakforestwea taxonomy:binomial=saccharumgiganteum</media:category>
+            <creativeCommons:license>https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en</creativeCommons:license>
+        </item>
+    </channel>
+</rss>

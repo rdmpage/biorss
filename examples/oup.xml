@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<rss version="2.0" 
+    xmlns:prism="http://purl.org/rss/1.0/modules/prism/">
+    <channel>
+        <title>Botanical Journal of the Linnean Society Current Issue</title>
+        <link>http://academic.oup.com/botlinnean</link>
+        <description></description>
+        <language>en-us</language>
+        <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
+        <lastBuildDate>Sat, 23 Oct 2021 12:46:56 GMT</lastBuildDate>
+        <generator>Silverchair</generator>
+        <item 
+            xmlns:rdf="https://academic.oup.com/botlinnean/article/197/3/420/6295389">
+            <title>A complex genetic structure of Tetraclinis articulata (Cupressaceae) in the western Mediterranean</title>
+            <link>https://academic.oup.com/botlinnean/article/197/3/420/6295389?rss=1</link>
+            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
+            <author>García-Castaño J, Balao F, Lorenzo M, et al. </author>
+            <description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Some tree species have distributions on both sides of the Strait of Gibraltar and the Strait of Sicily. It is a challenge to determine whether such distributions result from the Tertiary or Pleistocene or from more recent dispersal related to human activities. &lt;span style="font-style:italic;"&gt;Tetraclinis articulata&lt;/span&gt; (Cupressaceae) is a gymnosperm that offers an ideal model to deal with this problem because it has a limited area of distribution and has been used only moderately by humans. Three hundred and twenty-three individuals from 30 populations covering the entire distribution of the species were analysed. A multiple approach was developed: (1) by assessing the genetic structure through two molecular techniques, AFLP and nSSR markers, which were used to evaluate the genetic diversity of these populations and the relationships among them and (2) by estimating past distributions. Four lineages of populations that are geographically intermixed to a certain extent are documented here. Results obtained are discussed in the context of palaeontological records and climatic models. There is evidence of an ancient widespread distribution, including Europe, and the subsequent appearance of four isolated lineages that, nowadays, are partially intermixed. Nevertheless, the origin of the current populations could not be fully ascertained through this work, although logical deductions are discussed that consider human activities or, much less probably, wind dispersal of seeds out of refugia in northern Africa-southern Europe during the Quaternary, including shore connections.&lt;/span&gt;</description>
+            <prism:volume 
+                xmlns:prism="prism">197
+            </prism:volume>
+            <prism:number 
+                xmlns:prism="prism">3
+            </prism:number>
+            <prism:startingPage 
+                xmlns:prism="prism">420
+            </prism:startingPage>
+            <prism:endingPage 
+                xmlns:prism="prism">438
+            </prism:endingPage>
+            <prism:doi 
+                xmlns:prism="prism">10.1093/botlinnean/boab030
+            </prism:doi>
+            <guid>http://doi.org/10.1093/botlinnean/boab030</guid>
+        </item>
+        <item 
+            xmlns:rdf="https://academic.oup.com/botlinnean/article/197/3/350/6287730">
+            <title>A new infrageneric classification of the pantropical genus Chamaecrista (Fabaceae: Caesalpinioideae) based on a comprehensive molecular phylogenetic analysis and morphology</title>
+            <link>https://academic.oup.com/botlinnean/article/197/3/350/6287730?rss=1</link>
+            <pubDate>Fri, 28 May 2021 00:00:00 GMT</pubDate>
+            <author>de Souza A, Lewis G, da Silva M. </author>
+            <description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;&lt;span style="font-style:italic;"&gt;Chamaecrista&lt;/span&gt; with &amp;gt; 330 species, six sections, three subsections and 39 series has had a long and complex taxonomic history. The genus is monophyletic, but most of its traditional infrageneric categories are not. To test the monophyly of sections, subsections and series of &lt;span style="font-style:italic;"&gt;Chamaecrista&lt;/span&gt;, we used two molecular phylogenetic approaches. The first (&lt;span style="font-style:italic;"&gt;Broad&lt;/span&gt;) based on two DNA regions (ITS and &lt;span style="font-style:italic;"&gt;trnL-F&lt;/span&gt;) includes a comprehensive sampling of &lt;span style="font-style:italic;"&gt;Chamaecrista&lt;/span&gt; spp. and infrageneric taxa. The second (&lt;span style="font-style:italic;"&gt;Multilocus&lt;/span&gt;) is based on four molecular regions (ITS, ETS, &lt;span style="font-style:italic;"&gt;trnL-F&lt;/span&gt; and &lt;span style="font-style:italic;"&gt;trnE-T&lt;/span&gt;) for a smaller but representative sampling. We performed ancestral character reconstructions to identify morphological characters that could serve as synapomorphies for major clades. Both molecular approaches support &lt;span style="font-style:italic;"&gt;Chamaecrista&lt;/span&gt; and sections &lt;span style="font-style:italic;"&gt;Apoucouita&lt;/span&gt;, &lt;span style="font-style:italic;"&gt;Grimaldia&lt;/span&gt; and &lt;span style="font-style:italic;"&gt;Xerocalyx&lt;/span&gt; as monophyletic, but sections &lt;span style="font-style:italic;"&gt;Chamaecrista&lt;/span&gt;, &lt;span style="font-style:italic;"&gt;Caliciopsis&lt;/span&gt; and &lt;span style="font-style:italic;"&gt;Absus&lt;/span&gt; and most of the series are not monophyletic. The four main clades recovered are all characterized by a combination of morphological characters: a clade of tree species with cauliflorous inflorescences (including species of section &lt;span style="font-style:italic;"&gt;Apoucouita&lt;/span&gt;); a mostly Brazilian campo rupestre clade (including all species of subsections &lt;span style="font-style:italic;"&gt;Adenophyllum&lt;/span&gt;, &lt;span style="font-style:italic;"&gt;Baseophyllum&lt;/span&gt; and &lt;span style="font-style:italic;"&gt;Otophyllum&lt;/span&gt;); a clade of mostly herbaceous/shrubby species with solitary flowers or fascicles (including sections &lt;span style="font-style:italic;"&gt;Chamaecrista&lt;/span&gt;, &lt;span style="font-style:italic;"&gt;Caliciopsis&lt;/span&gt; and &lt;span style="font-style:italic;"&gt;Xerocalyx&lt;/span&gt; and extra-American species) and a clade (with three main subclades) of species with viscous indumentum (including section &lt;span style="font-style:italic;"&gt;Grimaldia&lt;/span&gt; and section &lt;span style="font-style:italic;"&gt;Absus&lt;/span&gt; subsection &lt;span style="font-style:italic;"&gt;Absus&lt;/span&gt;). We propose a new infrageneric classification for &lt;span style="font-style:italic;"&gt;Chamaecrista&lt;/span&gt; supported by molecular phylogenetic analyses and morphology, recognizing the four main clades as sections &lt;span style="font-style:italic;"&gt;Apoucouita&lt;/span&gt;, &lt;span style="font-style:italic;"&gt;Baseophyllum&lt;/span&gt;, &lt;span style="font-style:italic;"&gt;Chamaecrista&lt;/span&gt; and &lt;span style="font-style:italic;"&gt;Absus&lt;/span&gt;, the last with three subsections (&lt;span style="font-style:italic;"&gt;Absus&lt;/span&gt;, &lt;span style="font-style:italic;"&gt;Viscosa&lt;/span&gt; and &lt;span style="font-style:italic;"&gt;Zygophyllum&lt;/span&gt;), but we do not recognize any previously circumscribed series. Our taxonomic treatment includes descriptions of and a key to the newly defined infrageneric taxa and an updated species list for the genus under the new classification.&lt;/span&gt;</description>
+            <prism:volume 
+                xmlns:prism="prism">197
+            </prism:volume>
+            <prism:number 
+                xmlns:prism="prism">3
+            </prism:number>
+            <prism:startingPage 
+                xmlns:prism="prism">350
+            </prism:startingPage>
+            <prism:endingPage 
+                xmlns:prism="prism">395
+            </prism:endingPage>
+            <prism:doi 
+                xmlns:prism="prism">10.1093/botlinnean/boab029
+            </prism:doi>
+            <guid>http://doi.org/10.1093/botlinnean/boab029</guid>
+        </item>
+        <item 
+            xmlns:rdf="https://academic.oup.com/botlinnean/article/197/3/396/6283629">
+            <title>Inferences on gynoecium evolution in Xyris (Xyridaceae, Poales) based on floral anatomy and development</title>
+            <link>https://academic.oup.com/botlinnean/article/197/3/396/6283629?rss=1</link>
+            <pubDate>Mon, 24 May 2021 00:00:00 GMT</pubDate>
+            <author>Nardi K, Campbell L, Oriani A. </author>
+            <description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The floral anatomy and development of species belonging to all sections of &lt;span style="font-style:italic;"&gt;Xyris&lt;/span&gt; (&lt;span style="font-style:italic;"&gt;Xyris&lt;/span&gt;, &lt;span style="font-style:italic;"&gt;Nematopus&lt;/span&gt; and &lt;span style="font-style:italic;"&gt;Pomatoxyris&lt;/span&gt;) were investigated comparatively to elucidate gynoecium evolution in the genus, because placentation has been one of the key characters in recognizing its taxonomic sections. In species of section &lt;span style="font-style:italic;"&gt;Pomatoxyris&lt;/span&gt; (axile placentation), the tricarpellate syncarpous ovary consists of a fertile synascidiate zone, whereas the symplicate zone is fertile only in its lower portion. In species of section &lt;span style="font-style:italic;"&gt;Xyris&lt;/span&gt; (parietal placentation), the ovary has a short almost sterile synascidiate zone, whereas the more extensive symplicate zone is fertile. In species of section &lt;span style="font-style:italic;"&gt;Nematopus&lt;/span&gt; (free-central or basal placentation), there is an extremely short and sterile trilocular, completely septate zone at the ovary base. Such differences are related to different patterns of gynoecium development. The ancestral character state reconstruction of placentation types shows that axile placentation is the most likely ancestral condition in &lt;span style="font-style:italic;"&gt;Xyris&lt;/span&gt;, from which parietal and free-central placentation were derived by shortening of the septa during the evolution of the genus. Basal placentation evolved from free-central placentation and appeared independently several times in section &lt;span style="font-style:italic;"&gt;Nematopus&lt;/span&gt;. Because the phylogenetic position of &lt;span style="font-style:italic;"&gt;X. ptariana&lt;/span&gt; and &lt;span style="font-style:italic;"&gt;X. teinosperma&lt;/span&gt; (section &lt;span style="font-style:italic;"&gt;Nematopus&lt;/span&gt;) is unknown, either the axile placentation in these species is a reversal or highlights the need for a revised infrageneric classification.&lt;/span&gt;</description>
+            <prism:volume 
+                xmlns:prism="prism">197
+            </prism:volume>
+            <prism:number 
+                xmlns:prism="prism">3
+            </prism:number>
+            <prism:startingPage 
+                xmlns:prism="prism">396
+            </prism:startingPage>
+            <prism:endingPage 
+                xmlns:prism="prism">419
+            </prism:endingPage>
+            <prism:doi 
+                xmlns:prism="prism">10.1093/botlinnean/boab031
+            </prism:doi>
+            <guid>http://doi.org/10.1093/botlinnean/boab031</guid>
+        </item>
+        <item 
+            xmlns:rdf="https://academic.oup.com/botlinnean/article/197/3/322/6274654">
+            <title>An Indomalesian origin in the Miocene for the diphyletic New World jewel orchids (Goodyerinae, Orchidoideae): molecular dating and biogeographic analyses document non-monophyly of the Neotropical genera</title>
+            <link>https://academic.oup.com/botlinnean/article/197/3/322/6274654?rss=1</link>
+            <pubDate>Wed, 12 May 2021 00:00:00 GMT</pubDate>
+            <author>Smidt E, Salazar G, Mauad A, et al. </author>
+            <description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The jewel orchids (Goodyerinae), named after their often colourful leaves, have a pantropical distribution with a clear Asian centre of diversity. However, the Nearctic and Neotropical America together form a second centre of diversity, with one-third of known species of Goodyerinae. Previously, only a few American samples have been included in phylogenetic studies, and their putatively Asian origins and American divergence times were poorly known. To elucidate these topics, we inferred phylogenetic trees, performed molecular dating and reconstructed biogeographic history using nuclear ribosomal ITS and plastid &lt;span style="font-style:italic;"&gt;matK&lt;/span&gt; sequences for 34 species of Goodyerinae from the New World and 76 previously published accessions of Cranichideae. Our well-supported phylogenetic topology suggests two independent dispersal events to the New World from the Indomalesian region during the Miocene. The first inferred dispersal of a Neotropical clade diverged &lt;span style="font-style:italic;"&gt;c.&lt;/span&gt; 11 Mya from their most recent common ancestor (MRCA), comprising three highly supported subclades that do not match the limits of &lt;span style="font-style:italic;"&gt;Aspidogyne&lt;/span&gt;, &lt;span style="font-style:italic;"&gt;Kreodanthus&lt;/span&gt; and &lt;span style="font-style:italic;"&gt;Microchilus&lt;/span&gt; as previously circumscribed. The second dispersal involved a largely Nearctic clade of &lt;span style="font-style:italic;"&gt;Goodyera s.l&lt;/span&gt;. diverging &lt;span style="font-style:italic;"&gt;c&lt;/span&gt;. 8.4 Mya from the MRCA and exhibiting a complex biogeographic history with subsequent dispersals between the Nearctic and Indomalesia. The occurrence of these species in gallery forests putatively prevented vicariance events imposed by the expansion of the Chacoan region as previously detected for epiphytic Orchidaceae. Eighty-nine nomenclatural combinations and three new names in &lt;span style="font-style:italic;"&gt;Microchilus&lt;/span&gt; are proposed.&lt;/span&gt;</description>
+            <prism:volume 
+                xmlns:prism="prism">197
+            </prism:volume>
+            <prism:number 
+                xmlns:prism="prism">3
+            </prism:number>
+            <prism:startingPage 
+                xmlns:prism="prism">322
+            </prism:startingPage>
+            <prism:endingPage 
+                xmlns:prism="prism">349
+            </prism:endingPage>
+            <prism:doi 
+                xmlns:prism="prism">10.1093/botlinnean/boab028
+            </prism:doi>
+            <guid>http://doi.org/10.1093/botlinnean/boab028</guid>
+        </item>
+        <item 
+            xmlns:rdf="https://academic.oup.com/botlinnean/article/197/3/291/6257458">
+            <title>Continental palynomorphs from the Dabaa Formation, North-Western Desert, Egypt: a contribution to the reconstruction of the vegetation on the southern shores of the Tethys Ocean during the Early Oligocene</title>
+            <link>https://academic.oup.com/botlinnean/article/197/3/291/6257458?rss=1</link>
+            <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
+            <author>El Atfy H, El Beialy S, El Khoriby E, et al. </author>
+            <description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The Eocene–Oligocene transition period was marked by one of the most abrupt and severe global environmental changes in the Cenozoic record, and this had a marked influence on the evolution of a number of animal and plant groups and entire ecosystems. This study documents continental palynomorphs recovered from the sedimentary rocks of the Dabaa Formation (Qattara area, North-Western Desert, Egypt) located on the southern shore of the Tethys Ocean and dated as Late Eocene–Early Oligocene. The botanical affinities, (phyto)ecology and distribution of the vegetation during the Eocene–Oligocene of the study area are discussed. The recorded assemblages are well preserved and comprise diverse lineages of algae, spores and pollen. They were identified, illustrated and assigned to 46 families encompassing chlorococcalean algae, lycopods, ferns, gymnosperms and angiosperms. The studied assemblages demonstrate the development of tropical vegetation, including tropical deciduous forest, grassland and (semi-)arid tropical shrubland, in which angiosperms were one of the main representatives; additionally open, drier habitats might have existed in the hinterland. Our data have been combined with previous megafossil and palynological evidence to assess and refine vegetation changes during the Early Oligocene time window in Egypt and across North Africa. Vegetation was a mosaic of different vegetation belts that ran more-or-less parallel to the coastline of the Tethys Ocean under the variable geographical influence of lagoons and streams. It is assumed that the belt of tropical forest along the coast of the Tethys Ocean narrowed during the Oligocene in parallel to climatic deterioration following the Eocene–Oligocene boundary, which may have also led to the fractionation of forest habitats.&lt;/span&gt;</description>
+            <prism:volume 
+                xmlns:prism="prism">197
+            </prism:volume>
+            <prism:number 
+                xmlns:prism="prism">3
+            </prism:number>
+            <prism:startingPage 
+                xmlns:prism="prism">291
+            </prism:startingPage>
+            <prism:endingPage 
+                xmlns:prism="prism">321
+            </prism:endingPage>
+            <prism:doi 
+                xmlns:prism="prism">10.1093/botlinnean/boab024
+            </prism:doi>
+            <guid>http://doi.org/10.1093/botlinnean/boab024</guid>
+        </item>
+    </channel>
+</rss>

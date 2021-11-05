@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/"
+xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+xmlns:cc="http://web.resource.org/cc/">
+    <channel rdf:about="https://mapress.com/zt">
+        <title>Zootaxa</title>
+        <link>https://mapress.com/zt</link>
+        <description>&lt;p&gt;&lt;strong&gt;Zootaxa&lt;/strong&gt; is a mega-journal for zoological
+            taxonomists in the world&lt;/p&gt;</description>
+        <dc:publisher>Mangolia Press</dc:publisher>
+        <dc:language>en-US</dc:language>
+        <prism:publicationName>Zootaxa</prism:publicationName>
+        <prism:issn>1175-5326</prism:issn>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://mapress.com/zt/article/view/zootaxa.5061.2.1"
+                />
+                <rdf:li rdf:resource="https://mapress.com/zt/article/view/zootaxa.5061.2.2"
+                />
+                <rdf:li rdf:resource="https://mapress.com/zt/article/view/zootaxa.5061.2.3"
+                />
+                <rdf:li rdf:resource="https://mapress.com/zt/article/view/zootaxa.5061.2.4"
+                />
+                <rdf:li rdf:resource="https://mapress.com/zt/article/view/zootaxa.5061.2.5"
+                />
+                <rdf:li rdf:resource="https://mapress.com/zt/article/view/zootaxa.5061.2.6"
+                />
+                <rdf:li rdf:resource="https://mapress.com/zt/article/view/zootaxa.5061.2.7"
+                />
+                <rdf:li rdf:resource="https://mapress.com/zt/article/view/zootaxa.5061.2.8"
+                />
+                <rdf:li rdf:resource="https://mapress.com/zt/article/view/zootaxa.5061.2.9"
+                />
+                <rdf:li rdf:resource="https://mapress.com/zt/article/view/zootaxa.5061.2.10"
+                />
+                <rdf:li rdf:resource="https://mapress.com/zt/article/view/zootaxa.5061.2.11"
+                />
+                <rdf:li rdf:resource="https://mapress.com/zt/article/view/zootaxa.5061.2.12"
+                />
+                <rdf:li rdf:resource="https://mapress.com/zt/article/view/zootaxa.5061.2.13"
+                /></rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://mapress.com/zt/article/view/zootaxa.5061.2.1">
+        <title>&lt;p&gt;&lt;strong&gt;The ant genus &lt;em&gt;Strumigenys&lt;/em&gt;
+            Smith, 1860 (Hymenoptera: Formicidae) in western North America North of
+            Mexico&lt;/strong&gt;&lt;/p&gt;</title>
+        <link>https://mapress.com/zt/article/view/zootaxa.5061.2.1</link>
+        <description>&lt;p&gt;&lt;em&gt;Strumigenys &lt;/em&gt;is a globally distributed genus
+            of mostly cryptic leaf-litter ants. In North America they are common throughout
+            eastern deciduous forests but become increasingly rare to the west. Here
+            I review the &lt;em&gt;Strumigenys&lt;/em&gt; fauna of western North America
+            north of the Mexico border including all states west of the eastern border
+            of Texas. Six new native species with ranges entirely within this region
+            are described: &lt;em&gt;S. collinsae &lt;/em&gt;&lt;strong&gt;sp. nov.&lt;/strong&gt;,
+            &lt;em&gt;S. macgowni&lt;/em&gt; &lt;strong&gt;sp. nov.&lt;/strong&gt;&lt;em&gt;,&lt;/em&gt;
+            &lt;em&gt;S. mendezi&lt;/em&gt; &lt;strong&gt;sp. nov.&lt;/strong&gt;,
+            &lt;em&gt;S. moreauviae&lt;/em&gt; &lt;strong&gt;sp. nov.&lt;/strong&gt;&lt;em&gt;,
+            S. lucky&lt;/em&gt; &lt;strong&gt;sp. nov.&lt;/strong&gt;&lt;em&gt;, &lt;/em&gt;and
+            &lt;em&gt;S. subtilis &lt;/em&gt;&lt;strong&gt;sp. nov.&lt;/strong&gt;&lt;em&gt;
+            Strumigenys&lt;/em&gt; &lt;em&gt;ananeotes &lt;/em&gt;Longino &amp;amp;
+            Booher 2019 is given a more thorough description, and &lt;em&gt;S. alberti
+            &lt;/em&gt;Forel 1893, a Neotropical species, is reported from the region
+            for the first time. All new species bear clear morphological relationships
+            with a native North American clade of “smithistrumiform” species&lt;em&gt;.
+            &lt;/em&gt;I include species accounts and provide an illustrated key for
+            all species of this region.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+        <dc:creator>DOUGLAS B. BOOHER</dc:creator>
+        <dc:rights>Copyright (c) 2021</dc:rights>
+        <cc:license></cc:license>
+        <dc:date>2021-11-04</dc:date>
+        <prism:publicationDate>2021-11-04</prism:publicationDate>
+        <prism:volume>5061</prism:volume>
+        <prism:number>2</prism:number>
+        <prism:startingPage>201</prism:startingPage>
+        <prism:endingPage>248</prism:endingPage>
+        <prism:doi>10.11646/zootaxa.5061.2.1</prism:doi>
+    </item>
+    <item rdf:about="https://mapress.com/zt/article/view/zootaxa.5061.2.2">
+        <title>&lt;p&gt;&lt;strong&gt;An overview of “&lt;em&gt;arginussa&lt;/em&gt;”
+            species group of &lt;em&gt;Memphis&lt;/em&gt; Hübner, [1819], with the
+            description of a new species from Panama (Lepidoptera: Nymphalidae: Charaxinae)&lt;/strong&gt;&lt;/p&gt;</title>
+        <link>https://mapress.com/zt/article/view/zootaxa.5061.2.2</link>
+        <description>&lt;p&gt;&lt;em&gt;Memphis&lt;/em&gt; Hübner, [1819] is a nymphalid butterfly
+            genus exclusive to the Neotropics. It includes species with iridescent
+            bluish or greenish coloration on the upper side of the wings while the
+            underside is cryptic, resembling dead leaves. This paper aims to describe
+            a remarkable new species, &lt;em&gt;M. smalli&lt;/em&gt; Riley &amp;amp;
+            Dias &lt;strong&gt;sp. nov.&lt;/strong&gt;, from the remote Atlantic slopes
+            of Panama based on molecular and morphological analyses. We also review
+            the taxonomy of species herein included in the “&lt;em&gt;arginussa&lt;/em&gt;”
+            species group based on distances analyses of DNA sequence data. The “&lt;em&gt;arginussa&lt;/em&gt;”
+            species group, as defined here, includes &lt;em&gt;M. arginussa &lt;/em&gt;(Geyer,
+            1832), &lt;em&gt;M. eubaena&lt;/em&gt; (Boisduval, 1870) &lt;strong&gt;stat.
+            rest.&lt;/strong&gt;&lt;em&gt;, M. onophis &lt;/em&gt;(Felder &amp;amp;
+            Felder, 1861) &lt;strong&gt;stat. rest.&lt;/strong&gt;, &lt;em&gt;M. lemons
+            &lt;/em&gt;(Druce, 1877), &lt;em&gt;M. neidhoeferi &lt;/em&gt;(Rotger,
+            Escalante &amp;amp; Coronado, 1965), &lt;em&gt;M. perenna &lt;/em&gt;(Godman
+            &amp;amp; Salvin, [1884]), &lt;em&gt;M. lankesteri &lt;/em&gt;(Hall, 1935)
+            &lt;strong&gt;stat. rest.&lt;/strong&gt;, &lt;em&gt;M. paulus &lt;/em&gt;Costa
+            &amp;amp; Orellana, 2014, &lt;em&gt;M. pithyusa &lt;/em&gt;(Felder, 1869),
+            &lt;em&gt;M. herbacea&lt;/em&gt; (Butler &amp;amp; Druce, 1872) and &lt;em&gt;M.
+            smalli&lt;/em&gt; &lt;strong&gt;sp. nov.&lt;/strong&gt; &lt;em&gt;Anaea
+            pithyusa morena&lt;/em&gt; Hall, 1935 &lt;strong&gt;syn. nov.&lt;/strong&gt;
+            is recognized as a synonym of &lt;em&gt;Nymphalis pithyusa &lt;/em&gt;Felder,
+            1869. The new species and its closest ally, &lt;em&gt;M. herbacea&lt;/em&gt;,
+            are illustrated, including characters of the head, labial palpus, wings,
+            legs, male and female genitalia and their distribution map.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+        <dc:creator>FERNANDO M. S. DIAS</dc:creator>
+        <dc:creator>THOMAS J. RILEY</dc:creator>
+        <dc:creator>MIRNA M. CASAGRANDE</dc:creator>
+        <dc:creator>OLAF H. H. MIELKE</dc:creator>
+        <dc:rights>Copyright (c) 2021</dc:rights>
+        <cc:license></cc:license>
+        <dc:date>2021-11-04</dc:date>
+        <prism:publicationDate>2021-11-04</prism:publicationDate>
+        <prism:volume>5061</prism:volume>
+        <prism:number>2</prism:number>
+        <prism:startingPage>249</prism:startingPage>
+        <prism:endingPage>270</prism:endingPage>
+        <prism:doi>10.11646/zootaxa.5061.2.2</prism:doi>
+    </item>
+    <item rdf:about="https://mapress.com/zt/article/view/zootaxa.5061.2.3">
+        <title>&lt;p&gt;&lt;strong&gt;Review of the genus &lt;em&gt;Sessiluncus&lt;/em&gt;
+            (Acari: Mesostigmata: Ologamasidae), description of male and redescription
+            of female of &lt;em&gt;Sessiluncus&lt;/em&gt; &lt;em&gt;aegypticus&lt;/em&gt;,
+            and notes on some morphological characters of the genus&lt;/strong&gt;&lt;/p&gt;</title>
+        <link>https://mapress.com/zt/article/view/zootaxa.5061.2.3</link>
+        <description>&lt;p&gt;The concept of the genus &lt;em&gt;Sessiluncus &lt;/em&gt;G.
+            Canestrini is reviewed, based on a review of the literature and examination
+            of some described and undescribed species. An updated diagnosis of the
+            genus is presented. Valid species of &lt;em&gt;Sessiluncus &lt;/em&gt;and
+            their most diagnostic morphological characters are listed. The male of
+            &lt;em&gt;S&lt;/em&gt;.&lt;em&gt; aegypticus &lt;/em&gt;Nasr &amp;amp;
+            Afifi, 1986 is described for the first time based on specimens collected
+            in Egypt, and the female is redescribed from specimens collected in Egypt
+            and Iran. &lt;em&gt;Sessiluncus oculatus &lt;/em&gt;Vitzthum, 1935 is reported
+            from Panama, and supplementary information on &lt;em&gt;S&lt;/em&gt;.&lt;em&gt;
+            hungaricus&lt;/em&gt; Karg, 1964 and &lt;em&gt;S&lt;/em&gt;.&lt;em&gt;
+            oculatus &lt;/em&gt;is presented. The labrum, paralabrum and paralabral
+            stylus of &lt;em&gt;S&lt;/em&gt;.&lt;em&gt; aegpticus&lt;/em&gt; are also
+            described. The idiosomal adenotaxy and poroidotaxy of the genus are described
+            and discussed.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+        <dc:creator>SHAHROOZ KAZEMI</dc:creator>
+        <dc:creator>ABDELRADY KORASHY NASR</dc:creator>
+        <dc:creator>MAHMOUD MOHAMED RAMADAN</dc:creator>
+        <dc:creator>HANS KLOMPEN</dc:creator>
+        <dc:rights>Copyright (c) 2021</dc:rights>
+        <cc:license></cc:license>
+        <dc:date>2021-11-04</dc:date>
+        <prism:publicationDate>2021-11-04</prism:publicationDate>
+        <prism:volume>5061</prism:volume>
+        <prism:number>2</prism:number>
+        <prism:startingPage>271</prism:startingPage>
+        <prism:endingPage>299</prism:endingPage>
+        <prism:doi>10.11646/zootaxa.5061.2.3</prism:doi>
+    </item>
+    <item rdf:about="https://mapress.com/zt/article/view/zootaxa.5061.2.4">
+        <title>&lt;p&gt;&lt;strong&gt;Reinstatement of &lt;em&gt;Athis&lt;/em&gt; &lt;em&gt;miastagma&lt;/em&gt;
+            (Dyar, 1925) (Lepidoptera: Castniidae) as a valid species inhabiting the
+            Pacific slope of Central Mexico &lt;/strong&gt;&lt;/p&gt;</title>
+        <link>https://mapress.com/zt/article/view/zootaxa.5061.2.4</link>
+        <description>&lt;p&gt;Mexico is the Mesoamerican country with the highest number of
+            Castniidae species (12), most of which are found in the dry regions of
+            the country. Among these, &lt;em&gt;Athis hechtiae&lt;/em&gt; (Dyar, 1910)
+            was considered a species widely distributed in Mexico after &lt;em&gt;Athis
+            miastagma&lt;/em&gt; (Dyar, 1925) was synonymized with &lt;em&gt;A. hechtiae&lt;/em&gt;
+            over two decades ago. A genetic and morphological study, as well as details
+            of the natural history of various populations of these two taxa have led
+            us to restore &lt;em&gt;Athis miastagma&lt;/em&gt; as a valid species (&lt;strong&gt;stat.
+            rest.&lt;/strong&gt;), increasing the number of castniids recorded in Mexico
+            to 13.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+        <dc:creator>JORGE M. GONZÁLEZ</dc:creator>
+        <dc:creator>BERNARDO LÓPEZ G.</dc:creator>
+        <dc:creator>JOSÉ DE JESÚS GARCÍA DÍAZ</dc:creator>
+        <dc:creator>SABRINA SIMON</dc:creator>
+        <dc:creator>VÍCTOR SARTO I MONTEYS</dc:creator>
+        <dc:creator>ROBERT WORTHY</dc:creator>
+        <dc:rights>Copyright (c) 2021</dc:rights>
+        <cc:license></cc:license>
+        <dc:date>2021-11-04</dc:date>
+        <prism:publicationDate>2021-11-04</prism:publicationDate>
+        <prism:volume>5061</prism:volume>
+        <prism:number>2</prism:number>
+        <prism:startingPage>300</prism:startingPage>
+        <prism:endingPage>322</prism:endingPage>
+        <prism:doi>10.11646/zootaxa.5061.2.4</prism:doi>
+    </item>
+    <item rdf:about="https://mapress.com/zt/article/view/zootaxa.5061.2.5">
+        <title>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Cybister&lt;/em&gt; (s. str.) &lt;em&gt;poblanus&lt;/em&gt;
+            sp. n. from Mexico and notes on other species of Cybistrinae (Coleoptera:
+            Dytiscidae)&lt;/strong&gt;&lt;/p&gt;</title>
+        <link>https://mapress.com/zt/article/view/zootaxa.5061.2.5</link>
+        <description>&lt;p&gt;&lt;em&gt;Cybister &lt;/em&gt;(s. str.)&lt;em&gt; poblanus&lt;/em&gt;
+            &lt;strong&gt;sp. n&lt;/strong&gt;. is described from the Puebla state
+            in Mexico. The species belongs to a group of members of the genus &lt;em&gt;Cybister&lt;/em&gt;
+            Curtis, 1827, which occur only in North America (including the Caribbean
+            Islands) and are characterised by having several distinct ridges on the
+            metacoxae (stridulatory organ) in males. The new species is the third of
+            the genus reported for Mexico and the fourth for North America. It can
+            easily be separated from its congeners by its great size and the shape
+            of the male aedeagus. The habitus, the male genitalia and other details
+            of &lt;em&gt;C. poblanus&lt;/em&gt; &lt;strong&gt;sp. n&lt;/strong&gt;.
+            are illustrated and photographs of the male genitalia of the other three
+            &lt;em&gt;Cybister &lt;/em&gt;are given for comparison. &lt;em&gt;Megadytes&lt;/em&gt;
+            (&lt;em&gt;Bifurcitus&lt;/em&gt;) &lt;em&gt;lherminieri&lt;/em&gt; (Guérin-Méneville,
+            1829) and &lt;em&gt;M&lt;/em&gt;. (&lt;em&gt;B&lt;/em&gt;.) &lt;em&gt;magnus&lt;/em&gt;
+            Trémouilles &amp;amp; Bachmann, 1980 are the only other big species of
+            subfamily Cybistrinae which occur in North America. They are externally
+            similar to the new species and can easily be confused with it, hence the
+            illustrations of their aedeagi to facilitate identification. A key to species
+            is given for all species of Cybistrinae occurring in America north of Belize
+            and Guatemala, including Cuba and the Bahamas. Lectotypes are designated
+            for &lt;em&gt;Cybister&lt;/em&gt; &lt;em&gt;flavocinctus&lt;/em&gt; Aubé,
+            1838, &lt;em&gt;Cybister&lt;/em&gt; &lt;em&gt;explanatus&lt;/em&gt; var.
+            &lt;em&gt;fusculus&lt;/em&gt; Zimmermann, 1919, and &lt;em&gt;Cybister&lt;/em&gt;
+            (&lt;em&gt;Megadytes&lt;/em&gt;) &lt;em&gt;aubei&lt;/em&gt; Wilke, 1920.
+            Notes are given on material of some Neotropical and Nearctic species of
+            &lt;em&gt;Cybister&lt;/em&gt; and &lt;em&gt;Megadytes&lt;/em&gt; stored
+            in different museums.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+        <dc:creator>ROBERTO ARCE-PÉREZ</dc:creator>
+        <dc:creator>RODOLFO NOVELO-GUTIÉRREZ</dc:creator>
+        <dc:creator>HANS FERY</dc:creator>
+        <dc:rights>Copyright (c) 2021</dc:rights>
+        <cc:license></cc:license>
+        <dc:date>2021-11-04</dc:date>
+        <prism:publicationDate>2021-11-04</prism:publicationDate>
+        <prism:volume>5061</prism:volume>
+        <prism:number>2</prism:number>
+        <prism:startingPage>323</prism:startingPage>
+        <prism:endingPage>339</prism:endingPage>
+        <prism:doi>10.11646/zootaxa.5061.2.5</prism:doi>
+    </item>
+    <item rdf:about="https://mapress.com/zt/article/view/zootaxa.5061.2.6">
+        <title>&lt;p&gt;&lt;strong&gt;Three new &lt;em&gt;Anaulacomera&lt;/em&gt; species
+            (Orthoptera: Tettigoniidae: Phaneropterinae) from the Iguaçu National Park
+            and nearby areas, southern Brazil&lt;/strong&gt;&lt;/p&gt;</title>
+        <link>https://mapress.com/zt/article/view/zootaxa.5061.2.6</link>
+        <description>&lt;p&gt;Three new species of &lt;em&gt;Anaulacomera&lt;/em&gt; are described,
+            &lt;em&gt;Anaulacomera &lt;/em&gt;(&lt;em&gt;Anaulacomera) mariellae&lt;/em&gt;
+            &lt;strong&gt;sp. n. &lt;/strong&gt;and &lt;em&gt;Anaulacomera &lt;/em&gt;(&lt;em&gt;Anallomes)
+            arlindoi &lt;/em&gt;&lt;strong&gt;sp. n., &lt;/strong&gt;belonging respectively
+            to the Inermis and Lanceolata species group, and &lt;em&gt;Anaulacomera
+            angelinae&lt;/em&gt;&lt;strong&gt; sp. n.&lt;/strong&gt;, placed as &lt;em&gt;incertae
+            sedis. &lt;/em&gt;The individuals were collected at the Iguaçu National
+            Park and adjacent small fragments of Atlantic Forest, in southwestern Paraná
+            state, Brazil. The description was based on external morphology of males.
+            We also present distribution maps for the species of the Inermis and the
+            Lanceolata species groups.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+        <dc:creator>MARCOS FIANCO</dc:creator>
+        <dc:creator>OSCAR J. CADENA-CASTAÑEDA</dc:creator>
+        <dc:creator>NEUCIR SZINWELSKI</dc:creator>
+        <dc:creator>LUIZ R. R. FARIA</dc:creator>
+        <dc:rights>Copyright (c) 2021</dc:rights>
+        <cc:license></cc:license>
+        <dc:date>2021-11-04</dc:date>
+        <prism:publicationDate>2021-11-04</prism:publicationDate>
+        <prism:volume>5061</prism:volume>
+        <prism:number>2</prism:number>
+        <prism:startingPage>340</prism:startingPage>
+        <prism:endingPage>352</prism:endingPage>
+        <prism:doi>10.11646/zootaxa.5061.2.6</prism:doi>
+    </item>
+    <item rdf:about="https://mapress.com/zt/article/view/zootaxa.5061.2.7">
+        <title>&lt;p&gt;&lt;strong&gt;Contribution to the knowledge of Chinese Gryllacrididae
+            II: Study of the genus of &lt;em&gt;Microlarnaca&lt;/em&gt; (Orthoptera:)
+            with description one new species from Yunnan, &lt;/strong&gt;&lt;strong&gt;China&lt;/strong&gt;&lt;/p&gt;</title>
+        <link>https://mapress.com/zt/article/view/zootaxa.5061.2.7</link>
+        <description>&lt;p&gt;One new species of &lt;em&gt;Microlarnaca &lt;/em&gt;discovered
+            by the authors’s group during expeditions to Yunnan Province is described:
+            &lt;em&gt;Microlarnaca&lt;/em&gt; &lt;em&gt;zhengi&lt;/em&gt; Lu &amp;amp;
+            Bian &lt;strong&gt;sp. nov.&lt;/strong&gt;. Diagnostic note, images of
+            the morphological characters and description of tegminal veins of &lt;em&gt;Microlarnaca&lt;/em&gt;
+            &lt;em&gt;dicrana&lt;/em&gt; (Bey-Bienko, 1962) are also given.&lt;/p&gt;
+            &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+        <dc:creator>XIANGYI LU</dc:creator>
+        <dc:creator>WEI BIN</dc:creator>
+        <dc:creator>XUN BIAN</dc:creator>
+        <dc:rights>Copyright (c) 2021</dc:rights>
+        <cc:license></cc:license>
+        <dc:date>2021-11-04</dc:date>
+        <prism:publicationDate>2021-11-04</prism:publicationDate>
+        <prism:volume>5061</prism:volume>
+        <prism:number>2</prism:number>
+        <prism:startingPage>353</prism:startingPage>
+        <prism:endingPage>360</prism:endingPage>
+        <prism:doi>10.11646/zootaxa.5061.2.7</prism:doi>
+    </item>
+    <item rdf:about="https://mapress.com/zt/article/view/zootaxa.5061.2.8">
+        <title>&lt;p&gt;&lt;strong&gt;New Species of &lt;em&gt;Entypus&lt;/em&gt; (Hymenoptera:
+            Pompilidae) and notes on the natural history of some Atlantic Forest spider
+            wasps&lt;/strong&gt;&lt;/p&gt;</title>
+        <link>https://mapress.com/zt/article/view/zootaxa.5061.2.8</link>
+        <description>&lt;p&gt;We describe the new species &lt;em&gt;Entypus renata&lt;/em&gt;,
+            &lt;strong&gt;sp. nov.&lt;/strong&gt;, from the Brazilian Atlantic Forest
+            and report on its host. We also provide the first host records for &lt;em&gt;Ageniella
+            &lt;/em&gt;(&lt;em&gt;Priophanes&lt;/em&gt;)&lt;em&gt; erythroptera&lt;/em&gt;
+            (Banks), &lt;em&gt;Entypus bituberculatus &lt;/em&gt;(Guérin-Méneville)
+            and an undetermined species of &lt;em&gt;Poecilopompilus &lt;/em&gt;Ashmead.
+            In addition, we report behavioral aspects for these species, including
+            a new ethological sequence for &lt;em&gt;Poecilopompilus.&lt;/em&gt;&lt;/p&gt;
+            &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+        <dc:creator>VINICIUS M. LOPEZ</dc:creator>
+        <dc:creator>RENAN KOBAL DE OLIVEIRA ALVES CARDOSO</dc:creator>
+        <dc:creator>RODRIGO R. CEZÁRIO</dc:creator>
+        <dc:creator>RHAINER GUILLERMO-FERREIRA</dc:creator>
+        <dc:creator>EDUARDO F. DOS SANTOS</dc:creator>
+        <dc:rights>Copyright (c) 2021</dc:rights>
+        <cc:license></cc:license>
+        <dc:date>2021-11-04</dc:date>
+        <prism:publicationDate>2021-11-04</prism:publicationDate>
+        <prism:volume>5061</prism:volume>
+        <prism:number>2</prism:number>
+        <prism:startingPage>361</prism:startingPage>
+        <prism:endingPage>368</prism:endingPage>
+        <prism:doi>10.11646/zootaxa.5061.2.8</prism:doi>
+    </item>
+    <item rdf:about="https://mapress.com/zt/article/view/zootaxa.5061.2.9">
+        <title>&lt;p&gt;&lt;strong&gt;A new minute riffle beetle (Coleoptera: Elmidae:
+            &lt;em&gt;Pagelmis&lt;/em&gt;) from the Brazilian Amazon&lt;/strong&gt;&lt;/p&gt;</title>
+        <link>https://mapress.com/zt/article/view/zootaxa.5061.2.9</link>
+        <description>&lt;p&gt;The monotypic genus &lt;em&gt;Pagelmis&lt;/em&gt; Spangler, 1981
+            was described from six thousand specimens of &lt;em&gt;Pagelmis amazonica
+            &lt;/em&gt;Spangler, 1981 collected with blacklight traps in Ecuador. For
+            many years the known distribution of this genus was restricted to its type-locality,
+            and recently it was recorded in Venezuela, Suriname and Brazil (Roraima
+            State). Now, 40 years after the description of the genus, we describe the
+            second &lt;em&gt;Pagelmis&lt;/em&gt; species, based on male and female
+            collected in the Amazon forest (Amazonas State, Brazil). With the description
+            of the second species in the genus we provide an emended diagnosis of &lt;em&gt;Pagelmis.&lt;/em&gt;
+            Since adults of this genus were previously collected only in light traps,
+            no habitat information was known. We collected adults of the new species
+            in the first- and second-order streams with black, acidic water and sandy
+            streambeds. The main substrates available in these streams were leaves
+            and roots of riparian vegetation.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+        <dc:creator>THIAGO T. S. POLIZEI</dc:creator>
+        <dc:creator>NEUSA HAMADA</dc:creator>
+        <dc:rights>Copyright (c) 2021</dc:rights>
+        <cc:license></cc:license>
+        <dc:date>2021-11-04</dc:date>
+        <prism:publicationDate>2021-11-04</prism:publicationDate>
+        <prism:volume>5061</prism:volume>
+        <prism:number>2</prism:number>
+        <prism:startingPage>369</prism:startingPage>
+        <prism:endingPage>376</prism:endingPage>
+        <prism:doi>10.11646/zootaxa.5061.2.9</prism:doi>
+    </item>
+    <item rdf:about="https://mapress.com/zt/article/view/zootaxa.5061.2.10">
+        <title>&lt;p&gt;&lt;strong&gt;Character-state evaluation when discriminating
+            Thysanoptera taxa (Insecta)&lt;/strong&gt;&lt;/p&gt;</title>
+        <link>https://mapress.com/zt/article/view/zootaxa.5061.2.10</link>
+        <description>&lt;p&gt;Problems are discussed in evaluating character state variation
+            in the insect order Thysanoptera, particularly in the family Phlaeothripidae,
+            illustrated by two such problems in the genus &lt;em&gt;Haplothrips&lt;/em&gt;
+            Amyot &amp;amp; Serville. The synonymy of &lt;em&gt;Jironiella&lt;/em&gt;
+            Retana-Salazar &amp;amp; Soto-Rodriguez with &lt;em&gt;Haplothrips&lt;/em&gt;
+            is reconfirmed, and &lt;em&gt;Haplothrips aliakbarii&lt;/em&gt; Mirab-balou
+            &amp;amp; Miri is recognised as a new synonym of &lt;em&gt;H. globiceps&lt;/em&gt;
+            Bagnall.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+        <dc:creator>KAMBIZ MINAEI</dc:creator>
+        <dc:creator>LAURENCE MOUND</dc:creator>
+        <dc:rights>Copyright (c) 2021</dc:rights>
+        <cc:license></cc:license>
+        <dc:date>2021-11-04</dc:date>
+        <prism:publicationDate>2021-11-04</prism:publicationDate>
+        <prism:volume>5061</prism:volume>
+        <prism:number>2</prism:number>
+        <prism:startingPage>377</prism:startingPage>
+        <prism:endingPage>382</prism:endingPage>
+        <prism:doi>10.11646/zootaxa.5061.2.10</prism:doi>
+    </item>
+    <item rdf:about="https://mapress.com/zt/article/view/zootaxa.5061.2.11">
+        <title>&lt;p&gt;&lt;strong&gt;Catalogue of the genus &lt;em&gt;Cereopsius&lt;/em&gt;
+            Pascoe 1857 (Coleoptera: Cerambycidae: Lamiinae) in the Philippines with
+            description of a new species from Mindanao&lt;/strong&gt;&lt;/p&gt;</title>
+        <link>https://mapress.com/zt/article/view/zootaxa.5061.2.11</link>
+        <description>&lt;p&gt;The catalogue of the genus &lt;em&gt;Cereopsius&lt;/em&gt; Pascoe
+            1857 fauna of the Philippines is provided, with description of a new species,
+            &lt;em&gt;C. erasmus&lt;/em&gt; &lt;strong&gt;sp. nov. &lt;/strong&gt;from
+            Mindanao Island. Additional taxonomic and faunistic notes on the other
+            Philippine species are added.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+        <dc:creator>MILTON NORMAN MEDINA</dc:creator>
+        <dc:creator>LESLAE KAY MANTILLA</dc:creator>
+        <dc:creator>ANALYN CABRAS</dc:creator>
+        <dc:creator>FRANCESCO VITALI</dc:creator>
+        <dc:rights>Copyright (c) 2021</dc:rights>
+        <cc:license></cc:license>
+        <dc:date>2021-11-04</dc:date>
+        <prism:publicationDate>2021-11-04</prism:publicationDate>
+        <prism:volume>5061</prism:volume>
+        <prism:number>2</prism:number>
+        <prism:startingPage>383</prism:startingPage>
+        <prism:endingPage>391</prism:endingPage>
+        <prism:doi>10.11646/zootaxa.5061.2.11</prism:doi>
+    </item>
+    <item rdf:about="https://mapress.com/zt/article/view/zootaxa.5061.2.12">
+        <title>&lt;p&gt;&lt;strong&gt;Correction to “Extinct insular oryzomyine rice
+            rats (Rodentia: Sigmodontinae) from the Grenada Bank, southern Caribbean”
+            (&lt;em&gt;Zootaxa&lt;/em&gt; 4951 (3): 434–460) and reply to Ronez and
+            Pardiñas (2021)&lt;/strong&gt;&lt;/p&gt;</title>
+        <link>https://mapress.com/zt/article/view/zootaxa.5061.2.12</link>
+        <dc:creator>MARCELO WEKSLER</dc:creator>
+        <dc:creator>CHRISTINA M. GIOVAS</dc:creator>
+        <dc:creator>BRITTANY A. MISTRETTA</dc:creator>
+        <dc:creator>SAMUEL T. TURVEY</dc:creator>
+        <dc:rights>Copyright (c) 2021</dc:rights>
+        <cc:license></cc:license>
+        <dc:date>2021-11-04</dc:date>
+        <prism:publicationDate>2021-11-04</prism:publicationDate>
+        <prism:volume>5061</prism:volume>
+        <prism:number>2</prism:number>
+        <prism:startingPage>392</prism:startingPage>
+        <prism:endingPage>392</prism:endingPage>
+        <prism:doi>10.11646/zootaxa.5061.2.12</prism:doi>
+    </item>
+    <item rdf:about="https://mapress.com/zt/article/view/zootaxa.5061.2.13">
+        <title>&lt;p&gt;&lt;strong&gt;The genus &lt;em&gt;Coricuma&lt;/em&gt; Watling
+            &amp;amp; Breedy, 1988 (Crustacea, Cumacea, Bodotriidae) in Indonesian
+            waters&lt;/strong&gt;&lt;/p&gt;</title>
+        <link>https://mapress.com/zt/article/view/zootaxa.5061.2.13</link>
+        <dc:creator>UTE MÜHLENHARDT-SIEGEL</dc:creator>
+        <dc:rights>Copyright (c) 2021</dc:rights>
+        <cc:license></cc:license>
+        <dc:date>2021-11-04</dc:date>
+        <prism:publicationDate>2021-11-04</prism:publicationDate>
+        <prism:volume>5061</prism:volume>
+        <prism:number>2</prism:number>
+        <prism:startingPage>393</prism:startingPage>
+        <prism:endingPage>400</prism:endingPage>
+        <prism:doi>10.11646/zootaxa.5061.2.13</prism:doi>
+    </item>
+</rdf:RDF>

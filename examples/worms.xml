@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <atom:link href="http://www.marinespecies.org/aphia.php?p=rss&amp;what=tu&amp;type=add" rel="self" type="application/rss+xml" />
+  <title>WoRMS latest taxon additions</title>
+  <link>http://www.marinespecies.org/aphia.php</link>
+  <description>This feed shows the latest 50 taxon additions in WoRMS</description>
+  <lastBuildDate>Thu, 04 Nov 2021 23:02:02 +0000</lastBuildDate>
+  <language>en-us</language>
+  <generator>Aphia</generator>
+  <item>
+   <title><![CDATA[Nannopus flexibilis (Lilljeborg, 1902)]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548102&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548102&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 20:47:30 +0000</pubDate>
+   <dc:creator><![CDATA[Gómez-Noguera, Samuel Enrique]]></dc:creator>
+   <category>Animalia</category>
+   <category>Arthropoda</category>
+   <category>Hexanauplia</category>
+   <category>Harpacticoida</category>
+   <description><![CDATA[Taxon "<i>Nannopus flexibilis</i> (Lilljeborg, 1902)" has been added by Samuel Enrique Gómez-Noguera via the webinterface on 2021-11-04T20:47:30+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Iliophilus canui Kim, Choi & Yoon, 2017]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548097&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548097&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 20:47:30 +0000</pubDate>
+   <dc:creator><![CDATA[Gómez-Noguera, Samuel Enrique]]></dc:creator>
+   <category>Animalia</category>
+   <category>Arthropoda</category>
+   <category>Hexanauplia</category>
+   <category>Harpacticoida</category>
+   <description><![CDATA[Taxon "<i>Iliophilus canui</i> Kim, Choi & Yoon, 2017" has been added by Samuel Enrique Gómez-Noguera via the webinterface on 2021-11-04T20:47:30+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Iliophilus ganghwaensis (Vakati, Kihara & Lee, 2016)]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548096&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548096&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 20:47:30 +0000</pubDate>
+   <dc:creator><![CDATA[Gómez-Noguera, Samuel Enrique]]></dc:creator>
+   <category>Animalia</category>
+   <category>Arthropoda</category>
+   <category>Hexanauplia</category>
+   <category>Harpacticoida</category>
+   <description><![CDATA[Taxon "<i>Iliophilus ganghwaensis</i> (Vakati, Kihara & Lee, 2016)" has been added by Samuel Enrique Gómez-Noguera via the webinterface on 2021-11-04T20:47:30+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Iliophilus scaldicola (Fiers & Kotwicki, 2013)]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548094&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548094&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 20:47:30 +0000</pubDate>
+   <dc:creator><![CDATA[Gómez-Noguera, Samuel Enrique]]></dc:creator>
+   <category>Animalia</category>
+   <category>Arthropoda</category>
+   <category>Hexanauplia</category>
+   <category>Harpacticoida</category>
+   <description><![CDATA[Taxon "<i>Iliophilus scaldicola</i> (Fiers & Kotwicki, 2013)" has been added by Samuel Enrique Gómez-Noguera via the webinterface on 2021-11-04T20:47:30+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Iliophilus procerus (Fiers & Kotwicki, 2013)]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548093&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548093&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 20:47:30 +0000</pubDate>
+   <dc:creator><![CDATA[Gómez-Noguera, Samuel Enrique]]></dc:creator>
+   <category>Animalia</category>
+   <category>Arthropoda</category>
+   <category>Hexanauplia</category>
+   <category>Harpacticoida</category>
+   <description><![CDATA[Taxon "<i>Iliophilus procerus</i> (Fiers & Kotwicki, 2013)" has been added by Samuel Enrique Gómez-Noguera via the webinterface on 2021-11-04T20:47:30+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Iliophilus hirsutus (Fiers & Kotwicki, 2013)]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548092&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548092&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 20:47:30 +0000</pubDate>
+   <dc:creator><![CDATA[Gómez-Noguera, Samuel Enrique]]></dc:creator>
+   <category>Animalia</category>
+   <category>Arthropoda</category>
+   <category>Hexanauplia</category>
+   <category>Harpacticoida</category>
+   <description><![CDATA[Taxon "<i>Iliophilus hirsutus</i> (Fiers & Kotwicki, 2013)" has been added by Samuel Enrique Gómez-Noguera via the webinterface on 2021-11-04T20:47:30+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Iliophilus didelphis (Fiers & Kotwicki, 2013)]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548090&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548090&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 20:47:30 +0000</pubDate>
+   <dc:creator><![CDATA[Gómez-Noguera, Samuel Enrique]]></dc:creator>
+   <category>Animalia</category>
+   <category>Arthropoda</category>
+   <category>Hexanauplia</category>
+   <category>Harpacticoida</category>
+   <description><![CDATA[Taxon "<i>Iliophilus didelphis</i> (Fiers & Kotwicki, 2013)" has been added by Samuel Enrique Gómez-Noguera via the webinterface on 2021-11-04T20:47:30+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Iliophilus unisegmentatus (Shen & Tai, 1964)]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548088&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548088&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 20:47:30 +0000</pubDate>
+   <dc:creator><![CDATA[Gómez-Noguera, Samuel Enrique]]></dc:creator>
+   <category>Animalia</category>
+   <category>Arthropoda</category>
+   <category>Hexanauplia</category>
+   <category>Harpacticoida</category>
+   <description><![CDATA[Taxon "<i>Iliophilus unisegmentatus</i> (Shen & Tai, 1964)" has been added by Samuel Enrique Gómez-Noguera via the webinterface on 2021-11-04T20:47:30+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Iliophilus perplexus Sars G. O., 1909]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548086&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548086&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 19:50:21 +0000</pubDate>
+   <dc:creator><![CDATA[Gómez-Noguera, Samuel Enrique]]></dc:creator>
+   <category>Animalia</category>
+   <category>Arthropoda</category>
+   <category>Hexanauplia</category>
+   <category>Harpacticoida</category>
+   <description><![CDATA[Taxon "<i>Iliophilus perplexus</i> Sars G. O., 1909" has been added by Samuel Enrique Gómez-Noguera via the webinterface on 2021-11-04T19:50:21+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Nannopus canui Sciberras, Cazzaniga & Huys, 2021]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548078&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548078&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 18:11:53 +0000</pubDate>
+   <dc:creator><![CDATA[Gómez-Noguera, Samuel Enrique]]></dc:creator>
+   <category>Animalia</category>
+   <category>Arthropoda</category>
+   <category>Hexanauplia</category>
+   <category>Harpacticoida</category>
+   <description><![CDATA[Taxon "<i>Nannopus canui</i> Sciberras, Cazzaniga & Huys, 2021" has been added by Samuel Enrique Gómez-Noguera via the webinterface on 2021-11-04T18:11:53+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Nannopus sinusalbi Sciberras, Cazzaniga & Huys, 2021]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548076&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548076&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 17:56:58 +0000</pubDate>
+   <dc:creator><![CDATA[Gómez-Noguera, Samuel Enrique]]></dc:creator>
+   <category>Animalia</category>
+   <category>Arthropoda</category>
+   <category>Hexanauplia</category>
+   <category>Harpacticoida</category>
+   <description><![CDATA[Taxon "<i>Nannopus sinusalbi</i> Sciberras, Cazzaniga & Huys, 2021" has been added by Samuel Enrique Gómez-Noguera via the webinterface on 2021-11-04T17:56:58+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Fautor monikae (Stratmann & Schwabe, 2007)]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548083&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548083&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 17:31:28 +0000</pubDate>
+   <dc:creator><![CDATA[Bouchet, Philippe]]></dc:creator>
+   <category>Animalia</category>
+   <category>Mollusca</category>
+   <category>Gastropoda</category>
+   <category>Trochida</category>
+   <description><![CDATA[Taxon "<i>Fautor monikae</i> (Stratmann & Schwabe, 2007)" has been added by Philippe Bouchet via the webinterface on 2021-11-04T17:31:28+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Olivella mutica var. nitidula (Dillwyn, 1817)]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548080&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548080&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 17:31:28 +0000</pubDate>
+   <dc:creator><![CDATA[Bouchet, Philippe]]></dc:creator>
+   <category>Animalia</category>
+   <category>Mollusca</category>
+   <category>Gastropoda</category>
+   <category>Neogastropoda</category>
+   <description><![CDATA[Taxon "<i>Olivella mutica var. nitidula</i> (Dillwyn, 1817)" has been added by Philippe Bouchet via the webinterface on 2021-11-04T17:31:28+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Cerithidea sacrata var. hyporhyssa S. S. Berry, 1906]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548081&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548081&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 16:29:04 +0000</pubDate>
+   <dc:creator><![CDATA[Auffenberg, Kurt]]></dc:creator>
+   <category>Animalia</category>
+   <category>Mollusca</category>
+   <category>Gastropoda</category>
+   <category>[unassigned] Caenogastropoda</category>
+   <description><![CDATA[Taxon "<i>Cerithidea sacrata var. hyporhyssa</i> S. S. Berry, 1906" has been added by Kurt Auffenberg via the webinterface on 2021-11-04T16:29:04+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Trivia acutidentata (Gaskoin, 1936)]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548079&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548079&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 16:29:04 +0000</pubDate>
+   <dc:creator><![CDATA[Auffenberg, Kurt]]></dc:creator>
+   <category>Animalia</category>
+   <category>Mollusca</category>
+   <category>Gastropoda</category>
+   <category>Littorinimorpha</category>
+   <description><![CDATA[Taxon "<i>Trivia acutidentata</i> (Gaskoin, 1936)" has been added by Kurt Auffenberg via the webinterface on 2021-11-04T16:29:04+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Oniscidia dennisoni (Reeve. 1842)]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548077&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548077&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 16:29:04 +0000</pubDate>
+   <dc:creator><![CDATA[Auffenberg, Kurt]]></dc:creator>
+   <category>Animalia</category>
+   <category>Mollusca</category>
+   <category>Gastropoda</category>
+   <category>Neogastropoda</category>
+   <description><![CDATA[Taxon "<i>Oniscidia dennisoni</i> (Reeve. 1842)" has been added by Kurt Auffenberg via the webinterface on 2021-11-04T16:29:04+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Monoptygma concinna A. Adams, 1854]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548073&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548073&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 15:44:11 +0000</pubDate>
+   <dc:creator><![CDATA[Herbert, David]]></dc:creator>
+   <category>Animalia</category>
+   <category>Mollusca</category>
+   <category>Gastropoda</category>
+   <description><![CDATA[Taxon "<i>Monoptygma concinna</i> A. Adams, 1854" has been added by David Herbert via the webinterface on 2021-11-04T15:44:11+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Hyala nitida A. Adams, 1870]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548071&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548071&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 15:44:11 +0000</pubDate>
+   <dc:creator><![CDATA[Herbert, David]]></dc:creator>
+   <category>Animalia</category>
+   <category>Mollusca</category>
+   <category>Gastropoda</category>
+   <category>Littorinimorpha</category>
+   <description><![CDATA[Taxon "<i>Hyala nitida</i> A. Adams, 1870" has been added by David Herbert via the webinterface on 2021-11-04T15:44:11+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Hyala concinna A. Adams, 1870]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548070&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548070&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 15:44:11 +0000</pubDate>
+   <dc:creator><![CDATA[Herbert, David]]></dc:creator>
+   <category>Animalia</category>
+   <category>Mollusca</category>
+   <category>Gastropoda</category>
+   <category>Littorinimorpha</category>
+   <description><![CDATA[Taxon "<i>Hyala concinna</i> A. Adams, 1870" has been added by David Herbert via the webinterface on 2021-11-04T15:44:11+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Chrysallida concinna A. Adams, 1860]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548066&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548066&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 15:44:11 +0000</pubDate>
+   <dc:creator><![CDATA[Herbert, David]]></dc:creator>
+   <category>Animalia</category>
+   <category>Mollusca</category>
+   <category>Gastropoda</category>
+   <description><![CDATA[Taxon "<i>Chrysallida concinna</i> A. Adams, 1860" has been added by David Herbert via the webinterface on 2021-11-04T15:44:11+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Bulla concinna A. Adams, 1850]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548064&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548064&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 15:44:11 +0000</pubDate>
+   <dc:creator><![CDATA[Herbert, David]]></dc:creator>
+   <category>Animalia</category>
+   <category>Mollusca</category>
+   <category>Gastropoda</category>
+   <category>Cephalaspidea</category>
+   <description><![CDATA[Taxon "<i>Bulla concinna</i> A. Adams, 1850" has been added by David Herbert via the webinterface on 2021-11-04T15:44:11+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Fimbriatus fimbriatus (Linton, 1934) von Wicklen, 1946]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548050&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548050&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 12:12:04 +0000</pubDate>
+   <dc:creator><![CDATA[Bray, Rod]]></dc:creator>
+   <category>Animalia</category>
+   <category>Platyhelminthes</category>
+   <category>Trematoda</category>
+   <category>Plagiorchiida</category>
+   <description><![CDATA[Taxon "<i>Fimbriatus fimbriatus</i> (Linton, 1934) von Wicklen, 1946" has been added by Rod Bray via the webinterface on 2021-11-04T12:12:04+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Thereva varipes Macquart, 1847]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548049&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548049&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 10:13:03 +0000</pubDate>
+   <dc:creator><![CDATA[db_admin]]></dc:creator>
+   <category>Animalia</category>
+   <category>Arthropoda</category>
+   <category>Insecta</category>
+   <category>Diptera</category>
+   <description><![CDATA[Taxon "<i>Thereva varipes</i> Macquart, 1847" has been added by  db_admin via the webinterface on 2021-11-04T10:13:03+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Thereva quinquevittata Macquart, 1847]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548048&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548048&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 10:13:03 +0000</pubDate>
+   <dc:creator><![CDATA[db_admin]]></dc:creator>
+   <category>Animalia</category>
+   <category>Arthropoda</category>
+   <category>Insecta</category>
+   <category>Diptera</category>
+   <description><![CDATA[Taxon "<i>Thereva quinquevittata</i> Macquart, 1847" has been added by  db_admin via the webinterface on 2021-11-04T10:13:03+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Thereva nudifemorata Macquart, 1846]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548047&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548047&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 10:13:03 +0000</pubDate>
+   <dc:creator><![CDATA[db_admin]]></dc:creator>
+   <category>Animalia</category>
+   <category>Arthropoda</category>
+   <category>Insecta</category>
+   <category>Diptera</category>
+   <description><![CDATA[Taxon "<i>Thereva nudifemorata</i> Macquart, 1846" has been added by  db_admin via the webinterface on 2021-11-04T10:13:03+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Thereva misella Walker, 1835]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548044&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548044&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 10:13:03 +0000</pubDate>
+   <dc:creator><![CDATA[db_admin]]></dc:creator>
+   <category>Animalia</category>
+   <category>Arthropoda</category>
+   <category>Insecta</category>
+   <category>Diptera</category>
+   <description><![CDATA[Taxon "<i>Thereva misella</i> Walker, 1835" has been added by  db_admin via the webinterface on 2021-11-04T10:13:03+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Thereva innotata Walker, 1856]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548040&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548040&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 10:13:03 +0000</pubDate>
+   <dc:creator><![CDATA[db_admin]]></dc:creator>
+   <category>Animalia</category>
+   <category>Arthropoda</category>
+   <category>Insecta</category>
+   <category>Diptera</category>
+   <description><![CDATA[Taxon "<i>Thereva innotata</i> Walker, 1856" has been added by  db_admin via the webinterface on 2021-11-04T10:13:03+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Thereva dimidiata Macquart, 1847]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548038&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548038&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 10:13:03 +0000</pubDate>
+   <dc:creator><![CDATA[db_admin]]></dc:creator>
+   <category>Animalia</category>
+   <category>Arthropoda</category>
+   <category>Insecta</category>
+   <category>Diptera</category>
+   <description><![CDATA[Taxon "<i>Thereva dimidiata</i> Macquart, 1847" has been added by  db_admin via the webinterface on 2021-11-04T10:13:03+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Thereva aperta Macquart, 1846]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548037&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548037&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 10:13:03 +0000</pubDate>
+   <dc:creator><![CDATA[db_admin]]></dc:creator>
+   <category>Animalia</category>
+   <category>Arthropoda</category>
+   <category>Insecta</category>
+   <category>Diptera</category>
+   <description><![CDATA[Taxon "<i>Thereva aperta</i> Macquart, 1846" has been added by  db_admin via the webinterface on 2021-11-04T10:13:03+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Thereva Latreille, 1796]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548036&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548036&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 10:13:03 +0000</pubDate>
+   <dc:creator><![CDATA[db_admin]]></dc:creator>
+   <category>Animalia</category>
+   <category>Arthropoda</category>
+   <category>Insecta</category>
+   <category>Diptera</category>
+   <description><![CDATA[Taxon "<i>Thereva</i> Latreille, 1796" has been added by  db_admin via the webinterface on 2021-11-04T10:13:03+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Nelsonia robusta Parent, 1933]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548034&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548034&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 10:13:03 +0000</pubDate>
+   <dc:creator><![CDATA[db_admin]]></dc:creator>
+   <category>Animalia</category>
+   <category>Arthropoda</category>
+   <category>Insecta</category>
+   <category>Diptera</category>
+   <description><![CDATA[Taxon "<i>Nelsonia robusta</i> Parent, 1933" has been added by  db_admin via the webinterface on 2021-11-04T10:13:03+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Nelsonia Parent, 1933]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548033&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548033&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 10:13:03 +0000</pubDate>
+   <dc:creator><![CDATA[db_admin]]></dc:creator>
+   <category>Animalia</category>
+   <category>Arthropoda</category>
+   <category>Insecta</category>
+   <category>Diptera</category>
+   <description><![CDATA[Taxon "<i>Nelsonia</i> Parent, 1933" has been added by  db_admin via the webinterface on 2021-11-04T10:13:03+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Dendronotus kurilensis Ekimova, Valdés, Stanovova, Mikhlina, Antokhina, Neretina, Chichvarkhina & Schepetov, 2021]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548061&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548061&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 08:40:21 +0000</pubDate>
+   <dc:creator><![CDATA[Bouchet, Philippe]]></dc:creator>
+   <category>Animalia</category>
+   <category>Mollusca</category>
+   <category>Gastropoda</category>
+   <category>Nudibranchia</category>
+   <description><![CDATA[Taxon "<i>Dendronotus kurilensis</i> Ekimova, Valdés, Stanovova, Mikhlina, Antokhina, Neretina, Chichvarkhina & Schepetov, 2021" has been added by Philippe Bouchet via the webinterface on 2021-11-04T08:40:21+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Bathydoris antoni Ekimova, Valdés, Stanovova, Mikhlina, Antokhina, Neretina, Chichvarkhina & Schepetov, 2021]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548051&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548051&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 08:40:21 +0000</pubDate>
+   <dc:creator><![CDATA[Bouchet, Philippe]]></dc:creator>
+   <category>Animalia</category>
+   <category>Mollusca</category>
+   <category>Gastropoda</category>
+   <category>Nudibranchia</category>
+   <description><![CDATA[Taxon "<i>Bathydoris antoni</i> Ekimova, Valdés, Stanovova, Mikhlina, Antokhina, Neretina, Chichvarkhina & Schepetov, 2021" has been added by Philippe Bouchet via the webinterface on 2021-11-04T08:40:21+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Phylo heterochaetus Sun, Yu & Li, 2021]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548012&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548012&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 04:36:18 +0000</pubDate>
+   <dc:creator><![CDATA[Read, Geoffrey]]></dc:creator>
+   <category>Animalia</category>
+   <category>Annelida</category>
+   <category>Polychaeta</category>
+   <description><![CDATA[Taxon "<i>Phylo heterochaetus</i> Sun, Yu & Li, 2021" has been added by Geoffrey Read via the webinterface on 2021-11-04T04:36:18+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Emertonia berndi Mathiske & Veit-Köhler, 2021]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548011&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548011&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 01:55:58 +0000</pubDate>
+   <dc:creator><![CDATA[Gómez-Noguera, Samuel Enrique]]></dc:creator>
+   <category>Animalia</category>
+   <category>Arthropoda</category>
+   <category>Hexanauplia</category>
+   <category>Harpacticoida</category>
+   <description><![CDATA[Taxon "<i>Emertonia berndi</i> Mathiske & Veit-Köhler, 2021" has been added by Samuel Enrique Gómez-Noguera via the webinterface on 2021-11-04T01:55:58+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Emertonia hessleri Mathiske, Thistle & Veit-Köhler, 2021]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548010&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548010&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 01:55:58 +0000</pubDate>
+   <dc:creator><![CDATA[Gómez-Noguera, Samuel Enrique]]></dc:creator>
+   <category>Animalia</category>
+   <category>Arthropoda</category>
+   <category>Hexanauplia</category>
+   <category>Harpacticoida</category>
+   <description><![CDATA[Taxon "<i>Emertonia hessleri</i> Mathiske, Thistle & Veit-Köhler, 2021" has been added by Samuel Enrique Gómez-Noguera via the webinterface on 2021-11-04T01:55:58+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Emertonia ilse Mathiske & Veit-Köhler, 2021]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548009&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548009&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 01:55:58 +0000</pubDate>
+   <dc:creator><![CDATA[Gómez-Noguera, Samuel Enrique]]></dc:creator>
+   <category>Animalia</category>
+   <category>Arthropoda</category>
+   <category>Hexanauplia</category>
+   <category>Harpacticoida</category>
+   <description><![CDATA[Taxon "<i>Emertonia ilse</i> Mathiske & Veit-Köhler, 2021" has been added by Samuel Enrique Gómez-Noguera via the webinterface on 2021-11-04T01:55:58+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Emertonia serrata Mathiske & Veit-Köhler, 2021]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548007&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548007&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 01:55:58 +0000</pubDate>
+   <dc:creator><![CDATA[Gómez-Noguera, Samuel Enrique]]></dc:creator>
+   <category>Animalia</category>
+   <category>Arthropoda</category>
+   <category>Hexanauplia</category>
+   <category>Harpacticoida</category>
+   <description><![CDATA[Taxon "<i>Emertonia serrata</i> Mathiske & Veit-Köhler, 2021" has been added by Samuel Enrique Gómez-Noguera via the webinterface on 2021-11-04T01:55:58+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Pseudobalucopsylla mielkei Mu & Huys, 2021]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548006&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548006&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 01:55:58 +0000</pubDate>
+   <dc:creator><![CDATA[Gómez-Noguera, Samuel Enrique]]></dc:creator>
+   <category>Animalia</category>
+   <category>Arthropoda</category>
+   <category>Hexanauplia</category>
+   <category>Harpacticoida</category>
+   <description><![CDATA[Taxon "<i>Pseudobalucopsylla mielkei</i> Mu & Huys, 2021" has been added by Samuel Enrique Gómez-Noguera via the webinterface on 2021-11-04T01:55:58+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Pseudobalucopsylla costaricensis Mu & Huys, 2021]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548005&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548005&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 01:55:58 +0000</pubDate>
+   <dc:creator><![CDATA[Gómez-Noguera, Samuel Enrique]]></dc:creator>
+   <category>Animalia</category>
+   <category>Arthropoda</category>
+   <category>Hexanauplia</category>
+   <category>Harpacticoida</category>
+   <description><![CDATA[Taxon "<i>Pseudobalucopsylla costaricensis</i> Mu & Huys, 2021" has been added by Samuel Enrique Gómez-Noguera via the webinterface on 2021-11-04T01:55:58+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Pseudobalucopsylla obscura Mu & Huys, 2021]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548004&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548004&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 01:55:58 +0000</pubDate>
+   <dc:creator><![CDATA[Gómez-Noguera, Samuel Enrique]]></dc:creator>
+   <category>Animalia</category>
+   <category>Arthropoda</category>
+   <category>Hexanauplia</category>
+   <category>Harpacticoida</category>
+   <description><![CDATA[Taxon "<i>Pseudobalucopsylla obscura</i> Mu & Huys, 2021" has been added by Samuel Enrique Gómez-Noguera via the webinterface on 2021-11-04T01:55:58+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Pseudobalucopsylla triarticulata (Wells & Rao, 1987)]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548003&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548003&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 01:55:58 +0000</pubDate>
+   <dc:creator><![CDATA[Gómez-Noguera, Samuel Enrique]]></dc:creator>
+   <category>Animalia</category>
+   <category>Arthropoda</category>
+   <category>Hexanauplia</category>
+   <category>Harpacticoida</category>
+   <description><![CDATA[Taxon "<i>Pseudobalucopsylla triarticulata</i> (Wells & Rao, 1987)" has been added by Samuel Enrique Gómez-Noguera via the webinterface on 2021-11-04T01:55:58+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Pseudobalucopsylla Mu & Huys, 2021]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548002&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548002&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 01:55:58 +0000</pubDate>
+   <dc:creator><![CDATA[Gómez-Noguera, Samuel Enrique]]></dc:creator>
+   <category>Animalia</category>
+   <category>Arthropoda</category>
+   <category>Hexanauplia</category>
+   <category>Harpacticoida</category>
+   <description><![CDATA[Taxon "<i>Pseudobalucopsylla</i> Mu & Huys, 2021" has been added by Samuel Enrique Gómez-Noguera via the webinterface on 2021-11-04T01:55:58+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Helmutkunzia xiamenensis Mu & Huys, 2021]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548001&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548001&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 01:55:58 +0000</pubDate>
+   <dc:creator><![CDATA[Gómez-Noguera, Samuel Enrique]]></dc:creator>
+   <category>Animalia</category>
+   <category>Arthropoda</category>
+   <category>Hexanauplia</category>
+   <category>Harpacticoida</category>
+   <description><![CDATA[Taxon "<i>Helmutkunzia xiamenensis</i> Mu & Huys, 2021" has been added by Samuel Enrique Gómez-Noguera via the webinterface on 2021-11-04T01:55:58+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Nannopus robustus Vakati & Lee, 2021]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548000&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1548000&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 01:17:39 +0000</pubDate>
+   <dc:creator><![CDATA[Gómez-Noguera, Samuel Enrique]]></dc:creator>
+   <category>Animalia</category>
+   <category>Arthropoda</category>
+   <category>Hexanauplia</category>
+   <category>Harpacticoida</category>
+   <description><![CDATA[Taxon "<i>Nannopus robustus</i> Vakati & Lee, 2021" has been added by Samuel Enrique Gómez-Noguera via the webinterface on 2021-11-04T01:17:39+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Nannopus cylindricus Vakati & Lee, 2021]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1547999&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1547999&amp;from=rss</guid>
+   <pubDate>Thu, 04 Nov 2021 01:17:39 +0000</pubDate>
+   <dc:creator><![CDATA[Gómez-Noguera, Samuel Enrique]]></dc:creator>
+   <category>Animalia</category>
+   <category>Arthropoda</category>
+   <category>Hexanauplia</category>
+   <category>Harpacticoida</category>
+   <description><![CDATA[Taxon "<i>Nannopus cylindricus</i> Vakati & Lee, 2021" has been added by Samuel Enrique Gómez-Noguera via the webinterface on 2021-11-04T01:17:39+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Lilliconus traillii (A. Adams, 1855)]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1547998&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1547998&amp;from=rss</guid>
+   <pubDate>Wed, 03 Nov 2021 21:38:41 +0000</pubDate>
+   <dc:creator><![CDATA[Bouchet, Philippe]]></dc:creator>
+   <category>Animalia</category>
+   <category>Mollusca</category>
+   <category>Gastropoda</category>
+   <category>Neogastropoda</category>
+   <description><![CDATA[Taxon "<i>Lilliconus traillii</i> (A. Adams, 1855)" has been added by Philippe Bouchet via the webinterface on 2021-11-03T21:38:41+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Lilliconus papalis (Weinkauff, 1875)]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1547997&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1547997&amp;from=rss</guid>
+   <pubDate>Wed, 03 Nov 2021 21:38:41 +0000</pubDate>
+   <dc:creator><![CDATA[Bouchet, Philippe]]></dc:creator>
+   <category>Animalia</category>
+   <category>Mollusca</category>
+   <category>Gastropoda</category>
+   <category>Neogastropoda</category>
+   <description><![CDATA[Taxon "<i>Lilliconus papalis</i> (Weinkauff, 1875)" has been added by Philippe Bouchet via the webinterface on 2021-11-03T21:38:41+00:00]]></description>
+  </item>
+  <item>
+   <title><![CDATA[Neritina turrita f. cumingiana (Récluz, 1842)]]></title>
+   <link>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1547977&amp;from=rss</link>
+   <guid>http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1547977&amp;from=rss</guid>
+   <pubDate>Wed, 03 Nov 2021 20:04:48 +0000</pubDate>
+   <dc:creator><![CDATA[Páll-Gergely, Barna]]></dc:creator>
+   <category>Animalia</category>
+   <category>Mollusca</category>
+   <category>Gastropoda</category>
+   <category>Cycloneritida</category>
+   <description><![CDATA[Taxon "<i>Neritina turrita f. cumingiana</i> (Récluz, 1842)" has been added by Barna Páll-Gergely via the webinterface on 2021-11-03T20:04:48+00:00]]></description>
+  </item>
+</channel>
+</rss>

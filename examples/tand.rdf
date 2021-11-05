@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns="http://purl.org/rss/1.0/"
+         xmlns:cc="http://web.resource.org/cc/"
+         xmlns:content="http://purl.org/rss/1.0/modules/content/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">
+   <channel rdf:about="https://www.tandfonline.com/loi/tnah20?af=R">
+      <title>tandf: Journal of Natural History: Table of Contents</title>
+      <description>Table of Contents for Journal of Natural History. List of articles from both the latest and ahead of print issues.</description>
+      <link>https://www.tandfonline.com/loi/tnah20?af=R</link>
+      <dc:title>tandf: Journal of Natural History: Table of Contents</dc:title>
+      <dc:publisher>tandf</dc:publisher>
+      <dc:language>en-US</dc:language>
+      <prism:publicationName>Journal of Natural History</prism:publicationName>
+      <items>
+         <rdf:Seq>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/00222933.2021.1974594?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/00222933.2021.1975838?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/00222933.2021.1978574?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/00222933.2021.1985645?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/00222933.2021.1986164?af=R"/>
+         </rdf:Seq>
+      </items>
+   </channel>
+   <image rdf:about="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/tnah20/2021/tnah20.v055.i31-32/tnah20.v055.i31-32/20211011-01/tnah20.v055.i31-32.cover.jpg">
+      <title>Journal of Natural History</title>
+      <url>https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/tnah20/2021/tnah20.v055.i31-32/tnah20.v055.i31-32/20211011-01/tnah20.v055.i31-32.cover.jpg</url>
+      <link>https://www.tandfonline.com/loi/tnah20?af=R</link>
+   </image>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/00222933.2021.1974594?af=R">
+      <title>The puzzling, rarely encountered European lacewings Chrysoperla ankylopteryformis and C. renoni (Neuroptera: Chrysopidae): one species or two?</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/00222933.2021.1974594?af=R</link>
+      <content:encoded>&lt;a href="/toc/tnah20/55/31-32"&gt;Volume 55, Issue 31-32&lt;/a&gt;, August 2021, Page 1917-1940&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 55, Issue 31-32, August 2021, Page 1917-1940&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>The puzzling, rarely encountered European lacewings Chrysoperla ankylopteryformis and C. renoni (Neuroptera: Chrysopidae): one species or two?</dc:title>
+      <dc:identifier>10.1080/00222933.2021.1974594</dc:identifier>
+      <dc:source>Journal of Natural History</dc:source>
+      <dc:date>2021-10-18T06:46:43Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Charles S. Henry</dc:creator>
+      <dc:creator>Víctor J. Monserrat</dc:creator>
+      <dc:creator>Peter Duelli</dc:creator>
+      <prism:publicationName>The puzzling, rarely encountered European lacewings Chrysoperla ankylopteryformis and C. renoni (Neuroptera: Chrysopidae): one species or two?</prism:publicationName>
+      <prism:volume>55</prism:volume>
+      <prism:number>31-32</prism:number>
+      <prism:startingPage>1917</prism:startingPage>
+      <prism:endingPage>1940</prism:endingPage>
+      <prism:coverDate>2021-08-18T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-08-18T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/00222933.2021.1974594</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/00222933.2021.1974594?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/00222933.2021.1975838?af=R">
+      <title>Calling phenology of anurans in a tropical rainforest in South Mexico: testing predictive models</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/00222933.2021.1975838?af=R</link>
+      <content:encoded>&lt;a href="/toc/tnah20/55/31-32"&gt;Volume 55, Issue 31-32&lt;/a&gt;, August 2021, Page 1941-1955&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 55, Issue 31-32, August 2021, Page 1941-1955&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Calling phenology of anurans in a tropical rainforest in South Mexico: testing predictive models</dc:title>
+      <dc:identifier>10.1080/00222933.2021.1975838</dc:identifier>
+      <dc:source>Journal of Natural History</dc:source>
+      <dc:date>2021-10-18T07:17:19Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Diana Laura Fuentes-de la Rosa</dc:creator>
+      <dc:creator>Leticia Margarita Ochoa-Ochoa</dc:creator>
+      <dc:creator>Andrés Canavero</dc:creator>
+      <prism:publicationName>Calling phenology of anurans in a tropical rainforest in South Mexico: testing predictive models</prism:publicationName>
+      <prism:volume>55</prism:volume>
+      <prism:number>31-32</prism:number>
+      <prism:startingPage>1941</prism:startingPage>
+      <prism:endingPage>1955</prism:endingPage>
+      <prism:coverDate>2021-08-18T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-08-18T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/00222933.2021.1975838</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/00222933.2021.1975838?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/00222933.2021.1978574?af=R">
+      <title>Behavioral repertoire of a population of wild Chilean Flamingos Phoenicopterus chilensis in southern Brazil</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/00222933.2021.1978574?af=R</link>
+      <content:encoded>&lt;a href="/toc/tnah20/55/31-32"&gt;Volume 55, Issue 31-32&lt;/a&gt;, August 2021, Page 1957-1981&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 55, Issue 31-32, August 2021, Page 1957-1981&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Behavioral repertoire of a population of wild Chilean Flamingos Phoenicopterus chilensis in southern Brazil</dc:title>
+      <dc:identifier>10.1080/00222933.2021.1978574</dc:identifier>
+      <dc:source>Journal of Natural History</dc:source>
+      <dc:date>2021-10-11T03:09:01Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Henrique Cardoso Delfino</dc:creator>
+      <dc:creator>Caio J. Carlos</dc:creator>
+      <prism:publicationName>Behavioral repertoire of a population of wild Chilean Flamingos Phoenicopterus chilensis in southern Brazil</prism:publicationName>
+      <prism:volume>55</prism:volume>
+      <prism:number>31-32</prism:number>
+      <prism:startingPage>1957</prism:startingPage>
+      <prism:endingPage>1981</prism:endingPage>
+      <prism:coverDate>2021-08-18T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-08-18T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/00222933.2021.1978574</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/00222933.2021.1978574?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/00222933.2021.1985645?af=R">
+      <title>Fish aggregations and reproductive behaviour on mesophotic coral ecosystems of a southwestern Atlantic Oceanic archipelago</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/00222933.2021.1985645?af=R</link>
+      <content:encoded>&lt;a href="/toc/tnah20/55/31-32"&gt;Volume 55, Issue 31-32&lt;/a&gt;, August 2021, Page 2017-2025&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 55, Issue 31-32, August 2021, Page 2017-2025&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Fish aggregations and reproductive behaviour on mesophotic coral ecosystems of a southwestern Atlantic Oceanic archipelago</dc:title>
+      <dc:identifier>10.1080/00222933.2021.1985645</dc:identifier>
+      <dc:source>Journal of Natural History</dc:source>
+      <dc:date>2021-11-03T08:43:27Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Hudson T. Pinheiro</dc:creator>
+      <dc:creator>Bart Shepherd</dc:creator>
+      <dc:creator>João Batista Teixeira</dc:creator>
+      <dc:creator>Caio R. Pimentel</dc:creator>
+      <dc:creator>Pedro Henrique C. Pereira</dc:creator>
+      <dc:creator>Carlos E. Stein</dc:creator>
+      <dc:creator>José Amorim Reis-Filho</dc:creator>
+      <dc:creator>Ricardo C. Garla</dc:creator>
+      <dc:creator>Raphael M. Macieira</dc:creator>
+      <dc:creator>Stephanie D.T. Delfino</dc:creator>
+      <dc:creator>Tommaso Giarrizzo</dc:creator>
+      <dc:creator>Jean-Christophe Joyeux</dc:creator>
+      <dc:creator>João Luiz Gasparini</dc:creator>
+      <dc:creator>Luiz A. Rocha</dc:creator>
+      <prism:publicationName>Fish aggregations and reproductive behaviour on mesophotic coral ecosystems of a southwestern Atlantic Oceanic archipelago</prism:publicationName>
+      <prism:volume>55</prism:volume>
+      <prism:number>31-32</prism:number>
+      <prism:startingPage>2017</prism:startingPage>
+      <prism:endingPage>2025</prism:endingPage>
+      <prism:coverDate>2021-08-18T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-08-18T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/00222933.2021.1985645</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/00222933.2021.1985645?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/00222933.2021.1986164?af=R">
+      <title>Adding missing vines to the tree: multilocus phylogeny of New World vine snakes (Serpentes: Colubridae: Oxybelis), with description of a new species</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/00222933.2021.1986164?af=R</link>
+      <content:encoded>&lt;a href="/toc/tnah20/55/31-32"&gt;Volume 55, Issue 31-32&lt;/a&gt;, August 2021, Page 2027-2046&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 55, Issue 31-32, August 2021, Page 2027-2046&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Adding missing vines to the tree: multilocus phylogeny of New World vine snakes (Serpentes: Colubridae: Oxybelis), with description of a new species</dc:title>
+      <dc:identifier>10.1080/00222933.2021.1986164</dc:identifier>
+      <dc:source>Journal of Natural History</dc:source>
+      <dc:date>2021-11-03T10:44:53Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Omar Torres-Carvajal</dc:creator>
+      <dc:creator>Mauricio Mejía-Guerrero</dc:creator>
+      <dc:creator>Claudia Terán</dc:creator>
+      <prism:publicationName>Adding missing vines to the tree: multilocus phylogeny of New World vine snakes (Serpentes: Colubridae: Oxybelis), with description of a new species</prism:publicationName>
+      <prism:volume>55</prism:volume>
+      <prism:number>31-32</prism:number>
+      <prism:startingPage>2027</prism:startingPage>
+      <prism:endingPage>2046</prism:endingPage>
+      <prism:coverDate>2021-08-18T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-08-18T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/00222933.2021.1986164</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/00222933.2021.1986164?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+</rdf:RDF>
