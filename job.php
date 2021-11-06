@@ -30,6 +30,9 @@ function post_job($url, &$doc)
 	$info = curl_getinfo($ch);
 	$http_code = $info['http_code'];
 	
+	//echo $http_code . "\n";
+	//echo $response;
+	
 	if ($http_code == 200)
 	{
 		$doc = json_decode($response );
@@ -46,6 +49,7 @@ function post_job($url, &$doc)
 $filename = 'examples/zootaxa.rdf';
 $filename = 'examples/phytokeys.xml'; // rss2
 $filename = 'examples/cnki.xml'; // rss2
+$filename = 'examples/googlescholar.xml'; // rss2
 
 $xml = file_get_contents($filename);
 
@@ -59,7 +63,7 @@ for ($i = 0; $i < $n; $i++)
 {
 
 	$url = 'http://localhost/~rpage/biorss/geoparser.php';
-	// $url = 'http://localhost/~rpage/biorss/template.php';
+	$url = 'http://localhost/~rpage/biorss/meta.php';
 	
 	$code = post_job($url, $dataFeed->dataFeedElement[$i]);
 }
