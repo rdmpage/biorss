@@ -124,10 +124,10 @@ if(json_last_error() == JSON_ERROR_NONE)
 		
 		foreach ($dom->find('h3') as $h3)
 		{
+			$mimetype = 'text/html';
 	
 			$dataFeedElement = new stdclass;
 			$dataFeedElement->{'@type'} = 'DataFeedItem';
-
 			
 			// use date of email as proxy for date for items				
 			$datestring = $post->body->headers->date;
@@ -146,27 +146,34 @@ if(json_last_error() == JSON_ERROR_NONE)
 			if (preg_match('/^\[PDF\]\s+/', $dataFeedElement->name))
 			{
 				$dataFeedElement->name = preg_replace('/^\[PDF\]\s+/u', '', $dataFeedElement->name);
-				//$obj->mimetype = 'application/pdf';
+					
+				$mimetype = 'application/pdf';
 			}
 
 			if (preg_match('/^\[HTML\]\s+/', $dataFeedElement->name))
 			{
 				$dataFeedElement->name = preg_replace('/^\[HTML\]\s+/u', '', $dataFeedElement->name);
-				//$obj->mimetype = 'text/html';
+				$mimetype = 'text/html';
 			}	
 			
 			// get link			
 			foreach ($h3->find('a') as $a)
 			{
 				$parts = parse_url($a->href);
-			
-			
+						
 				if (isset($parts['query']))
 				{
 					parse_str(html_entity_decode($parts['query']), $query);
 
 					// link
-					$dataFeedElement->url = $query['url'];
+					if ($mimetype == 'text/html')
+					{
+						$dataFeedElement->url = $query['url'];
+					}
+					if ($mimetype == 'application/pdf')
+					{
+						$dataFeedElement->pdf = $query['url'];
+					}					
 					
 					// Google Scholar cluster id
 					$dataFeedElement->{'@id'}  = 'https://scholar.google.com/scholar?cluster=' . $query['d'];
@@ -194,7 +201,13 @@ if(json_last_error() == JSON_ERROR_NONE)
 	
 	// print_r($dataFeed);
 	
-	echo internal_to_rss($dataFeed);
+	$xml = internal_to_rss($dataFeed);
+	
+	echo $xml;
+	
+	//$dataFeed = rss_to_internal($xml);
+	
+	//print_r($dataFeed);
 	
 }
 
