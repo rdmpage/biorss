@@ -460,15 +460,24 @@ function internal_to_rss($dataFeed, $format = 'atom')
 					$id = $item->appendChild($feed->createElement('id'));
 					$id->appendChild($feed->createTextNode($dataFeedElement->{'@id'}));
 				}
-				
-							
+											
 				// link
 				if (isset($dataFeedElement->url))
 				{
 					$link = $item->appendChild($feed->createElement('link'));
+					$link->setAttribute('rel', 'alternate');
+					$link->setAttribute('type', 'text/html');
 					$link->setAttribute('href', $dataFeedElement->url);					
 				}
 				
+				if (isset($dataFeedElement->pdf))
+				{
+					$link = $item->appendChild($feed->createElement('link'));
+					$link->setAttribute('rel', 'alternate');
+					$link->setAttribute('type', 'application/pdf');
+					$link->setAttribute('href', $dataFeedElement->pdf);					
+				}
+								
 				// published
 				if (isset($dataFeedElement->datePublished))
 				{
@@ -696,6 +705,7 @@ if (0)
 	//$filename = 'examples/oup.xml'; // rss2
 	//$filename = 'examples/phytokeys.xml'; // rss2
 	
+	$filename = 'examples/googlescholar.xml'; // rss 2 
 	
 
 
@@ -706,9 +716,9 @@ if (0)
 
 	echo json_encode($dataFeed, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
 	
-	$rss = internal_to_rss($dataFeed);
+	//$rss = internal_to_rss($dataFeed);
 	
-	echo $rss;
+	//echo $rss;
 
 }
 
