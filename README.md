@@ -30,5 +30,6 @@ RSS feeds are wildly variable in terms of tags included and how they handle exte
  Data | Validation tool
 --|--
 JSON-LD | https://json-ld.org/playground/
+OPML | http://validator.opml.org
 RSS feed | https://validator.w3.org/feed/
 Structured data using schema.org | https://validator.schema.org
