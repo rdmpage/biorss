@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+   <PubmedArticle>
+      <MedlineCitation Status="Publisher" Owner="NLM">
+         <PMID Version="1">34739370</PMID>
+         <DateRevised>
+            <Year>2021</Year>
+            <Month>11</Month>
+            <Day>05</Day>
+         </DateRevised>
+         <Article PubModel="Print">
+            <Journal>
+               <ISSN IssnType="Electronic">1466-5034</ISSN>
+               <JournalIssue CitedMedium="Internet">
+                  <Volume>71</Volume>
+                  <Issue>11</Issue>
+                  <PubDate>
+                     <Year>2021</Year>
+                     <Month>Nov</Month>
+                  </PubDate>
+               </JournalIssue>
+               <Title>International journal of systematic and evolutionary microbiology</Title>
+               <ISOAbbreviation>Int J Syst Evol Microbiol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>
+               <i>Pseudoalteromonas ostreae</i>
+               sp. nov., a new bacterial species harboured by the flat oyster
+               <i>Ostrea edulis</i>
+               .
+            </ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1099/ijsem.0.005070</ELocationID>
+            <Abstract>
+               <AbstractText>
+                  Three bacterial strains, named h
+                  <i>Oe</i>
+                  -66
+                  <sup>T</sup>
+                  , h
+                  <i>Oe</i>
+                  -124 and h
+                  <i>Oe</i>
+                  -125, were isolated from the haemolymph of different specimens of the flat oyster
+                  <i>Ostrea edulis</i>
+                  collected in Concarneau bay (Finistère, France). These strains were characterized by a polyphasic approach, including (i) whole genome analyses with 16S rRNA gene sequence alignment and pangenome analysis, determination of the G+C content, average nucleotide identity (ANI), and
+                  <i>in silico</i>
+                  DNA-DNA hybridization (
+                  <i>is</i>
+                  DDH), and (ii) fatty acid methyl ester and other phenotypic analyses. Strains h
+                  <i>Oe</i>
+                  -66
+                  <sup>T</sup>
+                  , h
+                  <i>Oe</i>
+                  -124 and h
+                  <i>Oe</i>
+                  -125 were closely related to both type strains
+                  <i>Pseudoalteromonas rhizosphaerae</i>
+                  RA15
+                  <sup>T</sup>
+                  and
+                  <i>Pseudoalteromonas neustonica</i>
+                  PAMC 28425
+                  <sup>T</sup>
+                  with less than 93.3% ANI and 52.3%
+                  <i>is</i>
+                  DDH values. Regarding their phenotypic traits, the three strains were Gram-negative, 1-2 µm rod-shaped, aerobic, motile and non-spore-forming bacteria. Cells grew optimally at 25 °C in 2.5% NaCl and at 7-8 pH. The most abundant fatty acids were summed feature 3 (C
+                  <sub>16:1</sub>
+                  <i>ω</i>
+                  7
+                  <i>c</i>
+                  /C
+                  <sub>16:1</sub>
+                  <i>ω</i>
+                  6
+                  <i>c</i>
+                  ), C
+                  <sub>16:0</sub>
+                  and C
+                  <sub>17:1</sub>
+                  <i>ω</i>
+                  8
+                  <i>c</i>
+                  . The strains carried a genome average size of 4.64 Mb and a G+C content of 40.28 mol%. The genetic and phenotypic results suggested that strains h
+                  <i>Oe</i>
+                  -66
+                  <sup>T</sup>
+                  , h
+                  <i>Oe</i>
+                  -124 and h
+                  <i>Oe</i>
+                  -125 belong to a new species of the genus
+                  <i>Pseudoalteromonas</i>
+                  . In this context, we propose the name
+                  <i>Pseudoalteromonas ostreae</i>
+                  sp. nov. The type strain is h
+                  <i>Oe</i>
+                  -66
+                  <sup>T</sup>
+                  (=CECT 30303
+                  <sup>T</sup>
+                  =CIP 111911
+                  <sup>T</sup>
+                  ).
+               </AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+               <Author ValidYN="Y">
+                  <LastName>Cuny</LastName>
+                  <ForeName>Héléna</ForeName>
+                  <Initials>H</Initials>
+                  <AffiliationInfo>
+                     <Affiliation>Univ Brest, Univ Bretagne Sud, LBCM, EA 3884, F-29000 Quimper, F-56100 Lorient, France.</Affiliation>
+                  </AffiliationInfo>
+               </Author>
+               <Author ValidYN="Y">
+                  <LastName>Offret</LastName>
+                  <ForeName>Clément</ForeName>
+                  <Initials>C</Initials>
+                  <AffiliationInfo>
+                     <Affiliation>Univ Brest, Univ Bretagne Sud, LBCM, EA 3884, F-29000 Quimper, F-56100 Lorient, France.</Affiliation>
+                  </AffiliationInfo>
+               </Author>
+               <Author ValidYN="Y">
+                  <LastName>Boukerb</LastName>
+                  <ForeName>Amine M</ForeName>
+                  <Initials>AM</Initials>
+                  <AffiliationInfo>
+                     <Affiliation>Laboratoire de Microbiologie Signaux et Microenvironnement, LMSM EA4312, Université de Rouen Normandie, Normandie Université, Évreux, France.</Affiliation>
+                  </AffiliationInfo>
+                  <AffiliationInfo>
+                     <Affiliation>Genomics Platform, LMSM EA4312, University of Rouen-Normandy, Normandy University, Evreux, France.</Affiliation>
+                  </AffiliationInfo>
+               </Author>
+               <Author ValidYN="Y">
+                  <LastName>Parizadeh</LastName>
+                  <ForeName>Leila</ForeName>
+                  <Initials>L</Initials>
+                  <AffiliationInfo>
+                     <Affiliation>Univ Brest, Univ Bretagne Sud, LBCM, EA 3884, F-29000 Quimper, F-56100 Lorient, France.</Affiliation>
+                  </AffiliationInfo>
+               </Author>
+               <Author ValidYN="Y">
+                  <LastName>Lesouhaitier</LastName>
+                  <ForeName>Olivier</ForeName>
+                  <Initials>O</Initials>
+                  <AffiliationInfo>
+                     <Affiliation>Laboratoire de Microbiologie Signaux et Microenvironnement, LMSM EA4312, Université de Rouen Normandie, Normandie Université, Évreux, France.</Affiliation>
+                  </AffiliationInfo>
+               </Author>
+               <Author ValidYN="Y">
+                  <LastName>Le Chevalier</LastName>
+                  <ForeName>Patrick</ForeName>
+                  <Initials>P</Initials>
+                  <AffiliationInfo>
+                     <Affiliation>Univ Brest, Univ Bretagne Sud, LBCM, EA 3884, F-29000 Quimper, F-56100 Lorient, France.</Affiliation>
+                  </AffiliationInfo>
+               </Author>
+               <Author ValidYN="Y">
+                  <LastName>Jégou</LastName>
+                  <ForeName>Camille</ForeName>
+                  <Initials>C</Initials>
+                  <AffiliationInfo>
+                     <Affiliation>Univ Brest, Univ Bretagne Sud, LBCM, EA 3884, F-29000 Quimper, F-56100 Lorient, France.</Affiliation>
+                  </AffiliationInfo>
+               </Author>
+               <Author ValidYN="Y">
+                  <LastName>Bazire</LastName>
+                  <ForeName>Alexis</ForeName>
+                  <Initials>A</Initials>
+                  <AffiliationInfo>
+                     <Affiliation>Univ Brest, Univ Bretagne Sud, LBCM, EA 3884, F-29000 Quimper, F-56100 Lorient, France.</Affiliation>
+                  </AffiliationInfo>
+               </Author>
+               <Author ValidYN="Y">
+                  <LastName>Brillet</LastName>
+                  <ForeName>Benjamin</ForeName>
+                  <Initials>B</Initials>
+                  <AffiliationInfo>
+                     <Affiliation>Univ Brest, Univ Bretagne Sud, LBCM, EA 3884, F-29000 Quimper, F-56100 Lorient, France.</Affiliation>
+                  </AffiliationInfo>
+               </Author>
+               <Author ValidYN="Y">
+                  <LastName>Fleury</LastName>
+                  <ForeName>Yannick</ForeName>
+                  <Initials>Y</Initials>
+                  <AffiliationInfo>
+                     <Affiliation>Univ Brest, Univ Bretagne Sud, LBCM, EA 3884, F-29000 Quimper, F-56100 Lorient, France.</Affiliation>
+                  </AffiliationInfo>
+               </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+               <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+         </Article>
+         <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Int J Syst Evol Microbiol</MedlineTA>
+            <NlmUniqueID>100899600</NlmUniqueID>
+            <ISSNLinking>1466-5026</ISSNLinking>
+         </MedlineJournalInfo>
+         <CitationSubset>IM</CitationSubset>
+         <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Pseudoalteromonas</Keyword>
+            <Keyword MajorTopicYN="N">flat oyster</Keyword>
+            <Keyword MajorTopicYN="N">haemolymph</Keyword>
+         </KeywordList>
+      </MedlineCitation>
+      <PubmedData>
+         <History>
+            <PubMedPubDate PubStatus="entrez">
+               <Year>2021</Year>
+               <Month>11</Month>
+               <Day>5</Day>
+               <Hour>17</Hour>
+               <Minute>15</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+               <Year>2021</Year>
+               <Month>11</Month>
+               <Day>6</Day>
+               <Hour>6</Hour>
+               <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+               <Year>2021</Year>
+               <Month>11</Month>
+               <Day>6</Day>
+               <Hour>6</Hour>
+               <Minute>0</Minute>
+            </PubMedPubDate>
+         </History>
+         <PublicationStatus>ppublish</PublicationStatus>
+         <ArticleIdList>
+            <ArticleId IdType="pubmed">34739370</ArticleId>
+            <ArticleId IdType="doi">10.1099/ijsem.0.005070</ArticleId>
+         </ArticleIdList>
+      </PubmedData>
+   </PubmedArticle>
+</PubmedArticleSet>
