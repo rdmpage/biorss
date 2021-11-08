@@ -27,6 +27,13 @@ Google Scholar can send email alerts for a search term, so an obvious approach i
 
 The Google Scholar alert email is in HTML so we need to parse it and extract the information we require. Note that Google Scholar doesn’t include DOIs in the results, so we may have to resolve URLs and go hunting for DOIs. Some links may be PDFs, ideally we can find the corresponding HTML link so that we can parse that.
 
+### PubMed
+
+PubMed supports the creation of RSS feeds based on user searches, e.g.  [("new species") OR ("n. sp.") OR ("sp. nov.") OR ("n. gen.") OR ("gen. nov.") OR ("n. comb.") OR ("comb. nov.”)](https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;v=2.15.0&amp;utm_source=Rested&amp;utm_medium=rss&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;utm_campaign=pubmed-2&amp;ff=20211108074851)
+
+### Zootaxa
+
+Zootaxa has RSS feeds, but also has a taxon search feature, e.g., https://www.mapress.com/zt/search/search?query=Coleoptera&authors=&dateFromYear=2021&dateFromMonth=11&dateFromDay=&dateToYear=&dateToMonth=&dateToDay=&subject=&title=&abstract=&indexTerms= which might be used to generate taxon-specific feeds.
 
 ### Gotcha’s
 

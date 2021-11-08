@@ -1,0 +1,390 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss 
+    xmlns:dc="http://purl.org/dc/elements/1.1/" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+    <channel>
+        <title>(new species) OR (n. sp.) OR (sp. nov.) OR (n. gen.) OR (gen. nov.) OR (n. comb.) OR (comb. nov.)</title>
+        <link>https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;v=2.15.0&amp;utm_source=Rested&amp;utm_medium=rss&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;utm_campaign=pubmed-2&amp;ff=20211108074851</link>
+        <description>(new species) OR (n. sp.) OR (sp. nov.) OR (n. gen.) OR (gen. nov.) OR (n. comb.) OR (comb. nov.): Latest results from PubMed</description>
+        <atom:link href="https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;v=2.15.0&amp;utm_source=Rested&amp;utm_medium=rss&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;utm_campaign=pubmed-2&amp;ff=20211108074851" rel="self"/>
+        <docs>http://www.rssboard.org/rss-specification</docs>
+        <generator>PubMed RSS feeds (2.15.0)</generator>
+        <language>en</language>
+        <lastBuildDate>Mon, 08 Nov 2021 12:48:52 +0000</lastBuildDate>
+        <pubDate>Fri, 05 Nov 2021 06:00:00 -0400</pubDate>
+        <ttl>120</ttl>
+        <item>
+            <title>Alternaria koreana sp. nov., a new pathogen isolated from leaf spot of ovate-leaf Atractylodes in South Korea</title>
+            <link>https://pubmed.ncbi.nlm.nih.gov/34739692/?utm_source=Rested&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211108074851&amp;v=2.15.0</link>
+            <description>CONCLUSIONS: This study described and illustrated A. koreana as a new species and the causal agent of the leaf-spot disease on A. ovata in Korea.</description>
+            <content:encoded>
+                <![CDATA[<div><p style="color: #4aa564;">Mol Biol Rep. 2021 Nov 5. doi: 10.1007/s11033-021-06887-9. Online ahead of print.</p><p><b>ABSTRACT</b></p><p 
+                xmlns:xlink="http://www.w3.org/1999/xlink" 
+                xmlns:mml="http://www.w3.org/1998/Math/MathML" 
+                xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: A new species within the genus Alternaria was isolated from the leaf spot of Atractylodes ovata in the Mungyeong and Hwabuk-myeon districts of the Gyeongbuk province of Korea. The leaves showed disease symptoms such as circular or irregular leaf spots and brown to dark brown with gray spots at the center. The leaves also showed that concentric rings were surrounded with yellow halos.</p><p 
+                xmlns:xlink="http://www.w3.org/1999/xlink" 
+                xmlns:mml="http://www.w3.org/1998/Math/MathML" 
+                xmlns:p1="http://pubmed.gov/pub-one">METHODS AND RESULTS: Phylogenetic analysis was conducted using the sequence dataset of the internal transcribed spacer region and part of the glyceraldehyde-3-phosphate dehydrogenase. The RNA polymerase II second largest subunit, endopolygalacturonase, Alternaria major allergen gene, anonymous gene region, and translation elongation factor 1-alpha genes were used as well. Results showed that present fungal isolates were distinct from other species of the sect. Alternaria. Morphologically, the present isolates also differed from other members of the sect. Alternaria in their production of solitary conidia or conidial chains (two units) and conidial body features. Similarly, it exhibited moderate pathogenicity in the host plant.</p><p 
+                xmlns:xlink="http://www.w3.org/1999/xlink" 
+                xmlns:mml="http://www.w3.org/1998/Math/MathML" 
+                xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: This study described and illustrated A. koreana as a new species and the causal agent of the leaf-spot disease on A. ovata in Korea.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34739692/?utm_source=Rested&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211108074851&v=2.15.0">34739692</a> | DOI:<a href=https://doi.org/10.1007/s11033-021-06887-9>10.1007/s11033-021-06887-9</a></p></div>]]>
+            </content:encoded>
+            <guid isPermaLink="false">pubmed:34739692</guid>
+            <pubDate>Fri, 05 Nov 2021 06:00:00 -0400</pubDate>
+            <dc:creator>Bekale Be Ndong Dimitri Romain</dc:creator>
+            <dc:creator>Oliul Hassan</dc:creator>
+            <dc:creator>Ju Sung Kim</dc:creator>
+            <dc:creator>Taehyun Chang</dc:creator>
+            <dc:date>2021-11-05</dc:date>
+            <dc:source>Molecular biology reports</dc:source>
+            <dc:title>Alternaria koreana sp. nov., a new pathogen isolated from leaf spot of ovate-leaf Atractylodes in South Korea</dc:title>
+            <dc:identifier>pmid:34739692</dc:identifier>
+            <dc:identifier>doi:10.1007/s11033-021-06887-9</dc:identifier>
+        </item>
+        <item>
+            <title>Pseudoalteromonas ostreae sp. nov., a new bacterial species harboured by the flat oyster Ostrea edulis</title>
+            <link>https://pubmed.ncbi.nlm.nih.gov/34739370/?utm_source=Rested&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211108074851&amp;v=2.15.0</link>
+            <description>Three bacterial strains, named hOe-66^(T), hOe-124 and hOe-125, were isolated from the haemolymph of different specimens of the flat oyster Ostrea edulis collected in Concarneau bay (Finistère, France). These strains were characterized by a polyphasic approach, including (i) whole genome analyses with 16S rRNA gene sequence alignment and pangenome analysis, determination of the G+C content, average nucleotide identity (ANI), and in silico DNA-DNA hybridization (isDDH), and (ii) fatty acid methyl...</description>
+            <content:encoded>
+                <![CDATA[<div><p style="color: #4aa564;">Int J Syst Evol Microbiol. 2021 Nov;71(11). doi: 10.1099/ijsem.0.005070.</p><p><b>ABSTRACT</b></p><p 
+                xmlns:xlink="http://www.w3.org/1999/xlink" 
+                xmlns:mml="http://www.w3.org/1998/Math/MathML" 
+                xmlns:p1="http://pubmed.gov/pub-one">Three bacterial strains, named h<i>Oe</i>-66<sup>T</sup>, h<i>Oe</i>-124 and h<i>Oe</i>-125, were isolated from the haemolymph of different specimens of the flat oyster <i>Ostrea edulis</i> collected in Concarneau bay (Finistère, France). These strains were characterized by a polyphasic approach, including (i) whole genome analyses with 16S rRNA gene sequence alignment and pangenome analysis, determination of the G+C content, average nucleotide identity (ANI), and <i>in silico</i> DNA-DNA hybridization (<i>is</i>DDH), and (ii) fatty acid methyl ester and other phenotypic analyses. Strains h<i>Oe</i>-66<sup>T</sup>, h<i>Oe</i>-124 and h<i>Oe</i>-125 were closely related to both type strains <i>Pseudoalteromonas rhizosphaerae</i> RA15<sup>T</sup> and <i>Pseudoalteromonas neustonica</i> PAMC 28425<sup>T</sup> with less than 93.3% ANI and 52.3% <i>is</i>DDH values. Regarding their phenotypic traits, the three strains were Gram-negative, 1-2 µm rod-shaped, aerobic, motile and non-spore-forming bacteria. Cells grew optimally at 25 °C in 2.5% NaCl and at 7-8 pH. The most abundant fatty acids were summed feature 3 (C<sub>16:1</sub><i>ω</i>7<i>c</i>/C<sub>16:1</sub><i>ω</i>6<i>c</i>), C<sub>16:0</sub> and C<sub>17:1</sub><i>ω</i>8<i>c</i>. The strains carried a genome average size of 4.64 Mb and a G+C content of 40.28 mol%. The genetic and phenotypic results suggested that strains h<i>Oe</i>-66<sup>T</sup>, h<i>Oe</i>-124 and h<i>Oe</i>-125 belong to a new species of the genus <i>Pseudoalteromonas</i>. In this context, we propose the name <i>Pseudoalteromonas ostreae</i> sp. nov. The type strain is h<i>Oe</i>-66<sup>T</sup> (=CECT 30303<sup>T</sup>=CIP 111911<sup>T</sup>).</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34739370/?utm_source=Rested&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211108074851&v=2.15.0">34739370</a> | DOI:<a href=https://doi.org/10.1099/ijsem.0.005070>10.1099/ijsem.0.005070</a></p></div>]]>
+            </content:encoded>
+            <guid isPermaLink="false">pubmed:34739370</guid>
+            <pubDate>Fri, 05 Nov 2021 06:00:00 -0400</pubDate>
+            <dc:creator>Héléna Cuny</dc:creator>
+            <dc:creator>Clément Offret</dc:creator>
+            <dc:creator>Amine M Boukerb</dc:creator>
+            <dc:creator>Leila Parizadeh</dc:creator>
+            <dc:creator>Olivier Lesouhaitier</dc:creator>
+            <dc:creator>Patrick Le Chevalier</dc:creator>
+            <dc:creator>Camille Jégou</dc:creator>
+            <dc:creator>Alexis Bazire</dc:creator>
+            <dc:creator>Benjamin Brillet</dc:creator>
+            <dc:creator>Yannick Fleury</dc:creator>
+            <dc:date>2021-11-05</dc:date>
+            <dc:source>International journal of systematic and evolutionary microbiology</dc:source>
+            <dc:title>Pseudoalteromonas ostreae sp. nov., a new bacterial species harboured by the flat oyster Ostrea edulis</dc:title>
+            <dc:identifier>pmid:34739370</dc:identifier>
+            <dc:identifier>doi:10.1099/ijsem.0.005070</dc:identifier>
+        </item>
+        <item>
+            <title>Chryseobacterium endalhagicum sp. nov., isolated from seed of leguminous plant</title>
+            <link>https://pubmed.ncbi.nlm.nih.gov/34739366/?utm_source=Rested&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211108074851&amp;v=2.15.0</link>
+            <description>A Gram-stain-negative, yellow-pigmented bacterium, designated as L7^(T), was isolated from seeds of Alhagi sparsifolia Shap., a leguminous plant that grows in northwest PR China. Strain L7^(T) was found to be non-flagellated, non-spore forming rods which can grow at 10-37 °C, pH 6.0-8.5 and in 0-3 % (v/w) NaCl concentration. The 16S rRNA gene sequence analysis showed that strain L7^(T) belongs to the genus Chryseobacterium with sequence similarities to Chryseobacterium vietnamense GIMN1.005^(T)...</description>
+            <content:encoded>
+                <![CDATA[<div><p style="color: #4aa564;">Int J Syst Evol Microbiol. 2021 Nov;71(11). doi: 10.1099/ijsem.0.005077.</p><p><b>ABSTRACT</b></p><p 
+                xmlns:xlink="http://www.w3.org/1999/xlink" 
+                xmlns:mml="http://www.w3.org/1998/Math/MathML" 
+                xmlns:p1="http://pubmed.gov/pub-one">A Gram-stain-negative, yellow-pigmented bacterium, designated as L7<sup>T</sup>, was isolated from seeds of <i>Alhagi sparsifolia</i> Shap., a leguminous plant that grows in northwest PR China. Strain L7<sup>T</sup> was found to be non-flagellated, non-spore forming rods which can grow at 10-37 °C, pH 6.0-8.5 and in 0-3 % (v/w) NaCl concentration. The 16S rRNA gene sequence analysis showed that strain L7<sup>T</sup> belongs to the genus <i>Chryseobacterium</i> with sequence similarities to <i>Chryseobacterium vietnamense</i> GIMN1.005<sup>T</sup> (98.1%), <i>C. bernardetii</i> NCCTC13530<sup>T</sup> (98.0%), <i>C. vrystaatense</i> LMG 22846<sup>T</sup> (97.9%), <i>C. nakagawai</i> NCTC13529<sup>T</sup> (97.7%), <i>C. shigense</i> DSM 17126<sup>T</sup> (97.6%) and <i>C. rhizosphaerae</i> RSB3-1<sup>T</sup> (97.5%). The average nucleotide identity of strain L7<sup>T</sup> to 31 reference strains were 78.6-85.6 %, lower than the species delineation threshold of 95 %. MK-6 was the only respiratory quinone of L7<sup>T</sup> and major fatty acids were iso-C<sub>15 : 0</sub>, iso-C<sub>17 : 0</sub> 3-OH, C<sub>16 : 1</sub><i> ω</i>7<i>c</i> and/or C<sub>16 : 1</sub><i> ω</i>6<i>c</i>, isoC<sub>17 : 1</sub><i> ω</i>9<i>c</i> and/or C<sub>16 : 0</sub> 10-methyl. The major polar lipids were phosphatidylethanolamine, phosphatidylglycerol, three unidentified aminophospholipids, two unidentified aminolipids, three unidentified glycolipids and two unidentified lipids. The G+C content of the genome was 38.58 mol%. On the basis of polyphasic taxonomy analyses in this study, strain L7<sup>T</sup> is considered to represent a novel species in the genus <i>Chryseobacterium</i>, for which the name <i>Chryseobacterium endalhagicum</i> sp. nov. is proposed. The type strain is L7<sup>T</sup> (=MCCC 1K05687<sup>T</sup>=JCM 34506<sup>T</sup>).</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34739366/?utm_source=Rested&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211108074851&v=2.15.0">34739366</a> | DOI:<a href=https://doi.org/10.1099/ijsem.0.005077>10.1099/ijsem.0.005077</a></p></div>]]>
+            </content:encoded>
+            <guid isPermaLink="false">pubmed:34739366</guid>
+            <pubDate>Fri, 05 Nov 2021 06:00:00 -0400</pubDate>
+            <dc:creator>Xiaobo Zhang</dc:creator>
+            <dc:creator>Xingyan Guo</dc:creator>
+            <dc:creator>Mayina Kahaer</dc:creator>
+            <dc:creator>Tingting Tian</dc:creator>
+            <dc:creator>Yuping Sun</dc:creator>
+            <dc:date>2021-11-05</dc:date>
+            <dc:source>International journal of systematic and evolutionary microbiology</dc:source>
+            <dc:title>Chryseobacterium endalhagicum sp. nov., isolated from seed of leguminous plant</dc:title>
+            <dc:identifier>pmid:34739366</dc:identifier>
+            <dc:identifier>doi:10.1099/ijsem.0.005077</dc:identifier>
+        </item>
+        <item>
+            <title>Desulfomarina profundi gen. nov., sp. nov., a novel mesophilic, hydrogen-oxidizing, sulphate-reducing chemolithoautotroph isolated from a deep-sea hydrothermal vent chimney</title>
+            <link>https://pubmed.ncbi.nlm.nih.gov/34739365/?utm_source=Rested&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211108074851&amp;v=2.15.0</link>
+            <description>A novel mesophilic, strictly anaerobic, chemolithoautotrophic sulphate-reducing bacterium, designated strain KT2^(T), was isolated from a deep-sea hydrothermal vent chimney at the Suiyo Seamount in the Izu-Bonin Arc. Strain KT2^(T) grew at 25-40 °C (optimum 35 °C) and pH 5.5-7.0 (optimum 6.6) in the presence of 25-45 g l^(-1) NaCl (optimum 30 g l^(-1)). Growth occurred with molecular hydrogen as the electron donor and sulphate, thiosulphate, and sulphite as the electron acceptors. The isolate...</description>
+            <content:encoded>
+                <![CDATA[<div><p style="color: #4aa564;">Int J Syst Evol Microbiol. 2021 Nov;71(11). doi: 10.1099/ijsem.0.005083.</p><p><b>ABSTRACT</b></p><p 
+                xmlns:xlink="http://www.w3.org/1999/xlink" 
+                xmlns:mml="http://www.w3.org/1998/Math/MathML" 
+                xmlns:p1="http://pubmed.gov/pub-one">A novel mesophilic, strictly anaerobic, chemolithoautotrophic sulphate-reducing bacterium, designated strain KT2<sup>T</sup>, was isolated from a deep-sea hydrothermal vent chimney at the Suiyo Seamount in the Izu-Bonin Arc. Strain KT2<sup>T</sup> grew at 25-40 °C (optimum 35 °C) and pH 5.5-7.0 (optimum 6.6) in the presence of 25-45 g l<sup>-1</sup> NaCl (optimum 30 g l<sup>-1</sup>). Growth occurred with molecular hydrogen as the electron donor and sulphate, thiosulphate, and sulphite as the electron acceptors. The isolate utilized CO<sub>2</sub> as the sole carbon source for chemolithoautotrophic growth on H<sub>2</sub>. Glycerol, succinate, fumarate, malate, glutamate, or casamino acids could serve as an alternative electron donor in the presence of CO<sub>2</sub>. Malate, citrate, glutamate, and casamino acids were used as fermentative substrates for weak growth. The G+C content of genomic DNA was 46.1 %. Phylogenetic analysis of the 16S rRNA gene sequence indicated that strain KT2<sup>T</sup> is a member of the family <i>Desulfobulbaceae</i>, showing a sequence similarity of 94.3 % with <i>Desulforhopalus singaporensis</i>. Phylogenomic analysis based on concatenated 156 single-copy marker genes confirmed the same topology as the 16S rRNA gene phylogeny. The ANI and AAI values between strain KT2<sup>T</sup> and related genera of the family <i>Desulfobulbaceae</i> were 65.6-68.6 % and 53.1-62.9 %. Based on the genomic, molecular, and physiological characteristics, strain KT2<sup>T</sup> represents a novel genus and species within the family <i>Desulfobulbaceae</i>, for which the name <i>Desulfomarina profundi</i> gen. nov., sp. nov. is proposed, with KT2<sup>T</sup> (=JCM 34118<sup>T</sup> = DSM 111364<sup>T</sup>) as the type strain.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34739365/?utm_source=Rested&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211108074851&v=2.15.0">34739365</a> | DOI:<a href=https://doi.org/10.1099/ijsem.0.005083>10.1099/ijsem.0.005083</a></p></div>]]>
+            </content:encoded>
+            <guid isPermaLink="false">pubmed:34739365</guid>
+            <pubDate>Fri, 05 Nov 2021 06:00:00 -0400</pubDate>
+            <dc:creator>Yurina Hashimoto</dc:creator>
+            <dc:creator>Akihiro Tame</dc:creator>
+            <dc:creator>Shigeki Sawayama</dc:creator>
+            <dc:creator>Junichi Miyazaki</dc:creator>
+            <dc:creator>Ken Takai</dc:creator>
+            <dc:creator>Satoshi Nakagawa</dc:creator>
+            <dc:date>2021-11-05</dc:date>
+            <dc:source>International journal of systematic and evolutionary microbiology</dc:source>
+            <dc:title>Desulfomarina profundi gen. nov., sp. nov., a novel mesophilic, hydrogen-oxidizing, sulphate-reducing chemolithoautotroph isolated from a deep-sea hydrothermal vent chimney</dc:title>
+            <dc:identifier>pmid:34739365</dc:identifier>
+            <dc:identifier>doi:10.1099/ijsem.0.005083</dc:identifier>
+        </item>
+        <item>
+            <title>Flagellatimonas centrodinii gen. nov., sp. nov., a novel member of the family Nevskiaceae isolated from toxin-producing dinoflagellate Centrodinium punctatum</title>
+            <link>https://pubmed.ncbi.nlm.nih.gov/34739364/?utm_source=Rested&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211108074851&amp;v=2.15.0</link>
+            <description>A Gram-stain-negative, aerobic, rod-shaped strain (R2A-3^(T)) was isolated from the toxin-producing dinoflagellate Centrodinium punctatum and identified as a novel genus and new species based on a polyphasic taxonomic approach. The optimum conditions for growth of the strain were at 25 °C, pH 8.0 and in the presence of 3 % (w/v) NaCl. Phylogenetic analyses based on 16S rRNA genes and 92 core genes sets revealed that strain R2A-3^(T) belongs to the family Nevskiaceae in the class...</description>
+            <content:encoded>
+                <![CDATA[<div><p style="color: #4aa564;">Int J Syst Evol Microbiol. 2021 Nov;71(11). doi: 10.1099/ijsem.0.005084.</p><p><b>ABSTRACT</b></p><p 
+                xmlns:xlink="http://www.w3.org/1999/xlink" 
+                xmlns:mml="http://www.w3.org/1998/Math/MathML" 
+                xmlns:p1="http://pubmed.gov/pub-one">A Gram-stain-negative, aerobic, rod-shaped strain (R2A-3<sup>T</sup>) was isolated from the toxin-producing dinoflagellate <i>Centrodinium punctatum</i> and identified as a novel genus and new species based on a polyphasic taxonomic approach. The optimum conditions for growth of the strain were at 25 °C, pH 8.0 and in the presence of 3 % (w/v) NaCl. Phylogenetic analyses based on 16S rRNA genes and 92 core genes sets revealed that strain R2A-3<sup>T</sup> belongs to the family <i>Nevskiaceae</i> in the class <i>Gammaproteobacteria</i> and represented an independent taxon separated from other genera. The 16S rRNA gene of strain R2A-3<sup>T</sup> showed the highest sequence similarity to <i>Polycyclovorans algicola</i> TG408<sup>T</sup> (95.2%), <i>Fontimonas thermophila</i> HA-01<sup>T</sup> (94.1%) and <i>Sinimarinibacterium flocculans</i> NH6-24<sup>T</sup> (93.2%), and less than 92.8 % similarity to other genera in the family <i>Nevskiaceae</i>. The genome length of strain R2A-3<sup>T</sup> was 3608892 bp with 65.2 mol% G+C content. Summed feature 8 (comprising C<sub>18 : 1</sub><i> ω</i>7<i>c</i> and/or C<sub>18 : 1</sub><i> ω</i>6<i>c</i>) was the major fatty acid (&gt;10 %). Diphosphatidylglycerol, phosphatidylglycerol and phosphatidylethanolamine were detected as the major polar lipids. The major respiratory quinone was ubiquinone-8. According to its phylogenetic, phenotypic, chemotaxonomic and genomic features, strain R2A-3<sup>T</sup> represents a new species in the new genus of the family <i>Nevskiaceae</i>. It is recommended to name it <i>Flagellatimonas centrodinii</i> gen. nov., sp. nov. The type strain is R2A-3<sup>T</sup> (=KCTC 82469<sup>T</sup>=GDMCC 1.2523<sup>T</sup>).</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34739364/?utm_source=Rested&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211108074851&v=2.15.0">34739364</a> | DOI:<a href=https://doi.org/10.1099/ijsem.0.005084>10.1099/ijsem.0.005084</a></p></div>]]>
+            </content:encoded>
+            <guid isPermaLink="false">pubmed:34739364</guid>
+            <pubDate>Fri, 05 Nov 2021 06:00:00 -0400</pubDate>
+            <dc:creator>Yue Jiang</dc:creator>
+            <dc:creator>Lingmin Jiang</dc:creator>
+            <dc:creator>Yuxin Peng</dc:creator>
+            <dc:creator>Ki-Hyun Kim</dc:creator>
+            <dc:creator>Hyeon Ho Shin</dc:creator>
+            <dc:creator>Young-Min Kim</dc:creator>
+            <dc:creator>Jiyoung Lee</dc:creator>
+            <dc:creator>Zhun Li</dc:creator>
+            <dc:date>2021-11-05</dc:date>
+            <dc:source>International journal of systematic and evolutionary microbiology</dc:source>
+            <dc:title>Flagellatimonas centrodinii gen. nov., sp. nov., a novel member of the family Nevskiaceae isolated from toxin-producing dinoflagellate Centrodinium punctatum</dc:title>
+            <dc:identifier>pmid:34739364</dc:identifier>
+            <dc:identifier>doi:10.1099/ijsem.0.005084</dc:identifier>
+        </item>
+        <item>
+            <title>Fusibacter ferrireducens sp. nov., an anaerobic, Fe()- and sulphur-reducing bacterium isolated from mangrove sediment</title>
+            <link>https://pubmed.ncbi.nlm.nih.gov/34739363/?utm_source=Rested&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211108074851&amp;v=2.15.0</link>
+            <description>An anaerobic, alkaliphilic, halotolerant, Gram-stain-positive and rod-shaped bacterium, designated Q10-2^(T), was isolated from mangrove sediment sampled at the Jiulong river estuary, PR China. The cells of strain Q10-2^(T) were motile and 0.5×2-4 µm in size. Strain Q10-2^(T) grew at 8-45 °C (optimum, 32 °C), at pH 7.0-10.5 (optimum, pH 8.5) and in the presence of 0-6 % (w/v) NaCl (optimum, 3 %). It could use complex organic compounds and carbohydrates including d-fructose, d-galactose,...</description>
+            <content:encoded>
+                <![CDATA[<div><p style="color: #4aa564;">Int J Syst Evol Microbiol. 2021 Nov;71(11). doi: 10.1099/ijsem.0.004952.</p><p><b>ABSTRACT</b></p><p 
+                xmlns:xlink="http://www.w3.org/1999/xlink" 
+                xmlns:mml="http://www.w3.org/1998/Math/MathML" 
+                xmlns:p1="http://pubmed.gov/pub-one">An anaerobic, alkaliphilic, halotolerant, Gram-stain-positive and rod-shaped bacterium, designated Q10-2<sup>T</sup>, was isolated from mangrove sediment sampled at the Jiulong river estuary, PR China. The cells of strain Q10-2<sup>T</sup> were motile and 0.5×2-4 µm in size. Strain Q10-2<sup>T</sup> grew at 8-45 °C (optimum, 32 °C), at pH 7.0-10.5 (optimum, pH 8.5) and in the presence of 0-6 % (w/v) NaCl (optimum, 3 %). It could use complex organic compounds and carbohydrates including d-fructose, d-galactose, d-glucose, d-mannitol, d-xylose, trehalose, lactose, maltose, sucrose and starch as carbon sources and electron donors. It could reduce sulphate, thiosulphate and elemental sulphur to sulphide, but not sulphite. Fe (Ⅲ) citrate, ferrihydrite, haematite and goethite in the presence of glucose as the electron donor were also reduced. Acetate, butyrate, ethanol, CO<sub>2</sub> and H<sub>2</sub> were end products of glucose fermentation. The predominant cellular fatty acids were composed of C<sub>14 : 0</sub>, C<sub>16 : 0</sub> and summed features containing C<sub>16 : 1</sub> ω7<i>c</i> and/or iso-C<sub>15 : 0</sub> 2-OH and iso-C<sub>17 : 1</sub> and/or anteiso-C<sub>17 : 1</sub> B. Phylogenetic analysis based on 16S rRNA gene sequences indicated that the novel strain was most closely related to <i>Fusibacter paucivorans</i> DSM 12116<sup>T</sup> (95.5 % sequence similarity). The genome size of strain Q10-2<sup>T</sup> was 5.0 Mb, with a G+C content of 37.4 mol%. The average nucleotide identity and digital DNA-DNA hybridization values between strain Q10-2<sup>T</sup> and <i>F. paucivorans</i> DSM 12116<sup>T</sup> were 69.1 and 21.8 %, respectively. The combined genotypic and phenotypic data showed that strain Q10-2<sup>T</sup> represents a novel species of the genus <i>Fusibacter</i>, for which the name <i>Fusibacter ferrireducens</i> sp. nov. is proposed. The type strain is Q10-2<sup>T</sup> (=MCCC 1A16257<sup>T</sup>=KCTC 15906<sup>T</sup>).</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34739363/?utm_source=Rested&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211108074851&v=2.15.0">34739363</a> | DOI:<a href=https://doi.org/10.1099/ijsem.0.004952>10.1099/ijsem.0.004952</a></p></div>]]>
+            </content:encoded>
+            <guid isPermaLink="false">pubmed:34739363</guid>
+            <pubDate>Fri, 05 Nov 2021 06:00:00 -0400</pubDate>
+            <dc:creator>Donghua Qiu</dc:creator>
+            <dc:creator>Xiang Zeng</dc:creator>
+            <dc:creator>Lingyu Zeng</dc:creator>
+            <dc:creator>Guangyu Li</dc:creator>
+            <dc:creator>Zongze Shao</dc:creator>
+            <dc:date>2021-11-05</dc:date>
+            <dc:source>International journal of systematic and evolutionary microbiology</dc:source>
+            <dc:title>Fusibacter ferrireducens sp. nov., an anaerobic, Fe()- and sulphur-reducing bacterium isolated from mangrove sediment</dc:title>
+            <dc:identifier>pmid:34739363</dc:identifier>
+            <dc:identifier>doi:10.1099/ijsem.0.004952</dc:identifier>
+        </item>
+        <item>
+            <title>Sheltered life beneath elytra: three new species of Eutarsopolipus (Acari, Heterostigmatina, Podapolipidae) parasitizing Australian ground beetles</title>
+            <link>https://pubmed.ncbi.nlm.nih.gov/34738903/?utm_source=Rested&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211108074851&amp;v=2.15.0</link>
+            <description>In this study, we conducted a summer sampling of carabid beetles in eastern Australia to identify their associated parasitic mites. Here, we describe three new species of the genus Eutarsopolipus from under the elytra (forewings) of three native carabid species (Coleoptera: Carabidae): Eutarsopolipus paryavae n. sp. (pterostichi group) from Geoscaptus laevissimus Chaudoir; Eutarsopolipus pulcher n. sp. (leytei group) from Gnathaphanus pulcher (Dejean); and Eutarsopolipus chlaenii n. sp. (myzus...</description>
+            <content:encoded>
+                <![CDATA[<div><p style="color: #4aa564;">Parasite. 2021;28:75. doi: 10.1051/parasite/2021069. Epub 2021 Nov 5.</p><p><b>ABSTRACT</b></p><p 
+                xmlns:xlink="http://www.w3.org/1999/xlink" 
+                xmlns:mml="http://www.w3.org/1998/Math/MathML" 
+                xmlns:p1="http://pubmed.gov/pub-one">In this study, we conducted a summer sampling of carabid beetles in eastern Australia to identify their associated parasitic mites. Here, we describe three new species of the genus Eutarsopolipus from under the elytra (forewings) of three native carabid species (Coleoptera: Carabidae): Eutarsopolipus paryavae n. sp. (pterostichi group) from Geoscaptus laevissimus Chaudoir; Eutarsopolipus pulcher n. sp. (leytei group) from Gnathaphanus pulcher (Dejean); and Eutarsopolipus chlaenii n. sp. (myzus group) from Chlaenius flaviguttatus Macleay. We further provide an identification key of the world species of pterostichi and leytei species groups as well as closely related species of the myzus group possessing similar characters including short cheliceral stylets. The significant diversity of Eutarsopolipus recovered here suggests that the current knowledge about Australian podapolipid mites (specially Eutarsopolipus) is still in its infancy and deserves further study.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34738903/?utm_source=Rested&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211108074851&v=2.15.0">34738903</a> | DOI:<a href=https://doi.org/10.1051/parasite/2021069>10.1051/parasite/2021069</a></p></div>]]>
+            </content:encoded>
+            <guid isPermaLink="false">pubmed:34738903</guid>
+            <pubDate>Fri, 05 Nov 2021 06:00:00 -0400</pubDate>
+            <dc:creator>Alihan Katlav</dc:creator>
+            <dc:creator>Hamidreza Hajiqanbar</dc:creator>
+            <dc:creator>Markus Riegler</dc:creator>
+            <dc:creator>Owen D Seeman</dc:creator>
+            <dc:date>2021-11-05</dc:date>
+            <dc:source>Parasite (Paris, France)</dc:source>
+            <dc:title>Sheltered life beneath elytra: three new species of Eutarsopolipus (Acari, Heterostigmatina, Podapolipidae) parasitizing Australian ground beetles</dc:title>
+            <dc:identifier>pmid:34738903</dc:identifier>
+            <dc:identifier>doi:10.1051/parasite/2021069</dc:identifier>
+        </item>
+        <item>
+            <title>Detection of a novel enterotropic Mycoplasma gallisepticum-like in European Starling (Sturnus vulgaris) around poultry farms in France</title>
+            <link>https://pubmed.ncbi.nlm.nih.gov/34738732/?utm_source=Rested&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211108074851&amp;v=2.15.0</link>
+            <description>Recent outbreaks of highly pathogenic avian influenza in southwest France have raised questions regarding the role of commensal wild birds in the introduction and dissemination of pathogens between poultry farms. To assess possible infectious contacts at the wild-domestic bird interface, the presence of Mycoplasma gallisepticum (MG) was studied in the two sympatric compartments in southwest France. Among various peridomestic wild birds (n = 385), standard PCR primers targeting the 16S rRNA of MG...</description>
+            <content:encoded>
+                <![CDATA[<div><p style="color: #4aa564;">Transbound Emerg Dis. 2021 Nov 5. doi: 10.1111/tbed.14382. Online ahead of print.</p><p><b>ABSTRACT</b></p><p 
+                xmlns:xlink="http://www.w3.org/1999/xlink" 
+                xmlns:mml="http://www.w3.org/1998/Math/MathML" 
+                xmlns:p1="http://pubmed.gov/pub-one">Recent outbreaks of highly pathogenic avian influenza in southwest France have raised questions regarding the role of commensal wild birds in the introduction and dissemination of pathogens between poultry farms. To assess possible infectious contacts at the wild-domestic bird interface, the presence of Mycoplasma gallisepticum (MG) was studied in the two sympatric compartments in southwest France. Among various peridomestic wild birds (n = 385), standard PCR primers targeting the 16S rRNA of MG showed a high apparent prevalence (up to 45%) in cloacal swabs of European starlings (Sturnus vulgaris, n = 108), while the MG-specific mgc2 gene was not detected. No tracheal swab of these birds tested positive, and no clinical sign was observed in positive birds, suggesting commensalism in the digestive tract of starlings. A mycoplasma strain was then isolated from a starling swab and its whole genome was sequenced using both Illumina and Nanopore technologies. Phylogenetic analysis showed that it was closely related to MG and M. tullyi, although it was a distinct species. A pair of specific PCR primers targeting the mgc2-like gene of this MG-like strain was designed and used to screen again the same avian populations and a wintering urban population of starlings (n = 50). Previous PCR results obtained in starlings were confirmed to be mostly due to this strain (20/22 positive pools). In contrast, the strain was not detected in fresh faeces of urban starlings. Furthermore, it was detected in one cloacal pool of white wagtails, suggesting infectious transmissions between synanthropic birds with similar feeding behaviour. As the new starling mycoplasma was not detected in free-range ducks (n = 80) in close contact with positive starlings, nor in backyard (n = 320) and free-range commercial (n = 720) chickens of the area, it might not infect poultry. However, it could be involved in mycoplasma gene transfer in such multi-species contexts. This article is protected by copyright. All rights reserved.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34738732/?utm_source=Rested&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211108074851&v=2.15.0">34738732</a> | DOI:<a href=https://doi.org/10.1111/tbed.14382>10.1111/tbed.14382</a></p></div>]]>
+            </content:encoded>
+            <guid isPermaLink="false">pubmed:34738732</guid>
+            <pubDate>Fri, 05 Nov 2021 06:00:00 -0400</pubDate>
+            <dc:creator>Chloé Le Gall-Ladevèze</dc:creator>
+            <dc:creator>Laurent-Xavier Nouvel</dc:creator>
+            <dc:creator>Marie Souvestre</dc:creator>
+            <dc:creator>Guillaume Croville</dc:creator>
+            <dc:creator>Marie-Claude Hygonenq</dc:creator>
+            <dc:creator>Jean-Luc Guérin</dc:creator>
+            <dc:creator>Guillaume Le Loc'h</dc:creator>
+            <dc:date>2021-11-05</dc:date>
+            <dc:source>Transboundary and emerging diseases</dc:source>
+            <dc:title>Detection of a novel enterotropic Mycoplasma gallisepticum-like in European Starling (Sturnus vulgaris) around poultry farms in France</dc:title>
+            <dc:identifier>pmid:34738732</dc:identifier>
+            <dc:identifier>doi:10.1111/tbed.14382</dc:identifier>
+        </item>
+        <item>
+            <title>Morphology and molecular phylogeny of Pauciconfibuloides amazonica gen. n. sp. n. (Platyhelminthes, Monogenoidea) parasitizing the Amazonian croaker Plagioscion squamosissimus</title>
+            <link>https://pubmed.ncbi.nlm.nih.gov/34737075/?utm_source=Rested&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211108074851&amp;v=2.15.0</link>
+            <description>An integrative study was performed to understand the phylogenetic relationships of an undescribed, freshwater species of microcotylid parasitizing Plagioscion squamosissimus from the Amazon River Basin. Based on morphological and molecular analysis (18S rDNA and partial 28S rDNA genes), a new genus is proposed to accommodate its new species, Pauciconfibuloides amazonica gen. n. sp. n. The new genus is closely related to Protastomicrocotylinae and Pauciconfibula by sharing the vagina, male...</description>
+            <content:encoded>
+                <![CDATA[<div><p style="color: #4aa564;">Parasitol Int. 2021 Nov 1:102489. doi: 10.1016/j.parint.2021.102489. Online ahead of print.</p><p><b>ABSTRACT</b></p><p 
+                xmlns:xlink="http://www.w3.org/1999/xlink" 
+                xmlns:mml="http://www.w3.org/1998/Math/MathML" 
+                xmlns:p1="http://pubmed.gov/pub-one">An integrative study was performed to understand the phylogenetic relationships of an undescribed, freshwater species of microcotylid parasitizing Plagioscion squamosissimus from the Amazon River Basin. Based on morphological and molecular analysis (18S rDNA and partial 28S rDNA genes), a new genus is proposed to accommodate its new species, Pauciconfibuloides amazonica gen. n. sp. n. The new genus is closely related to Protastomicrocotylinae and Pauciconfibula by sharing the vagina, male copulatory organ, and genital atrium all unarmed. However, Pauciconfibuloides gen. n. can be distinguished from those taxa by the prostatic system and position of the vaginal pore. Molecular phylogenetic inference suggests a sister relationship with species of Polylabris (Prostatomicrocotylinae), but to date, there is no available 18S or 28S rDNA sequences of Pauciconfibula to be compared. This is the first report of a microcotylid parasitizing a freshwater sciaenid from South America.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34737075/?utm_source=Rested&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211108074851&v=2.15.0">34737075</a> | DOI:<a href=https://doi.org/10.1016/j.parint.2021.102489>10.1016/j.parint.2021.102489</a></p></div>]]>
+            </content:encoded>
+            <guid isPermaLink="false">pubmed:34737075</guid>
+            <pubDate>Fri, 05 Nov 2021 06:00:00 -0400</pubDate>
+            <dc:creator>Julio Cesar Cenci de Aguiar</dc:creator>
+            <dc:creator>Marcus Vinicius Domingues</dc:creator>
+            <dc:creator>Willian Silva</dc:creator>
+            <dc:creator>Paulo Sérgio Ceccarelli</dc:creator>
+            <dc:creator>Edson Aparecido Adriano</dc:creator>
+            <dc:creator>Geusivam Barbosa Soares</dc:creator>
+            <dc:date>2021-11-05</dc:date>
+            <dc:source>Parasitology international</dc:source>
+            <dc:title>Morphology and molecular phylogeny of Pauciconfibuloides amazonica gen. n. sp. n. (Platyhelminthes, Monogenoidea) parasitizing the Amazonian croaker Plagioscion squamosissimus</dc:title>
+            <dc:identifier>pmid:34737075</dc:identifier>
+            <dc:identifier>doi:10.1016/j.parint.2021.102489</dc:identifier>
+        </item>
+        <item>
+            <title>Sindiplozoon coreius n. sp. (Monogenea: Diplozoidae) from the gills of Coreius guichenoti (Cyprinidae) in China</title>
+            <link>https://pubmed.ncbi.nlm.nih.gov/34737072/?utm_source=Rested&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211108074851&amp;v=2.15.0</link>
+            <description>Sindiplozoon coreius n. sp. is described from the gills of Coreius guichenoti in Sichuan province, China. There is a smooth tegument and a cup-like widened area in the posterior part of the worm body, which are particular features of the genus Sindiplozoon. There are no branched intestinal caeca before the widened area, but some branches reach the fourth clamp in the hind body; there was no cross striation on the anterior arch of the anterior clamp jaw and medial part of the posterior jaw, which...</description>
+            <content:encoded>
+                <![CDATA[<div><p style="color: #4aa564;">Parasitol Int. 2021 Nov 1:102494. doi: 10.1016/j.parint.2021.102494. Online ahead of print.</p><p><b>ABSTRACT</b></p><p 
+                xmlns:xlink="http://www.w3.org/1999/xlink" 
+                xmlns:mml="http://www.w3.org/1998/Math/MathML" 
+                xmlns:p1="http://pubmed.gov/pub-one">Sindiplozoon coreius n. sp. is described from the gills of Coreius guichenoti in Sichuan province, China. There is a smooth tegument and a cup-like widened area in the posterior part of the worm body, which are particular features of the genus Sindiplozoon. There are no branched intestinal caeca before the widened area, but some branches reach the fourth clamp in the hind body; there was no cross striation on the anterior arch of the anterior clamp jaw and medial part of the posterior jaw, which are distinguished from the other species in Sindiplozoon. In addition, S. coreius n. sp. shared the highest ITS2 sequence identity (96.0%) with S. ctenopharyngodoni. The established phylogenetic tree showed that the two species of Sindiplozoon formed a sister group. The k2p genetic distance between the new species and other diplozoids was higher than 3.4%, which suggested interspecific differentiation.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34737072/?utm_source=Rested&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211108074851&v=2.15.0">34737072</a> | DOI:<a href=https://doi.org/10.1016/j.parint.2021.102494>10.1016/j.parint.2021.102494</a></p></div>]]>
+            </content:encoded>
+            <guid isPermaLink="false">pubmed:34737072</guid>
+            <pubDate>Fri, 05 Nov 2021 06:00:00 -0400</pubDate>
+            <dc:creator>Shiyi Cao</dc:creator>
+            <dc:creator>Peipei Fu</dc:creator>
+            <dc:creator>Hong Zou</dc:creator>
+            <dc:creator>Ming Li</dc:creator>
+            <dc:creator>Shangong Wu</dc:creator>
+            <dc:creator>Guitang Wang</dc:creator>
+            <dc:creator>Dijana Blazhekovikj-Dimovska</dc:creator>
+            <dc:creator>Wenxiang Li</dc:creator>
+            <dc:date>2021-11-05</dc:date>
+            <dc:source>Parasitology international</dc:source>
+            <dc:title>Sindiplozoon coreius n. sp. (Monogenea: Diplozoidae) from the gills of Coreius guichenoti (Cyprinidae) in China</dc:title>
+            <dc:identifier>pmid:34737072</dc:identifier>
+            <dc:identifier>doi:10.1016/j.parint.2021.102494</dc:identifier>
+        </item>
+        <item>
+            <title>Nitzschia anatoliensis sp. nov., a cryptic diatom species from the highly alkaline Van Lake (Turkey)</title>
+            <link>https://pubmed.ncbi.nlm.nih.gov/34733585/?utm_source=Rested&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211108074851&amp;v=2.15.0</link>
+            <description>In this article we describe Nitzschia anatoliensis Górecka, Gastineau &amp; Solak sp. nov., an example of a diatom species inhabiting extreme habitats. The new species has been isolated and successfully grown from the highly alkaline Van Lake in East Turkey. The description is based on morphology (light and scanning electron microscopy), the sequencing of its organellar genomes and several molecular phylogenies. This species could easily be overlooked because of its extreme similarity to Nitzschia...</description>
+            <content:encoded>
+                <![CDATA[<div><p style="color: #4aa564;">PeerJ. 2021 Oct 22;9:e12220. doi: 10.7717/peerj.12220. eCollection 2021.</p><p><b>ABSTRACT</b></p><p 
+                xmlns:xlink="http://www.w3.org/1999/xlink" 
+                xmlns:mml="http://www.w3.org/1998/Math/MathML" 
+                xmlns:p1="http://pubmed.gov/pub-one">In this article we describe <i>Nitzschia anatoliensis Górecka, Gastineau &amp; Solak</i> sp. nov., an example of a diatom species inhabiting extreme habitats. The new species has been isolated and successfully grown from the highly alkaline Van Lake in East Turkey. The description is based on morphology (light and scanning electron microscopy), the sequencing of its organellar genomes and several molecular phylogenies. This species could easily be overlooked because of its extreme similarity to <i>Nitzschia aurariae</i> but molecular phylogenies indicate that they are only distantly related. Furthermore, molecular data suggest that <i>N. anatoliensis</i> may occur in several alkaline lakes of Asia Minor and Siberia, but was previously misidentified as <i>Nitzschia communis</i>. It also revealed the very close genetic proximity between <i>N. anatoliensis</i> and the endosymbiont of the dinotom <i>Kryptoperidinium foliaceum</i>, providing additional clues on what might have been the original species of diatoms to enter symbiosis.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34733585/?utm_source=Rested&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211108074851&v=2.15.0">34733585</a> | PMC:<a href="https://www.ncbi.nlm.nih.gov/pmc/PMC8544256/?utm_source=Rested&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211108074851&v=2.15.0">PMC8544256</a> | DOI:<a href=https://doi.org/10.7717/peerj.12220>10.7717/peerj.12220</a></p></div>]]>
+            </content:encoded>
+            <guid isPermaLink="false">pubmed:34733585</guid>
+            <pubDate>Thu, 04 Nov 2021 06:00:00 -0400</pubDate>
+            <dc:creator>Cüneyt Nadir Solak</dc:creator>
+            <dc:creator>Romain Gastineau</dc:creator>
+            <dc:creator>Claude Lemieux</dc:creator>
+            <dc:creator>Monique Turmel</dc:creator>
+            <dc:creator>Ewa Gorecka</dc:creator>
+            <dc:creator>Rosa Trobajo</dc:creator>
+            <dc:creator>Mateusz Rybak</dc:creator>
+            <dc:creator>Elif Yılmaz</dc:creator>
+            <dc:creator>Andrzej Witkowski</dc:creator>
+            <dc:date>2021-11-04</dc:date>
+            <dc:source>PeerJ</dc:source>
+            <dc:title>Nitzschia anatoliensis sp. nov., a cryptic diatom species from the highly alkaline Van Lake (Turkey)</dc:title>
+            <dc:identifier>pmid:34733585</dc:identifier>
+            <dc:identifier>pmc:PMC8544256</dc:identifier>
+            <dc:identifier>doi:10.7717/peerj.12220</dc:identifier>
+        </item>
+        <item>
+            <title>A uniquely patterned new species of Emesis from Honduras (Riodinidae)</title>
+            <link>https://pubmed.ncbi.nlm.nih.gov/34733400/?utm_source=Rested&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211108074851&amp;v=2.15.0</link>
+            <description>Emesis eleanorae Gallardo &amp; Grishin n. sp. is described from western Honduras. It differs from other species of Emesis Fabricius, 1807 in having a row of prominent iron-gray crescent-shaped postdiscal spots on both wings above, outlined by paler areas basad and mirrored as merlot-colored spots below, with the largest by the forewing costa, and in its females being bright golden-orange in color. Genomic sequence analysis of Emesis reveals that the new species belongs to the subgenus Aphacitis...</description>
+            <content:encoded>
+                <![CDATA[<div><p style="color: #4aa564;">Trop Lepid Res. 2021 Jun;31(1):53-59. doi: 10.5281/zenodo.4966751. Epub 2021 Feb 2.</p><p><b>ABSTRACT</b></p><p 
+                xmlns:xlink="http://www.w3.org/1999/xlink" 
+                xmlns:mml="http://www.w3.org/1998/Math/MathML" 
+                xmlns:p1="http://pubmed.gov/pub-one"><i>Emesis eleanorae</i> Gallardo &amp; Grishin <b>n. sp.</b> is described from western Honduras. It differs from other species of <i>Emesis</i> Fabricius, 1807 in having a row of prominent iron-gray crescent-shaped postdiscal spots on both wings above, outlined by paler areas basad and mirrored as merlot-colored spots below, with the largest by the forewing costa, and in its females being bright golden-orange in color. Genomic sequence analysis of <i>Emesis</i> reveals that the new species belongs to the subgenus <i>Aphacitis</i> Hübner, [1819] and is sister to the clade containing <i>Emesis diogenia</i> Prittwitz, 1865 and <i>Emesis heteroclita</i> Stichel, 1929, and the clade of these three species is sister to <i>Emesis vulpina</i> Godman &amp; Salvin, 1886.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34733400/?utm_source=Rested&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211108074851&v=2.15.0">34733400</a> | PMC:<a href="https://www.ncbi.nlm.nih.gov/pmc/PMC8562727/?utm_source=Rested&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211108074851&v=2.15.0">PMC8562727</a> | DOI:<a href=https://doi.org/10.5281/zenodo.4966751>10.5281/zenodo.4966751</a></p></div>]]>
+            </content:encoded>
+            <guid isPermaLink="false">pubmed:34733400</guid>
+            <pubDate>Thu, 04 Nov 2021 06:00:00 -0400</pubDate>
+            <dc:creator>Robert J Gallardo</dc:creator>
+            <dc:creator>Jing Zhang</dc:creator>
+            <dc:creator>Qian Cong</dc:creator>
+            <dc:creator>Jinhui Shen</dc:creator>
+            <dc:creator>Nick V Grishin</dc:creator>
+            <dc:date>2021-11-04</dc:date>
+            <dc:source>Tropical lepidoptera research</dc:source>
+            <dc:title>A uniquely patterned new species of Emesis from Honduras (Riodinidae)</dc:title>
+            <dc:identifier>pmid:34733400</dc:identifier>
+            <dc:identifier>pmc:PMC8562727</dc:identifier>
+            <dc:identifier>doi:10.5281/zenodo.4966751</dc:identifier>
+        </item>
+        <item>
+            <title>Orange fringes, crenulate hindwings and genomic DNA identify a new species of Jonaspyge from Honduras (Hesperiidae: Pyrrhopyginae)</title>
+            <link>https://pubmed.ncbi.nlm.nih.gov/34733399/?utm_source=Rested&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211108074851&amp;v=2.15.0</link>
+            <description>Jonaspyge elizabethae n. sp. is described from southwestern Honduras. It is similar to the other two Jonaspyge O. Mielke, 2002 species in having metallic dark-blue wings with purple sheen, crenulate hindwing outer margin, and black body with orange palpi and an orange abdomen tip. It is diagnosed by bright-orange (instead of white) fringes and dark (instead of orange) cheeks. Genomic sequence analysis of Jonaspyge reveals that it is a close relative of Jonaspyge jonas (C. Felder &amp; R. Felder,...</description>
+            <content:encoded>
+                <![CDATA[<div><p style="color: #4aa564;">Trop Lepid Res. 2021 Jun;31(1):48-52. doi: 10.5281/zenodo.4966725. Epub 2021 Jul 2.</p><p><b>ABSTRACT</b></p><p 
+                xmlns:xlink="http://www.w3.org/1999/xlink" 
+                xmlns:mml="http://www.w3.org/1998/Math/MathML" 
+                xmlns:p1="http://pubmed.gov/pub-one"><i>Jonaspyge elizabethae</i><b>n. sp.</b> is described from southwestern Honduras. It is similar to the other two <i>Jonaspyge</i> O. Mielke, 2002 species in having metallic dark-blue wings with purple sheen, crenulate hindwing outer margin, and black body with orange palpi and an orange abdomen tip. It is diagnosed by bright-orange (instead of white) fringes and dark (instead of orange) cheeks. Genomic sequence analysis of <i>Jonaspyge</i> reveals that it is a close relative of <i>Jonaspyge jonas</i> (C. Felder &amp; R. Felder, 1859) and <i>Jonaspyge tzotzili</i> (H. Freeman, 1969), differing from them by 5.3% in the COI DNA barcode. This new, third species of <i>Jonaspyge</i> is the most divergent member of the genus.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34733399/?utm_source=Rested&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211108074851&v=2.15.0">34733399</a> | PMC:<a href="https://www.ncbi.nlm.nih.gov/pmc/PMC8562728/?utm_source=Rested&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211108074851&v=2.15.0">PMC8562728</a> | DOI:<a href=https://doi.org/10.5281/zenodo.4966725>10.5281/zenodo.4966725</a></p></div>]]>
+            </content:encoded>
+            <guid isPermaLink="false">pubmed:34733399</guid>
+            <pubDate>Thu, 04 Nov 2021 06:00:00 -0400</pubDate>
+            <dc:creator>Robert J Gallardo</dc:creator>
+            <dc:creator>Nick V Grishin</dc:creator>
+            <dc:date>2021-11-04</dc:date>
+            <dc:source>Tropical lepidoptera research</dc:source>
+            <dc:title>Orange fringes, crenulate hindwings and genomic DNA identify a new species of Jonaspyge from Honduras (Hesperiidae: Pyrrhopyginae)</dc:title>
+            <dc:identifier>pmid:34733399</dc:identifier>
+            <dc:identifier>pmc:PMC8562728</dc:identifier>
+            <dc:identifier>doi:10.5281/zenodo.4966725</dc:identifier>
+        </item>
+        <item>
+            <title>Abundance and Diversity of Ophiostomatoid Fungi Associated With the Great Spruce Bark Beetle (&lt;em&gt;Dendroctonus micans&lt;/em&gt;) in the Northeastern Qinghai-Tibet Plateau</title>
+            <link>https://pubmed.ncbi.nlm.nih.gov/34733243/?utm_source=Rested&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211108074851&amp;v=2.15.0</link>
+            <description>The role of several virulent tree pathogens in host death has been overlooked because of the aggressiveness of their associated bark beetles. The great spruce bark beetle (Dendroctonus micans) is a widely distributed beetle that infests coniferous plants in Eurasia; however, its associated fungi have been poorly studied. Therefore, in this study, we elucidated the diversity of ophiostomatoid fungi associated with D. micans in the northeastern Qinghai-Tibet Plateau through field investigation,...</description>
+            <content:encoded>
+                <![CDATA[<div><p style="color: #4aa564;">Front Microbiol. 2021 Oct 18;12:721395. doi: 10.3389/fmicb.2021.721395. eCollection 2021.</p><p><b>ABSTRACT</b></p><p 
+                xmlns:xlink="http://www.w3.org/1999/xlink" 
+                xmlns:mml="http://www.w3.org/1998/Math/MathML" 
+                xmlns:p1="http://pubmed.gov/pub-one">The role of several virulent tree pathogens in host death has been overlooked because of the aggressiveness of their associated bark beetles. The great spruce bark beetle (<i>Dendroctonus micans</i>) is a widely distributed beetle that infests coniferous plants in Eurasia; however, its associated fungi have been poorly studied. Therefore, in this study, we elucidated the diversity of ophiostomatoid fungi associated with <i>D. micans</i> in the northeastern Qinghai-Tibet Plateau through field investigation, laboratory isolation, and culture analyses. A total of 220 strains of ophiostomatoid fungi were isolated from adults and tunnel galleries of <i>D. micans</i> infesting <i>Picea crassifolia.</i> We identified that the isolated strains belonged to eight ophiostomatoid species, including five new species (<i>Ophiostoma huangnanense</i> sp. nov., <i>Ophiostoma maixiuense</i> sp. nov., <i>Ophiostoma sanum</i> sp. nov., <i>Leptographium sanjiangyuanense</i> sp. nov., and <i>Leptographium zekuense</i> sp. nov.), one undefined species (<i>Ophiostoma</i> sp. 1), and two known species (<i>Ophiostoma bicolor</i> and <i>Endoconidiophora laricicola</i>), using phylogenetic analysis of multigene DNA sequences and morphological characteristics. This is the first time that <i>E. laricicola</i>, a pioneer invader and virulent pathogen, has been reported in China. We found that <i>E. laricicola</i> was the dominant species, accounting for 40.91% of the total number of ophiostomatoid communities. This study enriched the knowledge of the fungal associates of <i>D. micans</i> and elucidated that it carried the virulent pathogen <i>E. laricicola</i> at a surprisingly high frequency. Our findings show increased species association between <i>D. micans</i> and ophiostomatoid fungi and provide a basis for understanding the occurrence of forest diseases and pests.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34733243/?utm_source=Rested&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211108074851&v=2.15.0">34733243</a> | PMC:<a href="https://www.ncbi.nlm.nih.gov/pmc/PMC8558629/?utm_source=Rested&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211108074851&v=2.15.0">PMC8558629</a> | DOI:<a href=https://doi.org/10.3389/fmicb.2021.721395>10.3389/fmicb.2021.721395</a></p></div>]]>
+            </content:encoded>
+            <guid isPermaLink="false">pubmed:34733243</guid>
+            <pubDate>Thu, 04 Nov 2021 06:00:00 -0400</pubDate>
+            <dc:creator>Zheng Wang</dc:creator>
+            <dc:creator>Qinzheng Zhou</dc:creator>
+            <dc:creator>Guiheng Zheng</dc:creator>
+            <dc:creator>Jiaxing Fang</dc:creator>
+            <dc:creator>Fuzhong Han</dc:creator>
+            <dc:creator>Xingyao Zhang</dc:creator>
+            <dc:creator>Quan Lu</dc:creator>
+            <dc:date>2021-11-04</dc:date>
+            <dc:source>Frontiers in microbiology</dc:source>
+            <dc:title>Abundance and Diversity of Ophiostomatoid Fungi Associated With the Great Spruce Bark Beetle (&lt;em&gt;Dendroctonus micans&lt;/em&gt;) in the Northeastern Qinghai-Tibet Plateau</dc:title>
+            <dc:identifier>pmid:34733243</dc:identifier>
+            <dc:identifier>pmc:PMC8558629</dc:identifier>
+            <dc:identifier>doi:10.3389/fmicb.2021.721395</dc:identifier>
+        </item>
+        <item>
+            <title>Fuzzy species borders of glacial survivalists in the Carpathian biodiversity hotspot revealed using a multimarker approach</title>
+            <link>https://pubmed.ncbi.nlm.nih.gov/34732763/?utm_source=Rested&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211108074851&amp;v=2.15.0</link>
+            <description>The Carpathians are one of the key biodiversity hotspots in Europe. The mountain chain uplifted during Alpine orogenesis and is characterised by a complex geological history. Its current biodiversity was highly influenced by Pleistocene glaciations. The goal of the current study was to examine the phylogenetic and demographic history of Gammarus balcanicus species complex in the Carpathians using multiple markers as well as to delimit, using an integrative approach, and describe new species...</description>
+            <content:encoded>
+                <![CDATA[<div><p style="color: #4aa564;">Sci Rep. 2021 Nov 3;11(1):21629. doi: 10.1038/s41598-021-00320-8.</p><p><b>ABSTRACT</b></p><p 
+                xmlns:xlink="http://www.w3.org/1999/xlink" 
+                xmlns:mml="http://www.w3.org/1998/Math/MathML" 
+                xmlns:p1="http://pubmed.gov/pub-one">The Carpathians are one of the key biodiversity hotspots in Europe. The mountain chain uplifted during Alpine orogenesis and is characterised by a complex geological history. Its current biodiversity was highly influenced by Pleistocene glaciations. The goal of the current study was to examine the phylogenetic and demographic history of Gammarus balcanicus species complex in the Carpathians using multiple markers as well as to delimit, using an integrative approach, and describe new species hidden so far under the name G. balcanicus. Results showed that divergence of the studied lineages reaches back to the Miocene, which supports the hypothesis of their survival in multiple micro refugia. Moreover, the increase of their diversification rate in the Pleistocene suggests that glaciation was the driving force of their speciation. The climatic changes during and after the Pleistocene also played a major role in the demography of the local Carpathian lineages. Comparison of diversity patterns and phylogenetic relationships of both, the mitochondrial and nuclear markers, provide evidence of putative hybridisation and retention of ancient polymorphism (i.e., incomplete lineage sorting). The morphological examination supported the existence of two morphological types; one we describe as a G. stasiuki sp. nov. and another we redescribe as a G. tatrensis (S. Karaman, 1931).</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34732763/?utm_source=Rested&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211108074851&v=2.15.0">34732763</a> | PMC:<a href="https://www.ncbi.nlm.nih.gov/pmc/PMC8566499/?utm_source=Rested&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211108074851&v=2.15.0">PMC8566499</a> | DOI:<a href=https://doi.org/10.1038/s41598-021-00320-8>10.1038/s41598-021-00320-8</a></p></div>]]>
+            </content:encoded>
+            <guid isPermaLink="false">pubmed:34732763</guid>
+            <pubDate>Thu, 04 Nov 2021 06:00:00 -0400</pubDate>
+            <dc:creator>Tomasz Mamos</dc:creator>
+            <dc:creator>Krzysztof Jażdżewski</dc:creator>
+            <dc:creator>Zuzana Čiamporová-Zaťovičová</dc:creator>
+            <dc:creator>Fedor Čiampor</dc:creator>
+            <dc:creator>Michał Grabowski</dc:creator>
+            <dc:date>2021-11-04</dc:date>
+            <dc:source>Scientific reports</dc:source>
+            <dc:title>Fuzzy species borders of glacial survivalists in the Carpathian biodiversity hotspot revealed using a multimarker approach</dc:title>
+            <dc:identifier>pmid:34732763</dc:identifier>
+            <dc:identifier>pmc:PMC8566499</dc:identifier>
+            <dc:identifier>doi:10.1038/s41598-021-00320-8</dc:identifier>
+        </item>
+    </channel>
+</rss>
