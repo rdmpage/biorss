@@ -15,6 +15,7 @@ function rss_to_internal($xml)
 	// namespaces we are likely to encounter
 	$xpath->registerNamespace('atom',  				'http://www.w3.org/2005/Atom');
 	$xpath->registerNamespace('cc',    				'http://web.resource.org/cc/');
+	$xpath->registerNamespace('content',    		'http://purl.org/rss/1.0/modules/content/');
 	$xpath->registerNamespace('creativeCommons',    'http://cyber.law.harvard.edu/rss/creativeCommonsRssModule.html');
 	$xpath->registerNamespace('dc',    				'http://purl.org/dc/elements/1.1/');
 	$xpath->registerNamespace('geo',    			'http://www.w3.org/2003/01/geo/wgs84_pos#');
@@ -319,6 +320,18 @@ function rss_to_internal($xml)
 				foreach ($xpath->query('prism:doi', $item) as $node)
 				{
 					$dataFeedElement->doi = $node->firstChild->nodeValue;
+				}
+
+				foreach ($xpath->query('dc:identifier', $item) as $node)
+				{
+					if (preg_match('/^doi:(?<doi>.*)/', $node->firstChild->nodeValue, $m))
+					{
+						$dataFeedElement->doi = $m['doi'];
+					}
+					if (preg_match('/^pmid:(?<pmid>\d+)/', $node->firstChild->nodeValue, $m))
+					{
+						$dataFeedElement->pmid = $m['pmid'];
+					}
 				}
 
 			
@@ -692,7 +705,7 @@ function internal_to_rss($dataFeed, $format = 'atom')
 //----------------------------------------------------------------------------------------
 // test cases
 
-if (0)
+if (1)
 {
 	
 
@@ -717,6 +730,8 @@ if (0)
 	//$filename = 'examples/phytokeys.xml'; // rss2
 	
 	$filename = 'examples/googlescholar.xml'; // rss 2 
+
+	$filename = 'examples/native-pubmed.xml'; // rss 2 
 	
 
 
