@@ -1,6 +1,6 @@
 <?php
 
-// Pubmed search
+// Pubmed search from scratch
 
 error_reporting(E_ALL);
 
@@ -54,13 +54,26 @@ function get($url, $accept = "text/html")
 	return $response;
 }
 
+$dataFeed = new stdclass;
+$dataFeed->{'@context'} = 'http://schema.org/';
+$dataFeed->{'@type'} = 'DataFeed';
+
+$dataFeed->name = "PubMed";
+$dataFeed->url = 'https://pubmed.ncbi.nlm.nih.gov';
+
+$dataFeed->dataFeedElement = array();
+
+$query = '("new species") OR ("n. sp.") OR ("sp. nov.") OR ("n. gen.") OR ("gen. nov.") OR ("n. comb.") OR ("comb. nov.")';
+
+$dataFeed->name = "PubMed " . $query;
+
 // 1. Get pmids
 $parameters = array(
 	'api_key' 	=> getenv('NCBI_API_KEY'),
 	'datetype' 	=> 'pdat',
 	'reldate' 	=> '7',
 	'retmode' 	=> 'json',
-	'term' 		=> 'new+species',
+	'term' 		=> $query,
 );
 
 $url = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi';
@@ -73,7 +86,7 @@ $obj = json_decode($json);
 
 if(json_last_error() == JSON_ERROR_NONE)
 {
-	print_r($obj);
+	// print_r($obj);
 	
 	// 2. get docs
 	
@@ -95,23 +108,16 @@ if(json_last_error() == JSON_ERROR_NONE)
 
 		// extract data from PubMed XML
 		
-		
-		
+				
 		$dom = new DOMDocument;
 		$dom->loadXML($xml, LIBXML_NOCDATA); // Elsevier wraps text in <![CDATA[ ... ]]>
 		$xpath = new DOMXPath($dom);
 
-		// namespaces we are likely to encounter
-		$xpath->registerNamespace('atom',  				'http://www.w3.org/2005/Atom');
-
-
 		$dataFeedElement = new stdclass;
 		$dataFeedElement->{'@type'} = 'DataFeedItem';
 		
-
 		foreach ($xpath->query('//Article') as $article)
-		{
-			
+		{			
 			foreach ($xpath->query('ArticleTitle', $article) as $node)
 			{
 				$dataFeedElement->name = $node->firstChild->nodeValue;
@@ -122,30 +128,58 @@ if(json_last_error() == JSON_ERROR_NONE)
 				$dataFeedElement->description = $node->firstChild->nodeValue;
 			}
 			
-			
-			
-			
-		}
-		
+		}		
 
 		foreach ($xpath->query('//PubmedData') as $pubmeddata)
 		{
-			
+					
+			// DOI
 			foreach ($xpath->query('ArticleIdList/ArticleId[@IdType="doi"]', $pubmeddata) as $node)
 			{
 				$dataFeedElement->doi = $node->firstChild->nodeValue;
 			}
 			
+			// PMID
+			foreach ($xpath->query('ArticleIdList/ArticleId[@IdType="pubmed"]', $pubmeddata) as $node)
+			{
+				$dataFeedElement->url = 'https://pubmed.ncbi.nlm.nih.gov/' . $node->firstChild->nodeValue;
+				$dataFeedElement->{'@id'} = $dataFeedElement->url;
+			}
 			
+			// Date
+			foreach ($xpath->query('History/PubMedPubDate[@PubStatus="pubmed"]', $pubmeddata) as $history)
+			{
+				$date = array();
+				
+				foreach ($xpath->query('Year', $history) as $node)
+				{
+					$date[] = $node->firstChild->nodeValue;
+				}
+				foreach ($xpath->query('Month', $history) as $node)
+				{
+					$date[] = str_pad($node->firstChild->nodeValue, 2, '0', STR_PAD_LEFT);
+				}
+				foreach ($xpath->query('Day', $history) as $node)
+				{
+					$date[] = str_pad($node->firstChild->nodeValue, 2, '0', STR_PAD_LEFT);
+				}
+				
+				$dataFeedElement->datePublished = join('-', $date);
+			}
 			
-			
-		}		
+		}	
 		
-		print_r($dataFeedElement);
+		$dataFeed->dataFeedElement[] = $dataFeedElement;	
 		
-	
+		
 	}
 }
+
+// print_r($dataFeed);
+
+$xml = internal_to_rss($dataFeed);
+
+echo $xml;
 
 
 
