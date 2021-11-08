@@ -33,7 +33,7 @@ if ($config['platform'] == 'local')
 {
 		// local
 		$config['couchdb_options'] = array(
-				'database' 	=> 'n8n',
+				'database' 	=> 'biorss',
 				'host' 		=> getenv('COUCHDB_HOST'),
 				'port' 		=> getenv('COUCHDB_PORT'),
 				'prefix' 	=> getenv('COUCHDB_PROTOCOL')

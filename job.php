@@ -1,7 +1,7 @@
 <?php
 
 require_once (dirname(__FILE__) . '/rss.php');
-
+require_once (dirname(__FILE__) . '/datastore.php');
 
 //----------------------------------------------------------------------------------------
 // post
@@ -45,11 +45,14 @@ function post_job($url, &$doc)
 
 //----------------------------------------------------------------------------------------
 
-
 $filename = 'examples/zootaxa.rdf';
 $filename = 'examples/phytokeys.xml'; // rss2
-$filename = 'examples/cnki.xml'; // rss2
+//$filename = 'examples/cnki.xml'; // rss2
+//$filename = 'examples/aby.xml'; // rss2
 $filename = 'examples/googlescholar.xml'; // rss2
+//$filename = 'examples/native-pubmed.xml'; // rss2
+//$filename = 'examples/ingenta.rdf';
+
 
 $xml = file_get_contents($filename);
 
@@ -62,18 +65,40 @@ $n = count($dataFeed->dataFeedElement);
 for ($i = 0; $i < $n; $i++)
 {
 
-	$url = 'http://localhost/~rpage/biorss/geoparser.php';
-	$url = 'http://localhost/~rpage/biorss/meta.php';
+	// do we have this already?
+	if ($couch->exists($dataFeed->dataFeedElement[$i]->{'@id'}))
+	{
+		$doc = fetch($dataFeed->dataFeedElement[$i]->{'@id'});
+		$dataFeedElement = $doc->message;
+		
+		echo "HAVE IT\n";
+	}
+	else
+	{
+		$dataFeedElement = $dataFeed->dataFeedElement[$i];
+		
+		echo "DON'T HAVE IT\n";
+	}
 	
-	$code = post_job($url, $dataFeed->dataFeedElement[$i]);
+	//print_r($dataFeedElement);
+	
+	$url = 'http://localhost/~rpage/biorss/meta.php';
+	//$url = 'http://localhost/~rpage/biorss/geoparser.php';
+	//$url = 'http://localhost/~rpage/biorss/meta.php';
+	//$url = 'http://localhost/~rpage/biorss/taxa.php';
+	
+	$code = post_job($url, $dataFeedElement);
+		
+	print_r($dataFeedElement);
+	
+	store($dataFeedElement);
 }
 
 // print_r($dataFeed);
+
 // file_put_contents("2.json", json_encode($dataFeed, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE));
 
 
-
-
-echo internal_to_rss($dataFeed);
+//echo internal_to_rss($dataFeed);
 
 ?>
