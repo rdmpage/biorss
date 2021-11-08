@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.1">
+	<head>
+		<title>Feeds</title>
+	</head>
+<body>
+<!--
+	<outline 
+		text="" 
+		title="" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="" 
+		xmlUrl=""/>
+-->
+
+	<outline 
+		text="" 
+		title="" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="" 
+		xmlUrl=""/>
+
+
+	<outline 
+		text="Latest Articles from PhytoKeys" 
+		title="Latest Articles from PhytoKeys" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://phytokeys.pensoft.net/articles" 
+		xmlUrl="http://phytokeys.pensoft.net/rss.php"/>
+		
+	<outline 
+		text="Zootaxa Current Issue" 
+		title="Zootaxa Current Issue" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="" 
+		xmlUrl="https://www.mapress.com/zt/gateway/plugin/WebFeedGatewayPlugin/rss"/>
+		
+		
+	<!-- nested -->
+	<outline 
+		text="Taxa" 
+		title="Taxa">
+		<outline 
+			text="" 
+			title=""
+			description="" 
+			type="rss" 
+			version="RSS" 
+			htmlUrl=""
+			xmlUrl="" />
+	</outline>		
+
+	<!-- nested -->
+	<outline 
+		text="Aggregators and search engines" 
+		title="Aggregators and search engines">
+		<outline 
+			text="PubMed" 
+			title="PubMed"
+			description="" 
+			type="rss" 
+			version="RSS" 
+			htmlUrl="https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;v=2.15.0&amp;utm_source=Rested&amp;utm_medium=rss&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;utm_campaign=pubmed-2&amp;ff=20211108074851" 
+			xmlUrl="https://pubmed.ncbi.nlm.nih.gov/rss/search/1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD/?limit=15&amp;utm_campaign=pubmed-2&amp;fc=20211108074834"/>
+			
+	</outline>
+	
+	
+	
+	</body>
+</opml>
