@@ -7,11 +7,15 @@
 		<string>B1464566-7531-4718-9CE4-1BB3BF5C3CD2</string>
 		<string>2F7AB773-9EA8-4785-872E-C53C9B13BBF7</string>
 		<string>85DD3CF1-F874-4B82-BDF3-8D857028DB05</string>
+		<string>6EA011A6-2945-4ADF-ABB3-2B4953D23E38</string>
+		<string>B221C092-2355-4DBA-9EAA-4613A03103A8</string>
+		<string>EB3B9B9A-4ECC-49F1-804D-481145862CB1</string>
 		<string>A3D5B575-7B48-41A3-8757-A64D5CBFE76A</string>
 		<string>A44B0677-34BD-42E8-8B66-ED26E7A2BEA7</string>
 		<string>E4FF855D-BA2D-4FCD-A448-8238B93B9729</string>
 		<string>8B94E479-9366-4BB9-871D-F3DCBDAD0DB1</string>
 		<string>B350D297-B8A7-4271-A329-3694CBC65097</string>
+		<string>00250180-C438-4C58-9686-2899C319662A</string>
 		<string>392EFBA4-B728-41FB-A0BE-481B283FA734</string>
 		<string>DF822552-1AA8-4971-8126-C2BF4528EC97</string>
 		<string>4ADA92BC-A6C9-458E-8483-2E74DFBF9787</string>
@@ -19,6 +23,54 @@
 	</array>
 	<key>ProjectItems</key>
 	<dict>
+		<key>00250180-C438-4C58-9686-2899C319662A</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9va+ACAAAAAAQQMAAAAJlZ5dxeo3DUrlfX2w34DtKM
+				AZlphMfvKWCpd9OdA0Bq3AEAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAFAAAAAQEAAHJwYWdlAAAABQAA
+				AAEBAABTaXRlcwAAAAYAAAABAQAAYmlvcnNzAAAKAAAA
+				AQEAAHB1Ym1lZC5waHAAABQAAAABBgAAEAAAACAAAAAw
+				AAAAQAAAAFAAAAAIAAAABAMAABBnAgAAAAAACAAAAAQD
+				AACFdA0AAAAAAAgAAAAEAwAABFZMAAAAAAAIAAAABAMA
+				AD92eQgDAAAACAAAAAQDAACPTX4IAwAAABQAAAABBgAA
+				gAAAAJAAAACgAAAAsAAAAMAAAAAIAAAAAAQAAEHDms45
+				cjo7GAAAAAECAAABAAAAAAAAAA8AAAAAAAAAAAAAAAAA
+				AAAIAAAABAMAAAMAAAAAAAAABAAAAAMDAAD1AQAACAAA
+				AAEJAABmaWxlOi8vLwwAAAABAQAATWFjaW50b3NoIEhE
+				CAAAAAQDAAAA4MUydAAAAAgAAAAABAAAQb7dXWIAAAAk
+				AAAAAQEAADI1RTQyODZELTcxMkMtMzg5OS1CNDNGLTVE
+				M0Y2QThCRDEyMRgAAAABAgAAgQAAAAEAAADvEwAAAQAA
+				AAAAAAAAAAAAAQAAAAEBAAAvAAAAAAAAAAEFAADMAAAA
+				/v///wEAAAAAAAAAEAAAAAQQAABkAAAAAAAAAAUQAADQ
+				AAAAAAAAABAQAAD8AAAAAAAAAEAQAADsAAAAAAAAAAIg
+				AADIAQAAAAAAAAUgAAA4AQAAAAAAABAgAABIAQAAAAAA
+				ABEgAAB8AQAAAAAAABIgAABcAQAAAAAAABMgAABsAQAA
+				AAAAACAgAACoAQAAAAAAADAgAADUAQAAAAAAAAHAAAAc
+				AQAAAAAAABHAAAAgAAAAAAAAABLAAAAsAQAAAAAAABDQ
+				AAAEAAAAAAAAAA==
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/rpage/Sites/biorss/pubmed.php</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>./pubmed.php</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>pubmed.php</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
 		<key>2F7AB773-9EA8-4785-872E-C53C9B13BBF7</key>
 		<dict>
 			<key>ItemData</key>
@@ -204,6 +256,54 @@
 			</dict>
 			<key>ItemName</key>
 			<string>utils.php</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
+		<key>6EA011A6-2945-4ADF-ABB3-2B4953D23E38</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9va+QCAAAAAAQQMAAAAK4mBujITiSwvwUfcAQqwGGH
+				X9EqGcQcZKduAcEaH0Zf4AEAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAFAAAAAQEAAHJwYWdlAAAABQAA
+				AAEBAABTaXRlcwAAAAYAAAABAQAAYmlvcnNzAAAOAAAA
+				AQEAAGNvbmZpZy5pbmMucGhwAAAUAAAAAQYAABAAAAAg
+				AAAAMAAAAEAAAABQAAAACAAAAAQDAAAQZwIAAAAAAAgA
+				AAAEAwAAhXQNAAAAAAAIAAAABAMAAARWTAAAAAAACAAA
+				AAQDAAA/dnkIAwAAAAgAAAAEAwAA7E1+CAMAAAAUAAAA
+				AQYAAIQAAACUAAAApAAAALQAAADEAAAACAAAAAAEAABB
+				v4ImogAAABgAAAABAgAAAQAAAAAAAAAPAAAAAAAAAAAA
+				AAAAAAAACAAAAAQDAAADAAAAAAAAAAQAAAADAwAA9QEA
+				AAgAAAABCQAAZmlsZTovLy8MAAAAAQEAAE1hY2ludG9z
+				aCBIRAgAAAAEAwAAAODFMnQAAAAIAAAAAAQAAEG+3V1i
+				AAAAJAAAAAEBAAAyNUU0Mjg2RC03MTJDLTM4OTktQjQz
+				Ri01RDNGNkE4QkQxMjEYAAAAAQIAAIEAAAABAAAA7xMA
+				AAEAAAAAAAAAAAAAAAEAAAABAQAALwAAAAAAAAABBQAA
+				zAAAAP7///8BAAAAAAAAABAAAAAEEAAAaAAAAAAAAAAF
+				EAAA1AAAAAAAAAAQEAAAAAEAAAAAAABAEAAA8AAAAAAA
+				AAACIAAAzAEAAAAAAAAFIAAAPAEAAAAAAAAQIAAATAEA
+				AAAAAAARIAAAgAEAAAAAAAASIAAAYAEAAAAAAAATIAAA
+				cAEAAAAAAAAgIAAArAEAAAAAAAAwIAAA2AEAAAAAAAAB
+				wAAAIAEAAAAAAAARwAAAIAAAAAAAAAASwAAAMAEAAAAA
+				AAAQ0AAABAAAAAAAAAA=
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/rpage/Sites/biorss/config.inc.php</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>./config.inc.php</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>config.inc.php</string>
 			<key>ItemType</key>
 			<string>FileReference</string>
 			<key>UserOverrideItemName</key>
@@ -449,6 +549,54 @@
 			<key>ItemType</key>
 			<string>FileReference</string>
 		</dict>
+		<key>B221C092-2355-4DBA-9EAA-4613A03103A8</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9va+QCAAAAAAQQMAAAAFCnyIXZwjP6BY69V54Fwibo
+				CjwDTrCWtTxgDwW7/12E4AEAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAFAAAAAQEAAHJwYWdlAAAABQAA
+				AAEBAABTaXRlcwAAAAYAAAABAQAAYmlvcnNzAAAQAAAA
+				AQEAAGVudi10ZW1wbGF0ZS5waHAUAAAAAQYAABAAAAAg
+				AAAAMAAAAEAAAABQAAAACAAAAAQDAAAQZwIAAAAAAAgA
+				AAAEAwAAhXQNAAAAAAAIAAAABAMAAARWTAAAAAAACAAA
+				AAQDAAA/dnkIAwAAAAgAAAAEAwAA7U1+CAMAAAAUAAAA
+				AQYAAIQAAACUAAAApAAAALQAAADEAAAACAAAAAAEAABB
+				wamqe0QiABgAAAABAgAAAQAAAAAAAAAPAAAAAAAAAAAA
+				AAAAAAAACAAAAAQDAAADAAAAAAAAAAQAAAADAwAA9QEA
+				AAgAAAABCQAAZmlsZTovLy8MAAAAAQEAAE1hY2ludG9z
+				aCBIRAgAAAAEAwAAAODFMnQAAAAIAAAAAAQAAEG+3V1i
+				AAAAJAAAAAEBAAAyNUU0Mjg2RC03MTJDLTM4OTktQjQz
+				Ri01RDNGNkE4QkQxMjEYAAAAAQIAAIEAAAABAAAA7xMA
+				AAEAAAAAAAAAAAAAAAEAAAABAQAALwAAAAAAAAABBQAA
+				zAAAAP7///8BAAAAAAAAABAAAAAEEAAAaAAAAAAAAAAF
+				EAAA1AAAAAAAAAAQEAAAAAEAAAAAAABAEAAA8AAAAAAA
+				AAACIAAAzAEAAAAAAAAFIAAAPAEAAAAAAAAQIAAATAEA
+				AAAAAAARIAAAgAEAAAAAAAASIAAAYAEAAAAAAAATIAAA
+				cAEAAAAAAAAgIAAArAEAAAAAAAAwIAAA2AEAAAAAAAAB
+				wAAAIAEAAAAAAAARwAAAIAAAAAAAAAASwAAAMAEAAAAA
+				AAAQ0AAABAAAAAAAAAA=
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/rpage/Sites/biorss/env-template.php</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>./env-template.php</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>env-template.php</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
 		<key>B350D297-B8A7-4271-A329-3694CBC65097</key>
 		<dict>
 			<key>ItemData</key>
@@ -593,6 +741,54 @@
 			<string>googlescholar_to_rss.php</string>
 			<key>ItemType</key>
 			<string>FileReference</string>
+		</dict>
+		<key>EB3B9B9A-4ECC-49F1-804D-481145862CB1</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9va9wCAAAAAAQQMAAAAEHr5F+/81zzLGcdf+Es3WvO
+				HDzrN6QncKBaNGC3NLe72AEAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAFAAAAAQEAAHJwYWdlAAAABQAA
+				AAEBAABTaXRlcwAAAAYAAAABAQAAYmlvcnNzAAAHAAAA
+				AQEAAGVudi5waHAAFAAAAAEGAAAQAAAAIAAAADAAAABA
+				AAAAUAAAAAgAAAAEAwAAEGcCAAAAAAAIAAAABAMAAIV0
+				DQAAAAAACAAAAAQDAAAEVkwAAAAAAAgAAAAEAwAAP3Z5
+				CAMAAAAIAAAABAMAAO5NfggDAAAAFAAAAAEGAAB8AAAA
+				jAAAAJwAAACsAAAAvAAAAAgAAAAABAAAQcGpqntEIgAY
+				AAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAgA
+				AAAEAwAAAwAAAAAAAAAEAAAAAwMAAPUBAAAIAAAAAQkA
+				AGZpbGU6Ly8vDAAAAAEBAABNYWNpbnRvc2ggSEQIAAAA
+				BAMAAADgxTJ0AAAACAAAAAAEAABBvt1dYgAAACQAAAAB
+				AQAAMjVFNDI4NkQtNzEyQy0zODk5LUI0M0YtNUQzRjZB
+				OEJEMTIxGAAAAAECAACBAAAAAQAAAO8TAAABAAAAAAAA
+				AAAAAAABAAAAAQEAAC8AAAAAAAAAAQUAAMwAAAD+////
+				AQAAAAAAAAAQAAAABBAAAGAAAAAAAAAABRAAAMwAAAAA
+				AAAAEBAAAPgAAAAAAAAAQBAAAOgAAAAAAAAAAiAAAMQB
+				AAAAAAAABSAAADQBAAAAAAAAECAAAEQBAAAAAAAAESAA
+				AHgBAAAAAAAAEiAAAFgBAAAAAAAAEyAAAGgBAAAAAAAA
+				ICAAAKQBAAAAAAAAMCAAANABAAAAAAAAAcAAABgBAAAA
+				AAAAEcAAACAAAAAAAAAAEsAAACgBAAAAAAAAENAAAAQA
+				AAAAAAAA
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/rpage/Sites/biorss/env.php</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>./env.php</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>env.php</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
 		</dict>
 	</dict>
 	<key>com.barebones.DocumentFormatVersion</key>
