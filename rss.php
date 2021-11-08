@@ -166,7 +166,16 @@ function rss_to_internal($xml)
 				{
 					$dataFeedElement->{'@id'} = $dataFeedElement->pdf ;
 				}
-			}			
+			}	
+			
+			// id scholar.google.com		
+			foreach ($xpath->query('atom:id', $item) as $node)
+			{
+				if (preg_match('/scholar.google.com/', $node->firstChild->nodeValue))
+				{
+					$dataFeedElement->{'@id'} = $node->firstChild->nodeValue;
+				}
+			}
 	
 			// name
 			foreach ($xpath->query('rss:title | title | atom:title', $item) as $node)
@@ -235,9 +244,10 @@ function rss_to_internal($xml)
 	
 			//----------------------------------------------------------------------------
 			// guid
+			// Want some way to represent the actual thing that is the subject of this RSS item
 			foreach ($xpath->query('guid', $item) as $node)
 			{
-				$dataFeedElement->mainEntity = $node->firstChild->nodeValue;
+				// $dataFeedElement->mainEntity = $node->firstChild->nodeValue;
 			}
 	
 			//----------------------------------------------------------------------------
@@ -705,7 +715,7 @@ function internal_to_rss($dataFeed, $format = 'atom')
 //----------------------------------------------------------------------------------------
 // test cases
 
-if (1)
+if (0)
 {
 	
 
@@ -731,7 +741,8 @@ if (1)
 	
 	$filename = 'examples/googlescholar.xml'; // rss 2 
 
-	$filename = 'examples/native-pubmed.xml'; // rss 2 
+	//$filename = 'examples/native-pubmed.xml'; // rss 2 
+	//$filename = 'examples/zoobank.xml'; // rss 2 
 	
 
 
