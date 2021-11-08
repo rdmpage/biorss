@@ -1,11 +1,18 @@
 # bioRSS
 
-A potential successor to ubioRSS.
+A potential successor to [uBioRSS](http://www.ubio.org/rss/) and [uBioRSS Nomina Nova] (http://ubio.org/rss/index_nov.php)
 
+## Idea
+
+Take RSS feeds from journals and databases, creating them if needed, then index by taxon and geography. Output RSS feeds keyed by taxon and/or geography. Create simple visualisations.
+
+Patrick R. Leary, David P. Remsen, Catherine N. Norton, David J. Patterson, Indra Neil Sarkar, uBioRSS: Tracking taxonomic literature using RSS, Bioinformatics, Volume 23, Issue 11, June 2007, Pages 1434–1436, https://doi.org/10.1093/bioinformatics/btm109
+
+Little, D. P. (2020). Recognition of Latin scientific names using artificial neural networks. Applications in Plant Sciences, 8(7). doi:10.1002/aps3.11378
 
 ## Feeds
 
-### Work on feeds
+### Reading on feeds
 
 - [Real PRISM in the RSS Wilds](https://www.crossref.org/blog/real-prism-in-the-rss-wilds/)
 - [Analysing the ticTOCs collection of journal TOC feeds](https://hublog.hubmed.org/archives/001818)
@@ -23,7 +30,7 @@ The Google Scholar alert email is in HTML so we need to parse it and extract the
 
 ### Gotcha’s
 
-RSS feeds are wildly variable in terms of tags included and how they handle external namespaces. Note also that dates in RSS feeds need not be in English, which means we need to translate them before converting to ISO8601.
+RSS feeds are variable in terms of tags included and how they handle external namespaces. Note also that dates in RSS feeds need not be in English, which means we need to translate them before converting to ISO8601.
 
 ## Validation
 
