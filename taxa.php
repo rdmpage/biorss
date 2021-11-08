@@ -7,7 +7,7 @@ $status = 200;
 $doc = get_doc(false);
 if ($doc)
 {
-	$status = add_geo($doc);
+	$status = add_taxa($doc);
 }
 else
 {

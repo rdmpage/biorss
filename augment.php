@@ -5,6 +5,8 @@
 error_reporting(E_ALL);
 
 require_once (dirname(__FILE__) . '/vendor/autoload.php');
+require_once (dirname(__FILE__) . '/globalnames-graphql.php');
+
 
 use Sunra\PhpSimple\HtmlDomParser;
 
@@ -55,7 +57,7 @@ function get($url, $accept = "text/html")
 
 //----------------------------------------------------------------------------------------
 // post
-function post($url, $data = '')
+function post($url, $data = '', $content_type = '')
 {
 	
 	$ch = curl_init();
@@ -67,6 +69,15 @@ function post($url, $data = '')
 	
 	curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0);
 	curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
+	
+	if ($content_type != '')
+	{
+		curl_setopt($ch, CURLOPT_HTTPHEADER, 
+			array(
+				"Content-type: " . $content_type
+				)
+			);
+	}	
 	
 	$response = curl_exec($ch);
 	if($response == FALSE) 
@@ -198,10 +209,22 @@ function add_geo(&$doc)
 {
 	$status = 200;
 	
-	if (isset($doc->description))
+	if (isset($doc->description) || isset($doc->name))
 	{
 		// get what we need from doc
-		$text = $doc->description;
+		$text_elements = array();
+		if (isset($doc->name))
+		{
+			$text_elements[] = $doc->name;
+		}
+		if (isset($doc->description))
+		{
+			$text_elements[] = $doc->description;
+		}
+		
+		$text = join(' ', $text_elements);
+		
+		//echo $text . "\n";
 
 		$parameters = array(
 			"text" => $text
@@ -222,23 +245,53 @@ function add_geo(&$doc)
 			// update doc
 			if (isset($result->features))
 			{
+				$doc->contentLocation = array();
+			
+				// make sure we have only one representative of each location
+				$wikidata = array();
+				
 				foreach ($result->features as $feature)
 				{
 					if ($feature->geometry->type == 'Point')
 					{
-						$place = new stdclass;				
-						$place->{'@type'} = 'Place';
+						if (!in_array($feature->properties->wikidata_id, $wikidata))
+						{
+							$place = new stdclass;				
+							$place->{'@type'} = 'Place';
 		
-						// coordinates
-						$place->geo = new stdclass;
+							// coordinates
+							$place->geo = new stdclass;
+							$place->geo->{'@type'} = 'GeoCoordinates';
 		
-						$place->geo->latitude 	= (float)$feature->geometry->coordinates[1];
-						$place->geo->longitude 	= (float)$feature->geometry->coordinates[0];
+							$place->geo->latitude 	= (float)$feature->geometry->coordinates[1];
+							$place->geo->longitude 	= (float)$feature->geometry->coordinates[0];
+							
+							if (isset($feature->properties->country_code))
+							{
+								$place->geo->addressCountry = $feature->properties->country_code;
+							}
 						
-						$place->{'@name'} 	= 'http://www.wikidata.org/entity/' . $feature->properties->wikidata_id;
-						$place->name 		= $feature->properties->name;
+							$place->{'@id'} 	= 'http://www.wikidata.org/entity/' . $feature->properties->wikidata_id;
+							$place->name 		= $feature->properties->name;
 				
-						$doc->contentLocation[] = $place;
+							$doc->contentLocation[] = $place;
+							
+							$wikidata[] = $feature->properties->wikidata_id;
+							
+						}
+					}
+				}
+				
+				if (!isset($doc->about))
+				{
+					$doc->about = array();
+				}
+				foreach ($wikidata as $id)
+				{
+					$about_uri = 'http://www.wikidata.org/entity/' . $id;
+					if (!in_array($about_uri, $doc->about))
+					{				
+						$doc->about[] = $about_uri;
 					}
 				}
 			}
@@ -328,6 +381,174 @@ function add_meta(&$doc)
 	
 }
 
+//----------------------------------------------------------------------------------------
+// Extract taxonomic names
+// We use taxonfinder to get the names, then use globalnames to match to GBIF
+
+function add_taxa(&$doc)
+{
+	$status = 200;
+	
+	if (isset($doc->description) || isset($doc->name))
+	{
+		// get what we need from doc
+		$text_elements = array();
+		if (isset($doc->name))
+		{
+			$text_elements[] = $doc->name;
+		}
+		if (isset($doc->description))
+		{
+			$text_elements[] = $doc->description;
+		}
+		
+		$text = join(' ', $text_elements);		
+		
+		$url = 'https://right-frill.glitch.me/api/find?text=' . urlencode($text);
+		
+		//echo "\n" . $url . "\n";
+	
+		$result = get($url);
+	
+		// Names returned by taxonfinder
+		$result = json_decode($result, true);
+
+		if (json_last_error() != JSON_ERROR_NONE)
+		{
+			$status = 500;
+		}
+		else
+		{
+			// print_r($result);
+			
+			$taxon_names = array();
+			
+			foreach ($result as $name)
+			{
+				$taxon_names[] = $name['name'];
+			}
+			
+			$taxon_names = array_unique($taxon_names);
+			
+			// print_r($taxon_names);
+			
+			// names as keywords
+			if (!isset($doc->keywords))
+			{
+				$doc->keywords = array();
+			}
+			$doc->keywords = array_merge($doc->keywords, $taxon_names);
+			
+			//----------------------------------------------------------------------------
+			// Get identifiers and classification for names
+			$query = $taxon_names;
+		
+			$response = global_names_index($query);
+					
+			// print_r($response);
+			
+			// we want to add the names, the GBIF ids, and represent the main subject somehow
+			
+			$paths = array();
+			
+			$taxon_ids = array();
+		
+			if (isset($response->data->nameResolver->responses))
+			{
+				foreach ($response->data->nameResolver->responses as $r)
+				{
+					if (isset($r->results[0]))
+					{
+						$paths[] = explode("|", $r->results[0]->classification->path);
+						
+						$taxon_ids[] = $r->results[0]->taxonId;
+					}
+				}
+			}
+			
+			//print_r($path);
+			
+			//echo json_encode($path);
+			
+			//----------------------------------------------------------------------------
+			// GBIF taxon ids are schema:about
+			if (count($taxon_ids) > 0)
+			{
+				if (!isset($doc->about))
+				{
+					$doc->about = array();
+				}
+				foreach ($taxon_ids as $id)
+				{
+					$about_uri = 'https://www.gbif.org/species/' . $id;
+					if (!in_array($about_uri, $doc->about))
+					{				
+						$doc->about[] = $about_uri;
+					}
+				}
+			}
+			
+			//----------------------------------------------------------------------------
+			// Get majority rule path so we can index the 
+			// How many paths do we have?
+			$num_paths = count($paths);
+
+			// Store counts of each taxon
+			$taxon_count = array();
+
+			// Majority-rule
+			$threshold = round($num_paths / 2);
+			if ($num_paths % 2 == 0)
+			{
+				$threshold++;
+			}
+
+			// Count each taxon
+			foreach ($paths as $path)
+			{
+				$path_length = count($path);
+				for ($level = 0; $level < $path_length; $level++)
+				{
+					if (!isset($taxon_count[$level]))
+					{
+						$taxon_count[$level] = array();
+					}
+		
+					if (!isset( $taxon_count[$level][$path[$level]] ))
+					{
+						$taxon_count[$level][$path[$level]] = 0;
+					}
+					$taxon_count[$level][$path[$level]]++;
+				}
+			}
+
+			// Get majority-rule path
+			$majority = array();
+
+			foreach ($taxon_count as $level => $values)
+			{
+				foreach ($values as $name => $count)
+				{
+					if ($count >= $threshold)
+					{
+						$majority[] = $name;
+					}
+				}
+			}
+			
+			if (count($majority) > 0)
+			{
+				$doc->classification = $majority;
+			}
+
+		}
+	}
+	
+	return $status;
+	
+}
+
+
 
 //----------------------------------------------------------------------------------------
 
@@ -340,7 +561,7 @@ if (0)
 	$doc = get_doc(true);
 	if ($doc)
 	{
-		$status = add_geo($doc, $status);
+		$status = add_geo($doc);
 	}
 	else
 	{
@@ -359,6 +580,24 @@ if (0)
 	if ($doc)
 	{
 		$status = add_meta($doc);
+	}
+	else
+	{
+		$status = 500;
+	}
+
+	send_doc($doc, $status);
+}
+
+if (0)
+{
+	// Taxonomic names
+	$status = 200;
+
+	$doc = get_doc(true);
+	if ($doc)
+	{
+		$status = add_taxa($doc);
 	}
 	else
 	{
