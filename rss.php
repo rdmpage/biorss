@@ -150,11 +150,22 @@ function rss_to_internal($xml)
 			$dataFeedElement->{'@type'} = 'DataFeedItem';
 	
 			// link
-			foreach ($xpath->query('rss:link | link | atom:link[@rel="alternate"]/@href', $item) as $node)
+			foreach ($xpath->query('rss:link | link | atom:link[@rel="alternate" and @type="text/html"]/@href', $item) as $node)
 			{
 				$dataFeedElement->{'@id'} = $node->firstChild->nodeValue;
 				$dataFeedElement->url = $node->firstChild->nodeValue;
 			}
+						
+			// link ATOM PDF
+			foreach ($xpath->query('atom:link[@rel="alternate" and @type="application/pdf"]/@href', $item) as $node)
+			{
+				$dataFeedElement->pdf = $node->firstChild->nodeValue;
+				
+				if (!isset($dataFeedElement->{'@id'}))
+				{
+					$dataFeedElement->{'@id'} = $dataFeedElement->pdf ;
+				}
+			}			
 	
 			// name
 			foreach ($xpath->query('rss:title | title | atom:title', $item) as $node)
