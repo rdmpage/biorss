@@ -23,6 +23,41 @@
 		version="RSS" 
 		htmlUrl="" 
 		xmlUrl=""/>
+		
+	<!-- Acta Arachnologica seems to be an empty feed -->
+	<outline 
+		text="Acta Arachnologica" 
+		title="Acta Arachnologica" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://www.jstage.jst.go.jp/browse/asjaa/-char/en" 
+		xmlUrl="https://www.jstage.jst.go.jp/AF05S010NewRssDld?btnaction=JT0040&sryCd=asjaa&rssLang=en"/>
+		
+		
+		
+		
+	<outline 
+		text="The Canadian Entomologist" 
+		title="The Canadian Entomologist" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://www.cambridge.org/core/journals/canadian-entomologist" 
+		xmlUrl="https://www.cambridge.org/core/rss/product/id/2DD17A42E6E59026C256A7EBBDB96645"/>		
+
+	<outline 
+		text="Entomologist's Monthly Magazine" 
+		title="Entomologist's Monthly Magazine" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://www.ingentaconnect.com/content/pemberley/emm;jsessionid=1lobinp36he79.x-ic-live-01" 
+		xmlUrl="https://api.ingentaconnect.com/content/pemberley/emm/latest?format=rss"/>
+		
+		
+		
+		
 
 
 	<outline 
@@ -32,7 +67,7 @@
 		type="rss" 
 		version="RSS" 
 		htmlUrl="https://phytokeys.pensoft.net/articles" 
-		xmlUrl="http://phytokeys.pensoft.net/rss.php"/>
+		xmlUrl="https://phytokeys.pensoft.net/rss.php"/>
 		
 	<outline 
 		text="Zootaxa Current Issue" 
@@ -46,16 +81,21 @@
 		
 	<!-- nested -->
 	<outline 
-		text="Taxa" 
+		text="Taxonomic databases" 
 		title="Taxa">
 		<outline 
-			text="" 
-			title=""
+			text="Latest ZooBank Registration Activity" 
+			title="Latest ZooBank Registration Activity"
 			description="" 
 			type="rss" 
 			version="RSS" 
-			htmlUrl=""
-			xmlUrl="" />
+			htmlUrl=http://zoobank.org/""
+			xmlUrl="http://zoobank.org/rss/rss.xml" />
+			
+			
+			
+			
+			
 	</outline>		
 
 	<!-- nested -->
