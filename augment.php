@@ -438,6 +438,7 @@ function add_taxa(&$doc)
 				$doc->keywords = array();
 			}
 			$doc->keywords = array_merge($doc->keywords, $taxon_names);
+			$doc->keywords = array_unique($doc->keywords);
 			
 			//----------------------------------------------------------------------------
 			// Get identifiers and classification for names
