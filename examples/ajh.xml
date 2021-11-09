@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns="http://purl.org/rss/1.0/"
+         xmlns:cc="http://web.resource.org/cc/"
+         xmlns:content="http://purl.org/rss/1.0/modules/content/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">
+   <channel rdf:about="https://www.tandfonline.com/loi/ther20?af=R">
+      <title>tandf: African Journal of Herpetology: Table of Contents</title>
+      <description>Table of Contents for African Journal of Herpetology. List of articles from both the latest and ahead of print issues.</description>
+      <link>https://www.tandfonline.com/loi/ther20?af=R</link>
+      <dc:title>tandf: African Journal of Herpetology: Table of Contents</dc:title>
+      <dc:publisher>tandf</dc:publisher>
+      <dc:language>en-US</dc:language>
+      <prism:publicationName>African Journal of Herpetology</prism:publicationName>
+      <items>
+         <rdf:Seq>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/21564574.2020.1832152?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/21564574.2020.1860140?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1891977?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1886185?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1921058?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1973582?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1980120?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1980119?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1980121?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1976288?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1976289?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1952317?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1938244?af=R"/>
+         </rdf:Seq>
+      </items>
+   </channel>
+   <image rdf:about="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/ther20/2021/ther20.v070.i01/ther20.v070.i01/20210630-01/ther20.v070.i01.cover.jpg">
+      <title>African Journal of Herpetology</title>
+      <url>https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/ther20/2021/ther20.v070.i01/ther20.v070.i01/20210630-01/ther20.v070.i01.cover.jpg</url>
+      <link>https://www.tandfonline.com/loi/ther20?af=R</link>
+   </image>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/21564574.2020.1832152?af=R">
+      <title>Taxonomic revision of the Jita snakes (Lamprophiidae: Boaedon) from São Tomé and Príncipe (Gulf of Guinea), with the description of a new species</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/21564574.2020.1832152?af=R</link>
+      <content:encoded>&lt;a href="/toc/ther20/70/1"&gt;Volume 70, Issue 1&lt;/a&gt;, July 2021, Page 1-31&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 70, Issue 1, July 2021, Page 1-31&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Taxonomic revision of the Jita snakes (Lamprophiidae: Boaedon) from São Tomé and Príncipe (Gulf of Guinea), with the description of a new species</dc:title>
+      <dc:identifier>10.1080/21564574.2020.1832152</dc:identifier>
+      <dc:source>African Journal of Herpetology</dc:source>
+      <dc:date>2021-01-15T09:46:25Z</dc:date>
+      <dc:rights>© 2020 Herpetological Association of Africa</dc:rights>
+      <dc:creator>Luis MP Ceríaco</dc:creator>
+      <dc:creator>Ana Lisette Arellano</dc:creator>
+      <dc:creator>Robert C Jadin</dc:creator>
+      <dc:creator>Mariana P Marques</dc:creator>
+      <dc:creator>Diogo Parrinha</dc:creator>
+      <dc:creator>Jakob Hallermann</dc:creator>
+      <prism:publicationName>Taxonomic revision of the Jita snakes (Lamprophiidae: Boaedon) from São Tomé and Príncipe (Gulf of Guinea), with the description of a new species</prism:publicationName>
+      <prism:volume>70</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>31</prism:endingPage>
+      <prism:coverDate>2021-01-02T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-01-02T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/21564574.2020.1832152</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/21564574.2020.1832152?af=R</prism:url>
+      <prism:copyright>© 2020 Herpetological Association of Africa</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/21564574.2020.1860140?af=R">
+      <title>Leopard tortoise Stigmochelys pardalis (Bell, 1928) mortality caused by electrified fences in central South Africa and its impact on tortoise demography</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/21564574.2020.1860140?af=R</link>
+      <content:encoded>&lt;a href="/toc/ther20/70/1"&gt;Volume 70, Issue 1&lt;/a&gt;, July 2021, Page 32-52&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 70, Issue 1, July 2021, Page 32-52&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Leopard tortoise Stigmochelys pardalis (Bell, 1928) mortality caused by electrified fences in central South Africa and its impact on tortoise demography</dc:title>
+      <dc:identifier>10.1080/21564574.2020.1860140</dc:identifier>
+      <dc:source>African Journal of Herpetology</dc:source>
+      <dc:date>2021-01-25T08:03:00Z</dc:date>
+      <dc:rights>© 2021 Herpetological Association of Africa</dc:rights>
+      <dc:creator>Sharon Holt</dc:creator>
+      <dc:creator>Liora Kolska Horwitz</dc:creator>
+      <dc:creator>Beryl Wilson</dc:creator>
+      <dc:creator>Daryl Codron</dc:creator>
+      <prism:publicationName>Leopard tortoise Stigmochelys pardalis (Bell, 1928) mortality caused by electrified fences in central South Africa and its impact on tortoise demography</prism:publicationName>
+      <prism:volume>70</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>32</prism:startingPage>
+      <prism:endingPage>52</prism:endingPage>
+      <prism:coverDate>2021-01-02T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-01-02T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/21564574.2020.1860140</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/21564574.2020.1860140?af=R</prism:url>
+      <prism:copyright>© 2021 Herpetological Association of Africa</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1891977?af=R">
+      <title>Species-specific or assemblage-wide decline? The case of Arthroleptides dutoiti Loveridge, 1935 and the amphibian assemblage of Mount Elgon, Kenya</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1891977?af=R</link>
+      <content:encoded>&lt;a href="/toc/ther20/70/1"&gt;Volume 70, Issue 1&lt;/a&gt;, July 2021, Page 53-60&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 70, Issue 1, July 2021, Page 53-60&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Species-specific or assemblage-wide decline? The case of Arthroleptides dutoiti Loveridge, 1935 and the amphibian assemblage of Mount Elgon, Kenya</dc:title>
+      <dc:identifier>10.1080/21564574.2021.1891977</dc:identifier>
+      <dc:source>African Journal of Herpetology</dc:source>
+      <dc:date>2021-05-13T02:36:56Z</dc:date>
+      <dc:rights>© 2021 Herpetological Association of Africa</dc:rights>
+      <dc:creator>Jacob M Ngwava</dc:creator>
+      <dc:creator>Christopher D Barratt</dc:creator>
+      <dc:creator>Elizabeth Boakes</dc:creator>
+      <dc:creator>Beryl A Bwong</dc:creator>
+      <dc:creator>Alan Channing</dc:creator>
+      <dc:creator>Olivia Couchman</dc:creator>
+      <dc:creator>Stefan Lötters</dc:creator>
+      <dc:creator>Patrick K Malonza</dc:creator>
+      <dc:creator>Vincent Muchai</dc:creator>
+      <dc:creator>Julius K Nguku</dc:creator>
+      <dc:creator>Joash Nyamache</dc:creator>
+      <dc:creator>Nisha Owen</dc:creator>
+      <dc:creator>Victor Wasonga</dc:creator>
+      <dc:creator>Simon P Loader</dc:creator>
+      <prism:publicationName>Species-specific or assemblage-wide decline? The case of Arthroleptides dutoiti Loveridge, 1935 and the amphibian assemblage of Mount Elgon, Kenya</prism:publicationName>
+      <prism:volume>70</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>53</prism:startingPage>
+      <prism:endingPage>60</prism:endingPage>
+      <prism:coverDate>2021-01-02T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-01-02T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/21564574.2021.1891977</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1891977?af=R</prism:url>
+      <prism:copyright>© 2021 Herpetological Association of Africa</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1886185?af=R">
+      <title>Testing assertions of dietary specialisation: a case study of the diet of Aparallactus capensis</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1886185?af=R</link>
+      <content:encoded>&lt;a href="/toc/ther20/70/1"&gt;Volume 70, Issue 1&lt;/a&gt;, July 2021, Page 61-67&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 70, Issue 1, July 2021, Page 61-67&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Testing assertions of dietary specialisation: a case study of the diet of Aparallactus capensis</dc:title>
+      <dc:identifier>10.1080/21564574.2021.1886185</dc:identifier>
+      <dc:source>African Journal of Herpetology</dc:source>
+      <dc:date>2021-05-13T02:33:09Z</dc:date>
+      <dc:rights>© 2021 Herpetological Association of Africa</dc:rights>
+      <dc:creator>Bryan Maritz</dc:creator>
+      <dc:creator>Aadam Rawoot</dc:creator>
+      <dc:creator>Ryan van Huyssteen</dc:creator>
+      <prism:publicationName>Testing assertions of dietary specialisation: a case study of the diet of Aparallactus capensis</prism:publicationName>
+      <prism:volume>70</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>61</prism:startingPage>
+      <prism:endingPage>67</prism:endingPage>
+      <prism:coverDate>2021-01-02T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-01-02T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/21564574.2021.1886185</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1886185?af=R</prism:url>
+      <prism:copyright>© 2021 Herpetological Association of Africa</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1921058?af=R">
+      <title>A pilot study on the use of DNA metabarcoding for diet analysis in a montane amphibian population from North Africa</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1921058?af=R</link>
+      <content:encoded>&lt;a href="/toc/ther20/70/1"&gt;Volume 70, Issue 1&lt;/a&gt;, July 2021, Page 68-74&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 70, Issue 1, July 2021, Page 68-74&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>A pilot study on the use of DNA metabarcoding for diet analysis in a montane amphibian population from North Africa</dc:title>
+      <dc:identifier>10.1080/21564574.2021.1921058</dc:identifier>
+      <dc:source>African Journal of Herpetology</dc:source>
+      <dc:date>2021-06-04T02:12:58Z</dc:date>
+      <dc:rights>© 2021 Herpetological Association of Africa</dc:rights>
+      <dc:creator>Ana Pereira</dc:creator>
+      <dc:creator>Mohamed Amine Samlali</dc:creator>
+      <dc:creator>Abderrahim S’Khifa</dc:creator>
+      <dc:creator>Tahar Slimani</dc:creator>
+      <dc:creator>D James Harris</dc:creator>
+      <prism:publicationName>A pilot study on the use of DNA metabarcoding for diet analysis in a montane amphibian population from North Africa</prism:publicationName>
+      <prism:volume>70</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>68</prism:startingPage>
+      <prism:endingPage>74</prism:endingPage>
+      <prism:coverDate>2021-01-02T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-01-02T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/21564574.2021.1921058</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1921058?af=R</prism:url>
+      <prism:copyright>© 2021 Herpetological Association of Africa</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1973582?af=R">
+      <title>Biodiversity hotspot revisited: reptile and amphibian assemblages of the Uluguru Mountain Forest Reserves, south-eastern Tanzania</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1973582?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Biodiversity hotspot revisited: reptile and amphibian assemblages of the Uluguru Mountain Forest Reserves, south-eastern Tanzania</dc:title>
+      <dc:identifier>10.1080/21564574.2021.1973582</dc:identifier>
+      <dc:source>African Journal of Herpetology</dc:source>
+      <dc:date>2021-10-15T02:43:24Z</dc:date>
+      <dc:rights>© 2021 Herpetological Association of Africa</dc:rights>
+      <dc:creator>Felix J Mkonyi</dc:creator>
+      <prism:publicationName>Biodiversity hotspot revisited: reptile and amphibian assemblages of the Uluguru Mountain Forest Reserves, south-eastern Tanzania</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>28</prism:endingPage>
+      <prism:doi>10.1080/21564574.2021.1973582</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1973582?af=R</prism:url>
+      <prism:copyright>© 2021 Herpetological Association of Africa</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1980120?af=R">
+      <title>Bone-by-bone: A detailed skull description of the White-headed dwarf gecko Lygodactylus picturatus (Peters, 1870)</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1980120?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Bone-by-bone: A detailed skull description of the White-headed dwarf gecko Lygodactylus picturatus (Peters, 1870)</dc:title>
+      <dc:identifier>10.1080/21564574.2021.1980120</dc:identifier>
+      <dc:source>African Journal of Herpetology</dc:source>
+      <dc:date>2021-10-15T02:45:27Z</dc:date>
+      <dc:rights>© 2021 Herpetological Association of Africa</dc:rights>
+      <dc:creator>Javier Lobon-Rovira</dc:creator>
+      <dc:creator>Aaron Bauer</dc:creator>
+      <prism:publicationName>Bone-by-bone: A detailed skull description of the White-headed dwarf gecko Lygodactylus picturatus (Peters, 1870)</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>20</prism:endingPage>
+      <prism:doi>10.1080/21564574.2021.1980120</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1980120?af=R</prism:url>
+      <prism:copyright>© 2021 Herpetological Association of Africa</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1980119?af=R">
+      <title>A comparison of calcium and phosphorus in components of fertile and size-matched unbanded Nile crocodile eggs</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1980119?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>A comparison of calcium and phosphorus in components of fertile and size-matched unbanded Nile crocodile eggs</dc:title>
+      <dc:identifier>10.1080/21564574.2021.1980119</dc:identifier>
+      <dc:source>African Journal of Herpetology</dc:source>
+      <dc:date>2021-10-11T03:10:52Z</dc:date>
+      <dc:rights>© 2021 Herpetological Association of Africa</dc:rights>
+      <dc:creator>GJ Brown</dc:creator>
+      <dc:creator>PBC Forbes</dc:creator>
+      <dc:creator>JG Myburgh</dc:creator>
+      <dc:creator>JO Nöthling</dc:creator>
+      <prism:publicationName>A comparison of calcium and phosphorus in components of fertile and size-matched unbanded Nile crocodile eggs</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>16</prism:endingPage>
+      <prism:doi>10.1080/21564574.2021.1980119</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1980119?af=R</prism:url>
+      <prism:copyright>© 2021 Herpetological Association of Africa</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1980121?af=R">
+      <title>Distribution, ecology, and conservation of Philochortus zolii in Mauritania: implications for the long-term persistence of an endangered lizard</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1980121?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Distribution, ecology, and conservation of Philochortus zolii in Mauritania: implications for the long-term persistence of an endangered lizard</dc:title>
+      <dc:identifier>10.1080/21564574.2021.1980121</dc:identifier>
+      <dc:source>African Journal of Herpetology</dc:source>
+      <dc:date>2021-10-06T02:17:02Z</dc:date>
+      <dc:rights>© 2021 Herpetological Association of Africa</dc:rights>
+      <dc:creator>Marisa Naia</dc:creator>
+      <dc:creator>Andack S Sow</dc:creator>
+      <dc:creator>João Campos</dc:creator>
+      <dc:creator>Zeine El Abidine Sidatt</dc:creator>
+      <dc:creator>José C Brito</dc:creator>
+      <prism:publicationName>Distribution, ecology, and conservation of Philochortus zolii in Mauritania: implications for the long-term persistence of an endangered lizard</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>11</prism:endingPage>
+      <prism:doi>10.1080/21564574.2021.1980121</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1980121?af=R</prism:url>
+      <prism:copyright>© 2021 Herpetological Association of Africa</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1976288?af=R">
+      <title>Ethnomedicinal use of pythons by traditional medicine practitioners in Ghana</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1976288?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Ethnomedicinal use of pythons by traditional medicine practitioners in Ghana</dc:title>
+      <dc:identifier>10.1080/21564574.2021.1976288</dc:identifier>
+      <dc:source>African Journal of Herpetology</dc:source>
+      <dc:date>2021-10-01T10:44:43Z</dc:date>
+      <dc:rights>© 2021 Herpetological Association of Africa</dc:rights>
+      <dc:creator>Maxwell K Boakye</dc:creator>
+      <dc:creator>Edward D Wiafe</dc:creator>
+      <dc:creator>Meyir Y Ziekah</dc:creator>
+      <prism:publicationName>Ethnomedicinal use of pythons by traditional medicine practitioners in Ghana</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>11</prism:endingPage>
+      <prism:doi>10.1080/21564574.2021.1976288</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1976288?af=R</prism:url>
+      <prism:copyright>© 2021 Herpetological Association of Africa</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1976289?af=R">
+      <title>A can of worms: Identification issues and morphological conservatism in a large sample of African Green and Bush Snakes (Colubridae: Philothamnus) from Minziro Forest, Tanzania</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1976289?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>A can of worms: Identification issues and morphological conservatism in a large sample of African Green and Bush Snakes (Colubridae: Philothamnus) from Minziro Forest, Tanzania</dc:title>
+      <dc:identifier>10.1080/21564574.2021.1976289</dc:identifier>
+      <dc:source>African Journal of Herpetology</dc:source>
+      <dc:date>2021-10-01T10:47:06Z</dc:date>
+      <dc:rights>© 2021 Herpetological Association of Africa</dc:rights>
+      <dc:creator>Tejs Gørgens Nielsen</dc:creator>
+      <dc:creator>Sofie Holdflod Nielsen</dc:creator>
+      <dc:creator>Peter Gravlund</dc:creator>
+      <dc:creator>David Moyer</dc:creator>
+      <dc:creator>Anders Galatius</dc:creator>
+      <dc:creator>Morten E Allentoft</dc:creator>
+      <prism:publicationName>A can of worms: Identification issues and morphological conservatism in a large sample of African Green and Bush Snakes (Colubridae: Philothamnus) from Minziro Forest, Tanzania</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>16</prism:endingPage>
+      <prism:doi>10.1080/21564574.2021.1976289</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1976289?af=R</prism:url>
+      <prism:copyright>© 2021 Herpetological Association of Africa</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1952317?af=R">
+      <title>African Journal of Herpetology: Bibliography and taxonomic discoveries of the past ten years</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1952317?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>African Journal of Herpetology: Bibliography and taxonomic discoveries of the past ten years</dc:title>
+      <dc:identifier>10.1080/21564574.2021.1952317</dc:identifier>
+      <dc:source>African Journal of Herpetology</dc:source>
+      <dc:date>2021-09-01T08:45:07Z</dc:date>
+      <dc:rights>© 2021 Herpetological Association of Africa</dc:rights>
+      <dc:creator>Jens Reissig</dc:creator>
+      <prism:publicationName>African Journal of Herpetology: Bibliography and taxonomic discoveries of the past ten years</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>10</prism:endingPage>
+      <prism:doi>10.1080/21564574.2021.1952317</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1952317?af=R</prism:url>
+      <prism:copyright>© 2021 Herpetological Association of Africa</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1938244?af=R">
+      <title>Fire associated exertion myopathy as a mechanism contributing to mortality in Chamaesaura macrolepis (Cope 1862)</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1938244?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Fire associated exertion myopathy as a mechanism contributing to mortality in Chamaesaura macrolepis (Cope 1862)</dc:title>
+      <dc:identifier>10.1080/21564574.2021.1938244</dc:identifier>
+      <dc:source>African Journal of Herpetology</dc:source>
+      <dc:date>2021-07-09T08:44:40Z</dc:date>
+      <dc:rights>© 2021 Herpetological Association of Africa</dc:rights>
+      <dc:creator>PR Jordaan</dc:creator>
+      <dc:creator>JCA Steyl</dc:creator>
+      <prism:publicationName>Fire associated exertion myopathy as a mechanism contributing to mortality in Chamaesaura macrolepis (Cope 1862)</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>8</prism:endingPage>
+      <prism:doi>10.1080/21564574.2021.1938244</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/21564574.2021.1938244?af=R</prism:url>
+      <prism:copyright>© 2021 Herpetological Association of Africa</prism:copyright>
+   </item>
+</rdf:RDF>
