@@ -1,6 +1,6 @@
 # bioRSS
 
-A potential successor to [uBioRSS](http://www.ubio.org/rss/) and [uBioRSS Nomina Nova] (http://ubio.org/rss/index_nov.php)
+A potential successor to [uBioRSS](http://www.ubio.org/rss/) and [uBioRSS Nomina Nova](http://ubio.org/rss/index_nov.php). See also my experience with [bioGUID](https://github.com/rdmpage/bioguid/tree/master/www/rss) a decade or more ago.
 
 ## Idea
 
@@ -9,6 +9,8 @@ Take RSS feeds from journals and databases, creating them if needed, then index 
 Patrick R. Leary, David P. Remsen, Catherine N. Norton, David J. Patterson, Indra Neil Sarkar, uBioRSS: Tracking taxonomic literature using RSS, Bioinformatics, Volume 23, Issue 11, June 2007, Pages 1434–1436, https://doi.org/10.1093/bioinformatics/btm109
 
 Little, D. P. (2020). Recognition of Latin scientific names using artificial neural networks. Applications in Plant Sciences, 8(7). doi:10.1002/aps3.11378
+
+Mindell, D. P., Fisher, B. L., Roopnarine, P., Eisen, J., Mace, G. M., Page, R. D. M., & Pyle, R. L. (2011). Aggregating, Tagging and Integrating Biodiversity Research. PLoS ONE, 6(8), e19491. doi:10.1371/journal.pone.0019491
 
 ## Feeds
 
