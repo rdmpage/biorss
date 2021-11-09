@@ -230,6 +230,10 @@ function rss_to_internal($xml)
 			}
 	
 			// RSS 1
+			foreach ($xpath->query('dc:date', $item) as $node)
+			{
+				$dataFeedElement->datePublished = date(DATE_ISO8601, strtotime($node->firstChild->nodeValue));
+			}
 			
 			//----------------------------------------------------------------------------
 			// tags
@@ -356,11 +360,19 @@ function rss_to_internal($xml)
 
 				foreach ($xpath->query('prism:volume', $item) as $node)
 				{
-					$dataFeedElement->volumeNumber = $node->firstChild->nodeValue;
+					// some feeds have empty tags
+					if (isset($node->firstChild->nodeValue))
+					{
+						$dataFeedElement->volumeNumber = $node->firstChild->nodeValue;
+					}
 				}
 				foreach ($xpath->query('prism:number', $item) as $node)
 				{
-					$dataFeedElement->issueNumber = $node->firstChild->nodeValue;
+					// some feeds have empty tags
+					if (isset($node->firstChild->nodeValue))
+					{
+						$dataFeedElement->issueNumber = $node->firstChild->nodeValue;
+					}
 				}
 				foreach ($xpath->query('prism:startingPage', $item) as $node)
 				{
