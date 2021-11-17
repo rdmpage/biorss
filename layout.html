@@ -1,0 +1,480 @@
+<html>
+<head>
+	<head>
+		<meta charset="utf-8" /> 
+		
+		<title>
+			BioRSS
+		</title>	
+		
+		<p>
+		</p>	
+		
+		<!--Import Google Icon Font-->
+		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	
+		  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.js"></script>
+		  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.css">
+		  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.js"></script>
+	
+	   <!--Let browser know website is optimized for mobile-->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+	
+	<!-- Google Charts -->
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+		
+		<style>
+			/* body and main styles to give us a fixed footer, see https://materializecss.com/footer.html */	
+			body {
+			    display: flex;
+			    min-height: 100vh;
+			    flex-direction: column;
+			    background: #eeeeee; 
+			    
+			    
+			  }	
+			main {
+    			flex: 1 0 auto;
+    			
+  			}
+  			
+
+header, main, footer {
+      padding-left: 300px;
+    }
+
+    @media only screen and (max-width : 992px) {
+      header, main, footer {
+        padding-left: 0;
+      }
+    }
+    
+    .cell {
+    	background-color: #eeeeee;
+    	border:1px solid rgb(200,200,200);
+    	opacity:0.5;
+    	position:absolute;
+    	overflow:hidden;
+    	text-align:center;
+    }
+    
+    	.cell:hover {
+    border:1px solid rgb(192,192,192);
+    opacity:1.0;
+}
+ 
+ 
+ .collapsible, .collapsible-header, collapsible-body {
+ 	border:none;
+ 	box-shadow: none;
+ }
+		
+		</style>		
+		
+<script type="text/javascript">
+			window.onload=function(){
+			  
+					$(document).ready(function(){
+    $('.sidenav').sidenav();
+    
+  });
+					
+					
+			   }
+		</script>
+		
+		<script>
+//----------------------------------------------------------------------------------------
+// Convert ISO data to a human-readable string (PubMed-style)
+// My databases use -00 to indicate no month or no day, and this confuses Javascript
+// Date so we need to set the options appropriately
+isodate_to_string = function (datestring) {
+
+	if (Array.isArray(datestring)) {
+		datestring = datestring[0];
+	}
+
+
+	// By default assume datestring is a year only
+	var options = {};
+	options.timeZone = 'UTC';
+	options.year = 'numeric';
+
+	// Test for valid month, then day (because we use -00 to indicate no data)
+	var m = null;
+
+	if (!m) {	
+		m = datestring.match(/^([0-9]{4})$/);
+		if (m) {
+			// year only
+			datestring = m[1]; 
+		}
+	}
+
+	if (!m) {		
+		m = datestring.match(/^([0-9]{4})-([0-9]{2})-00/);
+		if (m) {
+		
+			if (m[2] == '00') {
+				// Javascript can't handle -00-00 date string so set to January 1st 
+				// which won't be output as we're only outputting the year
+				datestring = m[1] + '-01-01';
+			} else {
+				// We have a month but no day
+				datestring = m[1] + '-' + m[2] + '-01';
+				options.month = 'short';
+			}		
+		}
+	}
+
+	if (!m) {	
+		m = datestring.match(/^([0-9]{4})-([0-9]{2})-([0-9]{2})/);
+		if (m) {
+			// we have yea, month, and day
+			options.month = 'short';
+			options.day = 'numeric';
+		}
+	}
+
+	var d = new Date(datestring);
+	datestring = d.toLocaleString('en-gb', options);
+	
+	return datestring;		
+}
+</script>		
+
+
+		<script>
+
+		var country = 'TH';
+		var path = ["BIOTA","Animalia"];
+		
+		function getfeed() {
+		
+			// update facets
+			
+			// map
+			if (country == "WORLD") {
+				document.getElementById("country").innerHTML = "";
+			} else {
+				document.getElementById("country").innerHTML = code_to_country[country];
+			}
+			
+			// treemap
+			drawTreemap(path);
+			
+			var html = '';
+			var n = path.length;
+			for (var i = 0; i < n - 1; i++ ) {
+				html += '<a onclick=\'set_path(' + JSON.stringify(path.slice(0,i+1)) + ');\'>' + path[i] + '</a>' + ' | ';
+			}
+			html += path[n - 1];
+			
+			document.getElementById("treemap-breadcrumbs").innerHTML = html;
+		
+
+			var url = 'api.php?country=' + country + '&path=' + encodeURIComponent(JSON.stringify(path));
+		
+			 $.getJSON(url + '&callback=?', function(data) {
+				if (data) {
+					var html = '';
+					for (var i in data.dataFeedElement) {
+						html += '<div class="card" >';
+						html += '<div class="row">';
+						html += '<div class="card-content">';
+						// image
+						html += '<div class="col s3 m2">';
+						if (data.dataFeedElement[i].image) {
+							html += '<img class="responsive-img" src="' + data.dataFeedElement[i].image + '">';
+						}
+						html += '</div>';
+						// text
+						html += '<div class="col s9 m10">';
+						
+						// title
+						html += '<div class="card-title">';
+						html += data.dataFeedElement[i].name;
+						html += '</div>';
+						
+						html += '<div>';
+						
+						if (data.dataFeedElement[i].datePublished) {
+							html += '<i class="tiny material-icons">date_range</i>&nbsp;' + isodate_to_string(data.dataFeedElement[i].datePublished);
+						}
+						
+						
+						// source of link
+						if (data.dataFeedElement[i].url) {
+							var m = data.dataFeedElement[i].url.match(/https?:\/\/([^\/]+)\//);
+							if (m) {
+								html += '&nbsp;<i class="tiny material-icons">explore</i>&nbsp;<a href="' + data.dataFeedElement[i].url + '" target="_new">' + m[1 ]+ '</a>';
+							}
+						}
+						
+						// DOI?
+						if (data.dataFeedElement[i].doi) {
+							html += '&nbsp;<i class="ai ai-doi ai-1x"></i>&nbsp;<a href="https://doi.org/' + data.dataFeedElement[i].doi + '" target="_new">' + data.dataFeedElement[i].doi + '</a>';							
+						}
+					
+						
+						
+						
+						html += '</div>';
+						
+						
+						/*
+						if (data.dataFeedElement[i].description) {
+							html += '<div class="grey-text text-darken-2" style="padding-top:1em;padding-bottom:1em;font-size:1em;">' + data.dataFeedElement[i].description + '</div>';
+						}
+						html += '</div>';
+						*/
+						if (data.dataFeedElement[i].description) {
+							html += '<ul class="collapsible">';
+							html += '<li>';
+							html += '<div class="collapsible-header">';
+							html += '<i class="material-icons">description</i>';
+							html += 'Description';
+							html += '</div>';
+							html += '<div class="collapsible-body">';
+							html += data.dataFeedElement[i].description;
+							html += '</div>';
+							html += '</li>';
+							html += '</ul>';
+						}
+						
+						
+						html += '</div>';
+						
+						html += '</div>';
+						html += '</div>';
+						html += '</div>';
+
+						
+	
+					}
+				
+					document.getElementById("feed").innerHTML = html;
+					
+					 $('.collapsible').collapsible();
+				}
+			 });
+		}
+	</script>		
+	
+	<script>
+	
+	google.charts.load('current', {
+		'packages':['geochart'],
+	});
+	google.charts.setOnLoadCallback(drawRegionsMap);
+	
+	
+	var country_to_region = { "DZ" : "015", "EG" : "015", "EH" : "015", "LY" : "015", "MA" : "015", "SD" : "015", "SS" : "015", "TN" : "015", "BF" : "011", "BJ" : "011", "CI" : "011", "CV" : "011", "GH" : "011", "GM" : "011", "GN" : "011", "GW" : "011", "LR" : "011", "ML" : "011", "MR" : "011", "NE" : "011", "NG" : "011", "SH" : "011", "SL" : "011", "SN" : "011", "TG" : "011", "AO" : "017", "CD" : "017", "ZR" : "017", "CF" : "017", "CG" : "017", "CM" : "017", "GA" : "017", "GQ" : "017", "ST" : "017", "TD" : "017", "BI" : "014", "DJ" : "014", "ER" : "014", "ET" : "014", "KE" : "014", "KM" : "014", "MG" : "014", "MU" : "014", "MW" : "014", "MZ" : "014", "RE" : "014", "RW" : "014", "SC" : "014", "SO" : "014", "TZ" : "014", "UG" : "014", "YT" : "014", "ZM" : "014", "ZW" : "014", "BW" : "018", "LS" : "018", "NA" : "018", "SZ" : "018", "ZA" : "018", "GG" : "154", "JE" : "154", "AX" : "154", "DK" : "154", "EE" : "154", "FI" : "154", "FO" : "154", "GB" : "154", "IE" : "154", "IM" : "154", "IS" : "154", "LT" : "154", "LV" : "154", "NO" : "154", "SE" : "154", "SJ" : "154", "AT" : "155", "BE" : "155", "CH" : "155", "DE" : "155", "DD" : "155", "FR" : "155", "FX" : "155", "LI" : "155", "LU" : "155", "MC" : "155", "NL" : "155", "BG" : "151", "BY" : "151", "CZ" : "151", "HU" : "151", "MD" : "151", "PL" : "151", "RO" : "151", "RU" : "151", "SU" : "151", "SK" : "151", "UA" : "151", "AD" : "039", "AL" : "039", "BA" : "039", "ES" : "039", "GI" : "039", "GR" : "039", "HR" : "039", "IT" : "039", "ME" : "039", "MK" : "039", "MT" : "039", "RS" : "039", "PT" : "039", "SI" : "039", "SM" : "039", "VA" : "039", "YU" : "039", "BM" : "021", "CA" : "021", "GL" : "021", "PM" : "021", "US" : "021", "AG" : "029", "AI" : "029", "AN" : "029", "AW" : "029", "BB" : "029", "BL" : "029", "BS" : "029", "CU" : "029", "DM" : "029", "DO" : "029", "GD" : "029", "GP" : "029", "HT" : "029", "JM" : "029", "KN" : "029", "KY" : "029", "LC" : "029", "MF" : "029", "MQ" : "029", "MS" : "029", "PR" : "029", "TC" : "029", "TT" : "029", "VC" : "029", "VG" : "029", "VI" : "029", "BZ" : "013", "CR" : "013", "GT" : "013", "HN" : "013", "MX" : "013", "NI" : "013", "PA" : "013", "SV" : "013", "AR" : "005", "BO" : "005", "BR" : "005", "CL" : "005", "CO" : "005", "EC" : "005", "FK" : "005", "GF" : "005", "GY" : "005", "PE" : "005", "PY" : "005", "SR" : "005", "UY" : "005", "VE" : "005", "TM" : "143", "TJ" : "143", "KG" : "143", "KZ" : "143", "UZ" : "143", "CN" : "030", "HK" : "030", "JP" : "030", "KP" : "030", "KR" : "030", "MN" : "030", "MO" : "030", "TW" : "030", "AF" : "034", "BD" : "034", "BT" : "034", "IN" : "034", "IR" : "034", "LK" : "034", "MV" : "034", "NP" : "034", "PK" : "034", "BN" : "035", "ID" : "035", "KH" : "035", "LA" : "035", "MM" : "035", "BU" : "035", "MY" : "035", "PH" : "035", "SG" : "035", "TH" : "035", "TL" : "035", "TP" : "035", "VN" : "035", "AE" : "145", "AM" : "145", "AZ" : "145", "BH" : "145", "CY" : "145", "GE" : "145", "IL" : "145", "IQ" : "145", "JO" : "145", "KW" : "145", "LB" : "145", "OM" : "145", "PS" : "145", "QA" : "145", "SA" : "145", "NT" : "145", "SY" : "145", "TR" : "145", "YE" : "145", "YD" : "145", "AU" : "053", "NF" : "053", "NZ" : "053", "FJ" : "054", "NC" : "054", "PG" : "054", "SB" : "054", "VU" : "054", "FM" : "057", "GU" : "057", "KI" : "057", "MH" : "057", "MP" : "057", "NR" : "057", "PW" : "057", "AS" : "061", "CK" : "061", "NU" : "061", "PF" : "061", "PN" : "061", "TK" : "061", "TO" : "061", "TV" : "061", "WF" : "061", "WS" : "061"};
+	
+	var code_to_country = {"CA" : "Canada", "JP" : "Japan", "ES" : "Spain", "HU" : "Hungary", "SE" : "Sweden", "BE" : "Belgium", "DK" : "Denmark", "NL" : "Netherlands", "IT" : "Italy", "NO" : "Norway", "ET" : "Ethiopia", "US" : "United States of America", "IE" : "Ireland", "PL" : "Poland", "AT" : "Austria", "UY" : "Uruguay", "MX" : "Mexico", "LT" : "Lithuania", "LU" : "Luxembourg", "BY" : "Belarus", "TR" : "Turkey", "FI" : "Finland", "EG" : "Egypt", "GB" : "United Kingdom", "KZ" : "Kazakhstan", "CH" : "Switzerland", "AD" : "Andorra", "GR" : "Greece", "SK" : "Slovakia", "LV" : "Latvia", "DZ" : "Algeria", "ID" : "Indonesia", "MD" : "Moldova", "CN" : "People\'s Republic of China", "CY" : "Cyprus", "UA" : "Ukraine", "GH" : "Ghana", "PT" : "Portugal", "KE" : "Kenya", "AZ" : "Azerbaijan", "FR" : "France", "WS" : "Samoa", "AU" : "Australia", "HR" : "Croatia", "CU" : "Cuba", "GY" : "Guyana", "BR" : "Brazil", "EE" : "Estonia", "TD" : "Chad", "SM" : "San Marino", "UZ" : "Uzbekistan", "DE" : "Germany", "RU" : "Russia", "FJ" : "Fiji", "EC" : "Ecuador", "IS" : "Iceland", "JM" : "Jamaica", "KW" : "Kuwait", "GE" : "Georgia", "PY" : "Paraguay", "AM" : "Armenia", "RS" : "Serbia", "IR" : "Iran", "SI" : "Slovenia", "YE" : "Yemen", "BG" : "Bulgaria", "BZ" : "Belize", "TL" : "Timor-Leste", "MK" : "North Macedonia", "LI" : "Liechtenstein", "HT" : "Haiti", "BB" : "Barbados", "MV" : "Maldives", "PE" : "Peru", "CZ" : "Czech Republic", "RO" : "Romania", "KH" : "Cambodia", "PW" : "Palau", "IN" : "India", "BA" : "Bosnia and Herzegovina", "MC" : "Monaco", "GL" : "Greenland", "AL" : "Albania", "KN" : "Saint Kitts and Nevis", "MT" : "Malta", "TW" : "Taiwan", "LK" : "Sri Lanka", "TM" : "Turkmenistan", "ME" : "Montenegro", "CF" : "Central African Republic", "OM" : "Oman", "CL" : "Chile", "VA" : "Vatican City", "SR" : "Suriname", "NP" : "Nepal", "TT" : "Trinidad and Tobago", "GT" : "Guatemala", "TZ" : "Tanzania", "BO" : "Bolivia", "ZW" : "Zimbabwe", "AG" : "Antigua and Barbuda", "ZA" : "South Africa", "HN" : "Honduras", "SG" : "Singapore", "JO" : "Jordan", "BH" : "Bahrain", "CG" : "Republic of the Congo", "IQ" : "Iraq", "SV" : "El Salvador", "BW" : "Botswana", "GQ" : "Equatorial Guinea", "DO" : "Dominican Republic", "BS" : "The Bahamas", "DJ" : "Djibouti", "KP" : "North Korea", "JE" : "Jersey", "TV" : "Tuvalu", "SB" : "Solomon Islands", "AR" : "Argentina", "MW" : "Malawi", "BF" : "Burkina Faso", "MY" : "Malaysia", "NR" : "Nauru", "KG" : "Kyrgyzstan", "ER" : "Eritrea", "NZ" : "New Zealand", "XK" : "Kosovo", "KY" : "Cayman Islands", "MM" : "Myanmar", "TO" : "Tonga", "NI" : "Nicaragua", "VU" : "Vanuatu", "PG" : "Papua New Guinea", "GN" : "Guinea", "PK" : "Pakistan", "MN" : "Mongolia", "EH" : "Western Sahara", "MP" : "Northern Mariana Islands", "FM" : "Federated States of Micronesia", "MH" : "Marshall Islands", "MF" : "Saint Martin", "CO" : "Colombia", "NC" : "New Caledonia", "SA" : "Saudi Arabia", "VN" : "Vietnam", "QA" : "Qatar", "PH" : "Philippines", "SX" : "Sint Maarten", "KM" : "Comoros", "TG" : "Togo", "VE" : "Venezuela", "KI" : "Kiribati", "HM" : "Heard Island and McDonald Islands", "NL" : "Kingdom of the Netherlands", "LC" : "Saint Lucia", "AF" : "Afghanistan", "ZM" : "Zambia", "VC" : "Saint Vincent and the Grenadines", "CD" : "Democratic Republic of the Congo", "GW" : "Guinea-Bissau", "GD" : "Grenada", "IL" : "Israel", "DM" : "Dominica", "DG" : "Diego Garcia", "CM" : "Cameroon", "LA" : "Laos", "LR" : "Liberia", "LS" : "Lesotho", "PA" : "Panama", "CR" : "Costa Rica", "LB" : "Lebanon", "LY" : "Libya", "GA" : "Gabon", "MG" : "Madagascar", "SY" : "Syria", "TJ" : "Tajikistan", "MR" : "Mauritania", "MU" : "Mauritius", "TH" : "Thailand", "AE" : "United Arab Emirates", "MZ" : "Mozambique", "NA" : "Namibia", "KR" : "South Korea", "BD" : "Bangladesh", "NG" : "Nigeria", "UG" : "Uganda", "ML" : "Mali", "RW" : "Rwanda", "AO" : "Angola", "SN" : "Senegal", "SC" : "Seychelles", "BT" : "Bhutan", "BN" : "Brunei", "SZ" : "Eswatini", "FO" : "Faroe Islands", "TN" : "Tunisia", "AX" : "Åland", "HK" : "Hong Kong", "SS" : "South Sudan", "FK" : "Falkland Islands", "BJ" : "Benin", "IM" : "Isle of Man", "BI" : "Burundi", "MO" : "Macau", "GM" : "The Gambia", "GU" : "Guam", "CI" : "Cote d\'Ivoire", "AS" : "American Samoa", "GP" : "Guadeloupe", "CV" : "Cape Verde", "MQ" : "Martinique", "YT" : "Mayotte", "AW" : "Aruba", "NE" : "Niger", "MA" : "Morocco", "BV" : "Bouvet Island", "AI" : "Anguilla", "GG" : "Guernsey", "ST" : "São Tomé and Príncipe", "VG" : "British Virgin Islands", "CW" : "Curaçao", "SL" : "Sierra Leone", "CK" : "Cook Islands", "SO" : "Somalia", "BQ" : "Caribbean Netherlands", "NU" : "Niue", "PM" : "Saint Pierre and Miquelon", "SD" : "Sudan", "GS" : "South Georgia and the South Sandwich Islands", "PR" : "Puerto Rico", "WF" : "Wallis and Futuna", "GI" : "Gibraltar", "PN" : "Pitcairn Islands", "TK" : "Tokelau", "GF" : "French Guiana", "TF" : "French Southern and Antarctic Lands", "VI" : "United States Virgin Islands", "SJ" : "Svalbard and Jan Mayen", "EA" : "Ceuta and Melilla", "MS" : "Montserrat", "UM" : "United States Minor Outlying Islands", "RE" : "Réunion", "TC" : "Turks and Caicos Islands", "BM" : "Bermuda", "BL" : "Saint Barthélemy", "PF" : "French Polynesia", "NF" : "Norfolk Island", "CX" : "Christmas Island", "CC" : "Cocos (Keeling) Islands", "IO" : "British Indian Ocean Territory", "PS" : "State of Palestine", "SH" : "Saint Helena, Ascension and Tristan da Cunha", "AQ" : "Antarctic Treaty area"};
+	
+	var region = country_to_region[country];
+
+	var options = {
+		datalessRegionColor: '#eeeeee',
+		defaultColor: '#333333',
+		colorAxis : {
+			colors: ['#eeeeee', 'black']
+		},
+		tooltip : {
+			trigger: 'none'
+		},
+		region: country_to_region[country]
+	};
+	
+	var geo_data = [];
+	geo_data.push(['Country', 'Numbers']);
+	geo_data.push([country, null]);
+
+	//------------------------------------------------------------------------------------
+	function drawRegionsMap() {
+
+		var data = google.visualization.arrayToDataTable(geo_data);
+
+		var chart = new google.visualization.GeoChart(document.getElementById('map'));
+
+		// If click on country in current region then we get country code
+		// otherwise we get the region code
+		google.visualization.events.addListener(chart, 'regionClick', function(e) {
+			var changed = false;
+			if (e.region.match(/[A-Z]{2}/)) {
+				// Show country facet
+				changed_country = true;
+				country = e.region;
+				
+				// remove last record from data (if it exists) and add new country
+				if (geo_data.length > 1) {
+					geo_data.pop();
+				}
+				geo_data.push([country, null]);
+				
+				options.region = country_to_region[country];
+			} else {
+				// Show world
+				options.region = e.region;				
+			}
+			data = google.visualization.arrayToDataTable(geo_data);
+			chart.draw(data, options);
+			
+			if (changed_country) {			
+				getfeed();
+			}
+		});
+
+		chart.draw(data, options);
+	}	
+	
+	// Reste map to display world with no country selected
+	function world() {
+	
+		// set country to "WORLD" 
+		country = "WORLD";
+		
+		// show whole world unstead of a local region
+		delete options.region; 	
+		
+		// delete selected country
+		if (geo_data.length > 1) {
+			geo_data.pop();			
+		}
+		
+		// redraw map
+		drawRegionsMap();
+		
+		// update feed
+		getfeed();
+	
+	}
+	
+	</script>
+	
+				
+</head>
+<body>
+
+
+<div style="padding-left:2em;padding-right:2em;">
+
+
+
+<ul id="slide-out" class="sidenav sidenav-fixed">
+<div style="padding:10px;">	
+	<h1>BioRSS</h1>
+	
+	<p>Browse articles from the taxonomic literature, drill down by country or taxon.</p>
+
+      <div id="treemap" style="width:280px;height:280px;position:relative;"></div>
+      
+      <div id="treemap-breadcrumbs">
+      </div>      
+      
+      
+      <div id="map" style="width:280px;height:280px;">
+      </div>
+      
+     
+       <div id="map-breadcrumbs">
+      	<a onclick="world();">World</a>
+      	<span> | </span>
+      	<span id="country"></span>     	
+      </div>      
+      
+    
+        
+    </ul>
+    
+    <a href="#" data-target="slide-out" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+    
+    
+   
+<main>
+
+<div class="row">
+	
+	<a class="btn" style="float:right;"><i class="material-icons right">rss_feed</i>Feed</a>
+	
+	<div id="feed" class="col s12 m12 l12" style="height:100%;overflow:auto;">
+	</div>
+
+          
+</div>
+
+</main>
+
+</div>
+
+<script>
+getfeed();
+
+
+function set_path(p) {
+	path = p;
+	getfeed();
+
+}
+
+	//------------------------------------------------------------------------------------
+function drawTreemap(path) {
+	// path = ["BIOTA","Animalia","Arthropoda","Insecta", "Diptera"];
+	
+	//path = ["BIOTA","Plantae","Tracheophyta","Magnoliopsida"];
+	
+	var url = 'api.php?path=' + encodeURIComponent(JSON.stringify(path));
+
+	 $.getJSON(url + '&callback=?', function(data) {
+		if (data) {
+			var html = '';
+			for (var i in data) {
+				html += '<div class="cell"'
+					+ ' style="' 
+					+ 'top:' + data[i].bounds.y + 'px;'
+					+ 'left:' + data[i].bounds.x + 'px;'
+					+ 'width:' + data[i].bounds.w + 'px;'
+					+ 'height:' + data[i].bounds.h + 'px;'
+					
+				var prefix = data[i].label.charAt(0);
+				var image_url = './imageproxy.php?url=' + encodeURIComponent('https://raw.githubusercontent.com/rdmpage/phylopic-taxa/master/images/' + prefix + '/' + data[i].label + '.png');
+				
+				html += 'background-image:url(\'' + image_url + '\');';
+				html += 'background-repeat:no-repeat;';
+				html += 'background-position:center;';
+				html += 'background-size: 50%;';
+				
+								
+					
+					
+					
+				html += '"';
+				
+				html += ' onclick=\'set_path(' + data[i].id + ')\';';
+
+				html += '>';
+					
+				html += '<span>' + data[i].label + '</span>';
+				
+				html += '</div>';
+		
+			}
+	
+		
+			document.getElementById("treemap").innerHTML = html;
+		}
+	 });
+
+}
+
+//drawTreemap(path);
+
+</script>
+
+
+</body>
+</html>
