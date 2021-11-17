@@ -1,0 +1,38 @@
+<html>
+<head>
+	<style>
+	/* Always set the map height explicitly to define the size of the div
+ * element that contains the map. */
+#map {
+  height: 100%;
+}
+/* Optional: Makes the sample page fill the window. */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+</style>
+<script>
+function initMap() {
+  var map = new google.maps.Map(document.getElementById('map'), {
+    zoom: 4,
+    center: {lat: 49.496675, lng: -102.65625}
+  });
+
+  var georssLayer = new google.maps.KmlLayer({
+//  url: 'http://api.flickr.com/services/feeds/geo/?g=322338@N20&lang=en-us&format=feed-georss'
+     url: 'http://iphylo.org/~rpage/geo.rss?t=' + Date.now()
+ });
+  georssLayer.setMap(map);
+}
+</script>
+</head>
+<body>
+<div id="map"></div>
+<!-- Replace the value of the key parameter with your own API key. -->
+<script async
+src="//maps.googleapis.com/maps/api/js?key=AIzaSyAkl6nM-mguv66ocFyOaHwJgyPuW465hqQ&callback=initMap">
+</script>
+</body>
+</html>

@@ -1,5 +1,0 @@
-
-Fatal error: Uncaught Error: Call to undefined function internal_to_rss() in /Users/rpage/Sites/biorss/pubmed.php:180
-Stack trace:
-#0 {main}
-  thrown in /Users/rpage/Sites/biorss/pubmed.php on line 180
