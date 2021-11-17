@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+	xmlns:cc="http://web.resource.org/cc/">
+
+	<channel rdf:about="https://www.biotaxa.org/Phytotaxa">
+				<title>Phytotaxa</title>
+		<link>https://www.biotaxa.org/Phytotaxa</link>
+
+							
+		<description>&lt;div style=&quot;margin-bottom: 0cm;&quot;&gt;&lt;span style=&quot;color: #5c8526;&quot;&gt;&lt;span&gt;&lt;strong&gt;&lt;span style=&quot;color: #5c8526;&quot;&gt;World&#039;s foremost journal of botanical systematics and biodiversity (plants, algae and fungi)&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/div&gt;</description>
+
+									<dc:publisher>Magnolia Press</dc:publisher>
+		
+					<dc:language>en-US</dc:language>
+		
+		<prism:publicationName>Phytotaxa</prism:publicationName>
+
+							
+					<prism:issn>1179-3155</prism:issn>
+		
+					<prism:copyright>&lt;span lang=&quot;EN-GB&quot;&gt;Authors need to complete and return an &lt;/span&gt;&lt;span lang=&quot;EN-GB&quot;&gt;&lt;a href=&quot;http://www.mapress.com/phytotaxa/images/copyright.rtf&quot;&gt;Assignment of Copyright&lt;/a&gt; &lt;/span&gt;&lt;span lang=&quot;EN-GB&quot;&gt;form when a paper is accepted for publication. Authors from institutions that do not allow transfer of copyrights to publishers (e.g. government institutions such as USDA, CSIRO) should attach a copyright waiver or similar document.&lt;/span&gt;</prism:copyright>
+		
+		<items>
+			<rdf:Seq>
+												<rdf:li rdf:resource="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.525.2.7"/>
+																<rdf:li rdf:resource="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.525.2.1"/>
+									<rdf:li rdf:resource="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.525.2.2"/>
+									<rdf:li rdf:resource="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.525.2.3"/>
+									<rdf:li rdf:resource="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.525.2.4"/>
+									<rdf:li rdf:resource="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.525.2.5"/>
+									<rdf:li rdf:resource="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.525.2.6"/>
+										</rdf:Seq>
+		</items>
+	</channel>
+
+					<item rdf:about="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.525.2.7">
+
+						<title>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Murdannia triquetra&lt;/em&gt; var. &lt;em&gt;ahuchawlense&lt;/em&gt;, a new variety of &lt;em&gt;Murdannia triquetra&lt;/em&gt; from North Lakhimpur, Assam&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.525.2.7</link>
+
+										<description>&lt;p&gt;N/A&lt;/p&gt;</description>
+			
+							<dc:creator>KANGKAN PAGAG</dc:creator>
+							<dc:creator>SASHIN KUMAR BORTHAKUR</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Phytotaxa
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-11-15</dc:date>
+				<prism:publicationDate>2021-11-15</prism:publicationDate>
+						<prism:volume>525</prism:volume>			<prism:number>2</prism:number>
+												<prism:startingPage>163</prism:startingPage>
+													<prism:endingPage>166</prism:endingPage>
+							
+							<prism:doi>10.11646/phytotaxa.525.2.7</prism:doi>
+					</item>
+						<item rdf:about="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.525.2.1">
+
+						<title>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Ferula sommieriana&lt;/em&gt; (Apiaceae), a new species from Pelagie Islands (Sicily)&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.525.2.1</link>
+
+										<description>&lt;p&gt;&lt;em&gt;Ferula sommieriana, &lt;/em&gt;a new species occurring in Lampedusa and Linosa, islands of Pelagie Archipelago in the Sicilian Channel, is described and illustrated. Previously it was attributed to &lt;em&gt;F. communis,&lt;/em&gt; from which it differs in several features regarding mainly the morphology and anatomy of terminal leaf lobes and mericarps, as well as the shape and size of reproductive structures. Its ecology, conservation status and relationships with other allied Mediterranean species of the sect. &lt;em&gt;Ferula&lt;/em&gt; are provided, as well as the analytical keys of the species belonging to the aforesaid section.&lt;/p&gt;</description>
+			
+							<dc:creator>SALVATORE CAMBRIA</dc:creator>
+							<dc:creator>CRISTIAN BRULLO</dc:creator>
+							<dc:creator>GIANMARCO TAVILLA</dc:creator>
+							<dc:creator>SAVERIO SCIANDRELLO</dc:creator>
+							<dc:creator>PIETRO MINISSALE</dc:creator>
+							<dc:creator>GIANPIETRO GIUSSO DEL GALDO</dc:creator>
+							<dc:creator>SALVATORE BRULLO</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Phytotaxa
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-11-15</dc:date>
+				<prism:publicationDate>2021-11-15</prism:publicationDate>
+						<prism:volume>525</prism:volume>			<prism:number>2</prism:number>
+												<prism:startingPage>89</prism:startingPage>
+													<prism:endingPage>108</prism:endingPage>
+							
+							<prism:doi>10.11646/phytotaxa.525.2.1</prism:doi>
+					</item>
+					<item rdf:about="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.525.2.2">
+
+						<title>&lt;p&gt;&lt;strong&gt;Morphology and molecular phylogeny reveal two new species in &lt;em&gt;Russula&lt;/em&gt; sect. &lt;em&gt;Ingratae&lt;/em&gt; from China&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.525.2.2</link>
+
+										<description>&lt;p&gt;Two new species of &lt;em&gt;Russula &lt;/em&gt;are described and illustrated in this paper. &lt;em&gt;Russula clavulus&lt;/em&gt; is recognised by a pale yellow pileus centre, white margin with tuberculate striation, white to pale lamellae with small pale yellow spots, white to light yellow spore print, subglobose to broadly ellipsoid spores with short or long ridges and hymenial cystidia on lamellae sides that are mainly subclavate or fusiform. &lt;em&gt;Russula multilamellula &lt;/em&gt;is morphologically characterised by the brownish orange to hazel pileus centre and satin white to yellowish-white margin with brownish tinge, lamellulae that are usually irregular in length and often anastomosing with lamellae, subglobose to broadly ellipsoid spores with short or long ridges and clavate hymenial cystidia. The combination of morphological features and multigene phylogenetic analyses of ITS-nrLSU-&lt;em&gt;RPB&lt;/em&gt;2-mtSSU data indicated that these two new taxa belong to &lt;em&gt;Russula &lt;/em&gt;subg. &lt;em&gt;Heterophyllidia &lt;/em&gt;sect. &lt;em&gt;Ingratae&lt;/em&gt;.&lt;/p&gt;</description>
+			
+							<dc:creator>BIN CHEN</dc:creator>
+							<dc:creator>JIE SONG</dc:creator>
+							<dc:creator>JIN-HUA ZHANG</dc:creator>
+							<dc:creator>JUN-FENG LIANG</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Phytotaxa
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-11-15</dc:date>
+				<prism:publicationDate>2021-11-15</prism:publicationDate>
+						<prism:volume>525</prism:volume>			<prism:number>2</prism:number>
+												<prism:startingPage>109</prism:startingPage>
+													<prism:endingPage>123</prism:endingPage>
+							
+							<prism:doi>10.11646/phytotaxa.525.2.2</prism:doi>
+					</item>
+					<item rdf:about="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.525.2.3">
+
+						<title>&lt;p&gt;&lt;strong&gt;Reorganizing parasitic Delesseriaceae: taxonomic revision of &lt;em&gt;Asterocolax&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.525.2.3</link>
+
+										<description>&lt;p&gt;Red algal parasites are highly host specific organisms that are morphologically reduced with decreased pigmentation. Only found within the Florideophyceae, red algal parasites have evolved within eight orders, with the greatest parasite diversity found in the Ceramiales. A quarter of the ceramialian parasites in the family Delesseriaceae are described in the genus &lt;em&gt;Asterocolax&lt;/em&gt;. The initial morphological description of &lt;em&gt;Asterocolax&lt;/em&gt; led to the creation of an independent genus devoted to these parasitic species, but molecular data have repeatedly demonstrated that &lt;em&gt;Asterocolax &lt;/em&gt;species, and likely many other red algal parasites, resolve within the genera of free-living red algae, often within the same genus as their hosts. Here and in previous studies, phylogenetic analysis of the internal transcribed spacer region of the ribosomal DNA has shown at least six instances of independent evolution of &lt;em&gt;Asterocolax&lt;/em&gt; species, mainly interspersed among the free-living macroalgal genera of &lt;em&gt;Phycodrys &lt;/em&gt;and &lt;em&gt;Polyneura&lt;/em&gt;. As most &lt;em&gt;Asterocolax&lt;/em&gt; are sister species to their hosts, they are independently derived from a photosynthetic ancestor, and together, do not form a monophyletic parasitic genus. Here we conduct a long overdue taxonomic revision of the red algal parasitic genus &lt;em&gt;Asterocolax&lt;/em&gt;, describe a new species within the genus, and propose nomenclatural changes for four other species to reduce the polyphyletic clades encompassing &lt;em&gt;Asterocolax&lt;/em&gt;.&lt;/p&gt;</description>
+			
+							<dc:creator>JILLIAN M. FREESE</dc:creator>
+							<dc:creator>CHRISTOPHER E. LANE</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Phytotaxa
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-11-15</dc:date>
+				<prism:publicationDate>2021-11-15</prism:publicationDate>
+						<prism:volume>525</prism:volume>			<prism:number>2</prism:number>
+												<prism:startingPage>124</prism:startingPage>
+													<prism:endingPage>136</prism:endingPage>
+							
+							<prism:doi>10.11646/phytotaxa.525.2.3</prism:doi>
+					</item>
+					<item rdf:about="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.525.2.4">
+
+						<title>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Carex maolanensis&lt;/em&gt; (Cyperaceae), a new species from Guizhou, China&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.525.2.4</link>
+
+										<description>&lt;p&gt;&lt;em&gt;Carex maolanensis&lt;/em&gt;, a new species of Cyperaceae is described and illustrated from Guizhou, China. The new species belongs to sect. &lt;em&gt;Decorae&lt;/em&gt;, and it is similar to &lt;em&gt;C. jizhuangensis&lt;/em&gt;, but differs in having short rhizome, 3–7 spikes per node, terminal spikes androgynous, female glumes awned. The morphology of perigynium and achene of &lt;em&gt;C. maolanensis &lt;/em&gt;and &lt;em&gt;C. jizhuangensis &lt;/em&gt;is compared. According to the IUCN Red List criteria, it may be turned out to Endangered (EN) or Vulnerable (VU), however, for the present, it is better to be classified as Data Deficient (DD) because the field survey for the species is necessary. A revised identification key to the species of sect. &lt;em&gt;Decorae&lt;/em&gt; from China is provided.&lt;/p&gt;</description>
+			
+							<dc:creator>XIXI ZHANG</dc:creator>
+							<dc:creator>ZHENGMING YAO</dc:creator>
+							<dc:creator>HUILI MENG</dc:creator>
+							<dc:creator>YUNFEI DENG</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Phytotaxa
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-11-15</dc:date>
+				<prism:publicationDate>2021-11-15</prism:publicationDate>
+						<prism:volume>525</prism:volume>			<prism:number>2</prism:number>
+												<prism:startingPage>137</prism:startingPage>
+													<prism:endingPage>146</prism:endingPage>
+							
+							<prism:doi>10.11646/phytotaxa.525.2.4</prism:doi>
+					</item>
+					<item rdf:about="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.525.2.5">
+
+						<title>&lt;p&gt;&lt;strong&gt;Lectotypification of names of three species of &lt;em&gt;Poa&lt;/em&gt; (Poaceae) and their morphological affinities&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.525.2.5</link>
+
+										<description>&lt;p&gt;&lt;em&gt;Poa aitchisonii&lt;/em&gt;, &lt;em&gt;P. falconeri &lt;/em&gt;and &lt;em&gt;P. wardiana &lt;/em&gt;are lectotypified with nomenclatural notes. In absence of proper icons with analysis, worked out plant parts of two species from voucher specimens are provided as photoplates. Due to high degree of variability and in absence of concrete morphological features to distinguish species, morphological affinities of the three species with that of other close species are provided.&lt;/p&gt;</description>
+			
+							<dc:creator>RUMA BHADRA</dc:creator>
+							<dc:creator>P. V. PRASANNA</dc:creator>
+							<dc:creator>SAIKAT NASKAR</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Phytotaxa
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-11-15</dc:date>
+				<prism:publicationDate>2021-11-15</prism:publicationDate>
+						<prism:volume>525</prism:volume>			<prism:number>2</prism:number>
+												<prism:startingPage>147</prism:startingPage>
+													<prism:endingPage>155</prism:endingPage>
+							
+							<prism:doi>10.11646/phytotaxa.525.2.5</prism:doi>
+					</item>
+					<item rdf:about="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.525.2.6">
+
+						<title>&lt;p&gt;&lt;strong&gt;Rediscovery of &lt;em&gt;Oocephalus foliosus&lt;/em&gt; (Hyptidinae—Lamiaceae): notes on taxonomy and conservation of a species endemic to the &lt;em&gt;campo rupestre&lt;/em&gt; of Central Brazil&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.525.2.6</link>
+
+										<description>&lt;p&gt;&lt;em&gt;Oocephalus foliosus&lt;/em&gt; was described in the first half of 19&lt;sup&gt;th&lt;/sup&gt; century, based on a collection from central Goiás state, Brazil, being collected again only three times in surrounding areas. Although this species seems to be rare and endemic to a narrow area, it has never been listed on any threatened list or had its conservation status assessed. Recently, we recorded a small population of &lt;em&gt;O. foliosus&lt;/em&gt; in the Pireneus peak, an area of &lt;em&gt;campo rupestre&lt;/em&gt; located in the municipality of Pirenópolis, Goiás, allowing us to improve the species description, assess its extinction risk and comment on its taxonomy. Also, a second step lectotypification was needed to the species and is here proposed.&lt;/p&gt;</description>
+			
+							<dc:creator>ARTHUR DE SOUZA SOARES</dc:creator>
+							<dc:creator>RAQUEL NEGRÃO</dc:creator>
+							<dc:creator>RAYMOND MERVYN HARLEY</dc:creator>
+							<dc:creator>JOSÉ FLORIANO BARÊA PASTORE</dc:creator>
+							<dc:creator>JOMAR GOMES JARDIM</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Phytotaxa
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-11-15</dc:date>
+				<prism:publicationDate>2021-11-15</prism:publicationDate>
+						<prism:volume>525</prism:volume>			<prism:number>2</prism:number>
+												<prism:startingPage>156</prism:startingPage>
+													<prism:endingPage>162</prism:endingPage>
+							
+							<prism:doi>10.11646/phytotaxa.525.2.6</prism:doi>
+					</item>
+	</rdf:RDF>
+
