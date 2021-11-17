@@ -189,8 +189,35 @@ function rss_to_internal($xml)
 			foreach ($xpath->query('description | rss:description', $item) as $node)
 			{
 				$dataFeedElement->description = $node->firstChild->nodeValue;
+				
+				// Pensoft may have useful details in the description, so extract those
+				// and clean text
+				if (preg_match_all('/<p>(?<p>.*)<\/p>/Uu', $dataFeedElement->description, $m))
+				{
+					foreach ($m['p'] as $paragraph)
+					{
+						if (preg_match('/Abstract:\s+(?<text>.*)/', $paragraph, $mm))
+						{
+							$dataFeedElement->description = $mm['text'];
+						}
+					}
+				}
 		
 				$dataFeedElement->description  = full_clean_text($dataFeedElement->description);
+				
+				// Elsevier (sciencedirect.com) has publication dates for articles in description
+				if (isset($dataFeed->url) && preg_match('/sciencedirect.com/', $dataFeed->url))
+				{
+					if (preg_match('/Available online\s+(?<date>\d+\s+[A-Z]\w+\s+[0-9]{4})/', $dataFeedElement->description, $m))
+					{
+						$dataFeedElement->datePublished = date(DATE_ISO8601, strtotime($m['date']));
+					}
+					else
+					{
+						// use feed date
+						$dataFeedElement->datePublished = $dataFeed->dateModified;
+					}
+				}
 			}
 
 			// summary / content
@@ -298,37 +325,7 @@ function rss_to_internal($xml)
 			// metadata about the thing...
 	
 			if (1) // 0 if we don't want these details
-				{
-			
-	
-	
-				/*
-					   "@id": "https://species.wikimedia.org/wiki/Template:Ralph_et_al.,_2015",
-						"@type": "WebPage",
-						"mainEntity": {
-							"@id": "https://doi.org/10.11646/zootaxa.4057.1.1",
-							"@type": "CreativeWork",
-							"author": [
-								{
-									"@id": "_:b3",
-									"@type": "Person",
-									"mainEntityOfPage": {
-										"@id": "https://species.wikimedia.org/wiki/Taryn_M.C._Ralph"
-									},
-									"name": "Ralph, T.M.C."
-								},
-	
-							   "identifier": {
-								"@id": "_:b6",
-								"@type": "PropertyValue",
-								"propertyID": "doi",
-								"value": "10.11646/zootaxa.4057.1.1"
-							},
-
-	
-	
-	
-				*/
+			{
 	
 				// doi
 				foreach ($xpath->query('prism:doi', $item) as $node)
@@ -347,7 +344,6 @@ function rss_to_internal($xml)
 						$dataFeedElement->pmid = $m['pmid'];
 					}
 				}
-
 			
 				// bibliographic metadata(?)
 				foreach ($xpath->query('dc:creator', $item) as $node)
@@ -366,6 +362,7 @@ function rss_to_internal($xml)
 						$dataFeedElement->volumeNumber = $node->firstChild->nodeValue;
 					}
 				}
+				
 				foreach ($xpath->query('prism:number', $item) as $node)
 				{
 					// some feeds have empty tags
@@ -374,10 +371,12 @@ function rss_to_internal($xml)
 						$dataFeedElement->issueNumber = $node->firstChild->nodeValue;
 					}
 				}
+				
 				foreach ($xpath->query('prism:startingPage', $item) as $node)
 				{
 					$dataFeedElement->pageStart = $node->firstChild->nodeValue;
 				}
+				
 				foreach ($xpath->query('prism:endingPage', $item) as $node)
 				{
 					$dataFeedElement->pageEnd = $node->firstChild->nodeValue;
@@ -756,6 +755,7 @@ if (0)
 	//$filename = 'examples/native-pubmed.xml'; // rss 2 
 	//$filename = 'examples/zoobank.xml'; // rss 2 
 	
+	$filename = 'examples/zookeys.xml'; 
 
 
 	$xml = file_get_contents($filename);
