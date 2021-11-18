@@ -8,6 +8,8 @@ require_once (dirname(__FILE__) . '/datastore.php');
 $force = true;
 
 $filename = 'examples/ajh.xml';
+$filename = 'examples/mpe.xml';
+$filename = 'examples/taxon.xml';
 
 $xml = file_get_contents($filename);
 

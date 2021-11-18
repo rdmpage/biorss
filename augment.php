@@ -6,6 +6,7 @@ error_reporting(E_ALL);
 
 require_once (dirname(__FILE__) . '/vendor/autoload.php');
 require_once (dirname(__FILE__) . '/globalnames-graphql.php');
+require_once (dirname(__FILE__) . '/utils.php');
 
 
 use Sunra\PhpSimple\HtmlDomParser;
@@ -162,6 +163,8 @@ function get_doc($debug = false)
 			"pageStart": "383",
 			"pageEnd": "391"
 		}';		
+		
+		$json = '{"@type":"DataFeedItem","@id":"https:\/\/www.ingentaconnect.com\/content\/aspt\/sb\/2021\/00000046\/00000003\/art00028","url":"https:\/\/www.ingentaconnect.com\/content\/aspt\/sb\/2021\/00000046\/00000003\/art00028","name":"Taxonomic Reevaluation of Endemic Hawaiian Planchonella (Sapotaceae)","author":[{"name":"Havran, J. Christopher"},{"name":"Nylinder, Stephan"},{"name":"Swenson, Ulf"}],"volumeNumber":"46","issueNumber":"3","pageStart":"875","pageEnd":"888","doi":"10.1600\/036364421X16312067913480","image":"https:\/\/www.ingentaconnect.com\/images\/journal-logos\/aspt\/sb.gif","contentLocation":[],"about":[]}';
 
 
 		$doc = json_decode($json);
@@ -309,7 +312,7 @@ function add_meta(&$doc)
 {
 	$status = 200;
 	
-	if (isset($doc->url) && (!isset($doc->doi) || !isset($doc->image)))
+	if (isset($doc->url) && (!isset($doc->doi) || !isset($doc->image) || !isset($doc->datePublished)  || !isset($doc->description)))
 	{
 		$html = get($doc->url);	
 		
@@ -358,6 +361,23 @@ function add_meta(&$doc)
 						}
 					}
 					
+					// Date if we don't have one
+					// <meta name="DCTERMS.issued" content="October 2021">	
+					if (!isset($doc->datePublished) && isset($meta->name) && ($meta->content != ''))
+					{
+						switch ($meta->name)
+						{
+				
+							case 'DCTERMS.issued':
+								$doc->datePublished = date(DATE_ISO8601, strtotime($meta->content));
+								break;	
+								
+							default:
+								break;
+						}
+					}				
+					
+					
 					// Image
 					if (!isset($doc->image) && isset($meta->property) && ($meta->content != ''))
 					{
@@ -372,7 +392,60 @@ function add_meta(&$doc)
 								break;
 						}
 					}
-				}				
+					
+					// Description
+					if (!isset($doc->description) && isset($meta->property) && ($meta->content != ''))
+					{
+						switch ($meta->property)
+						{
+				
+							case 'og:description':
+								$doc->description = $meta->content;
+								break;					
+
+							default:
+								break;
+						}
+					}
+					
+				}	
+				
+				
+				// image
+				
+				// If we don't have an image in <META> go looking elsewhere
+				if (!isset($doc->image))
+				{
+					// Magnolia Press 
+					foreach ($dom->find('div[class=item cover_image] div img') as $img)	
+					{
+						$doc->image = $img->src;				
+					}
+				}
+				
+				if (!isset($doc->image))
+				{
+					// Ingenta
+					foreach ($dom->find('div[id=article-journal-logo] img') as $img)	
+					{
+						$doc->image = 'https://www.ingentaconnect.com' . $img->src;				
+					}
+				}	
+				
+				// description
+				if (!isset($doc->description))
+				{
+					// Ingenta
+					foreach ($dom->find('div[class=tab-content] div[id=Abst]') as $div)	
+					{
+						$doc->description = $div->plaintext;	
+						$doc->description = str_replace('Abstract&#8212;', '', $doc->description);
+						$doc->description = full_clean_text	($doc->description);
+					}
+				}
+				
+						
+						
 			}	
 		}	
 	}

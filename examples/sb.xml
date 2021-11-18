@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+ xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:prism="http://prismstandard.org/namespaces/2.0/basic/"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/">
+ <channel rdf:about="http://api.ingentaconnect.com/content/aspt/sb/latest?format=rss">
+ <title>Latest Issue of SYSTEMATIC BOTANY</title>
+ <link>https://www.ingentaconnect.com/content/aspt/sb/latest</link>
+ <description>RSS feed of the most recently published issue of SYSTEMATIC BOTANY</description>
+ <image rdf:resource="https://www.ingentaconnect.com/journal-logos/aspt/sb.gif"/>
+ <dc:description>RSS feed of the most recently published issue of SYSTEMATIC BOTANY</dc:description>
+ <dc:title>Latest Issue of SYSTEMATIC BOTANY RSS Feed</dc:title>
+ <dc:date>2021-11-06T02:11:47Z</dc:date>
+ <admin:generatorAgent rdf:resource="https://www.ingentaconnect.com"/>
+ <admin:errorReportsTo rdf:resource="mailto:help@ingentaconnect.com"/>
+ <sy:updatePeriod>daily</sy:updatePeriod>
+ <sy:updateFrequency>2</sy:updateFrequency>
+ <sy:updateBase>2004-01-01T07:00+00:00</sy:updateBase>
+ <items>
+ <rdf:Seq>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00001"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00002"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00003"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00004"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00005"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00006"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00007"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00008"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00009"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00010"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00011"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00012"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00013"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00014"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00015"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00016"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00017"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00018"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00019"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00020"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00021"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00022"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00023"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00024"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00025"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00026"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00027"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00028"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00029"/>
+ </rdf:Seq>
+ </items>
+<dc:publisher>American Society of Plant Taxonomists</dc:publisher>
+<dc:rights>(copyright) 2021 American Society of Plant Taxonomists</dc:rights>
+<prism:publicationName>SYSTEMATIC BOTANY</prism:publicationName>
+<prism:distributor>Ingenta Connect</prism:distributor>
+<prism:coverDisplayDate>October 2021</prism:coverDisplayDate>
+<prism:isPartOf rdf:resource="urn:issn:0363-6445"/><prism:issn>0363-6445</prism:issn>
+ </channel>
+<item rdf:about="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00001">
+<link>https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00001</link>
+<title>Taxonomy and Relationships Within Polemonium foliosissimum (Polemoniaceae): Untangling a Clade of Colorful and Gynodioecious Herbs</title>
+<dc:title>Taxonomy and Relationships Within Polemonium foliosissimum (Polemoniaceae): Untangling a Clade of Colorful and Gynodioecious Herbs</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Rose, Jeffrey P.</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Jeffrey P.</foaf:givenName><foaf:familyName>Rose</foaf:familyName><foaf:name>Rose, Jeffrey P.</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>46</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>519</prism:startingPage><prism:endingPage>537</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003"/>
+<prism:section>Article</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00002">
+<link>https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00002</link>
+<title>Phylogenomics in the Hard Pines (Pinus subsection Ponderosae; Pinaceae) Confirms Paraphyly in Pinus ponderosa, and Places Pinus jeffreyi with the California Big Cone Pines</title>
+<dc:title>Phylogenomics in the Hard Pines (Pinus subsection Ponderosae; Pinaceae) Confirms Paraphyly in Pinus ponderosa, and Places Pinus jeffreyi with the California Big Cone Pines</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Willyard, Ann</dc:creator><dc:creator>Gernandt, David S.</dc:creator><dc:creator>Cooper, Blake</dc:creator><dc:creator>Douglas, Connor</dc:creator><dc:creator>Finch, Kristen</dc:creator><dc:creator>Karemera, Hassan</dc:creator><dc:creator>Lindberg, Erik</dc:creator><dc:creator>Langer, Stephen K.</dc:creator><dc:creator>Lefler, Julia</dc:creator><dc:creator>Marquardt, Paula</dc:creator><dc:creator>Pouncey, Dakota L.</dc:creator><dc:creator>Telewski, Frank</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Ann</foaf:givenName><foaf:familyName>Willyard</foaf:familyName><foaf:name>Willyard, Ann</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>David S.</foaf:givenName><foaf:familyName>Gernandt</foaf:familyName><foaf:name>Gernandt, David S.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Blake</foaf:givenName><foaf:familyName>Cooper</foaf:familyName><foaf:name>Cooper, Blake</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Connor</foaf:givenName><foaf:familyName>Douglas</foaf:familyName><foaf:name>Douglas, Connor</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Kristen</foaf:givenName><foaf:familyName>Finch</foaf:familyName><foaf:name>Finch, Kristen</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Hassan</foaf:givenName><foaf:familyName>Karemera</foaf:familyName><foaf:name>Karemera, Hassan</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Erik</foaf:givenName><foaf:familyName>Lindberg</foaf:familyName><foaf:name>Lindberg, Erik</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Stephen K.</foaf:givenName><foaf:familyName>Langer</foaf:familyName><foaf:name>Langer, Stephen K.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Julia</foaf:givenName><foaf:familyName>Lefler</foaf:familyName><foaf:name>Lefler, Julia</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Paula</foaf:givenName><foaf:familyName>Marquardt</foaf:familyName><foaf:name>Marquardt, Paula</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Dakota L.</foaf:givenName><foaf:familyName>Pouncey</foaf:familyName><foaf:name>Pouncey, Dakota L.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Frank</foaf:givenName><foaf:familyName>Telewski</foaf:familyName><foaf:name>Telewski, Frank</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>46</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>538</prism:startingPage><prism:endingPage>561</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003"/>
+<prism:section>Article</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00003">
+<link>https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00003</link>
+<title>A Revised Classification of Glossopetalon (Crossosomataceae) Based on Restriction Site-Associated DNA Sequencing</title>
+<dc:title>A Revised Classification of Glossopetalon (Crossosomataceae) Based on Restriction Site-Associated DNA Sequencing</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Allen, Maya L.</dc:creator><dc:creator>Ayers, Tina</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Maya L.</foaf:givenName><foaf:familyName>Allen</foaf:familyName><foaf:name>Allen, Maya L.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Tina</foaf:givenName><foaf:familyName>Ayers</foaf:familyName><foaf:name>Ayers, Tina</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>46</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>562</prism:startingPage><prism:endingPage>572</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003"/>
+<prism:section>Article</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00004">
+<link>https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00004</link>
+<title>Studies of Vietnamese Pteridophyte Flora 1</title>
+<dc:title>Studies of Vietnamese Pteridophyte Flora 1</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Chen, Cheng-Wei</dc:creator><dc:creator>Ebihara, Atsushi</dc:creator><dc:creator>Cheng, Ken-Yu</dc:creator><dc:creator>Hsu, Tian-Chuan</dc:creator><dc:creator>Huang, Yao-Moan</dc:creator><dc:creator>Dang, Viet Dai</dc:creator><dc:creator>Luu, Hong Truong</dc:creator><dc:creator>Le, Van Son</dc:creator><dc:creator>Li, Chia-Wei</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Cheng-Wei</foaf:givenName><foaf:familyName>Chen</foaf:familyName><foaf:name>Chen, Cheng-Wei</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Atsushi</foaf:givenName><foaf:familyName>Ebihara</foaf:familyName><foaf:name>Ebihara, Atsushi</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Ken-Yu</foaf:givenName><foaf:familyName>Cheng</foaf:familyName><foaf:name>Cheng, Ken-Yu</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Tian-Chuan</foaf:givenName><foaf:familyName>Hsu</foaf:familyName><foaf:name>Hsu, Tian-Chuan</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Yao-Moan</foaf:givenName><foaf:familyName>Huang</foaf:familyName><foaf:name>Huang, Yao-Moan</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Viet Dai</foaf:givenName><foaf:familyName>Dang</foaf:familyName><foaf:name>Dang, Viet Dai</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Hong Truong</foaf:givenName><foaf:familyName>Luu</foaf:familyName><foaf:name>Luu, Hong Truong</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Van Son</foaf:givenName><foaf:familyName>Le</foaf:familyName><foaf:name>Le, Van Son</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Chia-Wei</foaf:givenName><foaf:familyName>Li</foaf:familyName><foaf:name>Li, Chia-Wei</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>46</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>573</prism:startingPage><prism:endingPage>581</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003"/>
+<prism:section>Article</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00005">
+<link>https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00005</link>
+<title>Taxonomic Study of the Species of Maranta Plum ex. L. (Marantaceae) from Northeastern Brazil: A Neglected Diversity Center for the Genus with Five New Species</title>
+<dc:title>Taxonomic Study of the Species of Maranta Plum ex. L. (Marantaceae) from Northeastern Brazil: A Neglected Diversity Center for the Genus with Five New Species</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Luna, Naédja</dc:creator><dc:creator>Pessoa, Edlley M.</dc:creator><dc:creator>Alves, Marccus</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Naédja</foaf:givenName><foaf:familyName>Luna</foaf:familyName><foaf:name>Luna, Naédja</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Edlley M.</foaf:givenName><foaf:familyName>Pessoa</foaf:familyName><foaf:name>Pessoa, Edlley M.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Marccus</foaf:givenName><foaf:familyName>Alves</foaf:familyName><foaf:name>Alves, Marccus</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>46</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>582</prism:startingPage><prism:endingPage>610</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003"/>
+<prism:section>Article</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00006">
+<link>https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00006</link>
+<title>Molecular Systematics of Tribe Physarieae (Brassicaceae) Based on Nuclear ITS, LUMINIDEPENDENS, and Chloroplast ndhF
+ </title>
+<dc:title>Molecular Systematics of Tribe Physarieae (Brassicaceae) Based on Nuclear ITS, LUMINIDEPENDENS, and Chloroplast ndhF
+ </dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Fuentes-Soriano, Sara</dc:creator><dc:creator>Kellogg, Elizabeth A.</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Sara</foaf:givenName><foaf:familyName>Fuentes-Soriano</foaf:familyName><foaf:name>Fuentes-Soriano, Sara</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Elizabeth A.</foaf:givenName><foaf:familyName>Kellogg</foaf:familyName><foaf:name>Kellogg, Elizabeth A.</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>46</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>611</prism:startingPage><prism:endingPage>627</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003"/>
+<prism:section>Article</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00007">
+<link>https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00007</link>
+<title>Cryptic Diversity on Cliffs: Aster sanqingensis, a New Species of Asteraceae from Eastern China</title>
+<dc:title>Cryptic Diversity on Cliffs: Aster sanqingensis, a New Species of Asteraceae from Eastern China</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Zhang, Guojin</dc:creator><dc:creator>Shen, Jiahao</dc:creator><dc:creator>Jiao, Bohan</dc:creator><dc:creator>Niu, Guohao</dc:creator><dc:creator>Zhong, Fanghua</dc:creator><dc:creator>Li, Guo</dc:creator><dc:creator>Gao, Tiangang</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Guojin</foaf:givenName><foaf:familyName>Zhang</foaf:familyName><foaf:name>Zhang, Guojin</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Jiahao</foaf:givenName><foaf:familyName>Shen</foaf:familyName><foaf:name>Shen, Jiahao</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Bohan</foaf:givenName><foaf:familyName>Jiao</foaf:familyName><foaf:name>Jiao, Bohan</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Guohao</foaf:givenName><foaf:familyName>Niu</foaf:familyName><foaf:name>Niu, Guohao</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Fanghua</foaf:givenName><foaf:familyName>Zhong</foaf:familyName><foaf:name>Zhong, Fanghua</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Guo</foaf:givenName><foaf:familyName>Li</foaf:familyName><foaf:name>Li, Guo</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Tiangang</foaf:givenName><foaf:familyName>Gao</foaf:familyName><foaf:name>Gao, Tiangang</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>46</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>628</prism:startingPage><prism:endingPage>638</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003"/>
+<prism:section>Article</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00008">
+<link>https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00008</link>
+<title>A Toxic Story: Phylogeny and Classification of Strychnos L. (Loganiaceae)</title>
+<dc:title>A Toxic Story: Phylogeny and Classification of Strychnos L. (Loganiaceae)</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Setubal, Robberson B.</dc:creator><dc:creator>Frasier, Cynthia L.</dc:creator><dc:creator>Molina, Jeanmaire</dc:creator><dc:creator>Torke, Benjamin M.</dc:creator><dc:creator>Forzza, Rafaela C.</dc:creator><dc:creator>Struwe, Lena</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Robberson B.</foaf:givenName><foaf:familyName>Setubal</foaf:familyName><foaf:name>Setubal, Robberson B.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Cynthia L.</foaf:givenName><foaf:familyName>Frasier</foaf:familyName><foaf:name>Frasier, Cynthia L.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Jeanmaire</foaf:givenName><foaf:familyName>Molina</foaf:familyName><foaf:name>Molina, Jeanmaire</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Benjamin M.</foaf:givenName><foaf:familyName>Torke</foaf:familyName><foaf:name>Torke, Benjamin M.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Rafaela C.</foaf:givenName><foaf:familyName>Forzza</foaf:familyName><foaf:name>Forzza, Rafaela C.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Lena</foaf:givenName><foaf:familyName>Struwe</foaf:familyName><foaf:name>Struwe, Lena</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>46</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>639</prism:startingPage><prism:endingPage>655</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003"/>
+<prism:section>Article</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00009">
+<link>https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00009</link>
+<title>
+ Leucostegia amplissima, the Third Species of the Genus (Hypodematiaceae)</title>
+<dc:title>
+ Leucostegia amplissima, the Third Species of the Genus (Hypodematiaceae)</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Chen, Cheng-Wei</dc:creator><dc:creator>Tang, Sheng Kai</dc:creator><dc:creator>Knapp, Ralf</dc:creator><dc:creator>Mustapeng Andi, Maryani A.</dc:creator><dc:creator>Lu, Ping-Fong</dc:creator><dc:creator>Kessler, Michael</dc:creator><dc:creator>Huang, Yao-Moan</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Cheng-Wei</foaf:givenName><foaf:familyName>Chen</foaf:familyName><foaf:name>Chen, Cheng-Wei</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Sheng Kai</foaf:givenName><foaf:familyName>Tang</foaf:familyName><foaf:name>Tang, Sheng Kai</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Ralf</foaf:givenName><foaf:familyName>Knapp</foaf:familyName><foaf:name>Knapp, Ralf</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Andi, Maryani A.</foaf:givenName><foaf:familyName>Mustapeng Andi</foaf:familyName><foaf:name>Mustapeng Andi, Maryani A.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Ping-Fong</foaf:givenName><foaf:familyName>Lu</foaf:familyName><foaf:name>Lu, Ping-Fong</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Michael</foaf:givenName><foaf:familyName>Kessler</foaf:familyName><foaf:name>Kessler, Michael</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Yao-Moan</foaf:givenName><foaf:familyName>Huang</foaf:familyName><foaf:name>Huang, Yao-Moan</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>46</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>656</prism:startingPage><prism:endingPage>665</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003"/>
+<prism:section>Article</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00010">
+<link>https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00010</link>
+<title>Complexity in Polyploid Species Origin and Establishment: Arctostaphylos mewukka (Ericaceae)</title>
+<dc:title>Complexity in Polyploid Species Origin and Establishment: Arctostaphylos mewukka (Ericaceae)</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Serkanic, Steven</dc:creator><dc:creator>Parker, V. Thomas</dc:creator><dc:creator>Schierenbeck, Kristina</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Steven</foaf:givenName><foaf:familyName>Serkanic</foaf:familyName><foaf:name>Serkanic, Steven</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>V. Thomas</foaf:givenName><foaf:familyName>Parker</foaf:familyName><foaf:name>Parker, V. Thomas</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Kristina</foaf:givenName><foaf:familyName>Schierenbeck</foaf:familyName><foaf:name>Schierenbeck, Kristina</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>46</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>666</prism:startingPage><prism:endingPage>677</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003"/>
+<prism:section>Article</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00011">
+<link>https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00011</link>
+<title>Phylogeny, Historical Biogeography, and Divergence Time Estimates of Eucnide (Loasaceae)</title>
+<dc:title>Phylogeny, Historical Biogeography, and Divergence Time Estimates of Eucnide (Loasaceae)</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Brindley, Joshua</dc:creator><dc:creator>Roalson, Eric H.</dc:creator><dc:creator>Hufford, Larry</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Joshua</foaf:givenName><foaf:familyName>Brindley</foaf:familyName><foaf:name>Brindley, Joshua</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Eric H.</foaf:givenName><foaf:familyName>Roalson</foaf:familyName><foaf:name>Roalson, Eric H.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Larry</foaf:givenName><foaf:familyName>Hufford</foaf:familyName><foaf:name>Hufford, Larry</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>46</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>678</prism:startingPage><prism:endingPage>688</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003"/>
+<prism:section>Article</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00012">
+<link>https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00012</link>
+<title>A New Phylogenetic Hypothesis for Cereinae (Cactaceae) Points to a Monophyletic Subtribe</title>
+<dc:title>A New Phylogenetic Hypothesis for Cereinae (Cactaceae) Points to a Monophyletic Subtribe</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Fantinati, Mariana R.</dc:creator><dc:creator>Soffiatti, Patricia</dc:creator><dc:creator>Calvente, Alice</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Mariana R.</foaf:givenName><foaf:familyName>Fantinati</foaf:familyName><foaf:name>Fantinati, Mariana R.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Patricia</foaf:givenName><foaf:familyName>Soffiatti</foaf:familyName><foaf:name>Soffiatti, Patricia</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Alice</foaf:givenName><foaf:familyName>Calvente</foaf:familyName><foaf:name>Calvente, Alice</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>46</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>689</prism:startingPage><prism:endingPage>699</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003"/>
+<prism:section>Article</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00013">
+<link>https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00013</link>
+<title>
+ Cathedra (Olacaceae s. l.): A New Species and Morphological, Nomenclatural, and Distributional Updates</title>
+<dc:title>
+ Cathedra (Olacaceae s. l.): A New Species and Morphological, Nomenclatural, and Distributional Updates</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Lucena, Danielly da Silva</dc:creator><dc:creator>Gomes-Silva, Francione</dc:creator><dc:creator>Alves, Marccus</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Danielly da Silva</foaf:givenName><foaf:familyName>Lucena</foaf:familyName><foaf:name>Lucena, Danielly da Silva</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Francione</foaf:givenName><foaf:familyName>Gomes-Silva</foaf:familyName><foaf:name>Gomes-Silva, Francione</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Marccus</foaf:givenName><foaf:familyName>Alves</foaf:familyName><foaf:name>Alves, Marccus</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>46</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>700</prism:startingPage><prism:endingPage>710</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003"/>
+<prism:section>Article</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00014">
+<link>https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00014</link>
+<title>Phylogeny, Biogeography, and Classification of the Elms (Ulmus)</title>
+<dc:title>Phylogeny, Biogeography, and Classification of the Elms (Ulmus)</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Whittemore, Alan T.</dc:creator><dc:creator>Fuller, Ryan S.</dc:creator><dc:creator>Brown, Bethany H.</dc:creator><dc:creator>Hahn, Marlene</dc:creator><dc:creator>Gog, Linus</dc:creator><dc:creator>Weber, Jaime A.</dc:creator><dc:creator>Hipp, Andrew L.</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Alan T.</foaf:givenName><foaf:familyName>Whittemore</foaf:familyName><foaf:name>Whittemore, Alan T.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Ryan S.</foaf:givenName><foaf:familyName>Fuller</foaf:familyName><foaf:name>Fuller, Ryan S.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Bethany H.</foaf:givenName><foaf:familyName>Brown</foaf:familyName><foaf:name>Brown, Bethany H.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Marlene</foaf:givenName><foaf:familyName>Hahn</foaf:familyName><foaf:name>Hahn, Marlene</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Linus</foaf:givenName><foaf:familyName>Gog</foaf:familyName><foaf:name>Gog, Linus</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Jaime A.</foaf:givenName><foaf:familyName>Weber</foaf:familyName><foaf:name>Weber, Jaime A.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Andrew L.</foaf:givenName><foaf:familyName>Hipp</foaf:familyName><foaf:name>Hipp, Andrew L.</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>46</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>711</prism:startingPage><prism:endingPage>727</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003"/>
+<prism:section>Article</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00015">
+<link>https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00015</link>
+<title>A New Species of Bazzania (Lepidoziaceae, Marchantiophyta) from the Guiana Highlands of Brazil</title>
+<dc:title>A New Species of Bazzania (Lepidoziaceae, Marchantiophyta) from the Guiana Highlands of Brazil</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Costa, Denise Pinheiro</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Denise Pinheiro</foaf:givenName><foaf:familyName>Costa</foaf:familyName><foaf:name>Costa, Denise Pinheiro</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>46</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>728</prism:startingPage><prism:endingPage>731</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003"/>
+<prism:section>Article</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00016">
+<link>https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00016</link>
+<title>
+ Masdevallia bastantei (Orchidaceae), a New Species from Machupicchu, Peru</title>
+<dc:title>
+ Masdevallia bastantei (Orchidaceae), a New Species from Machupicchu, Peru</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Collantes, Benjamín</dc:creator><dc:creator>Atausinchi, Feliciano Incahuaman</dc:creator><dc:creator>Valer, Julio Córdova</dc:creator><dc:creator>Paucar, Edwin Cobos</dc:creator><dc:creator>Martel, Carlos</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Benjamín</foaf:givenName><foaf:familyName>Collantes</foaf:familyName><foaf:name>Collantes, Benjamín</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Feliciano Incahuaman</foaf:givenName><foaf:familyName>Atausinchi</foaf:familyName><foaf:name>Atausinchi, Feliciano Incahuaman</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Julio Córdova</foaf:givenName><foaf:familyName>Valer</foaf:familyName><foaf:name>Valer, Julio Córdova</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Edwin Cobos</foaf:givenName><foaf:familyName>Paucar</foaf:familyName><foaf:name>Paucar, Edwin Cobos</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Carlos</foaf:givenName><foaf:familyName>Martel</foaf:familyName><foaf:name>Martel, Carlos</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>46</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>732</prism:startingPage><prism:endingPage>738</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003"/>
+<prism:section>Article</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00017">
+<link>https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00017</link>
+<title>Two New Fern Species from Gunung Mulu National Park, Sarawak, Malaysian Borneo</title>
+<dc:title>Two New Fern Species from Gunung Mulu National Park, Sarawak, Malaysian Borneo</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Chen, Cheng-Wei</dc:creator><dc:creator>Chao, Yi-Shan</dc:creator><dc:creator>Mustapeng, Andi Maryani A.</dc:creator><dc:creator>Sapawi, Noorhana Mohd</dc:creator><dc:creator>Huang, Yao-Moan</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Cheng-Wei</foaf:givenName><foaf:familyName>Chen</foaf:familyName><foaf:name>Chen, Cheng-Wei</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Yi-Shan</foaf:givenName><foaf:familyName>Chao</foaf:familyName><foaf:name>Chao, Yi-Shan</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Andi Maryani A.</foaf:givenName><foaf:familyName>Mustapeng</foaf:familyName><foaf:name>Mustapeng, Andi Maryani A.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Noorhana Mohd</foaf:givenName><foaf:familyName>Sapawi</foaf:familyName><foaf:name>Sapawi, Noorhana Mohd</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Yao-Moan</foaf:givenName><foaf:familyName>Huang</foaf:familyName><foaf:name>Huang, Yao-Moan</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>46</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>739</prism:startingPage><prism:endingPage>749</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003"/>
+<prism:section>Article</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00018">
+<link>https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00018</link>
+<title>Resolving the Tetrastigma loheri s. l. Species Complex (Vitaceae) in the Philippines: No Evidence for Recognizing More than One Species</title>
+<dc:title>Resolving the Tetrastigma loheri s. l. Species Complex (Vitaceae) in the Philippines: No Evidence for Recognizing More than One Species</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Obico, Jasper John A.</dc:creator><dc:creator>Barcelona, Julie F.</dc:creator><dc:creator>Bonhomme, Vincent</dc:creator><dc:creator>Hale, Marie</dc:creator><dc:creator>Pelser, Pieter B.</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Jasper John A.</foaf:givenName><foaf:familyName>Obico</foaf:familyName><foaf:name>Obico, Jasper John A.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Julie F.</foaf:givenName><foaf:familyName>Barcelona</foaf:familyName><foaf:name>Barcelona, Julie F.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Vincent</foaf:givenName><foaf:familyName>Bonhomme</foaf:familyName><foaf:name>Bonhomme, Vincent</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Marie</foaf:givenName><foaf:familyName>Hale</foaf:familyName><foaf:name>Hale, Marie</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Pieter B.</foaf:givenName><foaf:familyName>Pelser</foaf:familyName><foaf:name>Pelser, Pieter B.</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>46</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>750</prism:startingPage><prism:endingPage>763</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003"/>
+<prism:section>Article</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00019">
+<link>https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00019</link>
+<title>Monograph of Elaphoglossum sect. Polytrichia subsect. Apoda (Dryopteridaceae)</title>
+<dc:title>Monograph of Elaphoglossum sect. Polytrichia subsect. Apoda (Dryopteridaceae)</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Matos, Fernando B.</dc:creator><dc:creator>Lóriga, Josmaily</dc:creator><dc:creator>Moran, Robbin C.</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Fernando B.</foaf:givenName><foaf:familyName>Matos</foaf:familyName><foaf:name>Matos, Fernando B.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Josmaily</foaf:givenName><foaf:familyName>Lóriga</foaf:familyName><foaf:name>Lóriga, Josmaily</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Robbin C.</foaf:givenName><foaf:familyName>Moran</foaf:familyName><foaf:name>Moran, Robbin C.</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>46</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>764</prism:startingPage><prism:endingPage>789</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003"/>
+<prism:section>Article</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00020">
+<link>https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00020</link>
+<title>A Remarkable New Species of the Habenaria nuda Complex (Orchidaceae) from the Espinhaço Range of Eastern Brazil</title>
+<dc:title>A Remarkable New Species of the Habenaria nuda Complex (Orchidaceae) from the Espinhaço Range of Eastern Brazil</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Batista, João A. N.</dc:creator><dc:creator>Meyer, Pablo B.</dc:creator><dc:creator>Cruz-Lustre, Gabriela</dc:creator><dc:creator>Brito, Antonio L. V. Toscano de</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>João A. N.</foaf:givenName><foaf:familyName>Batista</foaf:familyName><foaf:name>Batista, João A. N.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Pablo B.</foaf:givenName><foaf:familyName>Meyer</foaf:familyName><foaf:name>Meyer, Pablo B.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Gabriela</foaf:givenName><foaf:familyName>Cruz-Lustre</foaf:familyName><foaf:name>Cruz-Lustre, Gabriela</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Antonio L. V. Toscano de</foaf:givenName><foaf:familyName>Brito</foaf:familyName><foaf:name>Brito, Antonio L. V. Toscano de</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>46</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>790</prism:startingPage><prism:endingPage>798</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003"/>
+<prism:section>Article</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00021">
+<link>https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00021</link>
+<title>Elucidating the Evolutionary History of Oenothera Sect. Pachylophus (Onagraceae): A Phylogenomic Approach</title>
+<dc:title>Elucidating the Evolutionary History of Oenothera Sect. Pachylophus (Onagraceae): A Phylogenomic Approach</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Patsis, Amanda</dc:creator><dc:creator>Overson, Rick P.</dc:creator><dc:creator>Skogen, Krissa A.</dc:creator><dc:creator>Wickett, Norman J.</dc:creator><dc:creator>Johnson, Matthew G.</dc:creator><dc:creator>Wagner, Warren L.</dc:creator><dc:creator>Raguso, Robert A.</dc:creator><dc:creator>Fant, Jeremie B.</dc:creator><dc:creator>Levin, Rachel A.</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Amanda</foaf:givenName><foaf:familyName>Patsis</foaf:familyName><foaf:name>Patsis, Amanda</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Rick P.</foaf:givenName><foaf:familyName>Overson</foaf:familyName><foaf:name>Overson, Rick P.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Krissa A.</foaf:givenName><foaf:familyName>Skogen</foaf:familyName><foaf:name>Skogen, Krissa A.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Norman J.</foaf:givenName><foaf:familyName>Wickett</foaf:familyName><foaf:name>Wickett, Norman J.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Matthew G.</foaf:givenName><foaf:familyName>Johnson</foaf:familyName><foaf:name>Johnson, Matthew G.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Warren L.</foaf:givenName><foaf:familyName>Wagner</foaf:familyName><foaf:name>Wagner, Warren L.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Robert A.</foaf:givenName><foaf:familyName>Raguso</foaf:familyName><foaf:name>Raguso, Robert A.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Jeremie B.</foaf:givenName><foaf:familyName>Fant</foaf:familyName><foaf:name>Fant, Jeremie B.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Rachel A.</foaf:givenName><foaf:familyName>Levin</foaf:familyName><foaf:name>Levin, Rachel A.</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>46</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>799</prism:startingPage><prism:endingPage>811</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003"/>
+<prism:section>Article</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00022">
+<link>https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00022</link>
+<title>Taxonomic and Nomenclatural Novelties in Microlicia (Melastomataceae) with an Updated Checklist to the Genus in the Serra do Cipó, Minas Gerais, Brazil</title>
+<dc:title>Taxonomic and Nomenclatural Novelties in Microlicia (Melastomataceae) with an Updated Checklist to the Genus in the Serra do Cipó, Minas Gerais, Brazil</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Romero, Rosana</dc:creator><dc:creator>Versiane, Ana Flávia Alves</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Rosana</foaf:givenName><foaf:familyName>Romero</foaf:familyName><foaf:name>Romero, Rosana</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Ana Flávia Alves</foaf:givenName><foaf:familyName>Versiane</foaf:familyName><foaf:name>Versiane, Ana Flávia Alves</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>46</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>812</prism:startingPage><prism:endingPage>827</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003"/>
+<prism:section>Article</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00023">
+<link>https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00023</link>
+<title>A New Endangered Species of Senna (Leguminosae) from the Atlantic Forest of Bahia, Brazil, Supported by X-ray Analysis of Leaflets</title>
+<dc:title>A New Endangered Species of Senna (Leguminosae) from the Atlantic Forest of Bahia, Brazil, Supported by X-ray Analysis of Leaflets</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Lima, Alexandre Gibau de</dc:creator><dc:creator>Queiroz, Luciano Paganucci de</dc:creator><dc:creator>Tomazello-Filho, Mario</dc:creator><dc:creator>Lewis, Gwilym Peter</dc:creator><dc:creator>Souza, Vinicius Castro</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Alexandre Gibau de</foaf:givenName><foaf:familyName>Lima</foaf:familyName><foaf:name>Lima, Alexandre Gibau de</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Luciano Paganucci de</foaf:givenName><foaf:familyName>Queiroz</foaf:familyName><foaf:name>Queiroz, Luciano Paganucci de</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Mario</foaf:givenName><foaf:familyName>Tomazello-Filho</foaf:familyName><foaf:name>Tomazello-Filho, Mario</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Gwilym Peter</foaf:givenName><foaf:familyName>Lewis</foaf:familyName><foaf:name>Lewis, Gwilym Peter</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Vinicius Castro</foaf:givenName><foaf:familyName>Souza</foaf:familyName><foaf:name>Souza, Vinicius Castro</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>46</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>828</prism:startingPage><prism:endingPage>833</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003"/>
+<prism:section>Article</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00024">
+<link>https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00024</link>
+<title>A New Species of Comolia (Melastomataceae, Marcetieae) from the Sand Dunes of Bahia, Brazil, with Notes on Leaf Anatomy</title>
+<dc:title>A New Species of Comolia (Melastomataceae, Marcetieae) from the Sand Dunes of Bahia, Brazil, with Notes on Leaf Anatomy</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Silva, Diego Nunes da</dc:creator><dc:creator>Luna, Bruna Nunes de</dc:creator><dc:creator>Freire, Talvanis Lorenzetti</dc:creator><dc:creator>Guimarães, Elsie Franklin</dc:creator><dc:creator>Guimarães, Paulo José Fernandes</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Diego Nunes da</foaf:givenName><foaf:familyName>Silva</foaf:familyName><foaf:name>Silva, Diego Nunes da</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Bruna Nunes de</foaf:givenName><foaf:familyName>Luna</foaf:familyName><foaf:name>Luna, Bruna Nunes de</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Talvanis Lorenzetti</foaf:givenName><foaf:familyName>Freire</foaf:familyName><foaf:name>Freire, Talvanis Lorenzetti</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Elsie Franklin</foaf:givenName><foaf:familyName>Guimarães</foaf:familyName><foaf:name>Guimarães, Elsie Franklin</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Paulo José Fernandes</foaf:givenName><foaf:familyName>Guimarães</foaf:familyName><foaf:name>Guimarães, Paulo José Fernandes</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>46</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>834</prism:startingPage><prism:endingPage>843</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003"/>
+<prism:section>Article</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00025">
+<link>https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00025</link>
+<title>
+ Staelia schumannii (Rubiaceae, Spermacoceae): An Old New Species from Bahia, Brazil, Overlooked for More than a Century</title>
+<dc:title>
+ Staelia schumannii (Rubiaceae, Spermacoceae): An Old New Species from Bahia, Brazil, Overlooked for More than a Century</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Carmo, João A. M. do</dc:creator><dc:creator>Sobrado, Sandra V.</dc:creator><dc:creator>Cabral, Elsa L.</dc:creator><dc:creator>Salas, Roberto M.</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>João A. M. do</foaf:givenName><foaf:familyName>Carmo</foaf:familyName><foaf:name>Carmo, João A. M. do</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Sandra V.</foaf:givenName><foaf:familyName>Sobrado</foaf:familyName><foaf:name>Sobrado, Sandra V.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Elsa L.</foaf:givenName><foaf:familyName>Cabral</foaf:familyName><foaf:name>Cabral, Elsa L.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Roberto M.</foaf:givenName><foaf:familyName>Salas</foaf:familyName><foaf:name>Salas, Roberto M.</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>46</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>844</prism:startingPage><prism:endingPage>851</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003"/>
+<prism:section>Article</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00026">
+<link>https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00026</link>
+<title>Three New Species of Neocalyptrocalyx (Capparaceae) for South America</title>
+<dc:title>Three New Species of Neocalyptrocalyx (Capparaceae) for South America</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Luber, Jaquelini</dc:creator><dc:creator>Cornejo, Xavier</dc:creator><dc:creator>Carrijo, Tatiana Tavares</dc:creator><dc:creator>Mansano, Vidal de Freitas</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Jaquelini</foaf:givenName><foaf:familyName>Luber</foaf:familyName><foaf:name>Luber, Jaquelini</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Xavier</foaf:givenName><foaf:familyName>Cornejo</foaf:familyName><foaf:name>Cornejo, Xavier</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Tatiana Tavares</foaf:givenName><foaf:familyName>Carrijo</foaf:familyName><foaf:name>Carrijo, Tatiana Tavares</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Vidal de Freitas</foaf:givenName><foaf:familyName>Mansano</foaf:familyName><foaf:name>Mansano, Vidal de Freitas</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>46</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>852</prism:startingPage><prism:endingPage>862</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003"/>
+<prism:section>Article</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00027">
+<link>https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00027</link>
+<title>Phylogenomics of the Palm Tribe Lepidocaryeae (Calamoideae: Arecaceae) and Description of a New Species of Mauritiella
+ </title>
+<dc:title>Phylogenomics of the Palm Tribe Lepidocaryeae (Calamoideae: Arecaceae) and Description of a New Species of Mauritiella
+ </dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Jiménez, Maria Fernanda Torres</dc:creator><dc:creator>Prata, Eduardo M. B.</dc:creator><dc:creator>Zizka, Alexander</dc:creator><dc:creator>Cohn-Haft, Mario</dc:creator><dc:creator>de Oliveira, Ayslaner V. G.</dc:creator><dc:creator>Emilio, Thaise</dc:creator><dc:creator>Chazot, Nicolas</dc:creator><dc:creator>Couvreur, Thomas L. P.</dc:creator><dc:creator>Kamga, Suzanne Mogue</dc:creator><dc:creator>Sonké, Bonaventure</dc:creator><dc:creator>Cano, Ángela</dc:creator><dc:creator>Collevatti, Rosane G.</dc:creator><dc:creator>Kuhnhäuser, Benedikt G.</dc:creator><dc:creator>Baker, William J.</dc:creator><dc:creator>Antonelli, Alexandre</dc:creator><dc:creator>Bacon, Christine D.</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Maria Fernanda Torres</foaf:givenName><foaf:familyName>Jiménez</foaf:familyName><foaf:name>Jiménez, Maria Fernanda Torres</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Eduardo M. B.</foaf:givenName><foaf:familyName>Prata</foaf:familyName><foaf:name>Prata, Eduardo M. B.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Alexander</foaf:givenName><foaf:familyName>Zizka</foaf:familyName><foaf:name>Zizka, Alexander</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Mario</foaf:givenName><foaf:familyName>Cohn-Haft</foaf:familyName><foaf:name>Cohn-Haft, Mario</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Oliveira, Ayslaner V. G.</foaf:givenName><foaf:familyName>de Oliveira</foaf:familyName><foaf:name>de Oliveira, Ayslaner V. G.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Thaise</foaf:givenName><foaf:familyName>Emilio</foaf:familyName><foaf:name>Emilio, Thaise</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Nicolas</foaf:givenName><foaf:familyName>Chazot</foaf:familyName><foaf:name>Chazot, Nicolas</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Thomas L. P.</foaf:givenName><foaf:familyName>Couvreur</foaf:familyName><foaf:name>Couvreur, Thomas L. P.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Suzanne Mogue</foaf:givenName><foaf:familyName>Kamga</foaf:familyName><foaf:name>Kamga, Suzanne Mogue</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Bonaventure</foaf:givenName><foaf:familyName>Sonké</foaf:familyName><foaf:name>Sonké, Bonaventure</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Ángela</foaf:givenName><foaf:familyName>Cano</foaf:familyName><foaf:name>Cano, Ángela</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Rosane G.</foaf:givenName><foaf:familyName>Collevatti</foaf:familyName><foaf:name>Collevatti, Rosane G.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Benedikt G.</foaf:givenName><foaf:familyName>Kuhnhäuser</foaf:familyName><foaf:name>Kuhnhäuser, Benedikt G.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>William J.</foaf:givenName><foaf:familyName>Baker</foaf:familyName><foaf:name>Baker, William J.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Alexandre</foaf:givenName><foaf:familyName>Antonelli</foaf:familyName><foaf:name>Antonelli, Alexandre</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Christine D.</foaf:givenName><foaf:familyName>Bacon</foaf:familyName><foaf:name>Bacon, Christine D.</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>46</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>863</prism:startingPage><prism:endingPage>874</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003"/>
+<prism:section>Article</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00028">
+<link>https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00028</link>
+<title>Taxonomic Reevaluation of Endemic Hawaiian Planchonella (Sapotaceae)</title>
+<dc:title>Taxonomic Reevaluation of Endemic Hawaiian Planchonella (Sapotaceae)</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Havran, J. Christopher</dc:creator><dc:creator>Nylinder, Stephan</dc:creator><dc:creator>Swenson, Ulf</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>J. Christopher</foaf:givenName><foaf:familyName>Havran</foaf:familyName><foaf:name>Havran, J. Christopher</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Stephan</foaf:givenName><foaf:familyName>Nylinder</foaf:familyName><foaf:name>Nylinder, Stephan</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Ulf</foaf:givenName><foaf:familyName>Swenson</foaf:familyName><foaf:name>Swenson, Ulf</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>46</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>875</prism:startingPage><prism:endingPage>888</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003"/>
+<prism:section>Article</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00029">
+<link>https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003/art00029</link>
+<title>Book Review</title>
+<dc:title>Book Review</dc:title>
+<dc:format>application/pdf</dc:format>
+<prism:volume>46</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>889</prism:startingPage><prism:endingPage>889</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/aspt/sb/2021/00000046/00000003"/>
+<prism:section>Book Review</prism:section>
+</item>
+ </rdf:RDF>

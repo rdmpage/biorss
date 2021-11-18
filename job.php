@@ -49,9 +49,20 @@ $filename = 'examples/zootaxa.rdf';
 $filename = 'examples/phytokeys.xml'; // rss2
 //$filename = 'examples/cnki.xml'; // rss2
 //$filename = 'examples/aby.xml'; // rss2
-$filename = 'examples/googlescholar.xml'; // rss2
+//$filename = 'examples/googlescholar.xml'; // rss2
 //$filename = 'examples/native-pubmed.xml'; // rss2
 //$filename = 'examples/ingenta.rdf';
+$filename = 'examples/ajh.xml';
+//$filename = 'examples/zookeys.xml';
+//$filename = 'examples/canent.xml';
+
+$filename = 'examples/mpe.xml';
+$filename = 'examples/cnki.xml'; // rss2
+
+$filename = 'examples/phytotaxa.xml'; // rss2
+$filename = 'examples/sb.xml'; // 
+$filename = 'examples/googlescholar.xml';
+$filename = 'examples/taxon.xml';
 
 
 $xml = file_get_contents($filename);
@@ -81,11 +92,13 @@ for ($i = 0; $i < $n; $i++)
 	}
 	
 	//print_r($dataFeedElement);
+	//echo json_encode($dataFeedElement);
+	
+	//exit();
 	
 	$url = 'http://localhost/~rpage/biorss/meta.php';
-	//$url = 'http://localhost/~rpage/biorss/geoparser.php';
-	//$url = 'http://localhost/~rpage/biorss/meta.php';
-	//$url = 'http://localhost/~rpage/biorss/taxa.php';
+	$url = 'http://localhost/~rpage/biorss/geoparser.php';
+	$url = 'http://localhost/~rpage/biorss/taxa.php';
 	
 	$code = post_job($url, $dataFeedElement);
 		
