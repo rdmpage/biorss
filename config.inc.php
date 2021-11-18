@@ -26,6 +26,24 @@ if (file_exists(dirname(__FILE__) . '/env.php'))
 $config['platform'] = 'local';
 //$config['platform'] = 'cloud';
 
+$config['site']		= 'local';
+//$config['site']		= 'heroku';
+
+switch ($config['site'])
+{
+	case 'heroku':
+		$config['web_server']	= 'https://biorss.herokuapp.com'; 
+		$config['web_root']		= '/';
+		$config['site_name'] 	= 'BioRSS';
+		break;	
+
+	case 'local':
+	default:
+		$config['web_server']	= 'http://localhost'; 
+		$config['web_root']		= '/~rpage/biorss/';
+		$config['site_name'] 	= 'BioRSS';
+		break;
+}
 
 // CouchDB--------------------------------------------------------------------------------
 		
