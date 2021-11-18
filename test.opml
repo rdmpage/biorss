@@ -35,7 +35,7 @@
 		xmlUrl="https://www.jstage.jst.go.jp/AF05S010NewRssDld?btnaction=JT0040&sryCd=asjaa&rssLang=en"/>
 		
 		
-		
+<!-- C -->			
 		
 	<outline 
 		text="The Canadian Entomologist" 
@@ -45,6 +45,9 @@
 		version="RSS" 
 		htmlUrl="https://www.cambridge.org/core/journals/canadian-entomologist" 
 		xmlUrl="https://www.cambridge.org/core/rss/product/id/2DD17A42E6E59026C256A7EBBDB96645"/>		
+
+
+<!-- M -->	
 
 	<outline 
 		text="Entomologist's Monthly Magazine" 
@@ -58,7 +61,19 @@
 		
 		
 		
+<!-- M -->		
 
+	<outline 
+		text="Molecular Phylogenetics and Evolution" 
+		title="Molecular Phylogenetics and Evolution" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://www.sciencedirect.com/journal/molecular-phylogenetics-and-evolution/issues" 
+		xmlUrl="http://rss.sciencedirect.com/publication/science/10557903"/>
+		
+
+<!-- P -->	
 
 	<outline 
 		text="Latest Articles from PhytoKeys" 
@@ -69,6 +84,40 @@
 		htmlUrl="https://phytokeys.pensoft.net/articles" 
 		xmlUrl="https://phytokeys.pensoft.net/rss.php"/>
 		
+	<outline 
+		text="Phytotaxa Current Issue" 
+		title="Phytotaxa Current Issue" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://www.biotaxa.org/Phytotaxa/issue/current" 
+		xmlUrl="https://www.biotaxa.org/Phytotaxa/gateway/plugin/WebFeedGatewayPlugin/rss"/>
+
+<!-- S -->
+	<outline 
+		text="Systematic Botany" 
+		title="Systematic Botany" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://www.ingentaconnect.com/content/aspt/sb" 
+		xmlUrl="https://api.ingentaconnect.com/content/aspt/sb/latest?format=rss"/>
+
+
+<!-- T -->
+	<outline 
+		text="Taxon" 
+		title="Taxon" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://onlinelibrary.wiley.com/journal/19968175" 
+		xmlUrl="https://onlinelibrary.wiley.com/feed/19968175/most-recent"/>
+
+
+
+
+<!-- Z -->			
 	<outline 
 		text="Zootaxa Current Issue" 
 		title="Zootaxa Current Issue" 
@@ -83,13 +132,16 @@
 	<outline 
 		text="Taxonomic databases" 
 		title="Taxa">
+		
+		
+<!-- Z -->		
 		<outline 
 			text="Latest ZooBank Registration Activity" 
 			title="Latest ZooBank Registration Activity"
 			description="" 
 			type="rss" 
 			version="RSS" 
-			htmlUrl=http://zoobank.org/""
+			htmlUrl="http://zoobank.org/"
 			xmlUrl="http://zoobank.org/rss/rss.xml" />
 			
 			
@@ -102,6 +154,9 @@
 	<outline 
 		text="Aggregators and search engines" 
 		title="Aggregators and search engines">
+		
+		
+<!-- P -->			
 		<outline 
 			text="PubMed" 
 			title="PubMed"
