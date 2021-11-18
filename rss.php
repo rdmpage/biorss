@@ -348,10 +348,18 @@ function rss_to_internal($xml)
 				// bibliographic metadata(?)
 				foreach ($xpath->query('dc:creator', $item) as $node)
 				{
-					$author = new stdclass;
-					$author->name = $node->firstChild->nodeValue;
+					if (isset($node->firstChild->nodeValue))
+					{
+						// Some publishers (e.g., Wiley) store multiple values here
+						$parts = preg_split('/,\s*\R/u', $node->firstChild->nodeValue);
+						foreach ($parts as $part)
+						{					
+							$author = new stdclass;
+							$author->name = trim($part);
 		
-					$dataFeedElement->author[] = $author;
+							$dataFeedElement->author[] = $author;
+						}
+					}
 				}
 
 				foreach ($xpath->query('prism:volume', $item) as $node)
@@ -394,29 +402,29 @@ function rss_to_internal($xml)
 }
 
 //----------------------------------------------------------------------------------------
-function rss_content($dataFeedElement, $feed, $item, $tagname = 'content')
+function rss_content($source, $feed, $target, $tagname = 'content')
 {
-	if (isset($dataFeedElement->description))
+	if (isset($source->description))
 	{
 		$description_content = '';
 		
-		if (isset($dataFeedElement->image))
+		if (isset($source->image))
 		{
-			$description_content = '<p>' . '<img src="' . $dataFeedElement->image . '" width="240"></p>';
-			$description_content .= '<p>' . $dataFeedElement->description . '</p>';
+			$description_content = '<p>' . '<img src="' . $source->image . '" width="240"></p>';
+			$description_content .= '<p>' . $source->description . '</p>';
 		}
 		else
 		{
-			$description_content = '<p>' . $dataFeedElement->description . '</p>';
+			$description_content = '<p>' . $source->description . '</p>';
 		}				
 		
-		if (isset($dataFeedElement->url))
+		if (isset($source->url))
 		{
-			$host = parse_url($dataFeedElement->url, PHP_URL_HOST);
-			$description_content .= '<p><a href="' .$dataFeedElement->url . '">' . $host . '</a></p>';
+			$host = parse_url($source->url, PHP_URL_HOST);
+			$description_content .= '<p><a href="' .$source->url . '">' . $host . '</a></p>';
 		}
 	
-		$description = $item->appendChild($feed->createElement($tagname));
+		$description = $target->appendChild($feed->createElement($tagname));
 		
 		if ($tagname == 'content')
 		{
@@ -571,7 +579,7 @@ function internal_to_rss($dataFeed, $format = 'atom')
 			$title->appendChild($feed->createTextNode($dataFeed->name));
 			
 			// description
-			rss_content($dataFeedElement, $feed, $item, 'description');
+			rss_content($dataFeed, $feed, $channel, 'description');
 			
 			// link
 			$link = $channel->appendChild($feed->createElement('link'));
