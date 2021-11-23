@@ -487,21 +487,18 @@ function drawTreemap(path) {
 				html += 'background-repeat:no-repeat;';
 				html += 'background-position:center;';
 				html += 'background-size: 50%;';
-				
-								
-					
-					
-					
+												
 				html += '"';
 				
-				html += ' onclick=\'set_path(' + data[i].id + ')\';';
+				if (!data[i].isLeaf) {				
+					html += ' onclick=\'set_path(' + data[i].id + ')\';';
+				}
 
 				html += '>';
 					
 				html += '<span>' + data[i].label + '</span>';
 				
-				html += '</div>';
-		
+				html += '</div>';		
 			}
 	
 		

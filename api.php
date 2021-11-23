@@ -99,23 +99,74 @@ function display_treemap ($path, $callback = '')
 	global $couch;
 	
 	$key = json_decode($path);
+	
+	$level = count($key);
 
-	// Get children of this node
+	// Get children of this node (and their children)
 	$startkey = $key;
-	$startkey[] = "A";
+	//$startkey[] = "A";
 	$endkey = $key;
 	$endkey[] = "zzz";
 		
 	$url = '_design/key/_view/classification?startkey=' . urlencode(json_encode($startkey))
 		. '&endkey=' .  urlencode(json_encode($endkey))
-		. '&group_level=' . (count($key) + 1);
+		. '&group_level=' . ($level + 2);
 	
 	$resp = $couch->send("GET", "/" . $config['couchdb_options']['database'] . "/" . $url);
 
 	$obj = json_decode($resp);
+	
+	// pre_process
+	$nodes = array();
+	foreach ($obj->rows as $row)
+	{
+		$node_array = array_slice($row->key, 0, $level + 1);
+		$node_key = join("-", $node_array);
 		
+		if (!isset($nodes[$node_key]))
+		{
+			$nodes[$node_key] = new stdclass;
+			$nodes[$node_key]->count = 0;
+			
+			if (count($row->key) == $level)
+			{
+				$nodes[$node_key]->label = $row->key[$level - 1];
+			}
+			else
+			{
+				$nodes[$node_key]->label = $row->key[$level];
+			}
+			$nodes[$node_key]->key = $node_array;
+			$nodes[$node_key]->children = 1;
+		}
+		
+		$nodes[$node_key]->count += $row->value;
+		
+		if (count($row->key) > $level + 1)
+		{
+			$nodes[$node_key]->children++;
+		}
+
+
+	}	
+	
+	
+	if (count($nodes) > 1)
+	{
+		array_shift($nodes);
+	}
+	
+	
+	/*
+	echo '<pre>';
+	print_r($nodes);
+	echo '</pre>';
+	*/
+	
 	// get node and children
 	$items = array();
+	
+	/*
 	
 	foreach ($obj->rows as $row)
 	{
@@ -130,6 +181,22 @@ function display_treemap ($path, $callback = '')
 	
 		array_push($items, $item);
 	}
+	*/
+	
+	foreach ($nodes as $node)
+	{
+		
+		$item = new Item(
+			log10($node->count + 1), 
+			$node->label, 
+			json_encode($node->key),
+			($node->children == 0)
+			);
+	
+		array_push($items, $item);
+	}
+	
+	
 	
 	$r = new Rectangle(0,0,280,280);
 
