@@ -11,6 +11,7 @@
 		<string>AA35467B-748F-49B0-99E2-940044323CC4</string>
 		<string>85DD3CF1-F874-4B82-BDF3-8D857028DB05</string>
 		<string>6EA011A6-2945-4ADF-ABB3-2B4953D23E38</string>
+		<string>B4AF37C6-9D37-4D5D-9CA8-387A99337944</string>
 		<string>5D674461-04C5-40F8-A22F-40B122F64F60</string>
 		<string>34B38ADB-C589-4D13-90B1-5CF0AE61D7CD</string>
 		<string>6416256A-F171-45AA-A4D3-7325FC374813</string>
@@ -1190,6 +1191,54 @@
 			<string>taxa.php</string>
 			<key>ItemType</key>
 			<string>FileReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
+		<key>B4AF37C6-9D37-4D5D-9CA8-387A99337944</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9va9wCAAAAAAQQMAAAAKNjaUO7Rs+604jXGi5+qONy
+				rmTYOuM19AYSPih/GD+s2AEAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAFAAAAAQEAAHJwYWdlAAAABQAA
+				AAEBAABTaXRlcwAAAAYAAAABAQAAYmlvcnNzAAAHAAAA
+				AQEAAGNvdWNoZGIAFAAAAAEGAAAQAAAAIAAAADAAAABA
+				AAAAUAAAAAgAAAAEAwAAEGcCAAAAAAAIAAAABAMAAIV0
+				DQAAAAAACAAAAAQDAAAEVkwAAAAAAAgAAAAEAwAAP3Z5
+				CAMAAAAIAAAABAMAANM8qggDAAAAFAAAAAEGAAB8AAAA
+				jAAAAJwAAACsAAAAvAAAAAgAAAAABAAAQcOmpTfrbwoY
+				AAAAAQIAAAIAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAgA
+				AAAEAwAAAwAAAAAAAAAEAAAAAwMAAPUBAAAIAAAAAQkA
+				AGZpbGU6Ly8vDAAAAAEBAABNYWNpbnRvc2ggSEQIAAAA
+				BAMAAADgxTJ0AAAACAAAAAAEAABBvt1dYgAAACQAAAAB
+				AQAAMjVFNDI4NkQtNzEyQy0zODk5LUI0M0YtNUQzRjZB
+				OEJEMTIxGAAAAAECAACBAAAAAQAAAO8TAAABAAAAAAAA
+				AAAAAAABAAAAAQEAAC8AAAAAAAAAAQUAAMwAAAD+////
+				AQAAAAAAAAAQAAAABBAAAGAAAAAAAAAABRAAAMwAAAAA
+				AAAAEBAAAPgAAAAAAAAAQBAAAOgAAAAAAAAAAiAAAMQB
+				AAAAAAAABSAAADQBAAAAAAAAECAAAEQBAAAAAAAAESAA
+				AHgBAAAAAAAAEiAAAFgBAAAAAAAAEyAAAGgBAAAAAAAA
+				ICAAAKQBAAAAAAAAMCAAANABAAAAAAAAAcAAABgBAAAA
+				AAAAEcAAACAAAAAAAAAAEsAAACgBAAAAAAAAENAAAAQA
+				AAAAAAAA
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/rpage/Sites/biorss/couchdb/</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>./couchdb</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>couchdb</string>
+			<key>ItemType</key>
+			<string>FolderReference</string>
 			<key>UserOverrideItemName</key>
 			<true/>
 		</dict>
