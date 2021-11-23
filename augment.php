@@ -335,24 +335,29 @@ function add_meta(&$doc)
 				// meta
 				foreach ($dom->find('meta') as $meta)
 				{
+					if (isset($meta->name))
+					{
+						$doc->meta[] = $meta->name;
+					}
+					if (isset($meta->property))
+					{
+						$doc->meta[] = $meta->property;
+					}
+				
 					// DOI
 					if (!isset($doc->doi) && isset($meta->name) && ($meta->content != ''))
 					{
-						$doc->meta[] = $meta->name;					
-					
 						switch ($meta->name)
 						{				
 							case 'citation_doi':
 								$doi = $meta->content;
 								$doc->doi = $doi;
-								$doc->meta[] = $meta->name;	
 								break;					
 
 							case 'DC.identifier':
 								$doi = $meta->content;
 								$doi = str_replace('info:doi/', '', $doi);
 								$doc->doi = $doi;
-								$doc->meta[] = $meta->name;	
 								break;	
 								
 							// https://cdnsciencepub.com/doi/abs/10.1139/cjes-2020-0190
@@ -361,7 +366,6 @@ function add_meta(&$doc)
 								{
 									$doi = $meta->content;
 									$doc->doi = $doi;	
-									$doc->meta[] = $meta->name;	
 								}								
 								break;					
 												
@@ -379,7 +383,6 @@ function add_meta(&$doc)
 						{				
 							case 'DCTERMS.issued':
 								$doc->datePublished = date(DATE_ISO8601, strtotime($meta->content));
-								$doc->meta[] = $meta->name;	
 								break;	
 								
 							default:
@@ -394,8 +397,18 @@ function add_meta(&$doc)
 						switch ($meta->property)
 						{				
 							case 'og:image':
-								$doc->image = $meta->content;
-								$doc->meta[] = $meta->property;	
+								$go = true;
+								
+								// check for bad images, e.g. Pensoft
+								if (preg_match('/dx200x_\.jpg/', $meta->content))
+								{
+									$go = false;
+								}
+								
+								if ($go)
+								{
+									$doc->image = $meta->content;
+								}
 								break;					
 
 							default:
@@ -410,7 +423,6 @@ function add_meta(&$doc)
 						{				
 							case 'og:description':
 								$doc->description = $meta->content;
-								$doc->meta[] = $meta->property;	
 								break;					
 
 							default:
@@ -456,7 +468,9 @@ function add_meta(&$doc)
 				
 						
 						
-			}	
+			}
+			
+			$doc->meta = array_unique($doc->meta);
 		}	
 	}
 	
