@@ -62,7 +62,9 @@ $filename = 'examples/cnki.xml'; // rss2
 $filename = 'examples/phytotaxa.xml'; // rss2
 $filename = 'examples/sb.xml'; // 
 $filename = 'examples/googlescholar.xml';
-$filename = 'examples/taxon.xml';
+//$filename = 'examples/taxon.xml';
+
+$filename = 'cache/2021-11-23/3bd4ee2e7045ead791e322c2f0fc7c76.xml';
 
 
 $xml = file_get_contents($filename);

@@ -1,0 +1,121 @@
+wikidata_id,name,enwiki_title,alternate_names,country_code,latitude,longitude,geonames_id,osm_id
+Q3492,Sumatra,Sumatra,蘇門答臘|Sumatra|Sumatra|Sumatra,ID,0.0,102.0,1626198,7663501
+Q3492,Sumatra,Sumatra,蘇門答臘|Sumatra|Sumatra|Sumatra,ID,0.0,102.0,1626198,8882668
+Q3757,Java,Java,Java|Java|Java|爪哇岛,ID,-7.491667,110.00445,1642673,9444963
+Q3812,Sulawesi,Sulawesi,苏拉威西岛|Célèbes|Célebes|Sulawesi,ID,-2.0,121.0,6619357,
+Q7792,Sakhalin,Sakhalin,库页岛|Sachalin|Sakhaline|Sajalín,RU,50.5,143.0,2121530,3987424
+Q120755,South Island,South Island,Isla Sur|île du Sud|南島|Südinsel,NZ,-43.983334,170.45,2182504,3986157
+Q36117,Borneo,Borneo,婆罗洲|Borneo|Bornéo|Isla de Borneo,BN,1.0,114.0,1648148,3986083
+Q36117,Borneo,Borneo,婆罗洲|Borneo|Bornéo|Isla de Borneo,MY,1.0,114.0,1648148,3986083
+Q36117,Borneo,Borneo,婆罗洲|Borneo|Bornéo|Isla de Borneo,ID,1.0,114.0,1648148,3986083
+Q40285,New Guinea,New Guinea,Nouvelle-Guinée|Nueva Guinea|Neuguinea|新幾內亞,PG,-5.0,140.0,2082514,3986076
+Q40285,New Guinea,New Guinea,Nouvelle-Guinée|Nueva Guinea|Neuguinea|新幾內亞,ID,-5.0,140.0,2082514,3986076
+Q48335,Newfoundland,Newfoundland (island),纽芬兰岛|Isla de Terranova|Terre-Neuve|Neufundland,CA,48.566387,-55.77722,9062329,7168979
+Q59771,New Britain,New Britain,新不列顛|Nouvelle-Bretagne|Nueva Bretaña|Neubritannien,PG,-5.733333,150.73334,2089703,3987431
+Q81178,Baffin Island,Baffin Island,isla de Baffin|巴芬島|île de Baffin|Baffininsel,CA,69.0,-72.0,5889292,3957497
+Q81178,Baffin Island,Baffin Island,isla de Baffin|巴芬島|île de Baffin|Baffininsel,CA,69.0,-72.0,5980289,3957497
+Q83067,Timor,Timor,Timor|Timor|Timor|帝汶,TL,-9.083333,125.083336,1623843,3987443
+Q83067,Timor,Timor,Timor|Timor|Timor|帝汶,ID,-9.083333,125.083336,1623843,3987443
+Q118863,North Island,North Island,Isla Norte|北島|Nordinsel|île du Nord,NZ,-39.0,176.0,2185983,6571744
+Q13987,Kyushu,Kyushu,九州|Kyūshū|Kyūshū|Kyūshū,JP,33.0,131.0,1857892,6667566
+Q13989,Honshu,Honshu,本州|Honshū|Honshū|Honshū,JP,36.0,138.0,1862185,6677259
+Q13991,Shikoku,Shikoku,四國|Shikoku|Shikoku|Shikoku,JP,33.75,133.5,1852487,2906044
+Q21162,Spitsbergen,Spitsbergen,斯匹次卑尔根岛|Spitzbergen|Spitzberg|Spitsbergen,NO,78.75,16.0,2728573,1124190
+Q22502,Taiwan,Taiwan (island),île de Taïwan|臺灣|Taiwán|Taiwan,TW,23.766666,121.0,1668285,7219605
+Q22890,Ireland,Ireland,Irland|Irlanda|Irlande|爱尔兰岛,GB,53.333332,-8.0,2646052,7681896
+Q22890,Ireland,Ireland,Irland|Irlanda|Irlande|爱尔兰岛,IE,53.333332,-8.0,2646052,7681896
+Q23666,Great Britain,Great Britain,大不列顛島|Gran Bretaña|Großbritannien|Grande-Bretagne,GB,53.833332,-2.4166667,2648147,6038068
+Q23666,Great Britain,Great Britain,大不列顛島|Gran Bretaña|Großbritannien|Grande-Bretagne,GB,53.833332,-2.4166667,6301961,6038068
+Q25277,Hispaniola,Hispaniola,Hispaniola|La Española|Hispaniola|伊斯帕尼奥拉岛,HT,19.0,-71.0,3504558,3478916
+Q25277,Hispaniola,Hispaniola,Hispaniola|La Española|Hispaniola|伊斯帕尼奥拉岛,DO,19.0,-71.0,3504558,3478916
+Q134116,Melville Island,Melville Island (Northwest Territories and Nunavut),Isla Melville|Melville Island|île Melville|梅尔维尔岛,CA,75.5,-111.5,,1656491
+Q143246,King William Island,King William Island,威廉王島|île du Roi-Guillaume|Isla del Rey Guillermo|King William Island,CA,68.96667,-97.23333,5992539,3958580
+Q146841,Ellesmere Island,Ellesmere Island,埃尔斯米尔岛|île d'Ellesmere|Isla de Ellesmere|Ellesmere Island,CA,79.833336,-78.0,5947838,1656492
+Q146841,Ellesmere Island,Ellesmere Island,埃尔斯米尔岛|île d'Ellesmere|Isla de Ellesmere|Ellesmere Island,CA,79.833336,-78.0,5980420,1656492
+Q124873,Mindanao,Mindanao,棉兰老|Mindanao|Mindanao|Mindanao,PH,7.5,125.0,1699597,4098808
+Q124873,Mindanao,Mindanao,棉兰老|Mindanao|Mindanao|Mindanao,PH,7.5,125.0,9062331,4098808
+Q125384,Luzon,Luzon,呂宋|Luçon|Luzón|Luzon,PH,16.0,121.0,1704846,6995280
+Q148440,Flores,Flores,弗洛勒斯岛|Flores|Florès|Isla de Flores,ID,-8.674723,121.384445,9062332,7219477
+Q158129,Victoria Island,Victoria Island (Canada),维多利亚岛|île Victoria|Isla Victoria|Victoria-Insel,CA,71.0,-110.0,6174095,5857216
+Q158129,Victoria Island,Victoria Island (Canada),维多利亚岛|île Victoria|Isla Victoria|Victoria-Insel,CA,71.0,-110.0,6174097,5857216
+Q188489,Cape Breton Island,Cape Breton Island,布雷顿角岛|île du Cap-Breton|Isla del Cabo Bretón|Kap-Breton-Insel,CA,46.166668,-60.75,5915569,5546660
+Q188489,Cape Breton Island,Cape Breton Island,布雷顿角岛|île du Cap-Breton|Isla del Cabo Bretón|Kap-Breton-Insel,CA,46.166668,-60.75,5980615,5546660
+Q193264,Marajó,Marajó,馬拉若島|île de Marajó|Marajó|Marajó,BR,-0.978611,-49.58167,3395453,
+Q200226,Banks Island,Banks Island,班克斯岛|Isla de Banks|Banksinsel|île Banks,CA,73.0,-121.5,5892587,5345940
+Q201398,Halmahera Island,Halmahera,哈马黑拉岛|Halmahera|Halmahera|Halmahera,ID,0.6,127.86667,,
+Q206368,Sumba,Sumba,松巴島|Sumba|Sumba|Sumba,ID,-9.666667,120.0,2056940,7219484
+Q207374,Nordaustlandet,Nordaustlandet,东北地岛|Nordaustlandet|Nordaustlandet|Nordostland,NO,79.8,22.4,607197,5856703
+Q170479,Vancouver Island,Vancouver Island,Vancouver Island|溫哥華島|île de Vancouver|Isla de Vancouver,CA,49.5,-125.5,6173336,2249770
+Q178124,Surtsey,Surtsey,Surtsey|Surtsey|Surtsey|敘爾特塞,IS,63.303,-20.6047,3412842,
+Q185532,Seram Island,Seram Island,斯兰岛|Céram|Seram|Ceram,ID,-3.0,129.0,1627558,4096904
+Q186367,Sumbawa,Sumbawa,Sumbawa|松巴哇島|Sumbawa|Sumbawa,ID,-8.783334,118.083336,1626188,7219492
+Q186841,Devon Island,Devon Island,île Devon|Isla Devon|Devon Island|德文島,CA,75.13333,-87.85,5938808,1656487
+Q188428,Bangka Island,Bangka Island,邦加島|Isla de Bangka|Bangka|Bangka,ID,-2.25,106.0,1650312,7314113
+Q207666,Axel Heiberg Island,Axel Heiberg Island,阿克塞尔海伯格岛|île Axel Heiberg|Isla Axel Heiberg|Axel Heiberg Island,CA,79.68361,-91.42194,5888650,1656484
+Q207751,Southampton Island,Southampton Island,Southampton Island|île Southampton|Isla de Southampton|南安普頓島,CA,64.5,-84.5,6151514,3958521
+Q213146,Prince Patrick Island,Prince Patrick Island,Isla del Príncipe Patrick|Prince Patrick Island|帕特里克王子岛|île du Prince-Patrick,CA,76.75,-119.5,6113396,1656494
+Q215001,Ellef Ringnes Island,Ellef Ringnes Island,埃勒夫靈內斯島|île Ellef Ringnes|Isla Ellef Ringnes|Ellef Ringnes Island,CA,78.5,-102.0,5947793,1656488
+Q211800,Mindoro,Mindoro,Mindoro|Mindoro|Mindoro|民都洛,PH,12.93,121.09,1699590,1552289
+Q212219,Somerset Island,Somerset Island (Nunavut),索默塞特岛|île Somerset|Isla Somerset|Somerset Island,CA,73.25,-93.5,6151201,1188484
+Q212777,Negros,Negros,Negros|Negros|Negros|内格罗斯岛,PH,10.0,123.0,1697809,4098809
+Q212806,Yuzhny Island,Yuzhny Island,isla Yuzhni|尤日內島|île Ioujny|Südinsel,RU,72.0,54.0,,1869739
+Q207925,Prince of Wales Island,Prince of Wales Island (Nunavut),île du Prince-de-Galles|Isla del Príncipe de Gales|威尔士亲王岛|Prince-of-Wales-Insel,CA,72.6,-98.53333,6113390,3958537
+Q208198,Viti Levu,Viti Levu,维提岛|Viti Levu|Viti Levu|Viti Levu,FJ,-17.8,178.0,2196625,4097004
+Q208198,Viti Levu,Viti Levu,维提岛|Viti Levu|Viti Levu|Viti Levu,FJ,-17.8,178.0,9881353,4097004
+Q217362,Severny Island,Severny Island,謝韋爾內島|île Severny|Isla Séverny|Nordinsel,RU,75.45,60.2,,2571809
+Q217362,Severny Island,Severny Island,謝韋爾內島|île Severny|Isla Séverny|Nordinsel,RU,75.45,60.2,,1869738
+Q217369,Bathurst Island,Bathurst Island (Nunavut),巴瑟斯特岛|île de Bathurst|Isla de Bathurst|Bathurst Island,CA,75.749725,-99.78306,5894956,1656493
+Q841059,South Uist,South Uist,South Uist|South Uist|South Uist|南尤伊斯特岛,GB,57.266666,-7.3166666,2637305,
+Q849318,Revillagigedo Islands,Revillagigedo Islands,雷维利亚希赫多群岛|雷维利亚希赫多群岛|îles Revillagigedo|îles Revillagigedo|Archipiélago de Revillagigedo|Archipiélago de Revillagigedo|Revillagigedo-Inseln|Revillagigedo-Inseln,MX,18.821388,-112.763885,,6433897
+Q852433,East Rennell,East Rennell,东伦内尔岛|Rennell Est|Rennell Este|East Rennell,SB,-11.683328,160.33333,,
+Q1061269,Palawan Island,Palawan (island),巴拉望島|Palawan|Palawan,PH,9.5,118.5,1696180,1552282
+Q1081204,Hainan Island,Hainan Island,海南島|Hainan|Hainan|Insel Hainan,CN,19.25,109.666664,1809055,4094778
+Q1145547,San Pedro Mártir Island,San Pedro Mártir Island,聖佩德羅馬蒂爾島|San Pedro Martir|Isla San Pedro Mártir|Isla San Pedro Mártir,MX,28.3803,-112.307,,
+Q1145547,San Pedro Mártir Island,San Pedro Mártir Island,聖佩德羅馬蒂爾島|San Pedro Martir|Isla San Pedro Mártir|Isla San Pedro Mártir,MX,28.380278,-112.306946,,
+Q1147435,Isle of Bute,Isle of Bute,比特島|île de Bute|Isla de Bute|Isle of Bute,GB,55.83569,-5.05636,2654168,6045382
+Q645180,Bylot Island,Bylot Island,拜洛特岛|île Bylot|Isla Bylot|Bylot-Insel,CA,73.21667,-78.566666,5912867,3958584
+Q648391,Kotelny,Kotelny Island,île Kotelny|Isla Kotelny|Kotelny-Insel|科捷利內島,RU,75.43889,138.82666,2021702,1867829
+Q329452,Kolepom,Yos Sudarso Island,約斯·蘇達索島|Isla de Yos Sudarso|Yos-Sudarso-Insel|Yos Sudarso,ID,-7.888435,138.38422,1621159,
+Q332359,Panay,Panay,班乃岛|Panay|Panay|Panay,PH,11.15,122.48333,1695623,3644635
+Q650720,Bolshevik Island,Bolshevik Island,布爾什維克島|île Bolchevique|Isla Bolchevique|Bolschewik-Insel,RU,78.60917,102.928055,2026373,3557184
+Q662158,North Uist,North Uist,北尤伊斯特岛|North Uist|North Uist|North Uist,GB,57.6,-7.3333335,2641236,380685
+Q1362330,Tupinambarana,Tupinambarana,Tupinambarana|Tupinambarana|Tupinambarana|圖皮南巴拉納島,BR,-2.6666667,-57.45,3385915,
+Q1362330,Tupinambarana,Tupinambarana,Tupinambarana|Tupinambarana|Tupinambarana|圖皮南巴拉納島,BR,-3.0,-58.0,3385915,
+Q217372,October Revolution Island,October Revolution Island,Isla Revolución de Octubre|Oktoberrevolutions-Insel|十月革命岛|île de la Révolution d'Octobre,RU,79.48333,96.833336,1496249,3542196
+Q217372,October Revolution Island,October Revolution Island,Isla Revolución de Octubre|Oktoberrevolutions-Insel|十月革命岛|île de la Révolution d'Octobre,RU,79.5,97.0,1496249,3542196
+Q219737,Samar,Samar,薩馬|Samar|Sámar|Samar,PH,12.05,125.11667,1690649,
+Q242176,Yakushima,Yakushima,Yakushima|Yakushima|Yakushima|屋久島,JP,30.358612,130.52861,1848730,4098977
+Q242176,Yakushima,Yakushima,Yakushima|Yakushima|Yakushima|屋久島,JP,30.33333,130.5,1848730,4098977
+Q256293,Grande Terre,Grande Terre (New Caledonia),大特雷島|Grande Terre|Grande Terre|Grande Terre,FR,-21.283333,165.35,,1903511
+Q282059,Bananal Island,Bananal Island,巴纳纳尔岛|île de Bananal|Isla del Bananal|Ilha do Bananal,BR,-11.356112,-50.235554,3470986,9969444
+Q282059,Bananal Island,Bananal Island,巴纳纳尔岛|île de Bananal|Isla del Bananal|Ilha do Bananal,BR,-11.333333,-50.416668,3470986,9969444
+Q586657,Cuba,,Cuba|Cuba|Kuba,CU,22.0,-79.0,,7117025
+Q3593416,Mainland Tasmania,,île de Tasmanie,AU,-42.0,147.0,2147292,
+Q3593416,Mainland Tasmania,,île de Tasmanie,AU,-42.0,147.0,8179281,
+Q1432983,Solovetsky Island,Bolshoy Solovetsky Island,大索洛韋茨基島|Solowezki,RU,65.09778,35.6925,490835,2177440
+Q1674067,Isla Grande de Tierra del Fuego,Isla Grande de Tierra del Fuego,大火地岛|Grande Île de Terre de Feu|Isla Grande de Tierra del Fuego|Isla Grande de Tierra del Fuego,AR,-54.166668,-68.5,3834449,
+Q1674067,Isla Grande de Tierra del Fuego,Isla Grande de Tierra del Fuego,大火地岛|Grande Île de Terre de Feu|Isla Grande de Tierra del Fuego|Isla Grande de Tierra del Fuego,CL,-54.166668,-68.5,3834449,
+Q1861129,Panaitan,Panaitan,帕奈坦島|Panaitan|Panaitan,ID,-6.575278,105.21,1632914,
+Q3593036,Campbell Island/Motu Ihupuku,Campbell Island / Motu Ihupuku,île Campbell|Isla Campbell (Nueva Zelanda)|Campbell Island|坎贝尔岛,NZ,-52.54,169.145,2192678,2468372
+Q3740828,Iceland,Iceland (island),Islande|Island,IS,65.0,-18.0,,7681889
+Q2905619,Ballast Key,Ballast Key,Ballast Key,US,24.52389,-81.964165,4146580,
+Q3010627,British Columbia Coast,British Columbia Coast,英属哥伦比亚海岸|Côte|Costa de la Columbia Británica,CA,53.0,-132.0,,
+Q4206742,Cabras Islets,Cabras Islets,Ilhéus das Cabras,PT,38.6333,-27.15,3373268,
+Q4951156,Sicily,Sicily (island),Sicile|Sicilia|西西里岛|Sizilien,IT,37.566666,14.266666,2523118,6197225
+Q3760293,Sardinia,,撒丁岛|Sardaigne|Sardinien,IT,40.05,9.083333,2523227,6847723
+Q4526612,Sri Lanka,,斯里兰卡岛|Sri Lanka,LK,7.5,80.75,1227604,8747057
+Q7463928,Madagascar,,Madagaskar|Madagascar,MG,-19.333334,47.066666,,4097321
+Q22431567,Indian Island,,île Indian|Indian Insel,CA,43.748055,-81.71889,5982883,
+Q22431682,Indian Island,,île Indian|Indian Insel,CA,44.7425,-81.304726,5982888,
+Q22431813,Indian Island,,île Indian|Indian Insel,CA,48.8125,-92.84139,5982893,
+Q22431870,Indian Island,,île Indian|Indian Insel,CA,50.045555,-93.46361,5982898,
+Q22486559,McPherson Island,,île McPherson|McPherson Insel,CA,46.20861,-79.405,6071105,
+Q22518024,Cockburn Island,,île Cockburn|Cockburn Insel,CA,44.5625,-75.70944,5924679,
+Q27508031,Jamaica,Jamaica (island),牙买加岛|Jamaïque,JM,18.0,-77.0,,
+Q22518040,Cockburn Island,,île Cockburn|Cockburn Insel,CA,45.203888,-80.14361,5924678,
+Q22560390,Darling Island,,île Darling|Darling Insel,CA,44.816944,-79.68667,5935216,
+Q22560400,Darling Island,,île Darling|Darling Insel,CA,46.211388,-79.40667,5935215,
+Q22561725,Powers Island,,île Powers|Powers Insel,CA,44.82528,-77.68528,6112663,
+Q22627494,Garden Island,,île Garden|Garden Insel,CA,44.440277,-76.39472,5959492,
+Q22656324,Zephyr Island,,île Zephyr|Zephyr Insel,CA,45.550835,-80.49695,6186042,
+Q30740800,île de Nôle,,île de Nôle,FR,45.842827,-1.1677195,,

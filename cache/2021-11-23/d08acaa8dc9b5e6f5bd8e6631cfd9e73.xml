@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+	xmlns:cc="http://web.resource.org/cc/">
+
+	<channel rdf:about="https://www.mapress.com/zt">
+				<title>Zootaxa</title>
+		<link>https://www.mapress.com/zt</link>
+
+							
+		<description>&lt;p&gt;&lt;strong&gt;Zootaxa&lt;/strong&gt; is a mega-journal for zoological taxonomists in the world&lt;/p&gt;</description>
+
+									<dc:publisher>Mangolia Press</dc:publisher>
+		
+					<dc:language>en-US</dc:language>
+		
+		<prism:publicationName>Zootaxa</prism:publicationName>
+
+							
+					<prism:issn>1175-5326</prism:issn>
+		
+		
+		<items>
+			<rdf:Seq>
+												<rdf:li rdf:resource="https://www.mapress.com/zt/article/view/zootaxa.5071.2.1"/>
+									<rdf:li rdf:resource="https://www.mapress.com/zt/article/view/zootaxa.5071.2.2"/>
+									<rdf:li rdf:resource="https://www.mapress.com/zt/article/view/zootaxa.5071.2.3"/>
+									<rdf:li rdf:resource="https://www.mapress.com/zt/article/view/zootaxa.5071.2.4"/>
+									<rdf:li rdf:resource="https://www.mapress.com/zt/article/view/zootaxa.5071.2.5"/>
+									<rdf:li rdf:resource="https://www.mapress.com/zt/article/view/zootaxa.5071.2.6"/>
+									<rdf:li rdf:resource="https://www.mapress.com/zt/article/view/zootaxa.5071.2.7"/>
+									<rdf:li rdf:resource="https://www.mapress.com/zt/article/view/zootaxa.5071.2.8"/>
+																<rdf:li rdf:resource="https://www.mapress.com/zt/article/view/zootaxa.5071.2.9"/>
+									<rdf:li rdf:resource="https://www.mapress.com/zt/article/view/zootaxa.5071.2.10"/>
+										</rdf:Seq>
+		</items>
+	</channel>
+
+					<item rdf:about="https://www.mapress.com/zt/article/view/zootaxa.5071.2.1">
+
+						<title>&lt;p&gt;&lt;strong&gt;On the taxonomy of Afrotropical Coleophoridae (VI). New species of the genus &lt;em&gt;Coleophora&lt;/em&gt; Hübner, 1822 from South Africa (Lepidoptera, Coleophoridae)&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.mapress.com/zt/article/view/zootaxa.5071.2.1</link>
+
+										<description>&lt;p&gt;This work presents the description of 16 new species of the genus &lt;em&gt;Coleophora&lt;/em&gt; Hübner from the Republic of South Africa: &lt;em&gt;Coleophora animula&lt;/em&gt; &lt;strong&gt;sp. nov.&lt;/strong&gt;, &lt;em&gt;C. parvula&lt;/em&gt; &lt;strong&gt;sp. nov.&lt;/strong&gt;, &lt;em&gt;C. coniella&lt;/em&gt; &lt;strong&gt;sp. nov.&lt;/strong&gt;, &lt;em&gt;C. afrobrunnea&lt;/em&gt; &lt;strong&gt;sp. nov.&lt;/strong&gt;, &lt;em&gt;C. rocherpanensis&lt;/em&gt; &lt;strong&gt;sp. nov.&lt;/strong&gt;, &lt;em&gt;C. comparata&lt;/em&gt; &lt;strong&gt;sp. nov.&lt;/strong&gt;, &lt;em&gt;C. richtersveldi&lt;/em&gt; &lt;strong&gt;sp. nov.&lt;/strong&gt;, &lt;em&gt;C. incomparabilis&lt;/em&gt; &lt;strong&gt;sp. nov.&lt;/strong&gt;, &lt;em&gt;C. dixella&lt;/em&gt; &lt;strong&gt;sp. nov.&lt;/strong&gt;, &lt;em&gt;C. cederbergensis&lt;/em&gt; &lt;strong&gt;sp. nov.&lt;/strong&gt;, &lt;em&gt;C. curviphallica&lt;/em&gt; &lt;strong&gt;sp. nov.&lt;/strong&gt;, &lt;em&gt;C. notabilis&lt;/em&gt; &lt;strong&gt;sp. nov.&lt;/strong&gt;, &lt;em&gt;C. quaggaefontis&lt;/em&gt; &lt;strong&gt;sp. nov.&lt;/strong&gt;, &lt;em&gt;C. tabulensis&lt;/em&gt; &lt;strong&gt;sp. nov.&lt;/strong&gt;, &lt;em&gt;C. intricata&lt;/em&gt; &lt;strong&gt;sp. nov.&lt;/strong&gt;, &lt;em&gt;C. transvaalensis&lt;/em&gt; &lt;strong&gt;sp. nov&lt;/strong&gt;. A checklist of the 71 species currently known for South Africa is provided.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			
+							<dc:creator>GIORGIO BALDIZZONE</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-11-23</dc:date>
+				<prism:publicationDate>2021-11-23</prism:publicationDate>
+						<prism:volume>5071</prism:volume>			<prism:number>2</prism:number>
+												<prism:startingPage>167</prism:startingPage>
+													<prism:endingPage>205</prism:endingPage>
+							
+							<prism:doi>10.11646/zootaxa.5071.2.1</prism:doi>
+					</item>
+					<item rdf:about="https://www.mapress.com/zt/article/view/zootaxa.5071.2.2">
+
+						<title>&lt;p&gt;&lt;strong&gt;Three new genera and new species of hystrignathid nematodes (Nematoda: Thelastomatoidea) from passalid beetles (Insecta: Passalidae) from Yunnan Province, China with phylogenetic analysis of Hystrignathidae&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.mapress.com/zt/article/view/zootaxa.5071.2.2</link>
+
+										<description>&lt;p&gt;Three new genera and three new species of hystrignathid nematodes were collected from the hindgut of passalid beetles in the Yunnan Province, China. &lt;em&gt;Huntia morffei &lt;/em&gt;gen. n. et sp. n. from &lt;em&gt;Ceracupes fronticornis &lt;/em&gt;(Westwood) differs from related genera in the shape of the stoma, in the cephalic structure, and in the lack of annulation in the cervical region. &lt;em&gt;Parakongonema sinica&lt;/em&gt; gen. n. et sp. n. from &lt;em&gt;Aceraius grandis &lt;/em&gt;(Burmeister) and &lt;em&gt;C. fronticornis &lt;/em&gt;can be easily distinguished from related genera in having the oral opening surrounded by a cuticular ring, the ring being surrounded by a cuticular flap, in the shape of the oesophagus, and in the cephalic structure. &lt;em&gt;Parahystrignathus&lt;/em&gt; &lt;em&gt;tongbiguanensis &lt;/em&gt;gen. n. et sp. n. from &lt;em&gt;C. fronticornis&lt;/em&gt; and &lt;em&gt;A. grandis &lt;/em&gt;differs from related genera by having the cervical region armed with alternating rows of spines, with 16 spines in the first row, and by lacking the first cephalic annule. In addition, the 18S and 28S rDNA partial sequences of three new species were obtained. The phylogeny of Hystrignathidae was inferred using partial sequences of the 28S rDNA and revealed patterns that suggest that the shape of the parasite digestive tract may reflect the evolutionary relationships of hystrignathid nematodes.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			
+							<dc:creator>NINGNING ZHANG</dc:creator>
+							<dc:creator>SHI YIN</dc:creator>
+							<dc:creator>RAMON A. CARRENO</dc:creator>
+							<dc:creator>LUPING ZHANG</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-11-23</dc:date>
+				<prism:publicationDate>2021-11-23</prism:publicationDate>
+						<prism:volume>5071</prism:volume>			<prism:number>2</prism:number>
+												<prism:startingPage>206</prism:startingPage>
+													<prism:endingPage>222</prism:endingPage>
+							
+							<prism:doi>10.11646/zootaxa.5071.2.2</prism:doi>
+					</item>
+					<item rdf:about="https://www.mapress.com/zt/article/view/zootaxa.5071.2.3">
+
+						<title>&lt;p&gt;&lt;strong&gt;Revision of the genus &lt;em&gt;Jethsura&lt;/em&gt; Cameron, 1902 (Hymenoptera: Ichneumonidae: Ichneumoninae: Phaeogenini)&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.mapress.com/zt/article/view/zootaxa.5071.2.3</link>
+
+										<description>&lt;p&gt;The genus &lt;em&gt;Jethsura&lt;/em&gt; Cameron is revised.&lt;em&gt; Jethsura euthenia &lt;/em&gt;&lt;strong&gt;sp. nov.&lt;/strong&gt;&lt;em&gt;,&lt;/em&gt; &lt;em&gt;Jethsura gondawindua &lt;/em&gt;&lt;strong&gt;sp. nov.&lt;/strong&gt;, and &lt;em&gt;Jethsura serpentina&lt;/em&gt; &lt;strong&gt;sp. nov.&lt;/strong&gt; are newly described from Colombia, and &lt;em&gt;Jethsura rubricauda &lt;/em&gt;&lt;strong&gt;sp. nov.&lt;/strong&gt; is described from Mexico. &lt;em&gt;Jethsura pyriformis&lt;/em&gt; (Provancher) from the Nearctic region is redescribed. Species images, distribution maps and an illustrated key is provided.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			
+							<dc:creator>BRANDON CLARIDGE</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-11-23</dc:date>
+				<prism:publicationDate>2021-11-23</prism:publicationDate>
+						<prism:volume>5071</prism:volume>			<prism:number>2</prism:number>
+												<prism:startingPage>223</prism:startingPage>
+													<prism:endingPage>241</prism:endingPage>
+							
+							<prism:doi>10.11646/zootaxa.5071.2.3</prism:doi>
+					</item>
+					<item rdf:about="https://www.mapress.com/zt/article/view/zootaxa.5071.2.4">
+
+						<title>&lt;p&gt;&lt;strong&gt;New data on morphology and distribution of &lt;em&gt;Alona&lt;/em&gt; &lt;em&gt;werestschagini&lt;/em&gt; Sinev, 1999—the only Arcto-Alpine species of Chydoridae (Cladocera: Anomopoda) known to date&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.mapress.com/zt/article/view/zootaxa.5071.2.4</link>
+
+										<description>&lt;p&gt;Detailed study of morphology of &lt;em&gt;Alona werestschagini&lt;/em&gt; Sinev, 1999 (Crustacea: Cladocera) confirms its affinities with &lt;em&gt;Alona guttata&lt;/em&gt; Sars, 1862. &lt;em&gt;A. werestschagini&lt;/em&gt; is the only Arcto-Alpine species among the family Chydoridae, distributed along Arctic coast of Eurasia and in mountains of Central Asia, newer recorded in temperate lowlands of the continent. In our opinion, the species evolved in mountainous regions of Central Asia, while its spreading to Arctic regions took place in Pleistocene.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			
+							<dc:creator>ARTEM Y. SINEV</dc:creator>
+							<dc:creator>PETR G. GARIBIAN</dc:creator>
+							<dc:creator>NADEZHDA А. KIROVA</dc:creator>
+							<dc:creator>ALISA A. NEPLYUKHINA</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-11-23</dc:date>
+				<prism:publicationDate>2021-11-23</prism:publicationDate>
+						<prism:volume>5071</prism:volume>			<prism:number>2</prism:number>
+												<prism:startingPage>242</prism:startingPage>
+													<prism:endingPage>252</prism:endingPage>
+							
+							<prism:doi>10.11646/zootaxa.5071.2.4</prism:doi>
+					</item>
+					<item rdf:about="https://www.mapress.com/zt/article/view/zootaxa.5071.2.5">
+
+						<title>&lt;p&gt;&lt;strong&gt;Taxonomic changes in the Neotropical Arctiinae, Arctiini (Lepidoptera, Erebidae) relating to the fauna of Trinidad and Tobago&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.mapress.com/zt/article/view/zootaxa.5071.2.5</link>
+
+										<description>&lt;p&gt;In preparation for a general account of the Trinidad and Tobago Arctiini, the following taxonomic changes are made and justification provided. A lectotype is designated for &lt;em&gt;Castrica sordidior&lt;/em&gt; Rothschild, 1909. &lt;em&gt;Castrica oweni&lt;/em&gt; Schaus, 1896, &lt;strong&gt;stat rev. &lt;/strong&gt;is returned to species rank. The following new synonyms are established: &lt;em&gt;Castrica sordidior&lt;/em&gt; Rothschild, 1909 &lt;strong&gt;syn. nov.&lt;/strong&gt; of &lt;em&gt;Castrica oweni&lt;/em&gt; Schaus, 1896; &lt;em&gt;Automolis&lt;/em&gt; &lt;em&gt;nigroapicalis &lt;/em&gt;Gaede, 1923, &lt;em&gt;Automolis&lt;/em&gt; &lt;em&gt;semicostalis&lt;/em&gt; Rothschild, 1909, &lt;em&gt;Automolis&lt;/em&gt; &lt;em&gt;alboatra &lt;/em&gt;Rothschild, 1909, &lt;em&gt;Automolis&lt;/em&gt; &lt;em&gt;alboatra borussica&lt;/em&gt; Seitz, 1922, &lt;em&gt;Sallaea&lt;/em&gt; &lt;em&gt;unifascia &lt;/em&gt;Druce, 1899, &lt;em&gt;Automolis hamifera&lt;/em&gt; Dognin, 1907, and &lt;em&gt;Automolis apicata&lt;/em&gt; Schaus, 1905 &lt;strong&gt;syn. nov.&lt;/strong&gt; of &lt;em&gt;Pryteria costata &lt;/em&gt;Möschler, 1883; and &lt;em&gt;Sphinx Adfeit.&lt;/em&gt; &lt;em&gt;psamas&lt;/em&gt; Cramer, [1779] &lt;strong&gt;syn. nov.&lt;/strong&gt; of &lt;em&gt;Phalaena Noctua onytes&lt;/em&gt; Cramer, [1777]. &lt;em&gt;Virbia birchi&lt;/em&gt; Druce, 1911 is confirmed to be a synonym of &lt;em&gt;Phalaena medarda&lt;/em&gt; Stoll, [1781]. &lt;em&gt;Pryteria&lt;/em&gt; &lt;em&gt;tenuis&lt;/em&gt; (Rothschild, 1935) &lt;strong&gt;stat. nov.&lt;/strong&gt; and &lt;em&gt;P. intensa&lt;/em&gt; (Rothschild, 1935) &lt;strong&gt;stat. nov. &lt;/strong&gt;are raised to species level pending clarification of the genus &lt;em&gt;Pryteria&lt;/em&gt; in Central America.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			
+							<dc:creator>MATTHEW J.W. COCK</dc:creator>
+							<dc:creator>MICHEL LAGUERRE</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-11-23</dc:date>
+				<prism:publicationDate>2021-11-23</prism:publicationDate>
+						<prism:volume>5071</prism:volume>			<prism:number>2</prism:number>
+												<prism:startingPage>253</prism:startingPage>
+													<prism:endingPage>270</prism:endingPage>
+							
+							<prism:doi>10.11646/zootaxa.5071.2.5</prism:doi>
+					</item>
+					<item rdf:about="https://www.mapress.com/zt/article/view/zootaxa.5071.2.6">
+
+						<title>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Zhengica&lt;/em&gt; &lt;em&gt;cornuta&lt;/em&gt; gen. nov., sp. nov., a new genus and species of Pentatomidae from East Asia (Hemiptera: Heteroptera)&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.mapress.com/zt/article/view/zootaxa.5071.2.6</link>
+
+										<description>&lt;p&gt;&lt;em&gt;Zhengica cornuta &lt;/em&gt;gen. nov., sp. nov. (Hemiptera: Heteroptera: Pentatomidae: Pentatominae: Pentatomini) from Shanxi, China, is described, illustrated, and its phylogenetic affinities are discussed. The genus is recognized as a generalized member of the clade of &lt;em&gt;Pentatoma&lt;/em&gt; Olivier, 1789 and related genera, its phylogenetically closest relative is probably &lt;em&gt;Cervicoris&lt;/em&gt; Hsiao &amp;amp; Cheng, 1977.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			
+							<dc:creator>DÁVID RÉDEI</dc:creator>
+							<dc:creator>JING-FU TSAI</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-11-23</dc:date>
+				<prism:publicationDate>2021-11-23</prism:publicationDate>
+						<prism:volume>5071</prism:volume>			<prism:number>2</prism:number>
+												<prism:startingPage>271</prism:startingPage>
+													<prism:endingPage>282</prism:endingPage>
+							
+							<prism:doi>10.11646/zootaxa.5071.2.6</prism:doi>
+					</item>
+					<item rdf:about="https://www.mapress.com/zt/article/view/zootaxa.5071.2.7">
+
+						<title>&lt;p&gt;&lt;strong&gt;A new species of &lt;em&gt;Nogunius&lt;/em&gt; Jałoszyński in Japan (Coleoptera: Staphylinidae: Scydmaeninae)&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.mapress.com/zt/article/view/zootaxa.5071.2.7</link>
+
+										<description>&lt;p&gt;The genus &lt;em&gt;Nogunius&lt;/em&gt; Jałoszyński was proposed to accommodate four species distributed exclusively in Japan: &lt;em&gt;N. sokani &lt;/em&gt;Jałoszyński (Okinawa Island), &lt;em&gt;N. aogashimanus &lt;/em&gt;Jałoszyński (Aogashima, Izu Islands), &lt;em&gt;N. kerri &lt;/em&gt;Jałoszyński (Ishigaki Island), and &lt;em&gt;N. fukuuzanus &lt;/em&gt;Jałoszyński (Okinawa Island). A female of an undescribed species collected in mainland Japan, on Shikoku, was also recorded. In the present paper we provide evidence that this interesting and apparently very rare genus occurs also on Kyushu. &lt;em&gt;Nogunius sagaensis&lt;/em&gt; &lt;strong&gt;sp. n.&lt;/strong&gt; is described, based on a single male collected in Saga Prefecture, NW Kyushu. Diagnostic characters of all nominal species are compared, and a distribution of &lt;em&gt;Nogunius &lt;/em&gt;is summarized.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			
+							<dc:creator>PAWEŁ JAŁOSZYŃSKI</dc:creator>
+							<dc:creator>SHÛHEI NOMURA</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-11-23</dc:date>
+				<prism:publicationDate>2021-11-23</prism:publicationDate>
+						<prism:volume>5071</prism:volume>			<prism:number>2</prism:number>
+												<prism:startingPage>283</prism:startingPage>
+													<prism:endingPage>288</prism:endingPage>
+							
+							<prism:doi>10.11646/zootaxa.5071.2.7</prism:doi>
+					</item>
+					<item rdf:about="https://www.mapress.com/zt/article/view/zootaxa.5071.2.8">
+
+						<title>&lt;p&gt;&lt;strong&gt;Three new species of &lt;em&gt;Lachesilla&lt;/em&gt; in the &lt;em&gt;rufa&lt;/em&gt; group &lt;/strong&gt;&lt;strong&gt;(Psocodea: Psocomorpha: Lachesillidae) from the Sierra Tarahumara, Mexico&lt;/strong&gt; &lt;/p&gt;</title>
+			<link>https://www.mapress.com/zt/article/view/zootaxa.5071.2.8</link>
+
+										<description>&lt;p&gt;Three species of &lt;em&gt;Lachesilla&lt;/em&gt;, in species group &lt;em&gt;rufa&lt;/em&gt;, from the Sierra Tarahumara, Chihuahua, Mexico, are here described and illustrated: &lt;em&gt;L. byei &lt;/em&gt;&lt;strong&gt;n. sp.&lt;/strong&gt;, &lt;em&gt;L. furthi &lt;/em&gt;&lt;strong&gt;n. sp.&lt;/strong&gt;, and &lt;em&gt;L. raramuri &lt;/em&gt;&lt;strong&gt;n. sp. &lt;/strong&gt;Two of them belong in Subgroup IIb of the species group, one showing affinities with &lt;em&gt;L. sommermanae &lt;/em&gt;García Aldrete and &lt;em&gt;L. yakima &lt;/em&gt;Mockford &amp;amp; García Aldrete, the second one showing affinity with &lt;em&gt;L. salamana &lt;/em&gt;García Aldrete. The third species belongs in Subgroup I of the species group, showing affinities with &lt;em&gt;L. aspera &lt;/em&gt;García Aldrete and &lt;em&gt;L. chiricahua &lt;/em&gt;García Aldrete. The especies here described raise to seven the number of species of &lt;em&gt;Lachesilla &lt;/em&gt;in the Sierra Tarahumara.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			
+							<dc:creator>ALFONSO NERI GARCÍA ALDRETE</dc:creator>
+							<dc:creator>JOSÉ ARTURO CASASOLA-GONZÁLEZ</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-11-23</dc:date>
+				<prism:publicationDate>2021-11-23</prism:publicationDate>
+						<prism:volume>5071</prism:volume>			<prism:number>2</prism:number>
+												<prism:startingPage>289</prism:startingPage>
+													<prism:endingPage>295</prism:endingPage>
+							
+							<prism:doi>10.11646/zootaxa.5071.2.8</prism:doi>
+					</item>
+						<item rdf:about="https://www.mapress.com/zt/article/view/zootaxa.5071.2.9">
+
+						<title>&lt;p&gt;&lt;strong&gt;A simple, low-cost device for collecting mushroom-dwelling Scaphidiinae &lt;/strong&gt;&lt;strong&gt;(Coleoptera, Staphylinidae)&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.mapress.com/zt/article/view/zootaxa.5071.2.9</link>
+
+										<description>&lt;p&gt;The shining fungus beetles (Coleoptera: Staphylinidae: Scaphidiinae) comprise more than 1800 described species, which are usually small (≅0.84–14.30 mm long) (Tang &lt;em&gt;et al.&lt;/em&gt; 2014 ; Löbl &amp;amp; Ogawa 2016) and found on bracket and resupinate fungi, mushrooms and slime molds (Newton 1984; Löbl &amp;amp; Leschen 2003; Löbl 2018). They are known to be diverse in forests of tropical and subtropical regions, which contrast to the low number of species currently known from Brazil: only 34 species and two subspecies from seven genera (Löbl 2018; von Groll &amp;amp; Lopes-Andrade, 2021). Any active search for Scaphidiinae in the Brazilian Atlantic forest reveals a considerable abundance and diverse of these organisms (pers. obs.), but they disperse rapidly if disturbed, and the success of field collections relies on the collectors’ skills, luck and collecting techniques and devices. The most common methods and devices for collecting shinning fungus beetles are sifting leaf litter, rotten wood and fungi, flight intercept (FIT) and V-flight intercept (V-FIT) traps, aspirators, sweeping, and hand collecting (Löbl &amp;amp; Leschen 2003; Tang &lt;em&gt;et al.&lt;/em&gt; 2014; Löbl &lt;em&gt;et al.&lt;/em&gt; 2021). Hand collecting is considered the best method, because the host fungi and larvae can be collected together to make associations (Löbl &amp;amp; Leschen 2003).&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			
+							<dc:creator>ELISA VON GROLL</dc:creator>
+							<dc:creator>SERGIO ALOQUIO</dc:creator>
+							<dc:creator>CRISTIANO LOPES-ANDRADE</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-11-23</dc:date>
+				<prism:publicationDate>2021-11-23</prism:publicationDate>
+						<prism:volume>5071</prism:volume>			<prism:number>2</prism:number>
+												<prism:startingPage>296</prism:startingPage>
+													<prism:endingPage>298</prism:endingPage>
+							
+							<prism:doi>10.11646/zootaxa.5071.2.9</prism:doi>
+					</item>
+					<item rdf:about="https://www.mapress.com/zt/article/view/zootaxa.5071.2.10">
+
+						<title>&lt;p&gt;&lt;strong&gt;A replacement name for the genus-group name &lt;em&gt;Nanna&lt;/em&gt;Birket-Smith, 1965 (Erebidae: Arctiinae: Syntomini)&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.mapress.com/zt/article/view/zootaxa.5071.2.10</link>
+
+										<description>&lt;p&gt;In the fly family Scathophagidae (Diptera), the genus &lt;em&gt;Nanna&lt;/em&gt; Strobl, 1894 was introduced as “(D. Nanna Becker) flavipes Fall. Zett. 2059, 6332, SS.11! Becker!” (Strobl 1894: 78), with &lt;em&gt;Cordylura flavipes&lt;/em&gt; Fallén, 1819 as its type species. See Michelsen (2001: 323–326) for correct authorship and validity of the name &lt;em&gt;Nanna&lt;/em&gt; Strobl, 1894 as senior synonym of names proposed by Becker (1894) in the same year.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			
+							<dc:creator>WILLY DE PRINS</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-11-23</dc:date>
+				<prism:publicationDate>2021-11-23</prism:publicationDate>
+						<prism:volume>5071</prism:volume>			<prism:number>2</prism:number>
+												<prism:startingPage>299</prism:startingPage>
+													<prism:endingPage>300</prism:endingPage>
+							
+							<prism:doi>10.11646/zootaxa.5071.2.10</prism:doi>
+					</item>
+	</rdf:RDF>

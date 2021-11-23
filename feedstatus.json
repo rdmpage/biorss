@@ -1,0 +1,23 @@
+{
+    "https://www.jstage.jst.go.jp/AF05S010NewRssDld?btnaction=JT0040&sryCd=asjaa&rssLang=en": {},
+    "https://www.cambridge.org/core/rss/product/id/2DD17A42E6E59026C256A7EBBDB96645": {},
+    "https://api.ingentaconnect.com/content/pemberley/emm/latest?format=rss": {},
+    "https://rss.sciencedirect.com/publication/science/10557903": {
+        "etag": "W/\"645001f63256b673f6e8a8449ba3e011\"",
+        "modified": "Tue, 23 Nov 2021 09:14:55 GMT"
+    },
+    "https://phytokeys.pensoft.net/rss.php": {},
+    "https://www.biotaxa.org/Phytotaxa/gateway/plugin/WebFeedGatewayPlugin/rss": {},
+    "https://api.ingentaconnect.com/content/aspt/sb/latest?format=rss": {
+        "etag": "\"e064-5d015484090e4\"",
+        "modified": "Sat, 06 Nov 2021 02:11:48 GMT"
+    },
+    "https://onlinelibrary.wiley.com/feed/19968175/most-recent": {
+        "modified": "Tue, 23 Nov 2021 08:58:07 GMT"
+    },
+    "https://www.mapress.com/zt/gateway/plugin/WebFeedGatewayPlugin/rss": {},
+    "http://zoobank.org/rss/rss.xml": {
+        "modified": "Wed, 12 May 2021 23:00:37 GMT"
+    },
+    "https://pubmed.ncbi.nlm.nih.gov/rss/search/1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD/?limit=15&utm_campaign=pubmed-2&fc=20211108074834": {}
+}

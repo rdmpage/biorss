@@ -212,6 +212,9 @@ function add_geo(&$doc)
 {
 	$status = 200;
 	
+	// add empty array to signal that we have processed this, even if we find no names
+	$doc->contentLocation = array();
+
 	if (isset($doc->description) || isset($doc->name))
 	{
 		// get what we need from doc
@@ -233,7 +236,7 @@ function add_geo(&$doc)
 			"text" => $text
 		);
 
-		$url = 'http://localhost/~rpage/glasgow-geoparser/';
+		$url = 'http://localhost/~rpage/biorss/geoparser/';
 
 		$json = post($url, http_build_query($parameters));
 
@@ -312,6 +315,9 @@ function add_meta(&$doc)
 {
 	$status = 200;
 	
+	// add empty array to signal that we have processed this, even if we find no names
+	$doc->meta = array();
+		
 	if (isset($doc->url) && (!isset($doc->doi) || !isset($doc->image) || !isset($doc->datePublished)  || !isset($doc->description)))
 	{
 		$html = get($doc->url);	
@@ -332,18 +338,21 @@ function add_meta(&$doc)
 					// DOI
 					if (!isset($doc->doi) && isset($meta->name) && ($meta->content != ''))
 					{
+						$doc->meta[] = $meta->name;					
+					
 						switch ($meta->name)
-						{
-				
+						{				
 							case 'citation_doi':
 								$doi = $meta->content;
 								$doc->doi = $doi;
+								$doc->meta[] = $meta->name;	
 								break;					
 
 							case 'DC.identifier':
 								$doi = $meta->content;
 								$doi = str_replace('info:doi/', '', $doi);
 								$doc->doi = $doi;
+								$doc->meta[] = $meta->name;	
 								break;	
 								
 							// https://cdnsciencepub.com/doi/abs/10.1139/cjes-2020-0190
@@ -351,7 +360,8 @@ function add_meta(&$doc)
 								if (isset($meta->scheme) && ($meta->scheme == 'doi'))
 								{
 									$doi = $meta->content;
-									$doc->doi = $doi;										
+									$doc->doi = $doi;	
+									$doc->meta[] = $meta->name;	
 								}								
 								break;					
 												
@@ -366,10 +376,10 @@ function add_meta(&$doc)
 					if (!isset($doc->datePublished) && isset($meta->name) && ($meta->content != ''))
 					{
 						switch ($meta->name)
-						{
-				
+						{				
 							case 'DCTERMS.issued':
 								$doc->datePublished = date(DATE_ISO8601, strtotime($meta->content));
+								$doc->meta[] = $meta->name;	
 								break;	
 								
 							default:
@@ -382,10 +392,10 @@ function add_meta(&$doc)
 					if (!isset($doc->image) && isset($meta->property) && ($meta->content != ''))
 					{
 						switch ($meta->property)
-						{
-				
+						{				
 							case 'og:image':
 								$doc->image = $meta->content;
+								$doc->meta[] = $meta->property;	
 								break;					
 
 							default:
@@ -397,10 +407,10 @@ function add_meta(&$doc)
 					if (!isset($doc->description) && isset($meta->property) && ($meta->content != ''))
 					{
 						switch ($meta->property)
-						{
-				
+						{				
 							case 'og:description':
 								$doc->description = $meta->content;
+								$doc->meta[] = $meta->property;	
 								break;					
 
 							default:
@@ -461,6 +471,9 @@ function add_meta(&$doc)
 function add_taxa(&$doc)
 {
 	$status = 200;
+	
+	// add empty array to signal that we have processed this, even if we find no names
+	$doc->classification = array();
 	
 	if (isset($doc->description) || isset($doc->name))
 	{

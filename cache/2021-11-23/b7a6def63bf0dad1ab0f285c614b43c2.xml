@@ -1,0 +1,250 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>(new species) OR (n. sp.) OR (sp. nov.) OR (n. gen.) OR (gen. nov.) OR (n. comb.) OR (comb. nov.)</title>
+    <link>https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;v=2.15.0&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;ff=20211123095720&amp;fc=20211108074834&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_source=Mobile Safari UI/WKWebView</link>
+    <description>(new species) OR (n. sp.) OR (sp. nov.) OR (n. gen.) OR (gen. nov.) OR (n. comb.) OR (comb. nov.): Latest results from PubMed</description>
+    <atom:link href="https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;v=2.15.0&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;ff=20211123095720&amp;fc=20211108074834&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_source=Mobile Safari UI/WKWebView" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>PubMed RSS feeds (2.15.0)</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Nov 2021 14:57:20 +0000</lastBuildDate>
+    <pubDate>Tue, 23 Nov 2021 06:00:00 -0500</pubDate>
+    <ttl>120</ttl>
+    <item>
+      <title>Revision of Tomosvaryella Aczl (Diptera: Pipunculidae) in the Middle East, with description of 19 new species</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34811339/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211123095720&amp;v=2.15.0</link>
+      <description>The genus Tomosvaryella Aczl, 1939 is revised from the Middle East. Fifty-nine species are recorded and 19 of these are new to science: T. acantha Motamedinia Skevington sp. nov., T. ampliasa Motamedinia Skevington sp. nov., T. anahitae Motamedinia Skevington sp. nov., T. bistounensis Motamedinia Skevington sp. nov., T. cyprusensis Motamedinia Skevington sp. nov., T. ellipiensis Motamedinia Skevington sp. nov., T. emaratensis Motamedinia Skevington sp. nov., T. hamounensis Motamedinia Skevington...</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">Zootaxa. 2021 Jul 16;5002(1):1-103. doi: 10.11646/zootaxa.5002.1.1.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">The genus Tomosvaryella Aczl, 1939 is revised from the Middle East. Fifty-nine species are recorded and 19 of these are new to science: T. acantha Motamedinia Skevington sp. nov., T. ampliasa Motamedinia Skevington sp. nov., T. anahitae Motamedinia Skevington sp. nov., T. bistounensis Motamedinia Skevington sp. nov., T. cyprusensis Motamedinia Skevington sp. nov., T. ellipiensis Motamedinia Skevington sp. nov., T. emaratensis Motamedinia Skevington sp. nov., T. hamounensis Motamedinia Skevington sp. nov., T. kiansiae Motamedinia Skevington sp. nov., T. nimroozensis Motamedinia Skevington sp. nov., T. oshidae Motamedinia Skevington sp. nov., T. osteodes Motamedinia Skevington sp. nov., T. saudiensis Motamedinia Skevington sp. nov., T. soziana Motamedinia Skevington sp. nov., T. spinula Motamedinia Skevington sp. nov., T. subtransvaalensis Motamedinia Skevington sp. nov., T. susa Motamedinia Skevington sp. nov., T. unicorna Motamedinia Skevington sp. nov. and T. yemenensis Motamedinia Skevington sp. nov. are described and illustrated based on sequence information from the mitochondrial COI barcoding gene and morphological parameters. DNA barcodes are provided for 37 of the 59 species. Descriptions of new species, diagnoses, distribution maps and an illustrated key for all species are provided.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34811339/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211123095720&v=2.15.0">34811339</a> | DOI:<a href=https://doi.org/10.11646/zootaxa.5002.1.1>10.11646/zootaxa.5002.1.1</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34811339</guid>
+      <pubDate>Tue, 23 Nov 2021 06:00:00 -0500</pubDate>
+      <dc:creator>Behnam Motamedinia</dc:creator>
+      <dc:creator>Jeffrey H Skevington</dc:creator>
+      <dc:creator>Scott Kelso</dc:creator>
+      <dc:date>2021-11-23</dc:date>
+      <dc:source>Zootaxa</dc:source>
+      <dc:title>Revision of Tomosvaryella Aczl (Diptera: Pipunculidae) in the Middle East, with description of 19 new species</dc:title>
+      <dc:identifier>pmid:34811339</dc:identifier>
+      <dc:identifier>doi:10.11646/zootaxa.5002.1.1</dc:identifier>
+    </item>
+    <item>
+      <title>New species of deep-sea Antipatharians from the North Pacific (Cnidaria: Anthozoa: Antipatharia), Part 2</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34811337/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211123095720&amp;v=2.15.0</link>
+      <description>Five new species of deep-sea antipatharian corals are described from the North Pacific primarily collected off the coast of Alaska and on adjacent seamounts. All the species are referred to the family Schizopathidae. Described as new are: Alternatipathes mirabilis, Bathypathes ptiloides, Bathypathes tiburonae, Bathypathes alaskensis, and Parantipathes pluma. Illustrations of the type material of Bathypathes patula, B. patula var. plenispina and B. tenuis are provided for comparative proposes....</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">Zootaxa. 2021 Jul 14;4999(5):401-422. doi: 10.11646/zootaxa.4999.5.1.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Five new species of deep-sea antipatharian corals are described from the North Pacific primarily collected off the coast of Alaska and on adjacent seamounts. All the species are referred to the family Schizopathidae. Described as new are: Alternatipathes mirabilis, Bathypathes ptiloides, Bathypathes tiburonae, Bathypathes alaskensis, and Parantipathes pluma. Illustrations of the type material of Bathypathes patula, B. patula var. plenispina and B. tenuis are provided for comparative proposes. Bathypathes patula var. plenispina is here recognized as a species distinct from B. patula, and B. tenuis is considered incertae sedis due to the poor condition of the type material.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34811337/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211123095720&v=2.15.0">34811337</a> | DOI:<a href=https://doi.org/10.11646/zootaxa.4999.5.1>10.11646/zootaxa.4999.5.1</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34811337</guid>
+      <pubDate>Tue, 23 Nov 2021 06:00:00 -0500</pubDate>
+      <dc:creator>Dennis M Opresko</dc:creator>
+      <dc:creator>Tina N Molodtsova</dc:creator>
+      <dc:date>2021-11-23</dc:date>
+      <dc:source>Zootaxa</dc:source>
+      <dc:title>New species of deep-sea Antipatharians from the North Pacific (Cnidaria: Anthozoa: Antipatharia), Part 2</dc:title>
+      <dc:identifier>pmid:34811337</dc:identifier>
+      <dc:identifier>doi:10.11646/zootaxa.4999.5.1</dc:identifier>
+    </item>
+    <item>
+      <title>Review of the species of Pediobius (Hymenoptera, Eulophidae) having extreme dorsal setation and description of a new species from East Africa</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34811336/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211123095720&amp;v=2.15.0</link>
+      <description>The Afrotropical species of the genus Pediobius (Hymenoptera, Eulophidae) characterized by extreme setation on the dorsal mesosoma are reviewed and grouped into a newly proposed setigerus group. This group is characterized by the broad attachment of the third funicular and first claval segments, so that the funicle is functionally 2-segmented with a 3-segmented clava. Four species are recognized for the group: P. setigerus Kerrich (from Ghana, Ivory Coast, Republic of Guinea, the Democratic...</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">Zootaxa. 2021 Jul 14;4999(5):423-438. doi: 10.11646/zootaxa.4999.5.2.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">The Afrotropical species of the genus Pediobius (Hymenoptera, Eulophidae) characterized by extreme setation on the dorsal mesosoma are reviewed and grouped into a newly proposed setigerus group. This group is characterized by the broad attachment of the third funicular and first claval segments, so that the funicle is functionally 2-segmented with a 3-segmented clava. Four species are recognized for the group: P. setigerus Kerrich (from Ghana, Ivory Coast, Republic of Guinea, the Democratic Republic of the Congo, Uganda), P. multisetis Bouek (from Ivory Coast), P. sp. indet. aff. multisetis (from Uganda), and P. erinaceus Gumovsky sp. n. (from Uganda). This last species is associated with a leaf miner, and is easily recognizable in having numerous strong bristles on the lateral areas of the mesoscutum, along the notauli, and anterior margin of the mesoscutum, a smooth mesoscutellum with only one pair of thin setae, and the pronotal collar with only 6 thin setae. By contrast, in P. setigerus and P. multisetis the mesoscutellum is sculptured and bears a row of about 20 strong bristles on each side, and the pronotal collar also bears about 20 strong bristles. The differences between P. setigerus and P. multisetis, as well as issues on their biology and type material, are discussed.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34811336/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211123095720&v=2.15.0">34811336</a> | DOI:<a href=https://doi.org/10.11646/zootaxa.4999.5.2>10.11646/zootaxa.4999.5.2</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34811336</guid>
+      <pubDate>Tue, 23 Nov 2021 06:00:00 -0500</pubDate>
+      <dc:creator>Alex Gumovsky</dc:creator>
+      <dc:date>2021-11-23</dc:date>
+      <dc:source>Zootaxa</dc:source>
+      <dc:title>Review of the species of Pediobius (Hymenoptera, Eulophidae) having extreme dorsal setation and description of a new species from East Africa</dc:title>
+      <dc:identifier>pmid:34811336</dc:identifier>
+      <dc:identifier>doi:10.11646/zootaxa.4999.5.2</dc:identifier>
+    </item>
+    <item>
+      <title>Seven new species of the genus Phaedis Pascoe, 1866 (Coleoptera: Tenebrionidae: Cnodalonini) from Borneo</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34811335/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211123095720&amp;v=2.15.0</link>
+      <description>Seven new species of the genus Phaedis (Tenebrionidae: Cnodalonini) from Borneo are described, of which three new species belong to the Phaedeucyrtus species-group and four new ones belong to the nominotypical species-group: Phaedis amabilis sp. nov., P. choui sp. nov., P. dilatitarsalis sp. nov., P. fusivittatus sp. nov., P. minusculus sp. nov., P. nagaii sp. nov., and P. tenuifasciatus sp. nov.</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">Zootaxa. 2021 Jul 14;4999(5):439-455. doi: 10.11646/zootaxa.4999.5.3.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Seven new species of the genus Phaedis (Tenebrionidae: Cnodalonini) from Borneo are described, of which three new species belong to the Phaedeucyrtus species-group and four new ones belong to the nominotypical species-group: Phaedis amabilis sp. nov., P. choui sp. nov., P. dilatitarsalis sp. nov., P. fusivittatus sp. nov., P. minusculus sp. nov., P. nagaii sp. nov., and P. tenuifasciatus sp. nov.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34811335/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211123095720&v=2.15.0">34811335</a> | DOI:<a href=https://doi.org/10.11646/zootaxa.4999.5.3>10.11646/zootaxa.4999.5.3</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34811335</guid>
+      <pubDate>Tue, 23 Nov 2021 06:00:00 -0500</pubDate>
+      <dc:creator>Enrico Ruzzier</dc:creator>
+      <dc:creator>Kiyoshi Ando</dc:creator>
+      <dc:date>2021-11-23</dc:date>
+      <dc:source>Zootaxa</dc:source>
+      <dc:title>Seven new species of the genus Phaedis Pascoe, 1866 (Coleoptera: Tenebrionidae: Cnodalonini) from Borneo</dc:title>
+      <dc:identifier>pmid:34811335</dc:identifier>
+      <dc:identifier>doi:10.11646/zootaxa.4999.5.3</dc:identifier>
+    </item>
+    <item>
+      <title>A new genus of Nearctic oak gall wasp, Grahamstoneia Melika amp; Nicholls, gen. nov. (Hymenoptera: Cynipidae, Cynipini)</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34811334/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211123095720&amp;v=2.15.0</link>
+      <description>A new genus, Grahamstoneia Melika Nicholls, gen. nov., with one new species, G. humboldti Melika Nicholls, sp. nov., asexual generation, is described. This new taxon occurs in the south-western Nearctic, inducing galls on two species within Quercus section Protobalanus (Q. vacciniifolia Kellogg and Q. chrysolepis Liebm.), an ecology and distribution shared with the closely related genus Heteroecus Kinsey. Descriptions, diagnoses, biology, and host associations for the new genus and species are...</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">Zootaxa. 2021 Jul 14;4999(5):456-468. doi: 10.11646/zootaxa.4999.5.4.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">A new genus, Grahamstoneia Melika Nicholls, gen. nov., with one new species, G. humboldti Melika Nicholls, sp. nov., asexual generation, is described. This new taxon occurs in the south-western Nearctic, inducing galls on two species within Quercus section Protobalanus (Q. vacciniifolia Kellogg and Q. chrysolepis Liebm.), an ecology and distribution shared with the closely related genus Heteroecus Kinsey. Descriptions, diagnoses, biology, and host associations for the new genus and species are given. The new taxon is supported by morphological and molecular data.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34811334/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211123095720&v=2.15.0">34811334</a> | DOI:<a href=https://doi.org/10.11646/zootaxa.4999.5.4>10.11646/zootaxa.4999.5.4</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34811334</guid>
+      <pubDate>Tue, 23 Nov 2021 06:00:00 -0500</pubDate>
+      <dc:creator>George Melika</dc:creator>
+      <dc:creator>James A Nicholls</dc:creator>
+      <dc:date>2021-11-23</dc:date>
+      <dc:source>Zootaxa</dc:source>
+      <dc:title>A new genus of Nearctic oak gall wasp, Grahamstoneia Melika amp; Nicholls, gen. nov. (Hymenoptera: Cynipidae, Cynipini)</dc:title>
+      <dc:identifier>pmid:34811334</dc:identifier>
+      <dc:identifier>doi:10.11646/zootaxa.4999.5.4</dc:identifier>
+    </item>
+    <item>
+      <title>New record of the genus Baseprocessa (Hemiptera: Cicadellidae: Coelidiinae) from India with description of a new species</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34811332/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211123095720&amp;v=2.15.0</link>
+      <description>The coelidiinae leafhopper genus Baseprocessa Fan Li is newly recorded from India based on the description of B. patkaensis Meshram sp. nov. and a proposed new combination, B. serratispatulata (Viraktamath Meshram) comb. nov. Materials are deposited in the National Pusa Collection, Division of Entomology, ICAR-Indian Agricultural Research Institute (IARI), New Delhi, India. Photographic illustrations, checklist and key to species of this genus along with a distribution map are also provided.</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">Zootaxa. 2021 Jul 14;4999(5):479-483. doi: 10.11646/zootaxa.4999.5.6.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">The coelidiinae leafhopper genus Baseprocessa Fan Li is newly recorded from India based on the description of B. patkaensis Meshram sp. nov. and a proposed new combination, B. serratispatulata (Viraktamath Meshram) comb. nov. Materials are deposited in the National Pusa Collection, Division of Entomology, ICAR-Indian Agricultural Research Institute (IARI), New Delhi, India. Photographic illustrations, checklist and key to species of this genus along with a distribution map are also provided.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34811332/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211123095720&v=2.15.0">34811332</a> | DOI:<a href=https://doi.org/10.11646/zootaxa.4999.5.6>10.11646/zootaxa.4999.5.6</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34811332</guid>
+      <pubDate>Tue, 23 Nov 2021 06:00:00 -0500</pubDate>
+      <dc:creator>Naresh M Meshram</dc:creator>
+      <dc:creator>Mogili Ramaiah</dc:creator>
+      <dc:creator>P R Shashank</dc:creator>
+      <dc:creator>None Stuti</dc:creator>
+      <dc:date>2021-11-23</dc:date>
+      <dc:source>Zootaxa</dc:source>
+      <dc:title>New record of the genus Baseprocessa (Hemiptera: Cicadellidae: Coelidiinae) from India with description of a new species</dc:title>
+      <dc:identifier>pmid:34811332</dc:identifier>
+      <dc:identifier>doi:10.11646/zootaxa.4999.5.6</dc:identifier>
+    </item>
+    <item>
+      <title>A new species of the genus Apteroloma Hatch, 1927 (Coleoptera, Agyrtidae) from China</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34811331/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211123095720&amp;v=2.15.0</link>
+      <description>A new species of the genus Apteroloma Hatch, 1927 is described from China: Apteroloma qiului sp. nov. from Hubei Province. Habitus and diagnostic features of the adult are described and illustrated.</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">Zootaxa. 2021 Jul 14;4999(5):484-488. doi: 10.11646/zootaxa.4999.5.7.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">A new species of the genus Apteroloma Hatch, 1927 is described from China: Apteroloma qiului sp. nov. from Hubei Province. Habitus and diagnostic features of the adult are described and illustrated.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34811331/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211123095720&v=2.15.0">34811331</a> | DOI:<a href=https://doi.org/10.11646/zootaxa.4999.5.7>10.11646/zootaxa.4999.5.7</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34811331</guid>
+      <pubDate>Tue, 23 Nov 2021 06:00:00 -0500</pubDate>
+      <dc:creator>Ri-Xin Jiang</dc:creator>
+      <dc:creator>Hong-Rui Zhang</dc:creator>
+      <dc:creator>Shuo Wang</dc:creator>
+      <dc:date>2021-11-23</dc:date>
+      <dc:source>Zootaxa</dc:source>
+      <dc:title>A new species of the genus Apteroloma Hatch, 1927 (Coleoptera, Agyrtidae) from China</dc:title>
+      <dc:identifier>pmid:34811331</dc:identifier>
+      <dc:identifier>doi:10.11646/zootaxa.4999.5.7</dc:identifier>
+    </item>
+    <item>
+      <title>Lemyra witti, a new species from southern Gansu Province, China (Lepidoptera, Erebidae, Arctiinae, Arctiini)</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34811330/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211123095720&amp;v=2.15.0</link>
+      <description>N/A.</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">Zootaxa. 2021 Jul 14;4999(5):489-493. doi: 10.11646/zootaxa.4999.5.8.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">N/A.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34811330/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211123095720&v=2.15.0">34811330</a> | DOI:<a href=https://doi.org/10.11646/zootaxa.4999.5.8>10.11646/zootaxa.4999.5.8</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34811330</guid>
+      <pubDate>Tue, 23 Nov 2021 06:00:00 -0500</pubDate>
+      <dc:creator>Anton V Volynkin</dc:creator>
+      <dc:creator>Aidas Saldaitis</dc:creator>
+      <dc:date>2021-11-23</dc:date>
+      <dc:source>Zootaxa</dc:source>
+      <dc:title>Lemyra witti, a new species from southern Gansu Province, China (Lepidoptera, Erebidae, Arctiinae, Arctiini)</dc:title>
+      <dc:identifier>pmid:34811330</dc:identifier>
+      <dc:identifier>doi:10.11646/zootaxa.4999.5.8</dc:identifier>
+    </item>
+    <item>
+      <title>A new species of Wyeomyia (Diptera: Culicidae) from Heliconia flower bracts in northern South America</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34811327/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211123095720&amp;v=2.15.0</link>
+      <description>A new species of the genus Wyeomyia, Wyeomyia (Decamyia) anthica sp. n., is described based on morphological and molecular analyses and is illustrated in larval, pupal and adult life stages. Among the four valid species of the subgenus Decamyia, the new species is closest to Wy. ulocoma (Theobald, 1903), from which it can be distinguished by morphological characters of the male genitalia, larval and pupal stages, and mitochondrial cytochrome c oxidase 1 gene sequence. Wyeomyia ulocoma is...</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">Zootaxa. 2021 Jul 15;4999(6):534-552. doi: 10.11646/zootaxa.4999.6.2.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">A new species of the genus Wyeomyia, Wyeomyia (Decamyia) anthica sp. n., is described based on morphological and molecular analyses and is illustrated in larval, pupal and adult life stages. Among the four valid species of the subgenus Decamyia, the new species is closest to Wy. ulocoma (Theobald, 1903), from which it can be distinguished by morphological characters of the male genitalia, larval and pupal stages, and mitochondrial cytochrome c oxidase 1 gene sequence. Wyeomyia ulocoma is recorded from Brazil for the first time.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34811327/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211123095720&v=2.15.0">34811327</a> | DOI:<a href=https://doi.org/10.11646/zootaxa.4999.6.2>10.11646/zootaxa.4999.6.2</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34811327</guid>
+      <pubDate>Tue, 23 Nov 2021 06:00:00 -0500</pubDate>
+      <dc:creator>Paulino Siqueira Ribeiro</dc:creator>
+      <dc:creator>Mrcio Galvo Pavan</dc:creator>
+      <dc:creator>Marcos Barbosa DA Silva</dc:creator>
+      <dc:creator>Cleber Galvo</dc:creator>
+      <dc:creator>Ricardo Loureno-DE-Oliveira</dc:creator>
+      <dc:creator>Monique Albuquerque Motta</dc:creator>
+      <dc:date>2021-11-23</dc:date>
+      <dc:source>Zootaxa</dc:source>
+      <dc:title>A new species of Wyeomyia (Diptera: Culicidae) from Heliconia flower bracts in northern South America</dc:title>
+      <dc:identifier>pmid:34811327</dc:identifier>
+      <dc:identifier>doi:10.11646/zootaxa.4999.6.2</dc:identifier>
+    </item>
+    <item>
+      <title>Two new and rare genera of angle-winged katydids (Orthoptera: Tettigoniidae: Phaneropterinae: Microcentrini) from the Brazilian Amazon Rainforest</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34811326/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211123095720&amp;v=2.15.0</link>
+      <description>Angle-winged katydids belong to the Microcentrini Brunner von Wattenwyl, 1878 (Phaneropterinae: Tettigoniidae). This tribe currently comprises 17 genera and 102 species with a Neotropical distribution. In this paper we described two new genera with two new species each: Capanema gen. nov. including Capanema pocanga sp. nov. (type species) and Capanema capara sp. nov.; Tukunha gen. nov., including Tukunha pinimauna sp. nov. (type species) and Tukunha minor sp. nov., comprising a total of four new...</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">Zootaxa. 2021 Jul 15;4999(6):553-572. doi: 10.11646/zootaxa.4999.6.3.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Angle-winged katydids belong to the Microcentrini Brunner von Wattenwyl, 1878 (Phaneropterinae: Tettigoniidae). This tribe currently comprises 17 genera and 102 species with a Neotropical distribution. In this paper we described two new genera with two new species each: Capanema gen. nov. including Capanema pocanga sp. nov. (type species) and Capanema capara sp. nov.; Tukunha gen. nov., including Tukunha pinimauna sp. nov. (type species) and Tukunha minor sp. nov., comprising a total of four new species. Keys to the species of the described genera, maps and observations of natural history are provided.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34811326/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211123095720&v=2.15.0">34811326</a> | DOI:<a href=https://doi.org/10.11646/zootaxa.4999.6.3>10.11646/zootaxa.4999.6.3</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34811326</guid>
+      <pubDate>Tue, 23 Nov 2021 06:00:00 -0500</pubDate>
+      <dc:creator>Diego Matheus DE Mello Mendes</dc:creator>
+      <dc:creator>Jos Albertino Rafael</dc:creator>
+      <dc:date>2021-11-23</dc:date>
+      <dc:source>Zootaxa</dc:source>
+      <dc:title>Two new and rare genera of angle-winged katydids (Orthoptera: Tettigoniidae: Phaneropterinae: Microcentrini) from the Brazilian Amazon Rainforest</dc:title>
+      <dc:identifier>pmid:34811326</dc:identifier>
+      <dc:identifier>doi:10.11646/zootaxa.4999.6.3</dc:identifier>
+    </item>
+    <item>
+      <title>Riberazantaena, a new hydraenid genus from the Eastern Arc Mountains of Tanzania (Coleoptera, Hydraenidae)</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34811325/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211123095720&amp;v=2.15.0</link>
+      <description>A new genus, Riberazantaena gen. nov., is erected to accommodate Protozantaena grebennikovi Perkins, 2009 and Riberazantaena latissima sp. nov. from the South Pare Mountains in Tanzania. Both species are apparently endemic to Eastern Arc mountain forests, adults living terrestrially in damp leaf litter. Protozantaena Perkins, 1997 is redefined in light of the description of the new genus, and a revised key to genera of Parhydraenini is provided.</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">Zootaxa. 2021 Jul 15;4999(6):573-581. doi: 10.11646/zootaxa.4999.6.4.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">A new genus, Riberazantaena gen. nov., is erected to accommodate Protozantaena grebennikovi Perkins, 2009 and Riberazantaena latissima sp. nov. from the South Pare Mountains in Tanzania. Both species are apparently endemic to Eastern Arc mountain forests, adults living terrestrially in damp leaf litter. Protozantaena Perkins, 1997 is redefined in light of the description of the new genus, and a revised key to genera of Parhydraenini is provided.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34811325/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211123095720&v=2.15.0">34811325</a> | DOI:<a href=https://doi.org/10.11646/zootaxa.4999.6.4>10.11646/zootaxa.4999.6.4</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34811325</guid>
+      <pubDate>Tue, 23 Nov 2021 06:00:00 -0500</pubDate>
+      <dc:creator>David T Bilton</dc:creator>
+      <dc:date>2021-11-23</dc:date>
+      <dc:source>Zootaxa</dc:source>
+      <dc:title>Riberazantaena, a new hydraenid genus from the Eastern Arc Mountains of Tanzania (Coleoptera, Hydraenidae)</dc:title>
+      <dc:identifier>pmid:34811325</dc:identifier>
+      <dc:identifier>doi:10.11646/zootaxa.4999.6.4</dc:identifier>
+    </item>
+    <item>
+      <title>Four species of Noctuoidea (Lepidoptera), new to Korea</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34811324/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211123095720&amp;v=2.15.0</link>
+      <description>One species of Noctuidae, Chytonix brunneofascia Choi and Heo sp. nov., and three species of Erebidae, Gynaephora atrata Choi, Heo and Kim sp. nov., Utetheisa pulchelloides Hampson, and Pilipectus prunifera (Hampson) were newly recorded from Korea. This paper provides the diagnosis, descriptions of the adult and larva, and genitalia of the available species.</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">Zootaxa. 2021 Jul 15;4999(6):582-590. doi: 10.11646/zootaxa.4999.6.5.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">One species of Noctuidae, Chytonix brunneofascia Choi and Heo sp. nov., and three species of Erebidae, Gynaephora atrata Choi, Heo and Kim sp. nov., Utetheisa pulchelloides Hampson, and Pilipectus prunifera (Hampson) were newly recorded from Korea. This paper provides the diagnosis, descriptions of the adult and larva, and genitalia of the available species.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34811324/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211123095720&v=2.15.0">34811324</a> | DOI:<a href=https://doi.org/10.11646/zootaxa.4999.6.5>10.11646/zootaxa.4999.6.5</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34811324</guid>
+      <pubDate>Tue, 23 Nov 2021 06:00:00 -0500</pubDate>
+      <dc:creator>Sei-Woong Choi</dc:creator>
+      <dc:creator>Un-Hong Heo</dc:creator>
+      <dc:creator>Sung-Soo Kim</dc:creator>
+      <dc:date>2021-11-23</dc:date>
+      <dc:source>Zootaxa</dc:source>
+      <dc:title>Four species of Noctuoidea (Lepidoptera), new to Korea</dc:title>
+      <dc:identifier>pmid:34811324</dc:identifier>
+      <dc:identifier>doi:10.11646/zootaxa.4999.6.5</dc:identifier>
+    </item>
+    <item>
+      <title>A new species of the lichen moth genus Tigricollis Singh amp; Kirti, 2016 (Lepidoptera: Erebidae: Arctiinae) from eastern Indonesia</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34811322/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211123095720&amp;v=2.15.0</link>
+      <description>N/A.</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">Zootaxa. 2021 Jul 15;4999(6):595-598. doi: 10.11646/zootaxa.4999.6.7.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">N/A.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34811322/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211123095720&v=2.15.0">34811322</a> | DOI:<a href=https://doi.org/10.11646/zootaxa.4999.6.7>10.11646/zootaxa.4999.6.7</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34811322</guid>
+      <pubDate>Tue, 23 Nov 2021 06:00:00 -0500</pubDate>
+      <dc:creator>Vitaly M Spitsyn</dc:creator>
+      <dc:creator>Elizaveta A Spitsyna</dc:creator>
+      <dc:creator>Ivan N Bolotov</dc:creator>
+      <dc:date>2021-11-23</dc:date>
+      <dc:source>Zootaxa</dc:source>
+      <dc:title>A new species of the lichen moth genus Tigricollis Singh amp; Kirti, 2016 (Lepidoptera: Erebidae: Arctiinae) from eastern Indonesia</dc:title>
+      <dc:identifier>pmid:34811322</dc:identifier>
+      <dc:identifier>doi:10.11646/zootaxa.4999.6.7</dc:identifier>
+    </item>
+    <item>
+      <title>Three new species of agathotanaids (Tanaidacea: Paratanaoidea: Tanaidomorpha) from the lower bathyal zone off southwestern Java, Indonesia, Indian Ocean with notes on the global distribution and diversity of Agathotanaidae</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34811318/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211123095720&amp;v=2.15.0</link>
+      <description>Three new species of agathotanaids belonging to the genera Agathotanais, Bunburia and Paranarthrura are described. The descriptions were based on material collected from southwestern Java, Indonesia, Indian Ocean during the research cruise SJADES in 2018. The specimens were obtained using a box corer from lower bathyal depths of 8362,355 m. These three genera are recorded from Southeast Asia for the first time.</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">Zootaxa. 2021 Jul 19;5004(1):67-106. doi: 10.11646/zootaxa.5004.1.3.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Three new species of agathotanaids belonging to the genera Agathotanais, Bunburia and Paranarthrura are described. The descriptions were based on material collected from southwestern Java, Indonesia, Indian Ocean during the research cruise SJADES in 2018. The specimens were obtained using a box corer from lower bathyal depths of 8362,355 m. These three genera are recorded from Southeast Asia for the first time.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34811318/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211123095720&v=2.15.0">34811318</a> | DOI:<a href=https://doi.org/10.11646/zootaxa.5004.1.3>10.11646/zootaxa.5004.1.3</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34811318</guid>
+      <pubDate>Tue, 23 Nov 2021 06:00:00 -0500</pubDate>
+      <dc:creator>C K Chim</dc:creator>
+      <dc:creator>Samantha J W Tong</dc:creator>
+      <dc:date>2021-11-23</dc:date>
+      <dc:source>Zootaxa</dc:source>
+      <dc:title>Three new species of agathotanaids (Tanaidacea: Paratanaoidea: Tanaidomorpha) from the lower bathyal zone off southwestern Java, Indonesia, Indian Ocean with notes on the global distribution and diversity of Agathotanaidae</dc:title>
+      <dc:identifier>pmid:34811318</dc:identifier>
+      <dc:identifier>doi:10.11646/zootaxa.5004.1.3</dc:identifier>
+    </item>
+    <item>
+      <title>Two new species of the genus Nephelomilta Hampson (Lepidoptera: Erebidae: Arctiinae) from China and Indonesia</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34811317/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211123095720&amp;v=2.15.0</link>
+      <description>Two new species of the genus Nephelomilta Hampson, 1900 are described: Nephelomilta wangmini sp. n. (China, Guangdong) and Nephelomilta devosi sp. n. (Indonesia, West Java). Nephelomilta diehli Volynkin ern, 2018 is reported from the island of Borneo (Indonesia) for the first time. Adults and male genitalia of the new and the similar species are illustrated.</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">Zootaxa. 2021 Jul 19;5004(1):58-66. doi: 10.11646/zootaxa.5004.1.2.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Two new species of the genus Nephelomilta Hampson, 1900 are described: Nephelomilta wangmini sp. n. (China, Guangdong) and Nephelomilta devosi sp. n. (Indonesia, West Java). Nephelomilta diehli Volynkin ern, 2018 is reported from the island of Borneo (Indonesia) for the first time. Adults and male genitalia of the new and the similar species are illustrated.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34811317/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211123095720&v=2.15.0">34811317</a> | DOI:<a href=https://doi.org/10.11646/zootaxa.5004.1.2>10.11646/zootaxa.5004.1.2</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34811317</guid>
+      <pubDate>Tue, 23 Nov 2021 06:00:00 -0500</pubDate>
+      <dc:creator>Anton V Volynkin</dc:creator>
+      <dc:creator>Vladimir V Dubatolov</dc:creator>
+      <dc:creator>Si-Yao Huang</dc:creator>
+      <dc:creator>Yasunori Kishida</dc:creator>
+      <dc:date>2021-11-23</dc:date>
+      <dc:source>Zootaxa</dc:source>
+      <dc:title>Two new species of the genus Nephelomilta Hampson (Lepidoptera: Erebidae: Arctiinae) from China and Indonesia</dc:title>
+      <dc:identifier>pmid:34811317</dc:identifier>
+      <dc:identifier>doi:10.11646/zootaxa.5004.1.2</dc:identifier>
+    </item>
+  </channel>
+</rss>

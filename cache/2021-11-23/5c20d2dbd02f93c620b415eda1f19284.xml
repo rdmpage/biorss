@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+	xmlns:cc="http://web.resource.org/cc/">
+
+	<channel rdf:about="https://www.biotaxa.org/Phytotaxa">
+				<title>Phytotaxa</title>
+		<link>https://www.biotaxa.org/Phytotaxa</link>
+
+							
+		<description>&lt;div style=&quot;margin-bottom: 0cm;&quot;&gt;&lt;span style=&quot;color: #5c8526;&quot;&gt;&lt;span&gt;&lt;strong&gt;&lt;span style=&quot;color: #5c8526;&quot;&gt;World&#039;s foremost journal of botanical systematics and biodiversity (plants, algae and fungi)&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/div&gt;</description>
+
+									<dc:publisher>Magnolia Press</dc:publisher>
+		
+					<dc:language>en-US</dc:language>
+		
+		<prism:publicationName>Phytotaxa</prism:publicationName>
+
+							
+					<prism:issn>1179-3155</prism:issn>
+		
+					<prism:copyright>&lt;span lang=&quot;EN-GB&quot;&gt;Authors need to complete and return an &lt;/span&gt;&lt;span lang=&quot;EN-GB&quot;&gt;&lt;a href=&quot;http://www.mapress.com/phytotaxa/images/copyright.rtf&quot;&gt;Assignment of Copyright&lt;/a&gt; &lt;/span&gt;&lt;span lang=&quot;EN-GB&quot;&gt;form when a paper is accepted for publication. Authors from institutions that do not allow transfer of copyrights to publishers (e.g. government institutions such as USDA, CSIRO) should attach a copyright waiver or similar document.&lt;/span&gt;</prism:copyright>
+		
+		<items>
+			<rdf:Seq>
+												<rdf:li rdf:resource="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.525.4.1"/>
+									<rdf:li rdf:resource="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.525.4.2"/>
+									<rdf:li rdf:resource="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.525.4.3"/>
+									<rdf:li rdf:resource="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.525.4.4"/>
+										</rdf:Seq>
+		</items>
+	</channel>
+
+					<item rdf:about="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.525.4.1">
+
+						<title>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Biancaea scabrida&lt;/em&gt;, a new species of the &lt;em&gt;Caesalpinia&lt;/em&gt; group (Fabaceae) from Peninsular Malaysia&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.525.4.1</link>
+
+										<description>&lt;p&gt;The new species &lt;em&gt;Biancaea scabrida&lt;/em&gt;, currently only known from Peninsular Malaysia, is described and illustrated. The new species most resembles &lt;em&gt;B. parviflora&lt;/em&gt; and &lt;em&gt;B. oppositifolia &lt;/em&gt;in its inflorescence, but can be distinguished from both species by its sepals which have short stiff scabrid hairs, and its pistil which has stiff and hispid hairs. It also has alternately arranged leaves and inflorescence branches, a lack of a persistent suborbicular stipule, few pinnae per rachis (2–6 pairs) and relatively fewer leaflets per pinna ((3–)5–9 pairs). A provisional IUCN conservation assessment and a taxonomic key to &lt;em&gt;Biancaea&lt;/em&gt; is also provided here.&lt;/p&gt;</description>
+			
+							<dc:creator>LE MIN CHOO</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Phytotaxa
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-11-23</dc:date>
+				<prism:publicationDate>2021-11-23</prism:publicationDate>
+						<prism:volume>525</prism:volume>			<prism:number>4</prism:number>
+												<prism:startingPage>251</prism:startingPage>
+													<prism:endingPage>257</prism:endingPage>
+							
+							<prism:doi>10.11646/phytotaxa.525.4.1</prism:doi>
+					</item>
+					<item rdf:about="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.525.4.2">
+
+						<title>&lt;p&gt;&lt;strong&gt;Five new species and three new varieties of &lt;em&gt;Begonia&lt;/em&gt; section &lt;em&gt;Casparya&lt;/em&gt; endemic to Colombia&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.525.4.2</link>
+
+										<description>&lt;p&gt;&lt;em&gt;Casparya&lt;/em&gt;, one of the most species-rich sections of &lt;em&gt;Begonia&lt;/em&gt; in the Neotropics with 44 species, is distributed from Costa Rica to Peru, with the highest diversity in the Colombian Andes. The section is morphologically well-differentiated and can be distinguished from other Andean cane-like begonias by the 3-horned fruit and multifid or un-divided styles. Here we describe eight taxonomic novelties for &lt;em&gt;Casparya &lt;/em&gt;from Colombia&lt;em&gt;, &lt;/em&gt;five species and three varieties, descriptions include illustrations, distribution maps, taxonomic comments, and assessments of conservation status. The five species described here are: &lt;em&gt;Begonia diegoi&lt;/em&gt;, &lt;em&gt;Begonia galeanoi&lt;/em&gt;, &lt;em&gt;Begonia mamapachensis&lt;/em&gt;, &lt;em&gt;Begonia perijaensis&lt;/em&gt;, and &lt;em&gt;Begonia vinagrera&lt;/em&gt;; and the three new varieties are: &lt;em&gt;Begonia kalbreyerii var. orquidensis, Begonia silverstonei var. brevipetiolata, &lt;/em&gt;and &lt;em&gt;Begonia vinagrera var. pomecensis&lt;/em&gt;. We also present a taxonomic key for the 32 species of &lt;em&gt;Casparya&lt;/em&gt; so far known from Colombia.&lt;/p&gt;</description>
+			
+							<dc:creator>ORLANDO ADOLFO JARA-MUÑOZ</dc:creator>
+							<dc:creator>JAMES E. RICHARDSON</dc:creator>
+							<dc:creator>JUAN CARLOS ZABALA-RIVERA</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Phytotaxa
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-11-23</dc:date>
+				<prism:publicationDate>2021-11-23</prism:publicationDate>
+						<prism:volume>525</prism:volume>			<prism:number>4</prism:number>
+												<prism:startingPage>258</prism:startingPage>
+													<prism:endingPage>280</prism:endingPage>
+							
+							<prism:doi>10.11646/phytotaxa.525.4.2</prism:doi>
+					</item>
+					<item rdf:about="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.525.4.3">
+
+						<title>&lt;p&gt;&lt;strong&gt;A new &lt;em&gt;Dionysia&lt;/em&gt; (Primulaceae) species from southern Turkey, the most western species of the Irano-Turanian genus&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.525.4.3</link>
+
+										<description>&lt;p&gt;A new &lt;em&gt;Dionysia&lt;/em&gt; species, &lt;em&gt;D. zeynepiae&lt;/em&gt;, is described from Antakya, a Mediterranean province in southern Turkey. It differs from all other known species of the genus by the presence of the trifid corolla lobes (vs. entire, emarginate or bifid lobes). This is the most western and most separated population of this mostly Irano-Turanian genus, which is distributed mainly in the Zagros Mountains (Iran) and adjacent areas. The floral morphology of the heterostylous flowers is also described in detail.&lt;/p&gt;</description>
+			
+							<dc:creator>YELDA GÜZEL</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Phytotaxa
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-11-23</dc:date>
+				<prism:publicationDate>2021-11-23</prism:publicationDate>
+						<prism:volume>525</prism:volume>			<prism:number>4</prism:number>
+												<prism:startingPage>281</prism:startingPage>
+													<prism:endingPage>294</prism:endingPage>
+							
+							<prism:doi>10.11646/phytotaxa.525.4.3</prism:doi>
+					</item>
+					<item rdf:about="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.525.4.4">
+
+						<title>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Ardisia kalimbahin&lt;/em&gt; (Primulaceae, Myrsinoideae), a new species from the Philippines&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.525.4.4</link>
+
+										<description>&lt;p&gt;&lt;em&gt;Ardisia&lt;/em&gt; &lt;em&gt;kalimbahin&lt;/em&gt; is herein described and illustrated as a new species. It is the latest addition to the richness of &lt;em&gt;Ardisia&lt;/em&gt; in the Philippines. It closely resembles &lt;em&gt;A.&lt;/em&gt; &lt;em&gt;romanii&lt;/em&gt; Elmer but is distinct in having shorter petiole, shorter elliptic leaves, racemose inflorescence, longer and sparsely puberulent pedicels, magenta corolla lobes, basifixed anthers, shorter filaments, and a beaked stigma. Based on current collection and available herbarium specimens, &lt;em&gt;Ardisia&lt;/em&gt; &lt;em&gt;kalimbahin&lt;/em&gt; is distributed in the islands of Palawan (Aborlan), Mindoro, and Luzon (Carranglan). Available data is not enough to assess its conservation status; hence, it is proposed as data deficient (DD).&lt;/p&gt;</description>
+			
+							<dc:creator>LIEZEL M. MAGTOTO</dc:creator>
+							<dc:creator>MAVERICK N. TAMAYO</dc:creator>
+							<dc:creator>LEONARDO C. UDASCO, JR.</dc:creator>
+							<dc:creator>RENE ALFRED ANTON BUSTAMANTE</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Phytotaxa
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-11-23</dc:date>
+				<prism:publicationDate>2021-11-23</prism:publicationDate>
+						<prism:volume>525</prism:volume>			<prism:number>4</prism:number>
+												<prism:startingPage>295</prism:startingPage>
+													<prism:endingPage>300</prism:endingPage>
+							
+							<prism:doi>10.11646/phytotaxa.525.4.4</prism:doi>
+					</item>
+	</rdf:RDF>

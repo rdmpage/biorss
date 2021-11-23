@@ -14,7 +14,8 @@ global $config;
 // Date timezone
 date_default_timezone_set('UTC');
 
-	
+$config['cache'] = dirname(__FILE__) . '/cache';
+
 // Environment----------------------------------------------------------------------------
 // In development this is a PHP file that is in .gitignore, when deployed these parameters
 // will be set on the server
@@ -24,10 +25,10 @@ if (file_exists(dirname(__FILE__) . '/env.php'))
 }
 
 $config['platform'] = 'local';
-//$config['platform'] = 'cloud';
+$config['platform'] = 'cloud';
 
 $config['site']		= 'local';
-//$config['site']		= 'heroku';
+$config['site']		= 'heroku';
 
 switch ($config['site'])
 {
@@ -47,17 +48,12 @@ switch ($config['site'])
 
 // CouchDB--------------------------------------------------------------------------------
 		
-if ($config['platform'] == 'local')
-{
-		// local
-		$config['couchdb_options'] = array(
-				'database' 	=> 'biorss',
-				'host' 		=> getenv('COUCHDB_HOST'),
-				'port' 		=> getenv('COUCHDB_PORT'),
-				'prefix' 	=> getenv('COUCHDB_PROTOCOL')
-				);		
-}
-
+$config['couchdb_options'] = array(
+		'database' 	=> 'biorss',
+		'host' 		=> getenv('COUCHDB_HOST'),
+		'port' 		=> getenv('COUCHDB_PORT'),
+		'prefix' 	=> getenv('COUCHDB_PROTOCOL')
+		);		
 
 $config['stale'] = false;
 

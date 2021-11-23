@@ -15,15 +15,6 @@
 		xmlUrl=""/>
 -->
 
-	<outline 
-		text="" 
-		title="" 
-		description="" 
-		type="rss" 
-		version="RSS" 
-		htmlUrl="" 
-		xmlUrl=""/>
-		
 	<!-- Acta Arachnologica seems to be an empty feed -->
 	<outline 
 		text="Acta Arachnologica" 
@@ -32,7 +23,7 @@
 		type="rss" 
 		version="RSS" 
 		htmlUrl="https://www.jstage.jst.go.jp/browse/asjaa/-char/en" 
-		xmlUrl="https://www.jstage.jst.go.jp/AF05S010NewRssDld?btnaction=JT0040&sryCd=asjaa&rssLang=en"/>
+		xmlUrl="https://www.jstage.jst.go.jp/AF05S010NewRssDld?btnaction=JT0040&amp;sryCd=asjaa&amp;rssLang=en"/>
 		
 		
 <!-- C -->			
@@ -70,7 +61,7 @@
 		type="rss" 
 		version="RSS" 
 		htmlUrl="https://www.sciencedirect.com/journal/molecular-phylogenetics-and-evolution/issues" 
-		xmlUrl="http://rss.sciencedirect.com/publication/science/10557903"/>
+		xmlUrl="https://rss.sciencedirect.com/publication/science/10557903"/>
 		
 
 <!-- P -->	
