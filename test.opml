@@ -108,7 +108,18 @@
 
 
 
-<!-- Z -->			
+<!-- Z -->		
+
+		<outline 
+			text="Latest Articles from ZooKeys" 
+			title="Latest Articles from ZooKeys"
+			description="" 
+			type="rss" 
+			version="RSS" 
+			htmlUrl="https://zookeys.pensoft.net/articles"
+			xmlUrl="https://zookeys.pensoft.net/rss.php" />
+			
+	
 	<outline 
 		text="Zootaxa Current Issue" 
 		title="Zootaxa Current Issue" 
@@ -134,7 +145,7 @@
 			version="RSS" 
 			htmlUrl="http://zoobank.org/"
 			xmlUrl="http://zoobank.org/rss/rss.xml" />
-			
+
 			
 			
 			

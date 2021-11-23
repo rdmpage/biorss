@@ -19,5 +19,6 @@
     "http://zoobank.org/rss/rss.xml": {
         "modified": "Wed, 12 May 2021 23:00:37 GMT"
     },
-    "https://pubmed.ncbi.nlm.nih.gov/rss/search/1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD/?limit=15&utm_campaign=pubmed-2&fc=20211108074834": {}
+    "https://pubmed.ncbi.nlm.nih.gov/rss/search/1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD/?limit=15&utm_campaign=pubmed-2&fc=20211108074834": {},
+    "https://zookeys.pensoft.net/rss.php": {}
 }
