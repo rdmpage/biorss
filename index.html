@@ -150,7 +150,7 @@ isodate_to_string = function (datestring) {
 		<script>
 
 		var country = 'WORLD';
-		var path = ["BIOTA","Animalia"];
+		var path = ["BIOTA"];
 		
 		function getfeed() {
 		
@@ -194,7 +194,17 @@ isodate_to_string = function (datestring) {
 						// image
 						html += '<div class="col s3 m2">';
 						if (data.dataFeedElement[i].image) {
-							html += '<img class="responsive-img" src="' + data.dataFeedElement[i].image + '">';
+						
+							// Check for Pensoft badness (we should catch this in the RSS feed)
+							var image_ok = true;
+							
+							if (data.dataFeedElement[i].image.match(/d200x_.jpg/)) {
+								image_ok = false;
+							}
+							
+							if (image_ok) {						
+								html += '<img class="responsive-img" src="' + data.dataFeedElement[i].image + '">';
+							}
 						}
 						html += '</div>';
 						// text
