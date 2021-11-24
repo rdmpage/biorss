@@ -189,7 +189,7 @@ function display_treemap ($path, $callback = '')
 			log10($node->count + 1), 
 			$node->label, 
 			json_encode($node->key),
-			($node->children == 0)
+			($node->children == 1)
 			);
 	
 		array_push($items, $item);
