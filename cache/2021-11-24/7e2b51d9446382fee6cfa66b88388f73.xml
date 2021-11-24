@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+ xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:prism="http://prismstandard.org/namespaces/2.0/basic/"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/">
+ <channel rdf:about="http://api.ingentaconnect.com/content/pemberley/emm/latest?format=rss">
+ <title>Latest Issue of ENTOMOLOGISTS MONTHLY MAGAZINE</title>
+ <link>https://www.ingentaconnect.com/content/pemberley/emm/latest</link>
+ <description>RSS feed of the most recently published issue of ENTOMOLOGISTS MONTHLY MAGAZINE</description>
+ <image rdf:resource="https://www.ingentaconnect.com/journal-logos/pemberley/emm.gif"/>
+ <dc:description>RSS feed of the most recently published issue of ENTOMOLOGISTS MONTHLY MAGAZINE</dc:description>
+ <dc:title>Latest Issue of ENTOMOLOGISTS MONTHLY MAGAZINE RSS Feed</dc:title>
+ <dc:date>2021-11-24T07:49:07Z</dc:date>
+ <admin:generatorAgent rdf:resource="https://www.ingentaconnect.com"/>
+ <admin:errorReportsTo rdf:resource="mailto:help@ingentaconnect.com"/>
+ <sy:updatePeriod>daily</sy:updatePeriod>
+ <sy:updateFrequency>2</sy:updateFrequency>
+ <sy:updateBase>2004-01-01T07:00+00:00</sy:updateBase>
+ <items>
+ <rdf:Seq>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00001"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00002"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00003"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00004"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00005"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00006"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00007"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00008"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00009"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00010"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00011"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00012"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00013"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00014"/>
+ </rdf:Seq>
+ </items>
+<dc:publisher>Pemberley Books (Publishing)</dc:publisher>
+<dc:rights>(copyright) 2021 Pemberley Books (Publishing)</dc:rights>
+<prism:publicationName>ENTOMOLOGISTS MONTHLY MAGAZINE</prism:publicationName>
+<prism:distributor>Ingenta Connect</prism:distributor>
+<prism:coverDisplayDate>29 October 2021</prism:coverDisplayDate>
+<prism:isPartOf rdf:resource="urn:issn:0013-8908"/><prism:issn>0013-8908</prism:issn>
+ </channel>
+<item rdf:about="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00001">
+<link>https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00001</link>
+<title>A key to the subgenera of the orchid bee genus Euglossa (Hymenoptera: Apidae)</title>
+<dc:title>A key to the subgenera of the orchid bee genus Euglossa (Hymenoptera: Apidae)</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Engel, Michael S.</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Michael S.</foaf:givenName><foaf:familyName>Engel</foaf:familyName><foaf:name>Engel, Michael S.</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>157</prism:volume>
+<prism:number>4</prism:number>
+<prism:startingPage>225</prism:startingPage><prism:endingPage>241</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004"/>
+<prism:section>Articles</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00002">
+<link>https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00002</link>
+<title>GRASSHOPPERS OF BRITAIN AND WESTERN EUROPE &amp;#8211; A PHOTO - GRAPHIC GUIDE, by Éric Sardet, Christian Roesti &amp; Yoan Braud. Paperback, 2021, 304 pp. Published by Bloomsbury Wildlife. ISBN 9781472954862. Price: £35.00.</title>
+<dc:title>GRASSHOPPERS OF BRITAIN AND WESTERN EUROPE &amp;#8211; A PHOTO - GRAPHIC GUIDE, by Éric Sardet, Christian Roesti &amp; Yoan Braud. Paperback, 2021, 304 pp. Published by Bloomsbury Wildlife. ISBN 9781472954862. Price: £35.00.</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Marshall, Judith</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Judith</foaf:givenName><foaf:familyName>Marshall</foaf:familyName><foaf:name>Marshall, Judith</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>157</prism:volume>
+<prism:number>4</prism:number>
+<prism:startingPage>242</prism:startingPage><prism:endingPage>242</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004"/>
+<prism:section>Book Review</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00003">
+<link>https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00003</link>
+<title>DAVID MICHAEL ACKLAND (1927&amp;#8211;2021)</title>
+<dc:title>DAVID MICHAEL ACKLAND (1927&amp;#8211;2021)</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Pont, Adrian C.</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Adrian C.</foaf:givenName><foaf:familyName>Pont</foaf:familyName><foaf:name>Pont, Adrian C.</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>157</prism:volume>
+<prism:number>4</prism:number>
+<prism:startingPage>243</prism:startingPage><prism:endingPage>247</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004"/>
+<prism:section>Obituary</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00004">
+<link>https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00004</link>
+<title>DRAGONFLIES AND DAMSELFLIES OF BRITAIN AND WESTERN EUROPE. A PHOTOGRAPHIC GUIDE, by Jean-Pierre Boudot, Guillaume Doucet &amp; Daniel Grand; illustrated by Yves Doux. Paperback, 2021, 160 pp. Published by Bloomsbury Wildlife, ISBN 9781472982223. Price £30.00.</title>
+<dc:title>DRAGONFLIES AND DAMSELFLIES OF BRITAIN AND WESTERN EUROPE. A PHOTOGRAPHIC GUIDE, by Jean-Pierre Boudot, Guillaume Doucet &amp; Daniel Grand; illustrated by Yves Doux. Paperback, 2021, 160 pp. Published by Bloomsbury Wildlife, ISBN 9781472982223. Price £30.00.</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Taylor, Pam</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Pam</foaf:givenName><foaf:familyName>Taylor</foaf:familyName><foaf:name>Taylor, Pam</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>157</prism:volume>
+<prism:number>4</prism:number>
+<prism:startingPage>248</prism:startingPage><prism:endingPage>250</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004"/>
+<prism:section>Book Review</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00005">
+<link>https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00005</link>
+<title>Three remarkable new species of Neotropical Sylvicola (Diptera: Anisopodidae) with elongate mouth parts</title>
+<dc:title>Three remarkable new species of Neotropical Sylvicola (Diptera: Anisopodidae) with elongate mouth parts</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Hancock, E. Geoffrey</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>E. Geoffrey</foaf:givenName><foaf:familyName>Hancock</foaf:familyName><foaf:name>Hancock, E. Geoffrey</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>157</prism:volume>
+<prism:number>4</prism:number>
+<prism:startingPage>251</prism:startingPage><prism:endingPage>257</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004"/>
+<prism:section>Articles</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00006">
+<link>https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00006</link>
+<title>BLOW FLIES (DIPTERA: CALLIPHORIDAE, POLLENIIDAE, RHINIIDAE), Handbook for the Identification of British Insects Vol. 10. Part 16 by Olga Sivell. Paperback, 2021, 206 pp. Published by the Royal Entomological Society. ISBN 9781910159064. Price: £39.95.</title>
+<dc:title>BLOW FLIES (DIPTERA: CALLIPHORIDAE, POLLENIIDAE, RHINIIDAE), Handbook for the Identification of British Insects Vol. 10. Part 16 by Olga Sivell. Paperback, 2021, 206 pp. Published by the Royal Entomological Society. ISBN 9781910159064. Price: £39.95.</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Benecke, Mark</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Mark</foaf:givenName><foaf:familyName>Benecke</foaf:familyName><foaf:name>Benecke, Mark</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>157</prism:volume>
+<prism:number>4</prism:number>
+<prism:startingPage>258</prism:startingPage><prism:endingPage>260</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004"/>
+<prism:section>Book Review</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00007">
+<link>https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00007</link>
+<title>Bark beetles breeding in petioles in Fiji (Coleoptera: Curculionidae: Scolytinae)</title>
+<dc:title>Bark beetles breeding in petioles in Fiji (Coleoptera: Curculionidae: Scolytinae)</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Beaver, Roger A.</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Roger A.</foaf:givenName><foaf:familyName>Beaver</foaf:familyName><foaf:name>Beaver, Roger A.</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>157</prism:volume>
+<prism:number>4</prism:number>
+<prism:startingPage>261</prism:startingPage><prism:endingPage>268</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004"/>
+<prism:section>Articles</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00008">
+<link>https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00008</link>
+<title>
+ Ptenidium (Matthewsium) coxi: a new species of Ptiliidae (Coleoptera) from Chile</title>
+<dc:title>
+ Ptenidium (Matthewsium) coxi: a new species of Ptiliidae (Coleoptera) from Chile</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Darby, Michael</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Michael</foaf:givenName><foaf:familyName>Darby</foaf:familyName><foaf:name>Darby, Michael</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>157</prism:volume>
+<prism:number>4</prism:number>
+<prism:startingPage>269</prism:startingPage><prism:endingPage>272</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004"/>
+<prism:section>Articles</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00009">
+<link>https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00009</link>
+<title>A key to the subgenera of the stingless bee genus  Melipona (Hymenoptera: Apidae)</title>
+<dc:title>A key to the subgenera of the stingless bee genus  Melipona (Hymenoptera: Apidae)</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Engel, Michael S.</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Michael S.</foaf:givenName><foaf:familyName>Engel</foaf:familyName><foaf:name>Engel, Michael S.</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>157</prism:volume>
+<prism:number>4</prism:number>
+<prism:startingPage>273</prism:startingPage><prism:endingPage>281</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004"/>
+<prism:section>Articles</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00010">
+<link>https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00010</link>
+<title>FREDERIC CHRISTIAN THOMPSON (1944&amp;#8211;2021) a personal recollection</title>
+<dc:title>FREDERIC CHRISTIAN THOMPSON (1944&amp;#8211;2021) a personal recollection</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Rotheray, Graham E.</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Graham E.</foaf:givenName><foaf:familyName>Rotheray</foaf:familyName><foaf:name>Rotheray, Graham E.</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>157</prism:volume>
+<prism:number>4</prism:number>
+<prism:startingPage>282</prism:startingPage><prism:endingPage>284</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004"/>
+<prism:section>Obituary</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00011">
+<link>https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00011</link>
+<title>A conspectus of the picture-winged flies (Diptera: Ulidiidae) of India</title>
+<dc:title>A conspectus of the picture-winged flies (Diptera: Ulidiidae) of India</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Yatoo, Suhaib Firdous</dc:creator><dc:creator>Maqbool, Amir</dc:creator><dc:creator>Wachkoo, Aijaz Ahmad</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Suhaib Firdous</foaf:givenName><foaf:familyName>Yatoo</foaf:familyName><foaf:name>Yatoo, Suhaib Firdous</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Amir</foaf:givenName><foaf:familyName>Maqbool</foaf:familyName><foaf:name>Maqbool, Amir</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Aijaz Ahmad</foaf:givenName><foaf:familyName>Wachkoo</foaf:familyName><foaf:name>Wachkoo, Aijaz Ahmad</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>157</prism:volume>
+<prism:number>4</prism:number>
+<prism:startingPage>285</prism:startingPage><prism:endingPage>291</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004"/>
+<prism:section>Articles</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00012">
+<link>https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00012</link>
+<title>Preliminary investigation of the drumming signals of  Taeniopteryx nebulosa ssp  britannica Hynes, 1957 (Plecoptera: Taeniopterygidae)</title>
+<dc:title>Preliminary investigation of the drumming signals of  Taeniopteryx nebulosa ssp  britannica Hynes, 1957 (Plecoptera: Taeniopterygidae)</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Macadam, C.R.</dc:creator><dc:creator>Dodd, Jennifer A.</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>C.R.</foaf:givenName><foaf:familyName>Macadam</foaf:familyName><foaf:name>Macadam, C.R.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Jennifer A.</foaf:givenName><foaf:familyName>Dodd</foaf:familyName><foaf:name>Dodd, Jennifer A.</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>157</prism:volume>
+<prism:number>4</prism:number>
+<prism:startingPage>292</prism:startingPage><prism:endingPage>295</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004"/>
+<prism:section>Articles</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00013">
+<link>https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00013</link>
+<title>ANT ARCHITECTURE: THE WONDER, BEAUTY AND SCIENCE OF UNDERGROUND NESTS by Walter R. Tschinkel. Hardback, 2021, 227 pp. Published by Princeton University Press. ISBN 9780691179315. Price: £25.00.</title>
+<dc:title>ANT ARCHITECTURE: THE WONDER, BEAUTY AND SCIENCE OF UNDERGROUND NESTS by Walter R. Tschinkel. Hardback, 2021, 227 pp. Published by Princeton University Press. ISBN 9780691179315. Price: £25.00.</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Wakeham-Dawson, Andrew</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Andrew</foaf:givenName><foaf:familyName>Wakeham-Dawson</foaf:familyName><foaf:name>Wakeham-Dawson, Andrew</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>157</prism:volume>
+<prism:number>4</prism:number>
+<prism:startingPage>296</prism:startingPage><prism:endingPage>297</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004"/>
+<prism:section>Book Review</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00014">
+<link>https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004/art00014</link>
+<title>NEW NAMES PUBLISHED IN VOLUME 157 (2021)</title>
+<dc:title>NEW NAMES PUBLISHED IN VOLUME 157 (2021)</dc:title>
+<dc:format>application/pdf</dc:format>
+<prism:volume>157</prism:volume>
+<prism:number>4</prism:number>
+<prism:startingPage>298</prism:startingPage><prism:endingPage>298</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/pemberley/emm/2021/00000157/00000004"/>
+<prism:section>New Names Published in Volume 157 (2021)</prism:section>
+</item>
+ </rdf:RDF>

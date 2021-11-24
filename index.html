@@ -202,8 +202,8 @@ isodate_to_string = function (datestring) {
 								image_ok = false;							
 							}
 							
-							if (image_ok) {						
-								html += '<img class="responsive-img" src="' + data.dataFeedElement[i].image + '">';
+							if (image_ok) {		
+								html += '<img class="responsive-img" src="./imageproxy.php?url=' + encodeURIComponent(data.dataFeedElement[i].image) + '">';
 							}
 						}
 						html += '</div>';

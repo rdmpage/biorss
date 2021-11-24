@@ -25,6 +25,17 @@
 		htmlUrl="https://www.jstage.jst.go.jp/browse/asjaa/-char/en" 
 		xmlUrl="https://www.jstage.jst.go.jp/AF05S010NewRssDld?btnaction=JT0040&amp;sryCd=asjaa&amp;rssLang=en"/>
 		
+
+	<outline 
+		text="Asian Herpetological Research" 
+		title="Asian Herpetological Research" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://navi.cnki.net/knavi/journals/YZLQ/detail?uniplatform=NZKPT" 
+		xmlUrl="https://navi.cnki.net/knavi/rss/yzlq"/>
+		
+		
 		
 <!-- C -->			
 		
@@ -37,8 +48,28 @@
 		htmlUrl="https://www.cambridge.org/core/journals/canadian-entomologist" 
 		xmlUrl="https://www.cambridge.org/core/rss/product/id/2DD17A42E6E59026C256A7EBBDB96645"/>		
 
+	<outline 
+		text="Contributions to Entomology / Beiträge zur Entomologie" 
+		title="Contributions to Entomology" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://www.contributions-to-entomology.org/index" 
+		xmlUrl="https://www.contributions-to-entomology.org/gateway/plugin/WebFeedGatewayPlugin/atom"/>		
+
+
 
 <!-- E -->	
+
+	<outline 
+		text="Entomologisk Tidskrift" 
+		title="Entomologisk Tidskrift" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="http://et-online.nu/index.php/contents/issue/current" 
+		xmlUrl="http://et-online.nu/index.php/contents/gateway/plugin/WebFeedGatewayPlugin/atom"/>
+
 
 	<outline 
 		text="Entomologist's Monthly Magazine" 
@@ -48,9 +79,36 @@
 		version="RSS" 
 		htmlUrl="https://www.ingentaconnect.com/content/pemberley/emm;jsessionid=1lobinp36he79.x-ic-live-01" 
 		xmlUrl="https://api.ingentaconnect.com/content/pemberley/emm/latest?format=rss"/>
+	
+	
+
+	
+<!-- I -->	
+
+
+
+
+	<outline 
+		text="International Journal of Systematic and Evolutionary Microbiology" 
+		title="International Journal of Systematic and Evolutionary Microbiology" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://www.microbiologyresearch.org/content/journal/ijsem" 
+		xmlUrl="https://www.microbiologyresearch.org/rss/content/journal/ijsem/latestarticles?fmt=rss"/>
+
 		
-		
-		
+<!-- Journal of Threatened Taxa -->
+	
+		<outline 
+		text="Journal of Threatened Taxa" 
+		title="Journal of Threatened Taxa" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://threatenedtaxa.org/index.php/JoTT" 
+		xmlUrl="https://threatenedtaxa.org/index.php/JoTT/gateway/plugin/WebFeedGatewayPlugin/rss"/>
+			
 		
 <!-- M -->		
 
@@ -94,7 +152,31 @@
 		htmlUrl="https://www.biotaxa.org/Phytotaxa/issue/current" 
 		xmlUrl="https://www.biotaxa.org/Phytotaxa/gateway/plugin/WebFeedGatewayPlugin/rss"/>
 
+
+<!-- R -->
+
+	<outline 
+		text="RIVISTA ITALIANA DI PALEONTOLOGIA E STRATIGRAFIA" 
+		title="RIVISTA ITALIANA DI PALEONTOLOGIA E STRATIGRAFIA" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://riviste.unimi.it/index.php/RIPS/index" 
+		xmlUrl="https://riviste.unimi.it/index.php/RIPS/gateway/plugin/WebFeedGatewayPlugin/rss"/>
+
+
 <!-- S -->
+
+	<outline 
+		text="Studies on Neotropical Fauna and Environment" 
+		title="Studies on Neotropical Fauna and Environment" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://www.tandfonline.com/toc/nnfe20/current" 
+		xmlUrl="https://www.tandfonline.com/feed/rss/nnfe20"/>
+
+
 	<outline 
 		text="Systematic Botany" 
 		title="Systematic Botany" 
@@ -128,6 +210,18 @@
 			version="RSS" 
 			htmlUrl="https://zookeys.pensoft.net/articles"
 			xmlUrl="https://zookeys.pensoft.net/rss.php" />
+
+		<outline 
+			text="Zoological Journal of the Linnean Society" 
+			title="Zoological Journal of the Linnean Society"
+			description="" 
+			type="rss" 
+			version="RSS" 
+			htmlUrl="https://academic.oup.com/zoolinnean/issue"
+			xmlUrl="https://academic.oup.com/rss/site_5579/3435.xml" />
+			
+			
+			
 			
 	
 	<outline 

@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <title>Validate User</title>
+    <style type="text/css">
+
+        body {
+            margin: 0 .5rem;
+        }
+
+        .container {
+            padding-top: 2rem;
+            max-width: 350px;
+            margin: auto;
+        }
+
+        .container .explanation-message {
+            margin: 2rem 0;
+            font-family: "Source Sans Pro",sans-serif, Helvetica, Aria;
+        }
+
+        .container .button {
+            margin-top: 2rem;
+            -webkit-appearance: none;
+            font-family: "Source Sans Pro",sans-serif, Helvetica, Aria;
+            font-size: 1rem;
+            font-weight: bold;
+            background: #2880ba;
+            border: none;
+            border-radius: 5px;
+            color: #fff;
+            padding: .75rem 1rem;
+            line-height: 1em;
+            display: inline-block;
+            cursor: pointer;
+            width: 100%;
+            text-align: center;
+        }
+
+        #captcha>div {
+            margin: 0 auto;
+        }
+
+        
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="//oup.silverchair-cdn.com/UI/app/svg/umbrella/oxford-academic-logo.svg" alt="Oxford Academic" class="oup-header-image governor-site-logo">
+        <div>
+            <div class="explanation-message">
+                We are sorry, but we are experiencing unusual traffic at this time. Please help us confirm that you are not a robot and we will take you to your content.
+            </div>
+    <div class="widget widget-ReCaptcha widget-instance-Captcha_OxfordAcademic">
+                <div id="captcha"></div>
+        <div class="captchaAlert" style="color: #c60f13; display: none">
+            Could not validate captcha.  Please try again.
+        </div>
+        <script>
+            var captcha0;
+            var onloadCallback = function() {
+                captcha0 = grecaptcha.render('captcha', {
+                    'sitekey': '6LfeqUoUAAAAANe-QBN7VYMj5D878pDgt5_mY-1S'
+                });
+            }
+
+            function resetCaptchaElement() {
+                // In order to reload the captcha on a post back (i.e., incorrect form fill)
+                // we need to clear out the markup within the "captcha" element and then call
+                // the api call to reload the captcha script.
+                $("#captcha").html("");
+                $.getScript("https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit");
+            }
+        </script>
+ 
+    </div>
+                <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&amp;render=explicit&hl=en" type="text/javascript"></script>
+
+            <form method="post" id="captchaForm">
+                <input type="hidden" name="content" value="/rss/site_5579/3435.xml" />
+                <input type="hidden" name="userCaptchaResponse" id="userCaptchaResponse" />
+                <div class="btn-wrap">
+                    <button id="btnSubmit" class="button">Take me to my Content</button>
+                </div>
+            </form>
+        </div>
+    </div>
+    <script>
+        var btnSubmit = document.getElementById('btnSubmit');
+        var txtCaptchaInputId = document.getElementById('txtCaptchaInputId');
+
+        btnSubmit.onclick = function () {
+            handleCaptchaResponse();
+        }
+
+        if (txtCaptchaInputId !== null) {
+            txtCaptchaInputId.onkeyup = function (e) {
+
+                var keyCode = (e.which || e.keyCode);
+
+                if (keyCode === 13) {
+                    handleCaptchaResponse();
+                }
+                return false;
+            }
+        }
+
+        function handleCaptchaResponse() {
+            var userCaptchaResponse = document.getElementById('userCaptchaResponse');
+            var userResponse = ((txtCaptchaInputId === null) ? grecaptcha.getResponse() : txtCaptchaInputId.value);
+            if (userResponse !== '') {
+                userCaptchaResponse.value = userResponse;
+                document.getElementById('captchaForm').submit();
+                return true;
+            }
+        }
+    </script>
+
+</body>
+</html>

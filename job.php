@@ -66,8 +66,29 @@ $filename = 'examples/googlescholar.xml';
 
 $filename = 'cache/2021-11-23/3bd4ee2e7045ead791e322c2f0fc7c76.xml';
 
+$filename = 'cache/2021-11-23/068db33d20974d850dfe786514d3f70a.xml';
+//$filename = 'cache/2021-11-23/7e2b51d9446382fee6cfa66b88388f73.xml';
+$filename = 'cache/2021-11-23/b7a6def63bf0dad1ab0f285c614b43c2.xml'; // Pubmed
+$filename = 'cache/2021-11-23/9d8468d30357f8a07dd790d4ded09d40.xml'; // ZooKeys
+$filename = 'cache/2021-11-23/d08acaa8dc9b5e6f5bd8e6631cfd9e73.xml'; // zootaxa
+$filename = 'cache/2021-11-23/3578d5934537d5474573eef7d1bf9de5.xml'; // mycotaxon
+
+$filename = 'cache/2021-11-24/807b0d5897e9d8cd6fe528273687a5d5.xml'; // Rivista with DataCite DOI
+$filename = 'cache/2021-11-24/0abe4bd4e1c41f034b91fd79cc81fda4.xml';
+$filename = 'cache/2021-11-24/30e6d505389f0453d808ad9b438775f8.xml';
+$filename = 'cache/2021-11-24/2150d69c452159c003d91353ddfb76a0.xml';
+
+// Zoological Journal Linn Soc - blocks access if hit too hard
+
+$filename = 'cache/2021-11-24/e379dc5d4d4c416ee999e4b32339d5e8.xml'; 
+
+$filename = 'cache/2021-11-24/c072d1fa2ead34b56705e1d18037069f.xml'; // JoTT
+$filename = 'cache/2021-11-24/6feb2bca6f7e9afe74928a2903a1a484.xml'; // IJSEM
+$filename = 'cache/2021-11-24/3f855f4ae8332f01f6377fa341c3e93d.xml';
+
 
 $xml = file_get_contents($filename);
+
 
 $dataFeed = rss_to_internal($xml);
 
@@ -75,11 +96,15 @@ $dataFeed = rss_to_internal($xml);
 
 $n = count($dataFeed->dataFeedElement);
 
+$force = false;
+//$force = true;
+
 for ($i = 0; $i < $n; $i++)
 {
 
+	
 	// do we have this already?
-	if ($couch->exists($dataFeed->dataFeedElement[$i]->{'@id'}))
+	if ($couch->exists($dataFeed->dataFeedElement[$i]->{'@id'}) && !$force)
 	{
 		$doc = fetch($dataFeed->dataFeedElement[$i]->{'@id'});
 		$dataFeedElement = $doc->message;
@@ -93,10 +118,9 @@ for ($i = 0; $i < $n; $i++)
 		echo "DON'T HAVE IT\n";
 	}
 	
-	//print_r($dataFeedElement);
+	// print_r($dataFeedElement);
+
 	//echo json_encode($dataFeedElement);
-	
-	//exit();
 	
 	$url = 'http://localhost/~rpage/biorss/meta.php';
 	$url = 'http://localhost/~rpage/biorss/geoparser.php';

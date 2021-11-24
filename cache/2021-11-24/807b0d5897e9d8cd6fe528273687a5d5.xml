@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+	xmlns:cc="http://web.resource.org/cc/">
+
+	<channel rdf:about="https://riviste.unimi.it/index.php/RIPS">
+				<title>RIVISTA ITALIANA DI PALEONTOLOGIA E STRATIGRAFIA </title>
+		<link>https://riviste.unimi.it/index.php/RIPS</link>
+
+							
+		<description>&lt;p&gt;The Rivista Italiana di Paleontologia e Stratigrafia is a &lt;strong&gt;free of charge&lt;/strong&gt; &lt;strong&gt;OPEN ACCESS &lt;/strong&gt;peer reviewed journal.&lt;/p&gt; &lt;p&gt;RIPS publishes original contributions on all aspects of palaeontology and stratigraphy.&lt;/p&gt; &lt;p&gt;All papers are written in English and are reviewed by international experts.&lt;/p&gt; &lt;p&gt;The Journal is currently indexed and abstracted by AGI, ISI, Current Contents, Georef, Geological Abstract and SciSearch.&lt;/p&gt; &lt;p&gt;In 2015 the Journal joined the Unimi Journals project (&lt;a href=&quot;https://riviste.unimi.it/&quot;&gt;riviste.unimi.it&lt;/a&gt;) and it is hosted on &lt;a href=&quot;http://pkp.sfu.ca/?q=ojs&quot;&gt;OJS&lt;/a&gt; platform.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Web of Science Journal Citation Reports 2018&lt;/strong&gt;: &amp;nbsp;Journal Impact Factor &lt;strong&gt;1.232&lt;/strong&gt;, 5-Year Impact Factor&amp;nbsp;&lt;strong&gt;1.270&lt;/strong&gt;, Total Cites&amp;nbsp;&lt;strong&gt;1069&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Scopus CiteScore 2018&lt;/strong&gt;:&amp;nbsp;&lt;strong&gt;1.53&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;OPEN ACCESS POLICY&lt;/strong&gt;: RIPS is published under a&amp;nbsp;&lt;a href=&quot;http://creativecommons.org/licenses/by-nc-nd/4.0/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Creative Commons&amp;nbsp;Attribution-NonCommercial-NoDerivatives Licence 4.0 International (CC BY-NC-ND 4.0)&lt;/a&gt;&lt;/p&gt; &lt;p&gt;On Facebook:&amp;nbsp;&lt;a href=&quot;https://www.facebook.com/RIPS15/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.facebook.com/RIPS15/&lt;/a&gt;&lt;/p&gt; &lt;p&gt;On Twitter:&amp;nbsp;&lt;a href=&quot;https://twitter.com/rivistapaleo&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://twitter.com/rivistapaleo&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+
+									<dc:publisher>Università degli Studi di Milano</dc:publisher>
+		
+					<dc:language>en-US</dc:language>
+		
+		<prism:publicationName>RIVISTA ITALIANA DI PALEONTOLOGIA E STRATIGRAFIA </prism:publicationName>
+
+							
+					<prism:issn>0035-6883</prism:issn>
+		
+					<prism:copyright>&lt;p&gt;&lt;a href=&quot;http://creativecommons.org/licenses/by-nc-nd/4.0/&quot; rel=&quot;license&quot;&gt;&lt;img src=&quot;https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png&quot; alt=&quot;Licenza Creative Commons&quot; /&gt;&lt;/a&gt;&lt;br /&gt;Rivista italiana di Paleontologia e Stratigrafia di &lt;a href=&quot;/index.php/RIPS&quot; rel=&quot;cc:attributionURL&quot;&gt;http://riviste.unimi.it/index.php/RIPS&lt;/a&gt; è distribuito con Licenza &lt;a href=&quot;http://creativecommons.org/licenses/by-nc-nd/4.0/&quot; rel=&quot;license&quot;&gt;Creative Commons Attribuzione - Non commerciale - Non opere derivate 4.0 Internazionale&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;The journal allow the author(s) to hold the copyright without restrictions.&lt;/p&gt;</prism:copyright>
+		
+		<items>
+			<rdf:Seq>
+												<rdf:li rdf:resource="https://riviste.unimi.it/index.php/RIPS/article/view/16126"/>
+									<rdf:li rdf:resource="https://riviste.unimi.it/index.php/RIPS/article/view/16131"/>
+									<rdf:li rdf:resource="https://riviste.unimi.it/index.php/RIPS/article/view/16332"/>
+									<rdf:li rdf:resource="https://riviste.unimi.it/index.php/RIPS/article/view/16313"/>
+									<rdf:li rdf:resource="https://riviste.unimi.it/index.php/RIPS/article/view/16364"/>
+									<rdf:li rdf:resource="https://riviste.unimi.it/index.php/RIPS/article/view/16421"/>
+									<rdf:li rdf:resource="https://riviste.unimi.it/index.php/RIPS/article/view/16440"/>
+									<rdf:li rdf:resource="https://riviste.unimi.it/index.php/RIPS/article/view/16620"/>
+									<rdf:li rdf:resource="https://riviste.unimi.it/index.php/RIPS/article/view/16697"/>
+									<rdf:li rdf:resource="https://riviste.unimi.it/index.php/RIPS/article/view/16717"/>
+									<rdf:li rdf:resource="https://riviste.unimi.it/index.php/RIPS/article/view/16731"/>
+										</rdf:Seq>
+		</items>
+	</channel>
+
+					<item rdf:about="https://riviste.unimi.it/index.php/RIPS/article/view/16126">
+
+						<title>TELEOST OTOLITHS FROM THE AQUITANIAN (EARLY MIOCENE) OF THE FELLI SECTION IN GREECE: THE ROOTS OF THE MEDITERRANEAN GOBY STOCK (GOBIIDAE, GOBIIFORMES)</title>
+			<link>https://riviste.unimi.it/index.php/RIPS/article/view/16126</link>
+
+										<description>&lt;p&gt;Fish otoliths have been obtained from the early Miocene (Aquitanian) Pentalofos Formation of the Mesohellenic Basin in northern Greece. These specimens represent the earliest Miocene shallow marine otolith records from the Mediterranean. Here, we describe the goby otoliths of the assemblage, which are the most common group at this location. They represent the earliest recognized species of two of the three main extant Atlantic-Mediterranean goby groups, the &lt;em&gt;Pomatoschistus&lt;/em&gt; lineage and the &lt;em&gt;Aphia&lt;/em&gt; lineage. The taxa are interpreted as being phylogenetically positioned near the base of their respective lineages. The new taxa described are &lt;em&gt;Hellenigobius praeschismatus&lt;/em&gt; n. gen. et n. sp. and &lt;em&gt;Plesiogobius felliensis&lt;/em&gt; n. gen. et n. sp. A third species is tentatively related to &lt;em&gt;Nematogobius&lt;/em&gt; in open nomenclature.&lt;/p&gt;</description>
+			
+							<dc:creator>WERNER SCHWARZHANS</dc:creator>
+							<dc:creator>KONSTANTINA AGIADI</dc:creator>
+							<dc:creator>DANAE THIVAIOU</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 WERNER  SCHWARZHANS, KONSTANTINA  AGIADI, DANAE  THIVAIOU
+				http://creativecommons.org/licenses/by-nc-nd/4.0
+			</dc:rights>
+							<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0" />
+			
+							<dc:date>2021-08-17</dc:date>
+				<prism:publicationDate>2021-08-17</prism:publicationDate>
+						<prism:volume>127</prism:volume>			<prism:number>3</prism:number>
+			
+							<prism:doi>10.13130/2039-4942/16126</prism:doi>
+					</item>
+					<item rdf:about="https://riviste.unimi.it/index.php/RIPS/article/view/16131">
+
+						<title>EOMYIDS FROM THE RIBESALBES-ALCORA BASIN (EARLY MIOCENE, IBERIAN PENINSULA) AND THEIR BIOSTRATIGRAPHIC AND PALAEOECOLOGICAL IMPLICATIONS.</title>
+			<link>https://riviste.unimi.it/index.php/RIPS/article/view/16131</link>
+
+										<description>&lt;p&gt;Two species of the family Eomyidae are identified in the Early Miocene localities of the Araia d’Alcora outcrop (Ribesalbes-Alcora Basin, Iberian Peninsula): &lt;em&gt;Ligerimys&lt;/em&gt; &lt;em&gt;florancei&lt;/em&gt; and &lt;em&gt;Ligerimys&lt;/em&gt; &lt;em&gt;ellipticus&lt;/em&gt;. The first is rarer than the second, which is one of the most abundant mammals in the Ribesalbes-Alcora Basin assemblages. Due to its abundance, we are able to describe its variability in dental morphology, showing characteristics never previously observed, including the presence of a mesoloph or other features previously described only in ancient assemblages of this species, such as the presence of the anteroloph, which appears in younger assemblages in the Araia sequence. Furthermore, based on the eomyids, we divide the record of the Campisano Ravine section into two long local biozones, depending on the species present. In addition, each local biozone is divided into two smaller sub-biozones, depending on the abundance of each species. We retrospectively compare and correlate the assemblages studied here with other &lt;em&gt;Ligerimys&lt;/em&gt; assemblages from the other basins in the Iberian Peninsula. We classify these sites based on the abundance and species of the genus &lt;em&gt;Ligerimys&lt;/em&gt;. Additionally, we discuss the palaeoecological preferences of these species&lt;/p&gt;</description>
+			
+							<dc:creator>VICENTE D. CRESPO</dc:creator>
+							<dc:creator>ARTURO GAMONAL</dc:creator>
+							<dc:creator>PLINI MONTOYA</dc:creator>
+							<dc:creator>FRANCISCO J. RUIZ-SÁNCHEZ</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				http://creativecommons.org/licenses/by-nc-nd/4.0
+			</dc:rights>
+							<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0" />
+			
+							<dc:date>2021-08-20</dc:date>
+				<prism:publicationDate>2021-08-20</prism:publicationDate>
+						<prism:volume>127</prism:volume>			<prism:number>3</prism:number>
+			
+							<prism:doi>10.13130/2039-4942/16131</prism:doi>
+					</item>
+					<item rdf:about="https://riviste.unimi.it/index.php/RIPS/article/view/16332">
+
+						<title>HIGH CORAL DIVERSITY IS COUPLED WITH REEF-BUILDING CAPACITY DURING THE LATE OLIGOCENE WARMING EVENT (CASTRO LIMESTONE, SALENTO PENINSULA, S ITALY)</title>
+			<link>https://riviste.unimi.it/index.php/RIPS/article/view/16332</link>
+
+										<description>&lt;p&gt;The Oligocene, well known as the apex of Cenozoic reef growth, is a crucial period of time to investigate the mutual relationship between coral reef construction and coral diversity and their link with palaeoclimate and palaeoenvironmental changes. Here we provide a complete characterization of the Upper Oligocene reef complex of the Castro Limestone (Salento Peninsula, S Italy), which is one of the best-preserved Oligocene coral reefs of the Mediterranean region. By combining facies analysis with the first detailed characterization of its coral fauna, we show that the Castro Limestone has both a rich scleractinian coral fauna (25 genera and 41 species) and a large reef volume, and it represents a luxuriant fringing reef formed within the euphotic zone in clear water conditions facing the open sea. The coral fauna differs both in its composition and in its proportions among reef palaeoenvironments, ranging from the shallow back reef to the fore reef slope, and its stratigraphic and palaeogeographic distribution testifies to the persistence of a cosmopolitan Tethyan fauna in Oligocene time, with the Mediterranean and Indo-Pacific provinces being more closely connected than the Mediterranean and the Caribbean. The age of the Castro Limestone is here reassigned to the middle-late Chattian, which coincides with the Late Oligocene Warming Event (LOWE) when atmospheric CO2 values declined. We suggest that the strong reef-building capacity of the Castro Limestone, coupled with high coral diversity, was not hampered by warming conditions but most probably promoted by the reduced pCO2 and a suitable local/regional physiographic setting.&lt;/p&gt;</description>
+			
+							<dc:creator>FRANCESCA R. BOSELLINI</dc:creator>
+							<dc:creator>ALESSANDRO VESCOGNI</dc:creator>
+							<dc:creator>ANN F. BUDD</dc:creator>
+							<dc:creator>CESARE A. PAPAZZONI</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 FRANCESCA  R. BOSELLINI, ALESSANDRO  VESCOGNI, ANN F. BUDD, CESARE  A. PAPAZZONI
+				http://creativecommons.org/licenses/by-nc-nd/4.0
+			</dc:rights>
+							<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0" />
+			
+							<dc:date>2021-09-10</dc:date>
+				<prism:publicationDate>2021-09-10</prism:publicationDate>
+						<prism:volume>127</prism:volume>			<prism:number>3</prism:number>
+			
+							<prism:doi>10.13130/2039-4942/16332</prism:doi>
+					</item>
+					<item rdf:about="https://riviste.unimi.it/index.php/RIPS/article/view/16313">
+
+						<title>HIGH-RESOLUTION CALCAREOUS NANNOFOSSIL BIOSTRATIGRAPHY ACROSS THE TOARCIAN OCEANIC ANOXIC EVENT IN NORTHERN ITALY: CLUES FROM THE SOGNO AND GAJUM CORES (LOMBARDY BASIN, SOUTHERN ALPS)</title>
+			<link>https://riviste.unimi.it/index.php/RIPS/article/view/16313</link>
+
+										<description>&lt;p&gt;Calcareous nannofossil biostratigraphy was conducted across the Toarcian Oceanic Anoxic Event (T-OAE) interval cored at Colle di Sogno and Gajum in the Lombardy Basin (Southern Alps, Northern Italy). Drilling at both sites resulted in 100% recovery of unweathered material. The Sogno and Gajum Cores consist of pelagic marly limestones, marlstone, marly claystone, and a relatively expanded black shale interval named Fish Level considered the lithostratigraphic record of the T-OAE at regional scale.&lt;/p&gt; &lt;p&gt;Semiquantitative analyses of calcareous nannofloras allowed to achieve a high-resolution biostratigraphy of the latest Pliensbachian-early Toarcian time interval. Several nannofossil biohorizons were detected, including zonal/subzonal markers and additional events related to changes in abundance. The nannofossil biostratigraphic correlation of the Sogno and Gajum Cores indicates that, according to their paleogeographic settings, the succession recovered in the Sogno Core deposited on a pelagic plateau is continuous while a hiatus of ~600 kyrs was detected in the lowermost Toarcian in the Gajum Core located on a slope of a structural high.&lt;/p&gt; &lt;p&gt;The NJT 5 and NJT 6 Zones of the standard nannofossil zonation for the Mediterranean Province were identified in both the Sogno and Gajum Cores. Our findings allow an implementation of the reference biozonation with the separation of the NJT 6a and NJT 6b Subzones, and age revision of some secondary events. The zonation established for the Lusitanian Basin (Portugal) is only partially reproducible in the Lombardy Basin, confirming nannoplankton paleoprovincialism during the Early Jurassic requiring different zonal schemes in various areas. Nevertheless, we underline that the T-OAE is unambiguously constrained by the FO of &lt;em&gt;C. superbus crassus&lt;/em&gt; and the LO of &lt;em&gt;M. jansae&lt;/em&gt; at supra-regional scale.&lt;/p&gt;</description>
+			
+							<dc:creator>STEFANO VISENTIN</dc:creator>
+							<dc:creator>ELISABETTA ERBA</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 STEFANO  VISENTIN, ELISABETTA  ERBA
+				http://creativecommons.org/licenses/by-nc-nd/4.0
+			</dc:rights>
+							<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0" />
+			
+							<dc:date>2021-09-09</dc:date>
+				<prism:publicationDate>2021-09-09</prism:publicationDate>
+						<prism:volume>127</prism:volume>			<prism:number>3</prism:number>
+			
+							<prism:doi>10.13130/2039-4942/16313</prism:doi>
+					</item>
+					<item rdf:about="https://riviste.unimi.it/index.php/RIPS/article/view/16364">
+
+						<title>USING HIGH-RESOLUTION AMMONITE BIOCHRONOSTRATIGRAPHY TO DATE VOLCANOGENIC DEPOSITS PRESERVED IN MIDDLE JURASSIC CARBONATE PLATFORMS SUCCESSIONS OF THE WESTERNMOST TETHYS (SOUTHEASTERN IBERIAN RANGE, SPAIN)</title>
+			<link>https://riviste.unimi.it/index.php/RIPS/article/view/16364</link>
+
+										<description>&lt;p&gt;The Middle Jurassic successions that are currently exposed in eastern Spain (southeastern Iberian Range) were deposited in a system of shallow carbonate platforms, constituting the western margin of the Alpine Ocean, and display a series of successively interbedded volcaniclastic rocks and minor lava flows. The large-scale mapping reveals that Middle Jurassic volcanic rocks crop out along NW‒SE pathways, highlighting the importance of the role played by tectonics in controlling the spatial distribution of volcanic outcrops. The progressive dismemberment of Pangea impelled a geographic provinciality increase and, thus, might have contributed to a growing speciation rate of marine invertebrate organisms, notably ammonites. The present study provides new data constraining in detail the age of the Middle Jurassic volcanic deposits. The biochronostratigraphic calibrations of the sedimentary host rocks encasing the volcanics have been obtained from the study of the fossil content (mainly ammonites) from16 well-exposed stratigraphic sections. The study of the fossils from these sections has enabled the identification of three volcanic episodes during the Murchisonae Zone (Aalenian), the Concavum‒Discites zonal boundary (Aalenian-Bajocian), and the late Laeviuscula Zone or Laeviuscula‒Propinquans zonal boundary (Bajocian). Precise age constraints for volcanic accumulations can be a significant contribution in reconstructing the geodynamic history of the Iberian Basin.&lt;/p&gt;</description>
+			
+							<dc:creator>JOSÉ EMILIO CORTÉS</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 JOSÉ EMILIO  CORTÉS
+				http://creativecommons.org/licenses/by-nc-nd/4.0
+			</dc:rights>
+							<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0" />
+			
+							<dc:date>2021-09-14</dc:date>
+				<prism:publicationDate>2021-09-14</prism:publicationDate>
+						<prism:volume>127</prism:volume>			<prism:number>3</prism:number>
+			
+							<prism:doi>10.13130/2039-4942/16364</prism:doi>
+					</item>
+					<item rdf:about="https://riviste.unimi.it/index.php/RIPS/article/view/16421">
+
+						<title>&lt;em&gt;KRUMVIRICHTHYS BRZOBOHATYI&lt;/em&gt; GEN. ET SP. NOV. – THE OLDEST RECORD OF THE DEEP-SEA SMELTS (BATHYLAGIDAE, ARGENTINIFORMES)</title>
+			<link>https://riviste.unimi.it/index.php/RIPS/article/view/16421</link>
+
+										<description>&lt;p&gt;The family Bathylagidae (deep-sea smelts) is a group of marine meso- and bathypelagic argentiniform fish with relatively poor fossil record. The described specimens from the Egerian deposits of the Krumvíř locality, named &lt;em&gt;Krumvirichthys brzobohatyi&lt;/em&gt; gen. et sp. nov. represent oldest verifiable record of the bathylagid fishes known up to date. The new genus and species is characterized by semicircular orbitosphenoid at the dorsal section of the orbit, basisphenoid developed, opercle bearing posterodorsally developed large process, opercle and subopercle posteroventrally radially grooved, preopercle with triangle-shaped process at the posteroventral margin of the bone, cleithrum with enlarged triangle-shaped posterior lamina, no postcleithra, pectoral fin with eight or nine rays and elongated up to the level of the insertion of the dorsal fin, pelvic fin with nine rays inserted just below the middle of the dorsal fin, dorsal fin with ten or eleven rays, up to eight supraneurals presented in front of dorsal fin, vertebral column consists by at least 23 + 21 vertebrae,&amp;nbsp; body covered by thin and large cycloid scales, and lateral line scales reinforced around tubular part. The combined presence of the orbitosphenoid and basisphenoid in new species particularly reminds the Recent bathylagid genera &lt;em&gt;Lipolagus&lt;/em&gt;, &lt;em&gt;Melanolagus&lt;/em&gt;, and &lt;em&gt;Bathylagichthys&lt;/em&gt;.&lt;/p&gt;</description>
+			
+							<dc:creator>TOMÁŠ PŘIKRYL</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 TOMÁŠ  PŘIKRYL
+				http://creativecommons.org/licenses/by-nc-nd/4.0
+			</dc:rights>
+							<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0" />
+			
+							<dc:date>2021-09-21</dc:date>
+				<prism:publicationDate>2021-09-21</prism:publicationDate>
+						<prism:volume>127</prism:volume>			<prism:number>3</prism:number>
+			
+							<prism:doi>10.13130/2039-4942/16421</prism:doi>
+					</item>
+					<item rdf:about="https://riviste.unimi.it/index.php/RIPS/article/view/16440">
+
+						<title>HISTORICAL AND NOMENCLATURAL REMARKS ON SOME MEGATOOTHED SHARK TEETH (ELASMOBRANCHII, OTODONTIDAE) FROM THE CENOZOIC OF NEW JERSEY (U.S.A.) </title>
+			<link>https://riviste.unimi.it/index.php/RIPS/article/view/16440</link>
+
+										<description>&lt;p&gt;. In the second issue of Samuel Morton’s “Synopsis of the Organic Remains of the Cretaceous Group of the United States” published in June 1835, several otodontid shark teeth from Cenozoic formations of New Jersey are named with authorship of Louis Agassiz and meet the conditions of availability of the International Code of Zoological Nomenclatural. It has gone largely unnoticed that some of these names were introduced in this work before their publication in Agassiz’s masterpiece “Recherches sur les poissons fossiles”. The specimens presented by Morton were kept in the John Price Wetherill (1794-1853) collection that found its way into the paleontological collection of the Academy of Natural Sciences of Drexel University, Philadelphia, where most of them have been rediscovered. These teeth are part of the type series upon which Agassiz introduced &lt;em&gt;Lamna obliqua&lt;/em&gt; Agassiz in Morton, 1835, &lt;em&gt;Lamna lanceolata&lt;/em&gt; Agassiz in Morton, 1835, &lt;em&gt;Carcharias&lt;/em&gt; &lt;em&gt;lanceolatus&lt;/em&gt; Agassiz in Morton, 1835, &lt;em&gt;Carcharias megalotis&lt;/em&gt; Agassiz, 1835 and &lt;em&gt;Carcharias polygurus&lt;/em&gt; Agassiz in Morton, 1835, all of these species being referred to the genus &lt;em&gt;Otodus&lt;/em&gt; in the present work. In order to secure the nomenclatural stability of the Otodontidae, it is established that &lt;em&gt;Otodus lanceolatus&lt;/em&gt; is a junior synonym of &lt;em&gt;Otodus obliquus&lt;/em&gt;, that “&lt;em&gt;Carcharias&lt;/em&gt;” &lt;em&gt;lanceolatus&lt;/em&gt; belongs to the genus &lt;em&gt;Otodus&lt;/em&gt; Agassiz, 1838 and is invalid as a junior secondary homonym of &lt;em&gt;Otodus lanceolatus&lt;/em&gt;, that &lt;em&gt;Otodus megalotis&lt;/em&gt; is a junior synonym of &lt;em&gt;Otodus auriculatus&lt;/em&gt; (Blainville, 1818), and that &lt;em&gt;Otodus polygurus &lt;/em&gt;(&lt;em&gt;Otodus polygyrus&lt;/em&gt; being an incorrect subsequent spelling) is a junior synonym of &lt;em&gt;Otodus megalodon&lt;/em&gt; (Agassiz, 1835). Furthermore, it is shown that the date of publication of &lt;em&gt;Otodus obliquus&lt;/em&gt; (Agassiz in Morton, 1835) is 1835 and not 1838 as previously thought.&lt;/p&gt;</description>
+			
+							<dc:creator>ARNAUD BRIGNON</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 ARNAUD  BRIGNON
+				http://creativecommons.org/licenses/by-nc-nd/4.0
+			</dc:rights>
+							<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0" />
+			
+							<dc:date>2021-09-22</dc:date>
+				<prism:publicationDate>2021-09-22</prism:publicationDate>
+						<prism:volume>127</prism:volume>			<prism:number>3</prism:number>
+			
+							<prism:doi>10.13130/2039-4942/16440</prism:doi>
+					</item>
+					<item rdf:about="https://riviste.unimi.it/index.php/RIPS/article/view/16620">
+
+						<title>LAKE PANNON TRANSGRESSION ON THE WESTERNMOST TIP OF THE CARPATHIANS CONSTRAINED BY BIOSTRATIGRAPHY AND AUTHIGENIC 10BE/9BE DATING (CENTRAL EUROPE)</title>
+			<link>https://riviste.unimi.it/index.php/RIPS/article/view/16620</link>
+
+										<description>&lt;p&gt;The depocenters of epicontinental basins usually comprise relatively continuous depositional records, and these can be used in the determination of sediment routing and paleogeographic changes via a set of various geophysical, sedimentological, biostratigraphic and geochronological approaches. Although the margins of such basins will have a major role as constraints for that sediment routing, their depositional records are typically scarce and incomplete, posing a common challenge in terms of gaining information about them. The present study focuses on the upper Miocene succession present in the Malé Karpaty Mts., a pre-Cenozoic horst dividing the Vienna and Danube basins (Central Europe). The data gained by facies analysis, biostratigraphy, shallow seismic survey, authigenic 10Be/9Be dating and correlation of archival borehole profiles reveals, that the succession under consideration represents a record of the Lake Pannon transgression, which appeared in the study area at ~10.9–10.6 Ma. The subaerially exposed granitic massif and Middle Miocene successions sourced a shoal water delta, which intercalated with wave-induced dunes and open lacustrine muds in brackish sublittoral to marginal littoral environments. The granitic massif was probably also exposed later, during the regression of Lake Pannon at ~10.2–10.0 Ma, as a result of the progradation of the paleo-Danube delta from the Vienna Basin southeastwards. The depositional record of the regressive sequence was documented and dated in well-cores from the nearby Danube Basin margin. The documented scenario of transgression preceding the overall regression of the paleo-Danube delta system by a relatively short period is characteristic of several other localities across the Pannonian Basin System, and may imply that the progradation of depositional system caused a base-level rise on account of sediment loading-induced subsidence.&lt;/p&gt;</description>
+			
+							<dc:creator>MICHAL ŠUJAN</dc:creator>
+							<dc:creator>RÉGIS BRAUCHER</dc:creator>
+							<dc:creator>OLEG MANDIC</dc:creator>
+							<dc:creator>KLEMENT FORDINÁL</dc:creator>
+							<dc:creator>BIBIANA BRIXOVÁ</dc:creator>
+							<dc:creator>RADOVAN KYŠKA PIPÍK</dc:creator>
+							<dc:creator>VLADIMÍR ŠIMO</dc:creator>
+							<dc:creator>MICHAL JAMRICH</dc:creator>
+							<dc:creator>SAMUEL RYBÁR</dc:creator>
+							<dc:creator>TOMÁŠ KLUČIAR</dc:creator>
+							<dc:creator>ASTER TEAM</dc:creator>
+							<dc:creator>ANDREJ RUMAN</dc:creator>
+							<dc:creator>IVAN ZVARA</dc:creator>
+							<dc:creator>MICHAL KOVÁČ</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 MICHAL  ŠUJAN, RÉGIS  BRAUCHER, OLEG  MANDIC, KLEMENT  FORDINÁL, BIBIANA  BRIXOVÁ, RADOVAN  KYŠKA PIPÍK, VLADIMÍR  ŠIMO, MICHAL  JAMRICH, SAMUEL  RYBÁR, TOMÁŠ  KLUČIAR, ASTER TEAM, ANDREJ  RUMAN, IVAN  ZVARA, MICHAL  KOVÁČ
+				http://creativecommons.org/licenses/by-nc-nd/4.0
+			</dc:rights>
+							<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0" />
+			
+							<dc:date>2021-10-15</dc:date>
+				<prism:publicationDate>2021-10-15</prism:publicationDate>
+						<prism:volume>127</prism:volume>			<prism:number>3</prism:number>
+			
+							<prism:doi>10.13130/2039-4942/16620</prism:doi>
+					</item>
+					<item rdf:about="https://riviste.unimi.it/index.php/RIPS/article/view/16697">
+
+						<title>PALYNOLOGY OF THE PERMIAN OF THE MAKHTESH QATAN-2, RAMON-1 AND BOQER-1 BOREHOLES ARQOV FORMATION, NEGEV, ISRAEL</title>
+			<link>https://riviste.unimi.it/index.php/RIPS/article/view/16697</link>
+
+										<description>&lt;p&gt;Palynological assemblages from cores 11 to 14 of Makhtesh Qatan-2, core 3 of Ramon-1 and core 3 of Boqer-1 boreholes from the Arqov Formation of the subsurface of the Negev, southern Israel, suggest that at least part of the Arqov Formation can be characterised by &lt;em&gt;Cedripites priscus, Reduviasporonites chalastus &lt;/em&gt;and particularly&lt;em&gt; Pretricolpipollenites bharadwajii, &lt;/em&gt;while the Saad Formation contains a slightly less diverse assemblage lacking the three taxa above. Palynological evidence is broadly consistent with other palaeontological evidence suggesting that the Saad Formation is in part likely to be Wuchiapingian in age, and the Arqov Formation is at least in part Changhsingian. These conclusions are tentative because core data is restricted to very few well penetrations and a total lack of surface exposure of the Permian.&lt;/p&gt;</description>
+			
+							<dc:creator>MICHAEL H. STEPHENSON</dc:creator>
+							<dc:creator>DORIT KORNGREEN</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 MICHAEL  H. STEPHENSON, DORIT  KORNGREEN
+				http://creativecommons.org/licenses/by-nc-nd/4.0
+			</dc:rights>
+							<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0" />
+			
+							<dc:date>2021-11-04</dc:date>
+				<prism:publicationDate>2021-11-04</prism:publicationDate>
+						<prism:volume>127</prism:volume>			<prism:number>3</prism:number>
+			
+							<prism:doi>10.13130/2039-4942/16697</prism:doi>
+					</item>
+					<item rdf:about="https://riviste.unimi.it/index.php/RIPS/article/view/16717">
+
+						<title>RHAETIAN FORAMINIFERS FROM THE WESTERN BLACK SEA SHELF: NEW EVIDENCE FOR HETEROZOAN CARBONATE FACTORIES IN THE PALAEOTETHYS</title>
+			<link>https://riviste.unimi.it/index.php/RIPS/article/view/16717</link>
+
+										<description>&lt;p&gt;The North Dobrogean Orogen (NDO) is a NW-SE trending fold-and-thrust belt in the eastern foreland of the Alpine Carpathian Orogen, palaeogeographically representing the westernmost segment of the Palaeotethys-issued Cimmeride Orogenic System. Eastwards, the NDO structurally extends into the Romanian sector of the western Black Sea continental shelf. The Triassic development of North Dobrogea is well known for its Tethyan-type facies and richness in various groups of fossils, but little attention has been paid to microfacies and fossil content of the offshore Triassic. The drill hole 817 LV of the Lebăda Vest oilfield, offshore Romania, ends in the Rhaetian (Upper Triassic) limestone olistolith, from which a rich association of foraminifers and ostracods was recovered. The limestone also contains sponge spicules, mollusc fragments, echinoderm ossicles, bryozoans, and brachiopods. Foraminiferal assemblage from the residue consists of agglutinated species only. Tolypamminids, &lt;em&gt;Gaudryinopsis triadica&lt;/em&gt; (Kristan-Tollmann), &lt;em&gt;G. triassica&lt;/em&gt; (Trifonova), &lt;em&gt;G. kelleri&lt;/em&gt; (Tappan), &lt;em&gt;Ammobaculites tzankovi&lt;/em&gt; (Trifonova), &lt;em&gt;A. zlambachensis&lt;/em&gt; Kristan-Tollmann, &lt;em&gt;Verneuilinoides racema&lt;/em&gt; (Trifonova), and &lt;em&gt;Trochammina&lt;/em&gt; spp. predominate. Non-agglutinated species, determined from thin sections include &lt;em&gt;Ophthalmidium&lt;/em&gt; spp., and rare involutinids &lt;em&gt;Trocholina&lt;/em&gt; ex gr. &lt;em&gt;intermedia/umbo&lt;/em&gt; and “&lt;em&gt;Involutina turgida&lt;/em&gt;” (&lt;em&gt;Involutina&lt;/em&gt; ex gr. &lt;em&gt;liassica&lt;/em&gt;). The rich ostracod assemblage is dominated by Bairdiidae. Species of the Paracyprididae and Sigilliidae families are rather common. The conodont &lt;em&gt;Norigondolella steinbergensis&lt;/em&gt; (Mosher) was also found. The deposition is suggested to take place in a relatively deep setting (outer shelf) offshore heterozoan-dominated platform in relatively cool waters. &lt;/p&gt;</description>
+			
+							<dc:creator>LIDIJA KORAT</dc:creator>
+							<dc:creator>MARIE-BÉATRICE FOREL</dc:creator>
+							<dc:creator>TEA KOLAR-JURKOVŠEK</dc:creator>
+							<dc:creator>EUGEN GRĂDINARU</dc:creator>
+							<dc:creator>LUKA GALE</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 LUKA  GALE, EUGEN  GRĂDINARU, TEA  KOLAR-JURKOVŠEK, MARIE-BÉATRICE  FOREL, LIDIJA  KORAT
+				http://creativecommons.org/licenses/by-nc-nd/4.0
+			</dc:rights>
+							<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0" />
+			
+							<dc:date>2021-11-10</dc:date>
+				<prism:publicationDate>2021-11-10</prism:publicationDate>
+						<prism:volume>127</prism:volume>			<prism:number>3</prism:number>
+			
+							<prism:doi>10.13130/2039-4942/16717</prism:doi>
+					</item>
+					<item rdf:about="https://riviste.unimi.it/index.php/RIPS/article/view/16731">
+
+						<title>A NEW COELACANTH SPECIMEN WITH ELONGATE RIBS FROM THE MIDDLE TRIASSIC (LADINIAN) KALKSCHIEFERZONE OF MONTE SAN GIORGIO (CANTON TICINO, SWITZERLAND)</title>
+			<link>https://riviste.unimi.it/index.php/RIPS/article/view/16731</link>
+
+										<description>&lt;p&gt;A new finding of a coelacanth from the upper Ladinian upper Kalkschieferzone of the Meride Limestone Formation of Monte San Giorgio (UNESCO World Heritage area) is described. It represents the first known coelacanth from the Middle Triassic that undoubtedly bears elongate thin ribs. The incompleteness of the specimen prevents a reliable taxonomic assignment or the erection of a new species, however some characters, mainly scale morphology, are very similar to those of the holotype of &lt;em&gt;Heptanema paradoxum&lt;/em&gt; Bellotti, 1857 from the roughly coeval Perledo Formation of Northern Italy. Elongate ribs are not reported in original descriptions of &lt;em&gt;H. paradoxum&lt;/em&gt;, however small portion of ribs are visible among the scales of the holotype. Accordingly, the new specimen is tentatively ascribed to &lt;em&gt;Heptanema&lt;/em&gt; as &lt;em&gt;Heptanema&lt;/em&gt; cf &lt;em&gt;H.&lt;/em&gt; &lt;em&gt;paradoxum&lt;/em&gt;.&lt;/p&gt;</description>
+			
+							<dc:creator>SILVIO RENESTO</dc:creator>
+							<dc:creator>FABIO MAGNANI</dc:creator>
+							<dc:creator>RUDOLF STOCKAR</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 SILVIO  RENESTO, FABIO  MAGNANI, RUDOLF  STOCKAR
+				http://creativecommons.org/licenses/by-nc-nd/4.0
+			</dc:rights>
+							<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0" />
+			
+							<dc:date>2021-11-10</dc:date>
+				<prism:publicationDate>2021-11-10</prism:publicationDate>
+						<prism:volume>127</prism:volume>			<prism:number>3</prism:number>
+			
+							<prism:doi>10.13130/2039-4942/16731</prism:doi>
+					</item>
+	</rdf:RDF>

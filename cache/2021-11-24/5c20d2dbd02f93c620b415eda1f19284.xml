@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+	xmlns:cc="http://web.resource.org/cc/">
+
+	<channel rdf:about="https://www.biotaxa.org/Phytotaxa">
+				<title>Phytotaxa</title>
+		<link>https://www.biotaxa.org/Phytotaxa</link>
+
+							
+		<description>&lt;div style=&quot;margin-bottom: 0cm;&quot;&gt;&lt;span style=&quot;color: #5c8526;&quot;&gt;&lt;span&gt;&lt;strong&gt;&lt;span style=&quot;color: #5c8526;&quot;&gt;World&#039;s foremost journal of botanical systematics and biodiversity (plants, algae and fungi)&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/div&gt;</description>
+
+									<dc:publisher>Magnolia Press</dc:publisher>
+		
+					<dc:language>en-US</dc:language>
+		
+		<prism:publicationName>Phytotaxa</prism:publicationName>
+
+							
+					<prism:issn>1179-3155</prism:issn>
+		
+					<prism:copyright>&lt;span lang=&quot;EN-GB&quot;&gt;Authors need to complete and return an &lt;/span&gt;&lt;span lang=&quot;EN-GB&quot;&gt;&lt;a href=&quot;http://www.mapress.com/phytotaxa/images/copyright.rtf&quot;&gt;Assignment of Copyright&lt;/a&gt; &lt;/span&gt;&lt;span lang=&quot;EN-GB&quot;&gt;form when a paper is accepted for publication. Authors from institutions that do not allow transfer of copyrights to publishers (e.g. government institutions such as USDA, CSIRO) should attach a copyright waiver or similar document.&lt;/span&gt;</prism:copyright>
+		
+		<items>
+			<rdf:Seq>
+												<rdf:li rdf:resource="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.526.1.1"/>
+										</rdf:Seq>
+		</items>
+	</channel>
+
+					<item rdf:about="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.526.1.1">
+
+						<title>&lt;p&gt;&lt;strong&gt;The Lycopodiaceae of Panamá&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.526.1.1</link>
+
+										<description>&lt;p&gt;The present paper provides keys to the genera and species of Lycopodiaceae for 6 genera and 40 species recorded from Panamá. The treatment includes nomenclature, descriptions of species and information about distribution and habitats, and notes on problems of species delimitation and infraspecific variation. All species are illustrated, and representative specimens are cited.&lt;/p&gt;</description>
+			
+							<dc:creator>BENJAMIN ØLLGAARD</dc:creator>
+							<dc:creator>WESTON TESTO</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Phytotaxa
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-11-24</dc:date>
+				<prism:publicationDate>2021-11-24</prism:publicationDate>
+						<prism:volume>526</prism:volume>			<prism:number>1</prism:number>
+												<prism:startingPage>1</prism:startingPage>
+													<prism:endingPage>66</prism:endingPage>
+							
+							<prism:doi>10.11646/phytotaxa.526.1.1</prism:doi>
+					</item>
+	</rdf:RDF>

@@ -1,10 +1,13 @@
 {
     "https://www.jstage.jst.go.jp/AF05S010NewRssDld?btnaction=JT0040&sryCd=asjaa&rssLang=en": {},
     "https://www.cambridge.org/core/rss/product/id/2DD17A42E6E59026C256A7EBBDB96645": {},
-    "https://api.ingentaconnect.com/content/pemberley/emm/latest?format=rss": {},
+    "https://api.ingentaconnect.com/content/pemberley/emm/latest?format=rss": {
+        "etag": "\"486a-5d18417b8244b\"",
+        "modified": "Wed, 24 Nov 2021 07:49:07 GMT"
+    },
     "https://rss.sciencedirect.com/publication/science/10557903": {
-        "etag": "W/\"645001f63256b673f6e8a8449ba3e011\"",
-        "modified": "Tue, 23 Nov 2021 09:14:55 GMT"
+        "etag": "W/\"1ae64ad6f77ea98c3bf75e13767103b3\"",
+        "modified": "Wed, 24 Nov 2021 09:14:50 GMT"
     },
     "https://phytokeys.pensoft.net/rss.php": {},
     "https://www.biotaxa.org/Phytotaxa/gateway/plugin/WebFeedGatewayPlugin/rss": {},
@@ -13,7 +16,7 @@
         "modified": "Sat, 06 Nov 2021 02:11:48 GMT"
     },
     "https://onlinelibrary.wiley.com/feed/19968175/most-recent": {
-        "modified": "Tue, 23 Nov 2021 08:58:07 GMT"
+        "modified": "Wed, 24 Nov 2021 11:44:41 GMT"
     },
     "https://www.mapress.com/zt/gateway/plugin/WebFeedGatewayPlugin/rss": {},
     "http://zoobank.org/rss/rss.xml": {
@@ -24,5 +27,19 @@
     "https://api.ingentaconnect.com/content/mtax/mt/latest?format=rss": {
         "etag": "\"85ff-5d05382b3f391\"",
         "modified": "Tue, 09 Nov 2021 04:26:17 GMT"
-    }
+    },
+    "https://riviste.unimi.it/index.php/RIPS/gateway/plugin/WebFeedGatewayPlugin/rss": {},
+    "https://www.contributions-to-entomology.org/gateway/plugin/WebFeedGatewayPlugin/atom": {},
+    "https://navi.cnki.net/knavi/rss/yzlq": {},
+    "https://www.tandfonline.com/feed/rss/nnfe20": {
+        "modified": "Mon, 15 Nov 2021 10:40:37 GMT"
+    },
+    "https://academic.oup.com/rss/site_5579/3435.xml": {
+        "etag": "\"84c124f463b1d71:0\"",
+        "modified": "Fri, 24 Sep 2021 16:48:08 GMT"
+    },
+    "https://threatenedtaxa.org/index.php/JoTT/gateway/plugin/WebFeedGatewayPlugin/rss": {},
+    "https://www.microbiologyresearch.org/rss/content/journal/ijsem/latestarticles?fmt=rss": {},
+    "http://et-online.nu/index.php/contents/gateway/plugin/WebFeedGatewayPlugin/atoms": {},
+    "http://et-online.nu/index.php/contents/gateway/plugin/WebFeedGatewayPlugin/atom": {}
 }

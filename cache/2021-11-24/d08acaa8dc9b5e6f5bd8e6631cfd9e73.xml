@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+	xmlns:cc="http://web.resource.org/cc/">
+
+	<channel rdf:about="https://www.mapress.com/zt">
+				<title>Zootaxa</title>
+		<link>https://www.mapress.com/zt</link>
+
+							
+		<description>&lt;p&gt;&lt;strong&gt;Zootaxa&lt;/strong&gt; is a mega-journal for zoological taxonomists in the world&lt;/p&gt;</description>
+
+									<dc:publisher>Mangolia Press</dc:publisher>
+		
+					<dc:language>en-US</dc:language>
+		
+		<prism:publicationName>Zootaxa</prism:publicationName>
+
+							
+					<prism:issn>1175-5326</prism:issn>
+		
+		
+		<items>
+			<rdf:Seq>
+												<rdf:li rdf:resource="https://www.mapress.com/zt/article/view/zootaxa.5071.3.1"/>
+									<rdf:li rdf:resource="https://www.mapress.com/zt/article/view/zootaxa.5071.3.2"/>
+									<rdf:li rdf:resource="https://www.mapress.com/zt/article/view/zootaxa.5071.3.3"/>
+									<rdf:li rdf:resource="https://www.mapress.com/zt/article/view/zootaxa.5071.3.4"/>
+									<rdf:li rdf:resource="https://www.mapress.com/zt/article/view/zootaxa.5071.3.5"/>
+									<rdf:li rdf:resource="https://www.mapress.com/zt/article/view/zootaxa.5071.3.6"/>
+									<rdf:li rdf:resource="https://www.mapress.com/zt/article/view/zootaxa.5071.3.7"/>
+									<rdf:li rdf:resource="https://www.mapress.com/zt/article/view/zootaxa.5071.3.8"/>
+									<rdf:li rdf:resource="https://www.mapress.com/zt/article/view/zootaxa.5071.3.9"/>
+																<rdf:li rdf:resource="https://www.mapress.com/zt/article/view/zootaxa.5071.3.10"/>
+										</rdf:Seq>
+		</items>
+	</channel>
+
+					<item rdf:about="https://www.mapress.com/zt/article/view/zootaxa.5071.3.1">
+
+						<title>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Cormocephalus&lt;/em&gt; (&lt;em&gt;Cormocephalus&lt;/em&gt;) &lt;em&gt;guildingii&lt;/em&gt; Newport, 1845 (Chilopoda: Scolopendromorpha): a composite description,&lt;/strong&gt; &lt;strong&gt;new samples from Western Mexico and a new species subgroup of Neotropical &lt;em&gt;Cormocephalus&lt;/em&gt; (&lt;em&gt;Cormocephalus&lt;/em&gt;)&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.mapress.com/zt/article/view/zootaxa.5071.3.1</link>
+
+										<description>&lt;p&gt;&lt;em&gt;Cormocephalus &lt;/em&gt;(&lt;em&gt;C.&lt;/em&gt;) &lt;em&gt;guildingii&lt;/em&gt; Newport, 1845—one of the oldest names in this genus—is described in detail for the first time, based on material from Western Mexico, Jamaica and the Dominican Republic; the range of this species is much expanded. Synonymy of &lt;em&gt;C. impressus &lt;/em&gt;Porat, 1876 under &lt;em&gt;C. guildingii&lt;/em&gt; is analyzed and confirmed. Relations between the latter and both &lt;em&gt;C. ungulatus &lt;/em&gt;(Meinert, 1886) and &lt;em&gt;C.&lt;/em&gt; &lt;em&gt;andinus&lt;/em&gt; (Kraepelin, 1903) are analysed in detail. Both &lt;em&gt;C. mundus&lt;/em&gt; Chamberlin, 1955 and &lt;em&gt;C.&lt;/em&gt; (&lt;em&gt;Cupipes&lt;/em&gt;)&lt;em&gt; tingonus&lt;/em&gt; Chamberlin, 1957 are junior synonyms of &lt;em&gt;C. ungulatus &lt;/em&gt;(Meinert, 1886). &lt;em&gt;Cormocephalus mediosulcatus&lt;/em&gt; Attems, 1928 is suggested to be transferred to the genus &lt;em&gt;Scolopendropsis&lt;/em&gt; as &lt;em&gt;S&lt;/em&gt;. &lt;em&gt;thayeri &lt;/em&gt;(Meinert, 1886) &lt;strong&gt;syn. nov&lt;/strong&gt;. A new subclade (designated as the “&lt;em&gt;guildingii&lt;/em&gt;-subgroup”) is established within the Neotropical clade of the genus &lt;em&gt;Cormocephalus&lt;/em&gt;. It includes most Neotropical representatives of the &lt;em&gt;gervaisianus&lt;/em&gt; species-group (sensu Schileyko &amp;amp; Stagl 2004) united by nine diagnostic synapomorphies. Relations within the new subclade are analysed and its diagnosis is given.&lt;/p&gt; &lt;p&gt;&lt;sup&gt;&amp;nbsp;&lt;/sup&gt;&lt;/p&gt;</description>
+			
+							<dc:creator>ARKADY A. SCHILEYKO</dc:creator>
+							<dc:creator>FABIO G. CUPUL-MAGAÑA</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-11-24</dc:date>
+				<prism:publicationDate>2021-11-24</prism:publicationDate>
+						<prism:volume>5071</prism:volume>			<prism:number>3</prism:number>
+												<prism:startingPage>301</prism:startingPage>
+													<prism:endingPage>325</prism:endingPage>
+							
+							<prism:doi>10.11646/zootaxa.5071.3.1</prism:doi>
+					</item>
+					<item rdf:about="https://www.mapress.com/zt/article/view/zootaxa.5071.3.2">
+
+						<title>&lt;p&gt;&lt;strong&gt;The Mediterranean species of genus &lt;em&gt;Loxosceles&lt;/em&gt; Heineken &amp;amp; Lowe, 1832 (Araneae: Sicariidae): &lt;em&gt;Loxosceles&lt;/em&gt; &lt;em&gt;imazighen&lt;/em&gt; sp. n. from Morocco and first description of the female of &lt;em&gt;L. mrazig&lt;/em&gt; Ribera &amp;amp; Planas, 2009 from Tunisia&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.mapress.com/zt/article/view/zootaxa.5071.3.2</link>
+
+										<description>&lt;p&gt;The aim of this paper is to describe a new species of the genus &lt;em&gt;Loxosceles&lt;/em&gt; Heineken &amp;amp; Lowe, 1832 from Morocco, &lt;em&gt;Loxosceles imazighen&lt;/em&gt; &lt;strong&gt;sp. n.&lt;/strong&gt;, and to describe for the first time a female of &lt;em&gt;Loxoxceles mrazig&lt;/em&gt; Ribera &amp;amp; Planas, 2009 from Tunisia. Both species live in xeric and desert environments and are located in southern Atlas Range. Molecular phylogenetic analyses, using mitochondrial (&lt;em&gt;cox1&lt;/em&gt;, 16S) and nuclear (H3, 28S) markers, revel that these species are closely related and that they constitute a separate evolutionary lineage of &lt;em&gt;L. rufescens&lt;/em&gt; (Dufour, 1820) and of the set of endemic species of the Canary Islands. &lt;em&gt;L.&lt;/em&gt; &lt;em&gt;imazighen&lt;/em&gt; &lt;strong&gt;sp. n.&lt;/strong&gt; differs from &lt;em&gt;L. mrazig&lt;/em&gt;, the closest species morphologically and geographically, in the shapes and proportions of the male palpal tibia and the shapes and dispositions of the female seminal receptacles. In addition, &lt;em&gt;L. mrazig&lt;/em&gt; females show morphological variability in their genitalia, mainly in the inner and outer lobes. Although that variability cannot be associated with different populations, since it also appears within individual populations, and is not related to genetic or geographic distances.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			
+							<dc:creator>MARC MASSA</dc:creator>
+							<dc:creator>CARLES RIBERA</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-11-24</dc:date>
+				<prism:publicationDate>2021-11-24</prism:publicationDate>
+						<prism:volume>5071</prism:volume>			<prism:number>3</prism:number>
+												<prism:startingPage>326</prism:startingPage>
+													<prism:endingPage>348</prism:endingPage>
+							
+							<prism:doi>10.11646/zootaxa.5071.3.2</prism:doi>
+					</item>
+					<item rdf:about="https://www.mapress.com/zt/article/view/zootaxa.5071.3.3">
+
+						<title>&lt;p&gt;&lt;strong&gt;A taxonomic review of the genus &lt;em&gt;Amicta&lt;/em&gt; Heylaerts, 1881 in North Africa, Near and Middle East (Lepidoptera, Psychidae, Oiketicinae, Acanthopsychini)&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.mapress.com/zt/article/view/zootaxa.5071.3.3</link>
+
+										<description>&lt;p&gt;The genus &lt;em&gt;Amicta&lt;/em&gt; Heylaerts, 1881 is revised on the basis of morphological and molecular studies. It is shown that, in addition to the already known taxa, there are three others that had previously remained unknown and are therefore described here as &lt;em&gt;Amicta lutensis&lt;/em&gt; &lt;strong&gt;sp. nov.&lt;/strong&gt;, &lt;em&gt;Amicta bouhedmaensis&lt;/em&gt; &lt;strong&gt;sp. nov.&lt;/strong&gt; and &lt;em&gt;Amicta chambiana&lt;/em&gt; &lt;strong&gt;sp. nov.&lt;/strong&gt; Furthermore, the status of three more taxa is discussed and all three are raised to species rank: &lt;em&gt;Amicta nigrescens&lt;/em&gt; Staudinger, 1900 &lt;strong&gt;stat. rev.&lt;/strong&gt;, &lt;em&gt;Amicta acutella &lt;/em&gt;Krüger, 1931 &lt;strong&gt;stat. rev.&lt;/strong&gt; and &lt;em&gt;Amicta arabica&lt;/em&gt; (Wiltshire, 1949) &lt;strong&gt;stat. rev.&lt;/strong&gt; It has also been shown that the genus &lt;em&gt;Hyalopteronia&lt;/em&gt; Solyanikov, 2002&lt;strong&gt; syn. nov.&lt;/strong&gt; is synonymous with &lt;em&gt;Amicta&lt;/em&gt; Heylaerts, 1881. The type species &lt;em&gt;Hyalopteronia davarica&lt;/em&gt; Solyanikov, 2002 is recombined and placed with &lt;em&gt;Amicta&lt;/em&gt;: &lt;em&gt;Amicta davarica&lt;/em&gt; (Solyanikov, 2002) &lt;strong&gt;comb. nov.&lt;/strong&gt;, and &lt;em&gt;Amicta syrtana&lt;/em&gt; Krüger, 1939 &lt;strong&gt;syn. nov.&lt;/strong&gt; regarded as junior synonym of &lt;em&gt;A. murina&lt;/em&gt; Krüger 1939. The results of this study give an overview of the systematics and distribution of the genus &lt;em&gt;Amicta &lt;/em&gt;(with the exception of the species from the Canary Islands).&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			
+							<dc:creator>WILFRIED R. ARNSCHEID</dc:creator>
+							<dc:creator>HOSSEIN RAJAEI</dc:creator>
+							<dc:creator>THOMAS SOBCZYK</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-11-24</dc:date>
+				<prism:publicationDate>2021-11-24</prism:publicationDate>
+						<prism:volume>5071</prism:volume>			<prism:number>3</prism:number>
+												<prism:startingPage>349</prism:startingPage>
+													<prism:endingPage>368</prism:endingPage>
+							
+							<prism:doi>10.11646/zootaxa.5071.3.3</prism:doi>
+					</item>
+					<item rdf:about="https://www.mapress.com/zt/article/view/zootaxa.5071.3.4">
+
+						<title>&lt;p&gt;&lt;strong&gt;A new phosphatized ophiuroid from the lower Triassic of Nevada and its position in the evolutionary history of the Ophiuroidea (Echinodermata)&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.mapress.com/zt/article/view/zootaxa.5071.3.4</link>
+
+										<description>&lt;p&gt;The Lower Triassic fossil record of brittle stars is relatively rich, yet most records published to date are based on poorly preserved or insufficiently known fossils. This hampers exhaustive morphological analyses, comparison with recent relatives or inclusion of Early Triassic ophiuroid taxa in phylogenetic estimates. Here, we describe a new ophiuroid from the Lower Triassic of Nevada, preserved as phosphatized skeletal parts and assigned to the new taxon &lt;em&gt;Ophiosuperstes praeparvus &lt;/em&gt;gen. et sp. nov Maxwell, V. &amp;amp; Pruss. S.B. This unusual preservation of the fossils allowed for acid-extraction of an entire suite of dissociated skeletal parts, including lateral arm plates, ventral arm plates, vertebrae and various disk plates, thus unlocking sufficient morphological information to explore the phylogenetic position of the new taxon. Bayesian phylogenetic inference suggests a basalmost position of &lt;em&gt;O. praeparvus&lt;/em&gt; within the Ophintegrida, sister to all other sampled members of that superorder. The existence of coeval but more derived ophiuroids suggests that &lt;em&gt;O. praeparvus&lt;/em&gt; probably represents a member of a more ancient stem ophintegrid group persisting into the Early Triassic.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			
+							<dc:creator>BEN THUY</dc:creator>
+							<dc:creator>VIVIENNE MAXWELL</dc:creator>
+							<dc:creator>SARA B. PRUSS</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-11-24</dc:date>
+				<prism:publicationDate>2021-11-24</prism:publicationDate>
+						<prism:volume>5071</prism:volume>			<prism:number>3</prism:number>
+												<prism:startingPage>369</prism:startingPage>
+													<prism:endingPage>383</prism:endingPage>
+							
+							<prism:doi>10.11646/zootaxa.5071.3.4</prism:doi>
+					</item>
+					<item rdf:about="https://www.mapress.com/zt/article/view/zootaxa.5071.3.5">
+
+						<title>&lt;p&gt;&lt;strong&gt;Two new species of &lt;em&gt;Pyrgulopsis&lt;/em&gt; Call &amp;amp; Pilsbry, 1886 (Mollusca: Caenogastropoda: Hydrobiidae) from springs in the Rio Grande watershed in Texas&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.mapress.com/zt/article/view/zootaxa.5071.3.5</link>
+
+										<description>&lt;p&gt;&lt;em&gt;Pyrgulopsis&lt;/em&gt; Call &amp;amp; Pilsbry, 1886 is a genus of small (&amp;lt;5 mm) spring snails, usually endemic to single freshwater springs. Two new populations of &lt;em&gt;Pyrgulopsis&lt;/em&gt; found in very small, isolated springs and spring runs in the mainstem Rio Grande watershed of western Texas are distinguished from congeners. Mitochondrial and nuclear sequences, morphometrics, and morphological characteristics support &lt;em&gt;Pyrgulopsis rubra&lt;/em&gt; &lt;strong&gt;sp. nov.&lt;/strong&gt; and &lt;em&gt;Pyrgulopsis harrymilleri&lt;/em&gt; &lt;strong&gt;sp. nov.&lt;/strong&gt; as distinct from other known &lt;em&gt;Pyrgulopsis&lt;/em&gt; species, including the geographically proximate &lt;em&gt;P. metcalfi&lt;/em&gt;.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			
+							<dc:creator>KATHRYN E. PEREZ</dc:creator>
+							<dc:creator>MANUEL SPOR LEAL</dc:creator>
+							<dc:creator>HOUSTON GLOVER</dc:creator>
+							<dc:creator>REBECCA T. CHASTAIN</dc:creator>
+							<dc:creator>BENJAMIN T. HUTCHINS</dc:creator>
+							<dc:creator>BENJAMIN SCHWARTZ</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-11-24</dc:date>
+				<prism:publicationDate>2021-11-24</prism:publicationDate>
+						<prism:volume>5071</prism:volume>			<prism:number>3</prism:number>
+												<prism:startingPage>384</prism:startingPage>
+													<prism:endingPage>402</prism:endingPage>
+							
+							<prism:doi>10.11646/zootaxa.5071.3.5</prism:doi>
+					</item>
+					<item rdf:about="https://www.mapress.com/zt/article/view/zootaxa.5071.3.6">
+
+						<title>&lt;p&gt;&lt;strong&gt;First record of the interaction between the arthropod-pathogenic fungus &lt;em&gt;Gibellula&lt;/em&gt; and a new species of harvestman &lt;em&gt;Auranus&lt;/em&gt; (Stygnidae) narrowly endemic to the Brazilian rain forest &lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.mapress.com/zt/article/view/zootaxa.5071.3.6</link>
+
+										<description>&lt;p&gt;Harvestmen are one of the largest groups of arachnids with more than 6,500 species distributed in 1,500 genera and 50 families. However, the interactions between harvestmen and arthropod-pathogenic fungi have rarely been studied. Certain previous studies report that fungal attack represents one of the most important factors for the mortality of harvestmen, but the fungus has rarely been identified, and most of the important information about the fungus-host interactions remains unrecorded. In the present study, we have described the new species &lt;em&gt;Auranus quilombola&lt;/em&gt; &lt;strong&gt;sp. nov.&lt;/strong&gt; and reported its interactions with the arthropod-pathogenic fungus &lt;em&gt;Gibellula&lt;/em&gt; sp. &lt;em&gt;Auranus quilombola&lt;/em&gt; &lt;strong&gt;sp. nov.&lt;/strong&gt; belongs to the family Stygnidae, and it is endemic to the humid mountain forests of Ceará state, Brazil in an area of endemism known as &lt;em&gt;Brejos Cearenses&lt;/em&gt;. The species is related to five other species of &lt;em&gt;Auranus&lt;/em&gt;, all of which have been recorded from the Amazon rainforest. A taxonomic description of this new species and its biogeographic implications have also been discussed in this paper.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			
+							<dc:creator>GERMAN ANTONIO VILLANUEVA-BONILLA</dc:creator>
+							<dc:creator>LUIZ PAULO ARAÚJO-DA-SILVA</dc:creator>
+							<dc:creator>JOÃO VASCONCELLOS-NETO</dc:creator>
+							<dc:creator>JULLYANA CRISTINA MAGALHÃES SILVA MOURA SOBCZAK</dc:creator>
+							<dc:creator>EMILY OLIVEIRA FONSECA</dc:creator>
+							<dc:creator>FRANCISCO AGEU DE SOUSA NÓBREGA</dc:creator>
+							<dc:creator>JOEDSON CASTRO PIRES</dc:creator>
+							<dc:creator>ITALO DIEGO PAIVA ARRUDA</dc:creator>
+							<dc:creator>MARCIO BERNARDINO DASILVA</dc:creator>
+							<dc:creator>JOBER FERNANDO SOBCZAK</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-11-24</dc:date>
+				<prism:publicationDate>2021-11-24</prism:publicationDate>
+						<prism:volume>5071</prism:volume>			<prism:number>3</prism:number>
+												<prism:startingPage>403</prism:startingPage>
+													<prism:endingPage>414</prism:endingPage>
+							
+							<prism:doi>10.11646/zootaxa.5071.3.6</prism:doi>
+					</item>
+					<item rdf:about="https://www.mapress.com/zt/article/view/zootaxa.5071.3.7">
+
+						<title>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Rhodopotyphlus&lt;/em&gt; &lt;em&gt;mitovi&lt;/em&gt; gen. et sp. nov., a new endogean millipede from the Western Rhodope Mountains, Bulgaria (Diplopoda: Julida: Julidae) &lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.mapress.com/zt/article/view/zootaxa.5071.3.7</link>
+
+										<description>&lt;p&gt;A new genus and species, &lt;em&gt;Rhodopotyphlus mitovi&lt;/em&gt; &lt;strong&gt;gen. &lt;em&gt;et&lt;/em&gt; sp. nov.&lt;/strong&gt;, is described from the Western Rhodopi Mts., south-central Bulgaria. According to its morphology combined with previously published molecular data, the new species is supposed to represent a basal lineage in the julid tribe Typhloiulini. Some assumptions concerning the early evolutionary stages of the development of the mesomere—an important part of the male copulatory apparatus of many julid millipedes—are made on the basis of the outstanding gonopod conformation in the newly described taxon. &lt;em&gt;Rhodopotyphlus mitovi&lt;/em&gt;&lt;strong&gt; gen. &lt;em&gt;et&lt;/em&gt; sp. nov. &lt;/strong&gt;is likely a narrow local endemic showing preference for specific microhabitat conditions.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			
+							<dc:creator>BOYAN VAGALINSKI</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-11-24</dc:date>
+				<prism:publicationDate>2021-11-24</prism:publicationDate>
+						<prism:volume>5071</prism:volume>			<prism:number>3</prism:number>
+												<prism:startingPage>415</prism:startingPage>
+													<prism:endingPage>426</prism:endingPage>
+							
+							<prism:doi>10.11646/zootaxa.5071.3.7</prism:doi>
+					</item>
+					<item rdf:about="https://www.mapress.com/zt/article/view/zootaxa.5071.3.8">
+
+						<title>&lt;p&gt;&lt;strong&gt;Taxonomic notes on the genus &lt;em&gt;Furcaperla&lt;/em&gt; (Plecoptera: Perlidae) from China&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.mapress.com/zt/article/view/zootaxa.5071.3.8</link>
+
+										<description>&lt;p&gt;Two species of the genus &lt;em&gt;Furcaperla &lt;/em&gt;Sivec 1988 (in: Sivec &lt;em&gt;et al. &lt;/em&gt;1988), &lt;em&gt;F. bifurcata &lt;/em&gt;(Wu, 1948) and &lt;em&gt;F. jiangxiensis&lt;/em&gt; Yang &amp;amp; Yang, 1991 are illustrated and redescribed. The taxonomic relationship of &lt;em&gt;F. bifurcata&lt;/em&gt; and&lt;em&gt; F. jiangxiensis&lt;/em&gt; is discussed. An unassociated female from Guangxi Zhuang Autonomous Region, &lt;em&gt;Furcaperla&lt;/em&gt; Cn-G is described under informal designation. The first record for &lt;em&gt;F. jiangxiensis&lt;/em&gt; from Fujian Province is given.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			
+							<dc:creator>YANHUA YAN</dc:creator>
+							<dc:creator>MENGYU LI</dc:creator>
+							<dc:creator>WEIHAI LI</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-11-24</dc:date>
+				<prism:publicationDate>2021-11-24</prism:publicationDate>
+						<prism:volume>5071</prism:volume>			<prism:number>3</prism:number>
+												<prism:startingPage>427</prism:startingPage>
+													<prism:endingPage>436</prism:endingPage>
+							
+							<prism:doi>10.11646/zootaxa.5071.3.8</prism:doi>
+					</item>
+					<item rdf:about="https://www.mapress.com/zt/article/view/zootaxa.5071.3.9">
+
+						<title>&lt;p&gt;&lt;strong&gt;A new species of the genus &lt;em&gt;Tuberfemurus&lt;/em&gt; (Orthoptera: Tetrigoidea: Cladonotinae) with comments on the characters of mitochondrial genome&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.mapress.com/zt/article/view/zootaxa.5071.3.9</link>
+
+										<description>&lt;p&gt;A new species, &lt;em&gt;Tuberfemurus&lt;/em&gt; &lt;em&gt;viridulus&lt;/em&gt; &lt;strong&gt;sp. nov.&lt;/strong&gt; is described and illustrated with photographs. The new species is similar to &lt;em&gt;T.&lt;/em&gt; &lt;em&gt;torulisinotus&lt;/em&gt; Deng, 2019, but differs from the latter by broader vertex, invisible frontal costa in profile, distinctly truncate apex of hind pronotal process, and two large triangular projections on lower outer carinae of hind femur. An updated key to species of &lt;em&gt;Tuberfemurus &lt;/em&gt;is provided. Simultaneously, the complete mitochondrial genome of &lt;em&gt;Tuberfemurus&lt;/em&gt; &lt;em&gt;viridulus&lt;/em&gt; &lt;strong&gt;sp. nov.&lt;/strong&gt; is sequenced and analyzed. The total length of the assembled mitogenome is 15,060 bp with 37 typical mitochondrial genes and a non-coding region (A + T-rich region). The order and orientation of the gene arrangement pattern are identical to that of most Tetrigoidea species. All PCGs initiate with the standard start codon of ATN, except &lt;em&gt;ATP6&lt;/em&gt; with GAC and &lt;em&gt;ND1&lt;/em&gt; with TTG; and terminate with the complete stop codon (TAA/TAG) or with an incomplete T- codon. This data could provide the genome information available for Tetrigoidea and facilitate phylogenetic studies of related insects.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			
+							<dc:creator>MENG-QI WANG</dc:creator>
+							<dc:creator>YAO DENG</dc:creator>
+							<dc:creator>DE-LONG GUAN</dc:creator>
+							<dc:creator>BEN-YONG MAO</dc:creator>
+							<dc:creator>MIAO LI</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-11-24</dc:date>
+				<prism:publicationDate>2021-11-24</prism:publicationDate>
+						<prism:volume>5071</prism:volume>			<prism:number>3</prism:number>
+												<prism:startingPage>437</prism:startingPage>
+													<prism:endingPage>446</prism:endingPage>
+							
+							<prism:doi>10.11646/zootaxa.5071.3.9</prism:doi>
+					</item>
+						<item rdf:about="https://www.mapress.com/zt/article/view/zootaxa.5071.3.10">
+
+						<title>&lt;p&gt;&lt;strong&gt;Lectotypes resolve the taxonomic entanglement of the Acacia Pied Barbet &lt;/strong&gt;&lt;strong&gt;&lt;em&gt;Tricholaema&lt;/em&gt; &lt;em&gt;leucomelas&lt;/em&gt; (Piciformes: Lybiidae) and Pied Puffbird &lt;/strong&gt;&lt;strong&gt;&lt;em&gt;Notharchus tectus&lt;/em&gt; (Piciformes: Bucconidae)&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.mapress.com/zt/article/view/zootaxa.5071.3.10</link>
+
+						
+							<dc:creator>MATTHEW R. HALLEY</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-11-24</dc:date>
+				<prism:publicationDate>2021-11-24</prism:publicationDate>
+						<prism:volume>5071</prism:volume>			<prism:number>3</prism:number>
+												<prism:startingPage>447</prism:startingPage>
+													<prism:endingPage>450</prism:endingPage>
+							
+							<prism:doi>10.11646/zootaxa.5071.3.10</prism:doi>
+					</item>
+	</rdf:RDF>

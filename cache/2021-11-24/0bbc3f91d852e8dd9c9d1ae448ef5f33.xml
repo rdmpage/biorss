@@ -1,0 +1,1617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+     version="2.0">
+   <channel>
+      <title>Wiley: TAXON: Table of Contents</title>
+      <link>https://onlinelibrary.wiley.com/journal/19968175?af=R</link>
+      <description>Table of Contents for TAXON. List of articles from both the latest and EarlyView issues.</description>
+      <language>en-US</language>
+      <copyright>© International Association for Plant Taxonomy</copyright>
+      <managingEditor>wileyonlinelibrary@wiley.com (Wiley Online Library)</managingEditor>
+      <pubDate>Wed, 24 Nov 2021 11:44:14 +0000</pubDate>
+      <lastBuildDate>Wed, 24 Nov 2021 11:44:14 +0000</lastBuildDate>
+      <generator>Atypon® Literatum™</generator>
+      <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+      <ttl>10080</ttl>
+      <dc:title>Wiley: TAXON: Table of Contents</dc:title>
+      <dc:publisher>Wiley</dc:publisher>
+      <prism:publicationName>TAXON</prism:publicationName>
+      <atom:link href="https://onlinelibrary.wiley.com/journal/19968175?af=R"
+                 rel="self"
+                 type="application/atom+xml"/>
+      <image>
+         <title>Wiley: TAXON: Table of Contents</title>
+         <url>https://onlinelibrary.wiley.com/cms/asset/2cca34f1-84d6-40da-85af-85a6534a9220/default_cover.jpg</url>
+         <link>https://onlinelibrary.wiley.com/journal/19968175?af=R</link>
+      </image>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12603?af=R</link>
+         <pubDate>Sat, 13 Nov 2021 05:38:33 -0800</pubDate>
+         <dc:date>2021-11-13T05:38:33-08:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Sun, 12 Sep 2021 11:07:48 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Sun, 12 Sep 2021 11:07:48 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12603</guid>
+         <title>Notes on the genus Exostema (Rubiaceae), its limits and sectional subdivision</title>
+         <description>TAXON, EarlyView. </description>
+         <dc:description>
+Abstract
+Based on recent molecular work by Paudyal &amp; al., the generic limits of the Neotropical woody genus Exostema are reassessed with a view of making them more compatible with traditional, morphology‐based generic concepts. A wide circumscription is favoured, congruent with Paudyal &amp; al.'s “clade B” (the Exostema‐Solenandra‐Coutarea‐Hintonia group). Thus defined, Exostema is a genus with 40 species and five natural sections and incorporates three generic splits that were proposed by Paudyal &amp; al. To minimise nomenclatural disruption, a proposal to conserve the name Exostema Rich. against Coutarea Aubl. has been presented separately. Two new combinations at sectional rank are proposed.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Based on recent molecular work by Paudyal &amp; al., the generic limits of the Neotropical woody genus &lt;i&gt;Exostema&lt;/i&gt; are reassessed with a view of making them more compatible with traditional, morphology-based generic concepts. A wide circumscription is favoured, congruent with Paudyal &amp; al.'s “clade B” (the &lt;i&gt;Exostema-Solenandra-Coutarea-Hintonia&lt;/i&gt; group). Thus defined, &lt;i&gt;Exostema&lt;/i&gt; is a genus with 40 species and five natural sections and incorporates three generic splits that were proposed by Paudyal &amp; al. To minimise nomenclatural disruption, a proposal to conserve the name &lt;i&gt;Exostema&lt;/i&gt; Rich. against &lt;i&gt;Coutarea&lt;/i&gt; Aubl. has been presented separately. Two new combinations at sectional rank are proposed.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Werner Greuter, 
+Rosa Rankin‐Rodríguez
+</dc:creator>
+         <category>NOMENCLATURE</category>
+         <dc:title>Notes on the genus Exostema (Rubiaceae), its limits and sectional subdivision</dc:title>
+         <dc:identifier>10.1002/tax.12603</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12603</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12603?af=R</prism:url>
+         <prism:section>NOMENCLATURE</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12602?af=R</link>
+         <pubDate>Wed, 10 Nov 2021 06:40:49 -0800</pubDate>
+         <dc:date>2021-11-10T06:40:49-08:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Sun, 12 Sep 2021 11:07:48 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Sun, 12 Sep 2021 11:07:48 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12602</guid>
+         <title>Typifications of the N.L. Burman and Linnaean names in Polygala, Polygalaceae</title>
+         <description>TAXON, EarlyView. </description>
+         <dc:description>
+Abstract
+The historical context and typifications of a number of not yet typified Linnaean names in Polygala (P. acutifolia, P. aspalatha, P. brasiliensis, P. chamaebuxus, P. microphylla, P. penaea, P. sibirica, P. theezans) are presented, along with the identities of P. acutifolia and P. theezans. Bartolomeo di Panigai, a cartographer in the Portuguese boundary commission sent on an expedition to establish borders between Portugal and Spain in accordance with the Treaty of Madrid (signed in 1750), is suggested as the likely collector of P. aspalatha and P. brasiliensis. Three of N.L. Burman's names (P. pinnata, P. thea, P. triphylla) are revised, and two new combinations, Indigofera pinnata and Wiborgia triphylla, the legume species originally described by N.L. Burman in genus Polygala, are presented.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The historical context and typifications of a number of not yet typified Linnaean names in &lt;i&gt;Polygala&lt;/i&gt; (&lt;i&gt;P. acutifolia&lt;/i&gt;, &lt;i&gt;P. aspalatha&lt;/i&gt;, &lt;i&gt;P. brasiliensis&lt;/i&gt;, &lt;i&gt;P. chamaebuxus&lt;/i&gt;, &lt;i&gt;P. microphylla&lt;/i&gt;, &lt;i&gt;P. penaea&lt;/i&gt;, &lt;i&gt;P. sibirica&lt;/i&gt;, &lt;i&gt;P. theezans&lt;/i&gt;) are presented, along with the identities of &lt;i&gt;P. acutifolia&lt;/i&gt; and &lt;i&gt;P. theezans.&lt;/i&gt; Bartolomeo di Panigai, a cartographer in the Portuguese boundary commission sent on an expedition to establish borders between Portugal and Spain in accordance with the Treaty of Madrid (signed in 1750), is suggested as the likely collector of &lt;i&gt;P. aspalatha&lt;/i&gt; and &lt;i&gt;P. brasiliensis&lt;/i&gt;. Three of N.L. Burman's names (&lt;i&gt;P. pinnata&lt;/i&gt;, &lt;i&gt;P. thea&lt;/i&gt;, &lt;i&gt;P. triphylla&lt;/i&gt;) are revised, and two new combinations, &lt;i&gt;Indigofera pinnata&lt;/i&gt; and &lt;i&gt;Wiborgia triphylla&lt;/i&gt;, the legume species originally described by N.L. Burman in genus &lt;i&gt;Polygala&lt;/i&gt;, are presented.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+José Floriano Barêa Pastore, 
+Agustina Martinez
+</dc:creator>
+         <category>NOMENCLATURE</category>
+         <dc:title>Typifications of the N.L. Burman and Linnaean names in Polygala, Polygalaceae</dc:title>
+         <dc:identifier>10.1002/tax.12602</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12602</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12602?af=R</prism:url>
+         <prism:section>NOMENCLATURE</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12604?af=R</link>
+         <pubDate>Tue, 09 Nov 2021 08:47:59 -0800</pubDate>
+         <dc:date>2021-11-09T08:47:59-08:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Sun, 12 Sep 2021 11:07:48 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Sun, 12 Sep 2021 11:07:48 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12604</guid>
+         <title>Lectotypification of Uraria prunellifolia and U. paniculata (Leguminosae): Names associated with medicinally important rare plants</title>
+         <description>TAXON, EarlyView. </description>
+         <dc:description>
+Abstract
+Uraria prunellifolia and U. paniculata are medicinally important, and rare in occurrence. The former is believed to be extinct in some parts of India, and the latter was recently rediscovered. The nomenclatural history of U. prunellifolia and U. paniculata is discussed here, and both the names are typified.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;&lt;i&gt;Uraria prunellifolia&lt;/i&gt; and &lt;i&gt;U. paniculata&lt;/i&gt; are medicinally important, and rare in occurrence. The former is believed to be extinct in some parts of India, and the latter was recently rediscovered. The nomenclatural history of &lt;i&gt;U. prunellifolia&lt;/i&gt; and &lt;i&gt;U. paniculata&lt;/i&gt; is discussed here, and both the names are typified.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Jahnabi Gogoi, 
+Tikam Singh Rana
+</dc:creator>
+         <category>NOMENCLATURE</category>
+         <dc:title>Lectotypification of Uraria prunellifolia and U. paniculata (Leguminosae): Names associated with medicinally important rare plants</dc:title>
+         <dc:identifier>10.1002/tax.12604</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12604</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12604?af=R</prism:url>
+         <prism:section>NOMENCLATURE</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12601?af=R</link>
+         <pubDate>Tue, 09 Nov 2021 04:09:30 -0800</pubDate>
+         <dc:date>2021-11-09T04:09:30-08:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Sun, 12 Sep 2021 11:07:48 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Sun, 12 Sep 2021 11:07:48 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12601</guid>
+         <title>A pragmatic and prudent consensus on the resurrection of extinct plant species using herbarium specimens</title>
+         <description>TAXON, EarlyView. </description>
+         <dc:description>
+Abstract
+Herbaria may represent remarkable sources of viable diaspores for recovering lost genetic variation and extinct plant species, but the application of rewilding extinct species using these collections has not been explored in detail. De‐extinction in plants may be achieved by germinating viable diaspores or culturing tissues preserved in herbarium specimens. Germination of old diaspores (fruits, seeds, spores) preserved in sub‐optimal uncontrolled storage conditions demonstrates that the recovery of extinct plants from herbarium specimens may be possible. Plant de‐extinction via herbarium specimens relies on the availability of samples containing viable diaspores, and on the inclination of curators and the conservation community to use such material for this purpose. We developed an internet‐based survey to assess (i) whether the scientific community would consent to the use of herbarium specimens of extinct species to attempt de‐extinction, and (ii) the limitations of removing diaspores from specimens. Despite the risk of potential damages to valuable specimens from historical collections when harvesting diaspores, a consensus for using specimens of extinct plant species emerged. Most respondents would permit the collection of a low number of diaspores, preferably from duplicate specimens and only if the integrity of the specimen is preserved. These considerations would be more restrictive for type specimens and those of historical value. These results help to formalise a decision framework for the grant and use of material from natural history collections and a pragmatic approach to attempt to resurrect extinct species from herbarium specimens.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Herbaria may represent remarkable sources of viable diaspores for recovering lost genetic variation and extinct plant species, but the application of rewilding extinct species using these collections has not been explored in detail. De-extinction in plants may be achieved by germinating viable diaspores or culturing tissues preserved in herbarium specimens. Germination of old diaspores (fruits, seeds, spores) preserved in sub-optimal uncontrolled storage conditions demonstrates that the recovery of extinct plants from herbarium specimens may be possible. Plant de-extinction via herbarium specimens relies on the availability of samples containing viable diaspores, and on the inclination of curators and the conservation community to use such material for this purpose. We developed an internet-based survey to assess (i) whether the scientific community would consent to the use of herbarium specimens of extinct species to attempt de-extinction, and (ii) the limitations of removing diaspores from specimens. Despite the risk of potential damages to valuable specimens from historical collections when harvesting diaspores, a consensus for using specimens of extinct plant species emerged. Most respondents would permit the collection of a low number of diaspores, preferably from duplicate specimens and only if the integrity of the specimen is preserved. These considerations would be more restrictive for type specimens and those of historical value. These results help to formalise a decision framework for the grant and use of material from natural history collections and a pragmatic approach to attempt to resurrect extinct species from herbarium specimens.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Giulia Albani Rocchetti, 
+Charles Davis, 
+Giulia Caneva, 
+Gianluigi Bacchetta, 
+Giuseppe Fabrini, 
+Giuseppe Fenu, 
+Bruno Foggi, 
+Gabriele Galasso, 
+Domenico Gargano, 
+Gianpietro Giusso del Galdo, 
+Mauro Iberite, 
+Sara Magrini, 
+Alfred Mayer, 
+Andrea Mondoni, 
+Chiara Nepi, 
+Simone Orsenigo, 
+Lorenzo Peruzzi, 
+Thomas Abeli
+</dc:creator>
+         <category>HERBARIUM TOPICS</category>
+         <dc:title>A pragmatic and prudent consensus on the resurrection of extinct plant species using herbarium specimens</dc:title>
+         <dc:identifier>10.1002/tax.12601</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12601</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12601?af=R</prism:url>
+         <prism:section>HERBARIUM TOPICS</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12597?af=R</link>
+         <pubDate>Sat, 06 Nov 2021 00:00:00 -0700</pubDate>
+         <dc:date>2021-11-06T12:00:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Sun, 12 Sep 2021 11:07:48 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Sun, 12 Sep 2021 11:07:48 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12597</guid>
+         <title>A global phylogeny of Lycopodiaceae (Lycopodiales; lycophytes) with the description of a new genus, Brownseya, from Oceania</title>
+         <description>TAXON, EarlyView. </description>
+         <dc:description>
+Abstract
+Lycopodiaceae are one of the oldest lineages of any living vascular plants and contain about 400 species distributed on all continents except Antarctica, with its highest diversity in tropical regions. Previous studies on the morphology, anatomy, and molecular systematics of Lycopodiaceae have made substantial progress in understanding the diversity and evolution of the family, but major issues remain. In particular, earlier studies had relatively sparse taxon sampling, some critical relationships among the genera have not been well resolved, and the monophyly of some genera (e.g., Huperzia, Lycopodiella, Pseudolycopodiella, Spinulum) has not been robustly tested with large sampling. In this study, we apply maximum likelihood, maximum parsimony, and Bayesian inference to a dataset of 1150 (918 newly generated) DNA sequences of seven plastid markers (atpA, psbA‐trnH, rbcL, rps4, rps4‐trnS, trnL, trnL‐F) of 334 accessions representing ca. 155 (ca. 39% of all) species in the family to infer a global phylogeny. Our major results include: (1) the tree is resolved into three primary clades corresponding to the three subfamilies, Huperzioideae, Lycopodioideae, and Lycopodielloideae; (2) these three primary clades are resolved into 17 major clades, of which 16 represent genera recognized in the PPG I classification, while Lycopodiella serpentina is resolved as sister to Palhinhaea, and thus a new genus, Brownseya, is described, and a key to genera of Lycopodielloideae is given; (3) Phylloglossum is strongly or moderately supported as sister to Phlegmariurus in ML and MP analyses (but not in BI analysis), and thus our evidence supports the recognition of Phlegmariurus in order to maintain a monophyletic Huperzia; (4) Lycopodiella is sister to Pseudolycopodiella and they together are sister to Lateristachys + (Brownseya + Palhinhaea); (5) Huperzia, Lycopodiella, Pseudolycopodiella, and Spinulum are each strongly supported as monophyletic; (6) spore morphology is well consistent with the phylogenetic relationships in the family; and (7) based on these results we recognize 17 genera in three subfamilies in the family.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Lycopodiaceae are one of the oldest lineages of any living vascular plants and contain about 400 species distributed on all continents except Antarctica, with its highest diversity in tropical regions. Previous studies on the morphology, anatomy, and molecular systematics of Lycopodiaceae have made substantial progress in understanding the diversity and evolution of the family, but major issues remain. In particular, earlier studies had relatively sparse taxon sampling, some critical relationships among the genera have not been well resolved, and the monophyly of some genera (e.g., &lt;i&gt;Huperzia&lt;/i&gt;, &lt;i&gt;Lycopodiella&lt;/i&gt;, &lt;i&gt;Pseudolycopodiella&lt;/i&gt;, &lt;i&gt;Spinulum&lt;/i&gt;) has not been robustly tested with large sampling. In this study, we apply maximum likelihood, maximum parsimony, and Bayesian inference to a dataset of 1150 (918 newly generated) DNA sequences of seven plastid markers (&lt;i&gt;atpA&lt;/i&gt;, &lt;i&gt;psbA-trnH&lt;/i&gt;, &lt;i&gt;rbcL&lt;/i&gt;, &lt;i&gt;rps4&lt;/i&gt;, &lt;i&gt;rps4-trnS&lt;/i&gt;, &lt;i&gt;trnL&lt;/i&gt;, &lt;i&gt;trnL-F&lt;/i&gt;) of 334 accessions representing ca. 155 (ca. 39% of all) species in the family to infer a global phylogeny. Our major results include: (1) the tree is resolved into three primary clades corresponding to the three subfamilies, Huperzioideae, Lycopodioideae, and Lycopodielloideae; (2) these three primary clades are resolved into 17 major clades, of which 16 represent genera recognized in the PPG I classification, while &lt;i&gt;Lycopodiella serpentina&lt;/i&gt; is resolved as sister to &lt;i&gt;Palhinhaea&lt;/i&gt;, and thus a new genus, &lt;i&gt;Brownseya&lt;/i&gt;, is described, and a key to genera of Lycopodielloideae is given; (3) &lt;i&gt;Phylloglossum&lt;/i&gt; is strongly or moderately supported as sister to &lt;i&gt;Phlegmariurus&lt;/i&gt; in ML and MP analyses (but not in BI analysis), and thus our evidence supports the recognition of &lt;i&gt;Phlegmariurus&lt;/i&gt; in order to maintain a monophyletic &lt;i&gt;Huperzia&lt;/i&gt;; (4) &lt;i&gt;Lycopodiella&lt;/i&gt; is sister to &lt;i&gt;Pseudolycopodiella&lt;/i&gt; and they together are sister to &lt;i&gt;Lateristachys&lt;/i&gt; + (&lt;i&gt;Brownseya&lt;/i&gt; + &lt;i&gt;Palhinhaea&lt;/i&gt;); (5) &lt;i&gt;Huperzia&lt;/i&gt;, &lt;i&gt;Lycopodiella&lt;/i&gt;, &lt;i&gt;Pseudolycopodiella&lt;/i&gt;, and &lt;i&gt;Spinulum&lt;/i&gt; are each strongly supported as monophyletic; (6) spore morphology is well consistent with the phylogenetic relationships in the family; and (7) based on these results we recognize 17 genera in three subfamilies in the family.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+De‐Kui Chen, 
+Xin‐Mao Zhou, 
+Carl J. Rothfels, 
+Lara D. Shepherd, 
+Ralf Knapp, 
+Liang Zhang, 
+Ngan Thi Lu, 
+Xue‐Ping Fan, 
+Xia Wan, 
+Xin‐Fen Gao, 
+Hai He, 
+Li‐Bing Zhang
+</dc:creator>
+         <category>SYSTEMATICS AND PHYLOGENY</category>
+         <dc:title>A global phylogeny of Lycopodiaceae (Lycopodiales; lycophytes) with the description of a new genus, Brownseya, from Oceania</dc:title>
+         <dc:identifier>10.1002/tax.12597</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12597</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12597?af=R</prism:url>
+         <prism:section>SYSTEMATICS AND PHYLOGENY</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12599?af=R</link>
+         <pubDate>Tue, 02 Nov 2021 05:31:25 -0700</pubDate>
+         <dc:date>2021-11-02T05:31:25-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Sun, 12 Sep 2021 11:07:48 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Sun, 12 Sep 2021 11:07:48 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12599</guid>
+         <title>Replacing current nomenclature with pre‐existing indigenous names in algae, fungi and plants</title>
+         <description>TAXON, EarlyView. </description>
+         <dc:description>
+Abstract
+We recently proposed restoration of indigenous names within scientific nomenclature and briefly outlined how the taxonomic codes could be amended to accommodate this within the Linnaean classification system. Our proposal included a process whereby Indigenous Peoples could submit long‐established indigenous names to replace current names under a modified International Code of Nomenclature for algae, fungi, and plants (ICN). Here we expand on this proposal with specific recommendations for changes to the ICN.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;We recently proposed restoration of indigenous names within scientific nomenclature and briefly outlined how the taxonomic codes could be amended to accommodate this within the Linnaean classification system. Our proposal included a process whereby Indigenous Peoples could submit long-established indigenous names to replace current names under a modified &lt;i&gt;International Code of Nomenclature for algae, fungi, and plants&lt;/i&gt; (&lt;i&gt;ICN&lt;/i&gt;). Here we expand on this proposal with specific recommendations for changes to the &lt;i&gt;ICN&lt;/i&gt;.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Shane Donald Wright, 
+Len Norman Gillman
+</dc:creator>
+         <category>POINT OF VIEW</category>
+         <dc:title>Replacing current nomenclature with pre‐existing indigenous names in algae, fungi and plants</dc:title>
+         <dc:identifier>10.1002/tax.12599</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12599</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12599?af=R</prism:url>
+         <prism:section>POINT OF VIEW</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12591?af=R</link>
+         <pubDate>Sat, 30 Oct 2021 03:49:12 -0700</pubDate>
+         <dc:date>2021-10-30T03:49:12-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Sun, 12 Sep 2021 11:07:48 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Sun, 12 Sep 2021 11:07:48 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12591</guid>
+         <title>Confirmed polyphyly, generic recircumscription and typification of Dysoxylum (Meliaceae), with revised disposition of currently accepted species</title>
+         <description>TAXON, EarlyView. </description>
+         <dc:description>
+Abstract
+The hypothesis that Dysoxylum (Meliaceae), as currently circumscribed, is polyphyletic is tested. Analyses based on nuclear ribosomal ITS, ETS, the plastid trnL‐trnF intron and intergenic spacer, as well as the rps15‐ycf1 intergenic spacer support this hypothesis. Six strongly supported clades within Dysoxylum s.l. were recovered, in large part supporting the classification of Harms. Based on the largest molecular phylogenetic tree hitherto assembled, and morphological considerations, a revised disposition of 94 currently recognized Dysoxylum species, is presented, reinstating the genera Didymocheton, Epicharis, Goniocheton, Prasoxylon and Pseudocarapa. The first valid publication of the generic name Dysoxylum is identified, and it is typified with D. macrocarpum. Forty‐three new combinations at species level and two at infraspecific are proposed; Didymocheton nutans, Dysoxylum alatum, D. pachyphyllum, Epicharis, Trichilia spectabilis and T. alliacea (second step) are lectotypified.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The hypothesis that &lt;i&gt;Dysoxylum&lt;/i&gt; (Meliaceae), as currently circumscribed, is polyphyletic is tested. Analyses based on nuclear ribosomal ITS, ETS, the plastid &lt;i&gt;trnL-trnF&lt;/i&gt; intron and intergenic spacer, as well as the &lt;i&gt;rps15-ycf1&lt;/i&gt; intergenic spacer support this hypothesis. Six strongly supported clades within &lt;i&gt;Dysoxylum&lt;/i&gt; s.l. were recovered, in large part supporting the classification of Harms. Based on the largest molecular phylogenetic tree hitherto assembled, and morphological considerations, a revised disposition of 94 currently recognized &lt;i&gt;Dysoxylum&lt;/i&gt; species, is presented, reinstating the genera &lt;i&gt;Didymocheton&lt;/i&gt;, &lt;i&gt;Epicharis&lt;/i&gt;, &lt;i&gt;Goniocheton&lt;/i&gt;, &lt;i&gt;Prasoxylon&lt;/i&gt; and &lt;i&gt;Pseudocarapa&lt;/i&gt;. The first valid publication of the generic name &lt;i&gt;Dysoxylum&lt;/i&gt; is identified, and it is typified with &lt;i&gt;D. macrocarpum&lt;/i&gt;. Forty-three new combinations at species level and two at infraspecific are proposed; &lt;i&gt;Didymocheton nutans&lt;/i&gt;, &lt;i&gt;Dysoxylum alatum&lt;/i&gt;, &lt;i&gt;D. pachyphyllum&lt;/i&gt;, &lt;i&gt;Epicharis&lt;/i&gt;, &lt;i&gt;Trichilia spectabilis&lt;/i&gt; and &lt;i&gt;T. alliacea&lt;/i&gt; (second step) are lectotypified.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Laura Holzmeyer, 
+Frank Hauenschild, 
+David J. Mabberley, 
+Alexandra N. Muellner‐Riehl
+</dc:creator>
+         <category>SYSTEMATICS AND PHYLOGENY</category>
+         <dc:title>Confirmed polyphyly, generic recircumscription and typification of Dysoxylum (Meliaceae), with revised disposition of currently accepted species</dc:title>
+         <dc:identifier>10.1002/tax.12591</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12591</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12591?af=R</prism:url>
+         <prism:section>SYSTEMATICS AND PHYLOGENY</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12598?af=R</link>
+         <pubDate>Thu, 28 Oct 2021 14:09:39 -0700</pubDate>
+         <dc:date>2021-10-28T02:09:39-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Sun, 12 Sep 2021 11:07:48 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Sun, 12 Sep 2021 11:07:48 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12598</guid>
+         <title>“Rhodes‐” must fall: Some of the consequences of colonialism for botany and plant nomenclature</title>
+         <description>TAXON, EarlyView. </description>
+         <dc:description>
+Abstract
+A recent increase in awareness of the impact and aftereffects of imperialism and colonialism has served to indicate to the world that change can occur rapidly and likely irreversibly in numerous spheres of life. A well‐publicised example is the “Rhodes Must Fall” campaign that started in Cape Town, South Africa, in 2015, and eventually spread to the United Kingdom. One of the outcomes of this initiative has been the removal of the statue of Cecil John Rhodes from the campus of the University of Cape Town. Yet, in plant nomenclature, because of the rules that govern the scientific naming plants, names that include the root “rhodes‐”, where C.J. Rhodes is commemorated, are persisting. This is one example of names and epithets that are perceived by many as offensive and unacceptable. The botanical community should take cognisance of these developments and use the mechanisms at its disposal, or develop new ones, to proactively find solutions to address how to deal with such names and epithets.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;A recent increase in awareness of the impact and aftereffects of imperialism and colonialism has served to indicate to the world that change can occur rapidly and likely irreversibly in numerous spheres of life. A well-publicised example is the “Rhodes Must Fall” campaign that started in Cape Town, South Africa, in 2015, and eventually spread to the United Kingdom. One of the outcomes of this initiative has been the removal of the statue of Cecil John Rhodes from the campus of the University of Cape Town. Yet, in plant nomenclature, because of the rules that govern the scientific naming plants, names that include the root “&lt;i&gt;rhodes&lt;/i&gt;-”, where C.J. Rhodes is commemorated, are persisting. This is one example of names and epithets that are perceived by many as offensive and unacceptable. The botanical community should take cognisance of these developments and use the mechanisms at its disposal, or develop new ones, to proactively find solutions to address how to deal with such names and epithets.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Gideon F. Smith, 
+Estrela Figueiredo
+</dc:creator>
+         <category>POINT OF VIEW</category>
+         <dc:title>“Rhodes‐” must fall: Some of the consequences of colonialism for botany and plant nomenclature</dc:title>
+         <dc:identifier>10.1002/tax.12598</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12598</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12598?af=R</prism:url>
+         <prism:section>POINT OF VIEW</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12570?af=R</link>
+         <pubDate>Wed, 20 Oct 2021 01:45:00 -0700</pubDate>
+         <dc:date>2021-10-20T01:45:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12570</guid>
+         <title>IAPT chromosome data 34</title>
+         <description>TAXON, Volume 70, Issue 5, Page 1148-1152, October 2021. </description>
+         <dc:description/>
+         <content:encoded/>
+         <dc:creator>
+Karol Marhold, 
+Jaromír Kučera, 
+Dirk C. Albach, 
+Tatiana G. Aleksandrova, 
+Evgeny V. Banaev, 
+Tatyana V. Dyubenko, 
+Alexander A. Gnutikov, 
+Elena A. Korolyuk, 
+Violetta V. Kotseruba, 
+Denis A. Krivenko, 
+Leonid V. Krivobokov, 
+Maria N. Lomonosova, 
+Eduard M. Machs, 
+Paulina Meller, 
+Yulia A. Myakoshina, 
+Nikolai N. Nosov, 
+Tatyana V. Pankova, 
+Nina S. Probatova, 
+Alexander V. Rodionov, 
+Dmitry N. Shaulo, 
+Mariya A. Tomoshevich, 
+Elena Yu. Zykova
+</dc:creator>
+         <category>IAPT CHROMOSOME DATA</category>
+         <dc:title>IAPT chromosome data 34</dc:title>
+         <dc:identifier>10.1002/tax.12570</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12570</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12570?af=R</prism:url>
+         <prism:section>IAPT CHROMOSOME DATA</prism:section>
+         <prism:volume>70</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12563?af=R</link>
+         <pubDate>Wed, 20 Oct 2021 01:45:00 -0700</pubDate>
+         <dc:date>2021-10-20T01:45:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12563</guid>
+         <title>Lectotypification of the Linnaean name Dianthus virgineus (Caryophyllaceae) and its taxonomic consequences</title>
+         <description>TAXON, Volume 70, Issue 5, Page 1096-1100, October 2021. </description>
+         <dc:description>
+Abstract
+A lectotype is designated for the name Dianthus virgineus. The relationships between D. virgineus, D. caryophyllus var. caryophyllus, and D. caryophyllus var. inodorus are analyzed. Dianthus virgineus is the oldest available name that applies to a species complex that is often referred to as D. sylvestris or a broad circumscription of the cultivated ornamental D. caryophyllus. The taxonomic consequences are discussed, and the need for further studies is highlighted.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;A lectotype is designated for the name &lt;i&gt;Dianthus virgineus&lt;/i&gt;. The relationships between &lt;i&gt;D. virgineus&lt;/i&gt;, &lt;i&gt;D. caryophyllus&lt;/i&gt; var. &lt;i&gt;caryophyllus&lt;/i&gt;, and &lt;i&gt;D. caryophyllus&lt;/i&gt; var. &lt;i&gt;inodorus&lt;/i&gt; are analyzed. &lt;i&gt;Dianthus virgineus&lt;/i&gt; is the oldest available name that applies to a species complex that is often referred to as &lt;i&gt;D. sylvestris&lt;/i&gt; or a broad circumscription of the cultivated ornamental &lt;i&gt;D. caryophyllus&lt;/i&gt;. The taxonomic consequences are discussed, and the need for further studies is highlighted.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Gianniantonio Domina, 
+Giovanni Astuti, 
+Giulio Barone, 
+Domenico Gargano, 
+Luigi Minuto, 
+Lucia Varaldo, 
+Lorenzo Peruzzi
+</dc:creator>
+         <category>NOMENCLATURE</category>
+         <dc:title>Lectotypification of the Linnaean name Dianthus virgineus (Caryophyllaceae) and its taxonomic consequences</dc:title>
+         <dc:identifier>10.1002/tax.12563</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12563</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12563?af=R</prism:url>
+         <prism:section>NOMENCLATURE</prism:section>
+         <prism:volume>70</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12541?af=R</link>
+         <pubDate>Wed, 20 Oct 2021 01:45:00 -0700</pubDate>
+         <dc:date>2021-10-20T01:45:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12541</guid>
+         <title>A nomenclatural study of Plumeria (Apocynaceae: Plumerieae) in the Caribbean Islands</title>
+         <description>TAXON, Volume 70, Issue 5, Page 1101-1116, October 2021. </description>
+         <dc:description>
+Abstract
+An update of the nomenclature of 49 Caribbean Island‐occurring taxa of Plumeria (Apocynaceae: Plumerieae) is presented. We designate lectotypes for the following 29 names: Plumeria alba var. jacquiniana, P. apiculata, P. barahonensis, P. beatensis, P. berteroi, P. biglandulosa, P. confusa, P. cuneifolia, P. dictyophylla, P. discolor, P. domingensis, P. gibbosa, P. inaguensis, P. jaegeri, P. jamaicensis, P. krugii, P. leuconeura, P. longiflora, P. marchii, P. obtusa var. laevis, P. obtusa var. parviflora, P. ostenfeldii, P. paulinae, P. pilosula, P. revolutifolia, P. stenopetala, P. stenopetala var. angustissima, P. subsessilis, and P. trouinensis. A neotype is assigned to P. bahamensis, and epitypes are presented for P. alba var. jacquiniana, P. gibbosa and P. stenopetala. Plumeria portoricensis is regarded as an uncertain name. Fifteen of the Cuban endemics were inadvertently lectotypified; three of them (P. cayensis, P. cubensis, P. stenophylla) require a two‐step lectotypification, which is presented here. Two of the names (P. filifolia, P. tuberculata) were lectotypified in previous works and we concord with these typifications. The protologue of P. magna includes the holotype for this name.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;An update of the nomenclature of 49 Caribbean Island-occurring taxa of &lt;i&gt;Plumeria&lt;/i&gt; (Apocynaceae: Plumerieae) is presented. We designate lectotypes for the following 29 names: &lt;i&gt;Plumeria alba&lt;/i&gt; var. &lt;i&gt;jacquiniana&lt;/i&gt;, &lt;i&gt;P. apiculata&lt;/i&gt;, &lt;i&gt;P. barahonensis&lt;/i&gt;, &lt;i&gt;P. beatensis&lt;/i&gt;, &lt;i&gt;P. berteroi&lt;/i&gt;, &lt;i&gt;P. biglandulosa&lt;/i&gt;, &lt;i&gt;P. confusa&lt;/i&gt;, &lt;i&gt;P. cuneifolia&lt;/i&gt;, &lt;i&gt;P. dictyophylla&lt;/i&gt;, &lt;i&gt;P. discolor&lt;/i&gt;, &lt;i&gt;P. domingensis&lt;/i&gt;, &lt;i&gt;P. gibbosa&lt;/i&gt;, &lt;i&gt;P. inaguensis&lt;/i&gt;, &lt;i&gt;P. jaegeri&lt;/i&gt;, &lt;i&gt;P. jamaicensis&lt;/i&gt;, &lt;i&gt;P. krugii&lt;/i&gt;, &lt;i&gt;P. leuconeura&lt;/i&gt;, &lt;i&gt;P. longiflora&lt;/i&gt;, &lt;i&gt;P. marchii&lt;/i&gt;, &lt;i&gt;P. obtusa&lt;/i&gt; var. &lt;i&gt;laevis&lt;/i&gt;, &lt;i&gt;P. obtusa&lt;/i&gt; var. &lt;i&gt;parviflora&lt;/i&gt;, &lt;i&gt;P. ostenfeldii&lt;/i&gt;, &lt;i&gt;P. paulinae&lt;/i&gt;, &lt;i&gt;P. pilosula&lt;/i&gt;, &lt;i&gt;P. revolutifolia&lt;/i&gt;, &lt;i&gt;P. stenopetala&lt;/i&gt;, &lt;i&gt;P. stenopetala&lt;/i&gt; var. &lt;i&gt;angustissima&lt;/i&gt;, &lt;i&gt;P. subsessilis&lt;/i&gt;, and &lt;i&gt;P. trouinensis&lt;/i&gt;. A neotype is assigned to &lt;i&gt;P. bahamensis&lt;/i&gt;, and epitypes are presented for &lt;i&gt;P. alba&lt;/i&gt; var. &lt;i&gt;jacquiniana&lt;/i&gt;, &lt;i&gt;P. gibbosa&lt;/i&gt; and &lt;i&gt;P. stenopetala. Plumeria portoricensis&lt;/i&gt; is regarded as an uncertain name. Fifteen of the Cuban endemics were inadvertently lectotypified; three of them (&lt;i&gt;P. cayensis&lt;/i&gt;, &lt;i&gt;P. cubensis&lt;/i&gt;, &lt;i&gt;P. stenophylla&lt;/i&gt;) require a two-step lectotypification, which is presented here. Two of the names (&lt;i&gt;P. filifolia&lt;/i&gt;, &lt;i&gt;P. tuberculata&lt;/i&gt;) were lectotypified in previous works and we concord with these typifications. The protologue of &lt;i&gt;P. magna&lt;/i&gt; includes the holotype for this name.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Nichole M. Tiernan, 
+Kanchi Gandhi, 
+Javier Francisco‐Ortega
+</dc:creator>
+         <category>NOMENCLATURE</category>
+         <dc:title>A nomenclatural study of Plumeria (Apocynaceae: Plumerieae) in the Caribbean Islands</dc:title>
+         <dc:identifier>10.1002/tax.12541</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12541</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12541?af=R</prism:url>
+         <prism:section>NOMENCLATURE</prism:section>
+         <prism:volume>70</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12540?af=R</link>
+         <pubDate>Wed, 20 Oct 2021 01:45:00 -0700</pubDate>
+         <dc:date>2021-10-20T01:45:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12540</guid>
+         <title>Escaping the voluntary constraints of “tyre‐track” taxonomy</title>
+         <description>TAXON, Volume 70, Issue 5, Page 1062-1077, October 2021. </description>
+         <dc:description>
+Abstract
+Although conceptual whole‐plants are occasionally reconstructed, disarticulation means that palaeobotanical taxonomy remains primarily the preserve of fragmented organ‐species, each bearing a Linnaean binomial. Thus, a “natural” taxon that would in any neobotanical classification bear a single valid binomial (any other epithets automatically being deemed synonyms) typically is a chimera, consisting of several binomials that are not only valid but also arguably essential, each representing a different organ of the original plant. The situation is further complicated by the fact that each organ can also carry multiple valid binomials that refer to contrasting preservation states, most commonly either adpression or permineralisation. Thus, a fossil plant is obliged to carry the heavy burden of not one but two or more parallel taxonomies. The two opposing logical approaches to clarifying this complex situation are (1) to coin additional formal names for organ‐species that are found in multiple modes of preservation but at present are named in only one mode, or (2) to attempt to gradually rationalise parallel preservational taxonomies through detailed character comparison, giving priority to whichever preservational mode typically offers a stronger suite of morphological characters and therefore the greater probability of approaching the biological reality necessary for meaningful evolutionary and ecological interpretation. We illustrate our preference for Option 2 using Palaeozoic rhizomorphic lycopsid genera in general and our antagonism to the recently erected permineralisation stem‐genus “Dimicheleodendron” in particular.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Although conceptual whole-plants are occasionally reconstructed, disarticulation means that palaeobotanical taxonomy remains primarily the preserve of fragmented organ-species, each bearing a Linnaean binomial. Thus, a “natural” taxon that would in any neobotanical classification bear a single valid binomial (any other epithets automatically being deemed synonyms) typically is a chimera, consisting of several binomials that are not only valid but also arguably essential, each representing a different organ of the original plant. The situation is further complicated by the fact that each organ can also carry multiple valid binomials that refer to contrasting preservation states, most commonly either adpression or permineralisation. Thus, a fossil plant is obliged to carry the heavy burden of not one but two or more parallel taxonomies. The two opposing logical approaches to clarifying this complex situation are (1) to coin additional formal names for organ-species that are found in multiple modes of preservation but at present are named in only one mode, or (2) to attempt to gradually rationalise parallel preservational taxonomies through detailed character comparison, giving priority to whichever preservational mode typically offers a stronger suite of morphological characters and therefore the greater probability of approaching the biological reality necessary for meaningful evolutionary and ecological interpretation. We illustrate our preference for Option 2 using Palaeozoic rhizomorphic lycopsid genera in general and our antagonism to the recently erected permineralisation stem-genus “&lt;i&gt;Dimicheleodendron&lt;/i&gt;” in particular.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Richard M. Bateman, 
+William A. DiMichele
+</dc:creator>
+         <category>PALAEONTOLOGY</category>
+         <dc:title>Escaping the voluntary constraints of “tyre‐track” taxonomy</dc:title>
+         <dc:identifier>10.1002/tax.12540</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12540</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12540?af=R</prism:url>
+         <prism:section>PALAEONTOLOGY</prism:section>
+         <prism:volume>70</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12509?af=R</link>
+         <pubDate>Wed, 20 Oct 2021 01:45:00 -0700</pubDate>
+         <dc:date>2021-10-20T01:45:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12509</guid>
+         <title>Vellozo's Florae Fluminensis: A new assessment of the São Paulo part of his collecting itinerary, its vegetation, and species list</title>
+         <description>TAXON, Volume 70, Issue 5, Page 1078-1095, October 2021. </description>
+         <dc:description>
+Abstract
+Our analysis of Vellozo's itineraries and his manuscript annotations show that ca. 1/4 of the names described in his Florae Fluminensis were based on plants collected in the municipality of Cunha, state of São Paulo. This region, within the Atlantic Forest domain, encompasses various vegetation formations, such as montane ombrophilous forests, mixed ombrophilous forests, and high‐altitude open savanna enclaves. Using Vellozo's manuscripts, we traced his collecting itinerary, correlating his descriptive terms for the vegetation types to the toponyms and dates. In contrast to the term “maritimus”, associated in Florae Fluminensis with the Atlantic Forest vegetation in the state of Rio de Janeiro, the term “mediterraneus” is associated with the vegetation along the Royal Road (Estrada Real) in the region of Cunha, state of São Paulo and is usually related to the term “transalpinus” of the region of mountaintops delimiting the border between the states of São Paulo and Rio de Janeiro. Maps of Vellozo's itinerary, as well as a discussion of species names most likely described from the state of São Paulo are provided.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Our analysis of Vellozo's itineraries and his manuscript annotations show that ca. 1/4 of the names described in his &lt;i&gt;Florae Fluminensis&lt;/i&gt; were based on plants collected in the municipality of Cunha, state of São Paulo. This region, within the Atlantic Forest domain, encompasses various vegetation formations, such as montane ombrophilous forests, mixed ombrophilous forests, and high-altitude open savanna enclaves&lt;i&gt;.&lt;/i&gt; Using Vellozo's manuscripts, we traced his collecting itinerary, correlating his descriptive terms for the vegetation types to the toponyms and dates. In contrast to the term “&lt;i&gt;maritimus&lt;/i&gt;”, associated in &lt;i&gt;Florae Fluminensis&lt;/i&gt; with the Atlantic Forest vegetation in the state of Rio de Janeiro, the term “&lt;i&gt;mediterraneus&lt;/i&gt;” is associated with the vegetation along the Royal Road (Estrada Real) in the region of Cunha, state of São Paulo and is usually related to the term “&lt;i&gt;transalpinus&lt;/i&gt;” of the region of mountaintops delimiting the border between the states of São Paulo and Rio de Janeiro. Maps of Vellozo's itinerary, as well as a discussion of species names most likely described from the state of São Paulo are provided.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+José Floriano Barêa Pastore, 
+Michelle Mota, 
+Helen Fernandes Menezes, 
+Marcelo Trovó
+</dc:creator>
+         <category>BOTANICAL HISTORY</category>
+         <dc:title>Vellozo's Florae Fluminensis: A new assessment of the São Paulo part of his collecting itinerary, its vegetation, and species list</dc:title>
+         <dc:identifier>10.1002/tax.12509</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12509</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12509?af=R</prism:url>
+         <prism:section>BOTANICAL HISTORY</prism:section>
+         <prism:volume>70</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12544?af=R</link>
+         <pubDate>Wed, 20 Oct 2021 01:45:00 -0700</pubDate>
+         <dc:date>2021-10-20T01:45:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12544</guid>
+         <title>Deciphering the typification of the Neotropical genus Tanaecium (Bignonieae, Bignoniaceae)</title>
+         <description>TAXON, Volume 70, Issue 5, Page 1117-1123, October 2021. </description>
+         <dc:description>
+Abstract
+Tanaecium is a genus of Neotropical lianas that includes many species with long white corollas pollinated by hawkmoths. The type of the genus is T. jaroba. Even though records of T. jaroba from Jamaica and Brazil were cited in the protologue, no corresponding specimens have been found. An illustration of T. jaroba constitutes the only original material located and has been designated as its lectotype. However, the plate of T. jaroba does not include sufficient characters to properly identify this species. We present a historical overview on the nomenclature and taxonomic history of Tanaecium and designate an epitype for T. jaroba, allowing for the accurate identification of this species. We also designate a lectotype for T. praelongum, a synonym of T. jaroba.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;&lt;i&gt;Tanaecium&lt;/i&gt; is a genus of Neotropical lianas that includes many species with long white corollas pollinated by hawkmoths. The type of the genus is &lt;i&gt;T. jaroba&lt;/i&gt;. Even though records of &lt;i&gt;T. jaroba&lt;/i&gt; from Jamaica and Brazil were cited in the protologue, no corresponding specimens have been found. An illustration of &lt;i&gt;T. jaroba&lt;/i&gt; constitutes the only original material located and has been designated as its lectotype. However, the plate of &lt;i&gt;T. jaroba&lt;/i&gt; does not include sufficient characters to properly identify this species. We present a historical overview on the nomenclature and taxonomic history of &lt;i&gt;Tanaecium&lt;/i&gt; and designate an epitype for &lt;i&gt;T. jaroba&lt;/i&gt;, allowing for the accurate identification of this species. We also designate a lectotype for &lt;i&gt;T. praelongum&lt;/i&gt;, a synonym of &lt;i&gt;T. jaroba&lt;/i&gt;.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Annelise Frazão, 
+Lúcia G. Lohmann
+</dc:creator>
+         <category>NOMENCLATURE</category>
+         <dc:title>Deciphering the typification of the Neotropical genus Tanaecium (Bignonieae, Bignoniaceae)</dc:title>
+         <dc:identifier>10.1002/tax.12544</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12544</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12544?af=R</prism:url>
+         <prism:section>NOMENCLATURE</prism:section>
+         <prism:volume>70</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12538?af=R</link>
+         <pubDate>Wed, 20 Oct 2021 01:45:00 -0700</pubDate>
+         <dc:date>2021-10-20T01:45:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12538</guid>
+         <title>An integrated morpho‐molecular study of Salicornia (Amaranthaceae‐Chenopodiaceae) in Iran proves Irano‐Turanian region the major center of diversity of annual glasswort species</title>
+         <description>TAXON, Volume 70, Issue 5, Page 989-1019, October 2021. </description>
+         <dc:description>
+Abstract
+Salicornia (Chenopodiaceae) with ca. 25–30 annual, hyperhalophytic succulent species is a taxonomically difficult sub‐cosmopolitan genus. The taxonomic complexity arose from succulent shoots causing a lack of taxonomically useful characters, scarcity and variability of characters, and poor genetic differentiation. The Irano‐Turanian region, a major center for several lineages of chenopod diversification, is also an important diversity center and more likely the center of origin of annual Salicornia. This paper presents long‐term comprehensive morpho‐molecular and cytological studies of the genus in Iran, as the most species‐rich country in the Irano‐Turanian region. We originally generated 250 sequences of one nuclear (ETS) and two plastid markers (atpB‐rbcL spacer, intron rpl16). We analyzed a global ETS dataset including 257 sequences of putative 28 taxa using Bayesian inference and maximum likelihood analysis. In order to evaluate the application of plastid data in species taxonomy in annual Salicornia, we performed numerical morphological analysis (principal component analysis and agglomerative hierarchical clustering) of 186 Iranian accessions using 18 characters. Our results (1) confirm the efficiency of plastid sequences comparing to ETS sequences for clarifying species‐level phylogeny of Salicornia; (2) identify the S. persica clade as a monophyletic Irano‐Turanian endemic lineage; (3) recognize nine origins of the Irano‐Turanian Salicornia based on nuclear ETS sequences; (4) approve the monophyly of tetraploid species using plastid sequences; (5) provide a synopsis and diagnostic key for 10 Iranian taxa of Salicornia; (6) describe S. turanica sp. nov.; (7) classify S. iranica at infraspecific level (S. iranica subsp. iranica, S. iranica subsp. rudshurensis comb. nov., S. iranica subsp. sinus‐persica comb. &amp; stat. nov.); (8) suggest three informal taxa to be studied in the future; and (9) discuss the threatened status of Salicornia‐dominated ecosystems in Iran.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;&lt;i&gt;Salicornia&lt;/i&gt; (Chenopodiaceae) with ca. 25–30 annual, hyperhalophytic succulent species is a taxonomically difficult sub-cosmopolitan genus. The taxonomic complexity arose from succulent shoots causing a lack of taxonomically useful characters, scarcity and variability of characters, and poor genetic differentiation. The Irano-Turanian region, a major center for several lineages of chenopod diversification, is also an important diversity center and more likely the center of origin of annual &lt;i&gt;Salicornia&lt;/i&gt;. This paper presents long-term comprehensive morpho-molecular and cytological studies of the genus in Iran, as the most species-rich country in the Irano-Turanian region. We originally generated 250 sequences of one nuclear (ETS) and two plastid markers (&lt;i&gt;atpB&lt;/i&gt;-&lt;i&gt;rbcL&lt;/i&gt; spacer, intron &lt;i&gt;rpl16&lt;/i&gt;). We analyzed a global ETS dataset including 257 sequences of putative 28 taxa using Bayesian inference and maximum likelihood analysis. In order to evaluate the application of plastid data in species taxonomy in annual &lt;i&gt;Salicornia&lt;/i&gt;, we performed numerical morphological analysis (principal component analysis and agglomerative hierarchical clustering) of 186 Iranian accessions using 18 characters. Our results (1) confirm the efficiency of plastid sequences comparing to ETS sequences for clarifying species-level phylogeny of &lt;i&gt;Salicornia&lt;/i&gt;; (2) identify the S. persica clade as a monophyletic Irano-Turanian endemic lineage; (3) recognize nine origins of the Irano-Turanian &lt;i&gt;Salicornia&lt;/i&gt; based on nuclear ETS sequences; (4) approve the monophyly of tetraploid species using plastid sequences; (5) provide a synopsis and diagnostic key for 10 Iranian taxa of &lt;i&gt;Salicornia&lt;/i&gt;; (6) describe &lt;i&gt;S. turanica&lt;/i&gt; sp. nov.; (7) classify &lt;i&gt;S. iranica&lt;/i&gt; at infraspecific level (&lt;i&gt;S. iranica&lt;/i&gt; subsp. &lt;i&gt;iranica&lt;/i&gt;, &lt;i&gt;S. iranica&lt;/i&gt; subsp. &lt;i&gt;rudshurensis&lt;/i&gt; comb. nov., &lt;i&gt;S. iranica&lt;/i&gt; subsp. &lt;i&gt;sinus-persica&lt;/i&gt; comb. &amp; stat. nov.); (8) suggest three informal taxa to be studied in the future; and (9) discuss the threatened status of &lt;i&gt;Salicornia&lt;/i&gt;-dominated ecosystems in Iran.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Targol Chatrenoor, 
+Hossein Akhani
+</dc:creator>
+         <category>SYSTEMATICS AND PHYLOGENY</category>
+         <dc:title>An integrated morpho‐molecular study of Salicornia (Amaranthaceae‐Chenopodiaceae) in Iran proves Irano‐Turanian region the major center of diversity of annual glasswort species</dc:title>
+         <dc:identifier>10.1002/tax.12538</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12538</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12538?af=R</prism:url>
+         <prism:section>SYSTEMATICS AND PHYLOGENY</prism:section>
+         <prism:volume>70</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12510?af=R</link>
+         <pubDate>Wed, 20 Oct 2021 01:45:00 -0700</pubDate>
+         <dc:date>2021-10-20T01:45:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12510</guid>
+         <title>Phylogenomic data reveal four major clades of Australian Gnaphalieae (Asteraceae)</title>
+         <description>TAXON, Volume 70, Issue 5, Page 1020-1034, October 2021. </description>
+         <dc:description>
+Abstract
+Within tribe Gnaphalieae (Asteraceae), the Australasian clade is one of the four major clades. In Australia, the Gnaphalieae account for 488 species or approximately half of the native Asteraceae, encompassing wide ecological and morphological diversity including shrubs, everlasting paper daisies, cudweeds, alpine cushion plants, and ephemeral herbs in the arid zone. The evolution of the Australasian clade is still poorly understood. The most detailed previous infratribal classification of Gnaphalieae has recently been revised, resulting in the recognition of two subtribes, with all Australian species placed in subtribe Gnaphaliinae. The most comprehensive previous phylogeny of Australian Gnaphalieae used high‐copy ribosomal and chloroplast markers but showed limited resolution and branch support. We used conserved ortholog set data produced with sequence capture and 53 chloroplast genes to infer nuclear and chloroplast likelihood phylogenies for Australian Gnaphalieae, generating data for at least one species each from 80 of the 86 native genera. Four major clades were resolved: the Euchiton clade of cudweed‐like and alpine perennial species; the shrubby Cassinia clade; the predominantly perennial and eastern Australian Waitzia clade; and the predominantly ephemeral and western Australian to Eremaean Angianthus clade. The Cassinia, Waitzia, and Angianthus clades are largely congruent with “groups” in a previous morphological analysis and classification of Gnaphalieae. Analysis of ancestral ranges implied the temperate Southeast of Australia as the most likely area of origin for the Australian Gnaphalieae as a whole and for three of the four major clades. The Angianthus clade was implied to be ancestrally Eremaean, with a major secondary radiation originating in southwestern Australia. Our broadly sampled phylogeny provides a framework to inform sampling and design of future studies to test the circumscription of genera.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Within tribe Gnaphalieae (Asteraceae), the Australasian clade is one of the four major clades. In Australia, the Gnaphalieae account for 488 species or approximately half of the native Asteraceae, encompassing wide ecological and morphological diversity including shrubs, everlasting paper daisies, cudweeds, alpine cushion plants, and ephemeral herbs in the arid zone. The evolution of the Australasian clade is still poorly understood. The most detailed previous infratribal classification of Gnaphalieae has recently been revised, resulting in the recognition of two subtribes, with all Australian species placed in subtribe Gnaphaliinae. The most comprehensive previous phylogeny of Australian Gnaphalieae used high-copy ribosomal and chloroplast markers but showed limited resolution and branch support. We used conserved ortholog set data produced with sequence capture and 53 chloroplast genes to infer nuclear and chloroplast likelihood phylogenies for Australian Gnaphalieae, generating data for at least one species each from 80 of the 86 native genera. Four major clades were resolved: the Euchiton clade of cudweed-like and alpine perennial species; the shrubby Cassinia clade; the predominantly perennial and eastern Australian Waitzia clade; and the predominantly ephemeral and western Australian to Eremaean Angianthus clade. The Cassinia, Waitzia, and Angianthus clades are largely congruent with “groups” in a previous morphological analysis and classification of Gnaphalieae. Analysis of ancestral ranges implied the temperate Southeast of Australia as the most likely area of origin for the Australian Gnaphalieae as a whole and for three of the four major clades. The Angianthus clade was implied to be ancestrally Eremaean, with a major secondary radiation originating in southwestern Australia. Our broadly sampled phylogeny provides a framework to inform sampling and design of future studies to test the circumscription of genera.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Alexander N. Schmidt‐Lebuhn, 
+Jessica Bovill
+</dc:creator>
+         <category>SYSTEMATICS AND PHYLOGENY</category>
+         <dc:title>Phylogenomic data reveal four major clades of Australian Gnaphalieae (Asteraceae)</dc:title>
+         <dc:identifier>10.1002/tax.12510</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12510</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12510?af=R</prism:url>
+         <prism:section>SYSTEMATICS AND PHYLOGENY</prism:section>
+         <prism:volume>70</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12560?af=R</link>
+         <pubDate>Wed, 20 Oct 2021 01:45:00 -0700</pubDate>
+         <dc:date>2021-10-20T01:45:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12560</guid>
+         <title>Revised phylogenetic position of Nephrocytium Nägeli (Sphaeropleales, Chlorophyceae), with the description of Nephrocytiaceae fam. nov. and Nephrocytium vieirae sp. nov.</title>
+         <description>TAXON, Volume 70, Issue 5, Page 917-930, October 2021. </description>
+         <dc:description>
+Abstract
+The common planktonic green algal genus Nephrocytium was traditionally assumed to have a close relationship with the genus Oocystis and accordingly has been included in the family Oocystaceae. Although the position of Nephrocytium within the Oocystaceae has differed according to some authors over the years, its inclusion in the family has not been questioned. Following molecular studies of Oocystis, the Oocystaceae (including Nephrocytium) was removed from the class Chlorophyceae and placed in the Trebouxiophyceae. However, recent molecular studies of some of the former Oocystaceae members have returned them to the Chlorophyceae. These studies suggested the placement of Nephrocytium in the Sphaeropleales, but no taxonomic positioning within the order has been determined for the genus. The relocation of Nephrocytium agrees with a strong morphological trait – it lacks the oocystaceaean multilayered ultrastructure of the cell wall. Based on molecular markers (18S rDNA and tufA), and optical and electron microscopy, the present study aimed to establish the relationships of the genus within the Sphaeropleales. The results support the recognition of a new family, the Nephrocytiaceae, to accommodate Nephrocytium. Furthermore, we have carried out a review of previously described Nephrocytium species and based on morphological and molecular data we propose the description of Nephrocytium vieirae sp. nov.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The common planktonic green algal genus &lt;i&gt;Nephrocytium&lt;/i&gt; was traditionally assumed to have a close relationship with the genus &lt;i&gt;Oocystis&lt;/i&gt; and accordingly has been included in the family Oocystaceae. Although the position of &lt;i&gt;Nephrocytium&lt;/i&gt; within the Oocystaceae has differed according to some authors over the years, its inclusion in the family has not been questioned. Following molecular studies of &lt;i&gt;Oocystis&lt;/i&gt;, the Oocystaceae (including &lt;i&gt;Nephrocytium&lt;/i&gt;) was removed from the class Chlorophyceae and placed in the Trebouxiophyceae&lt;i&gt;.&lt;/i&gt; However, recent molecular studies of some of the former Oocystaceae members have returned them to the Chlorophyceae. These studies suggested the placement of &lt;i&gt;Nephrocytium&lt;/i&gt; in the Sphaeropleales, but no taxonomic positioning within the order has been determined for the genus. The relocation of &lt;i&gt;Nephrocytium&lt;/i&gt; agrees with a strong morphological trait – it lacks the oocystaceaean multilayered ultrastructure of the cell wall. Based on molecular markers (18S rDNA and &lt;i&gt;tufA&lt;/i&gt;), and optical and electron microscopy, the present study aimed to establish the relationships of the genus within the Sphaeropleales. The results support the recognition of a new family, the Nephrocytiaceae, to accommodate &lt;i&gt;Nephrocytium&lt;/i&gt;. Furthermore, we have carried out a review of previously described &lt;i&gt;Nephrocytium&lt;/i&gt; species and based on morphological and molecular data we propose the description of &lt;i&gt;Nephrocytium vieirae&lt;/i&gt; sp. nov.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Thaís Garcia Silva, 
+Lenka Štenclová, 
+Naiara Carolina Pereira Archanjo, 
+Inessa Lacativa Bagatini
+</dc:creator>
+         <category>SYSTEMATICS AND PHYLOGENY</category>
+         <dc:title>Revised phylogenetic position of Nephrocytium Nägeli (Sphaeropleales, Chlorophyceae), with the description of Nephrocytiaceae fam. nov. and Nephrocytium vieirae sp. nov.</dc:title>
+         <dc:identifier>10.1002/tax.12560</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12560</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12560?af=R</prism:url>
+         <prism:section>SYSTEMATICS AND PHYLOGENY</prism:section>
+         <prism:volume>70</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12526?af=R</link>
+         <pubDate>Wed, 20 Oct 2021 01:45:00 -0700</pubDate>
+         <dc:date>2021-10-20T01:45:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12526</guid>
+         <title>Repeated parallel losses of inflexed stamens in Moraceae: Phylogenomics and generic revision of the tribe Moreae and the reinstatement of the tribe Olmedieae (Moraceae)</title>
+         <description>TAXON, Volume 70, Issue 5, Page 946-988, October 2021. </description>
+         <dc:description>
+Abstract
+We present a densely sampled phylogenomic study of the mulberry tribe (Moreae, Moraceae), an economically important clade with a global distribution, revealing multiple losses of inflexed stamens, a character traditionally used to circumscribe Moreae. Inflexed stamens facilitate ballistic pollen release and are associated with wind pollination, and the results presented here suggest that losses of this character state may have evolved repeatedly in Moraceae. Neither Moreae nor several of its major genera (Morus, Streblus, Trophis) were found to be monophyletic. A revised system for a monophyletic Moreae is presented, including the reinstatement of the genera Ampalis, Maillardia, Taxotrophis, and Paratrophis, and the recognition of the new genus Afromorus. Pseudostreblus is reinstated and transferred to the Parartocarpeae, and Sloetiopsis is reinstated and transferred to the Dorstenieae. The tribe Olmedieae is reinstated, replacing the Castilleae, owing to the reinstatement of the type Olmedia and its exclusion from Moreae. Streblus s.str. is excluded from Moreae and transferred to the Olmedieae, which is characterized primarily by involucrate inflorescences without regard to stamen position. Nine new combinations are made.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;We present a densely sampled phylogenomic study of the mulberry tribe (Moreae, Moraceae), an economically important clade with a global distribution, revealing multiple losses of inflexed stamens, a character traditionally used to circumscribe Moreae. Inflexed stamens facilitate ballistic pollen release and are associated with wind pollination, and the results presented here suggest that losses of this character state may have evolved repeatedly in Moraceae. Neither Moreae nor several of its major genera (&lt;i&gt;Morus&lt;/i&gt;, &lt;i&gt;Streblus&lt;/i&gt;, &lt;i&gt;Trophis&lt;/i&gt;) were found to be monophyletic. A revised system for a monophyletic Moreae is presented, including the reinstatement of the genera &lt;i&gt;Ampalis&lt;/i&gt;, &lt;i&gt;Maillardia&lt;/i&gt;, &lt;i&gt;Taxotrophis&lt;/i&gt;, and &lt;i&gt;Paratrophis&lt;/i&gt;, and the recognition of the new genus &lt;i&gt;Afromorus&lt;/i&gt;. &lt;i&gt;Pseudostreblus&lt;/i&gt; is reinstated and transferred to the Parartocarpeae, and &lt;i&gt;Sloetiopsis&lt;/i&gt; is reinstated and transferred to the Dorstenieae. The tribe Olmedieae is reinstated, replacing the Castilleae, owing to the reinstatement of the type &lt;i&gt;Olmedia&lt;/i&gt; and its exclusion from Moreae. &lt;i&gt;Streblus&lt;/i&gt; s.str. is excluded from Moreae and transferred to the Olmedieae, which is characterized primarily by involucrate inflorescences without regard to stamen position. Nine new combinations are made.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Elliot M. Gardner, 
+Mira Garner, 
+Robyn Cowan, 
+Steven Dodsworth, 
+Niroshini Epitawalage, 
+Deby Arifiani, 
+ Sahromi, 
+William J. Baker, 
+Felix Forest, 
+Olivier Maurin, 
+Nyree J.C. Zerega, 
+Alexandre K. Monro, 
+Andrew L. Hipp
+</dc:creator>
+         <category>SYSTEMATICS AND PHYLOGENY</category>
+         <dc:title>Repeated parallel losses of inflexed stamens in Moraceae: Phylogenomics and generic revision of the tribe Moreae and the reinstatement of the tribe Olmedieae (Moraceae)</dc:title>
+         <dc:identifier>10.1002/tax.12526</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12526</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12526?af=R</prism:url>
+         <prism:section>SYSTEMATICS AND PHYLOGENY</prism:section>
+         <prism:volume>70</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12543?af=R</link>
+         <pubDate>Wed, 20 Oct 2021 01:45:00 -0700</pubDate>
+         <dc:date>2021-10-20T01:45:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12543</guid>
+         <title>A new subfamily classification of the Citrus family (Rutaceae) based on six nuclear and plastid markers</title>
+         <description>TAXON, Volume 70, Issue 5, Page 1035-1061, October 2021. </description>
+         <dc:description>
+Abstract
+Rutaceae is a family of angiosperms well known for the economically important genus Citrus. The division of Rutaceae into subfamilies is still inadequate and provisional. Previous phylogenetic studies at the family level are characterized by a limited sampling of genera and lack several crucial taxa. Here, we present a phylogenetic study based on six nuclear and plastid markers including 87.7% of the currently accepted genera, which is more than twice as many as in previous studies. Seven genera are included in a phylogenetic analysis for the first time. Most clades are resolved with high support, and we propose a new subfamily classification for Rutaceae that comprises the subfamilies Amyridoideae, Aurantioideae, Cneoroideae, Haplophylloideae, Rutoideae and Zanthoxyloideae. Aurantioideae is the only traditional subfamily that is resolved as monophyletic. We tested whether 13 morphological and karyological characters are taxonomically informative in Rutaceae. Chromosome numbers are clearly different in the two main clades of Rutaceae, but fruit characteristics, which have been used to define subfamilies in the past, do not distinguish between the main lineages of the family.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Rutaceae is a family of angiosperms well known for the economically important genus &lt;i&gt;Citrus&lt;/i&gt;. The division of Rutaceae into subfamilies is still inadequate and provisional. Previous phylogenetic studies at the family level are characterized by a limited sampling of genera and lack several crucial taxa. Here, we present a phylogenetic study based on six nuclear and plastid markers including 87.7% of the currently accepted genera, which is more than twice as many as in previous studies. Seven genera are included in a phylogenetic analysis for the first time. Most clades are resolved with high support, and we propose a new subfamily classification for Rutaceae that comprises the subfamilies Amyridoideae, Aurantioideae, Cneoroideae, Haplophylloideae, Rutoideae and Zanthoxyloideae. Aurantioideae is the only traditional subfamily that is resolved as monophyletic. We tested whether 13 morphological and karyological characters are taxonomically informative in Rutaceae. Chromosome numbers are clearly different in the two main clades of Rutaceae, but fruit characteristics, which have been used to define subfamilies in the past, do not distinguish between the main lineages of the family.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Marc S. Appelhans, 
+Michael J. Bayly, 
+Margaret M. Heslewood, 
+Milton Groppo, 
+G. Anthony Verboom, 
+Paul I. Forster, 
+Jacquelyn A. Kallunki, 
+Marco F. Duretto
+</dc:creator>
+         <category>SYSTEMATICS AND PHYLOGENY</category>
+         <dc:title>A new subfamily classification of the Citrus family (Rutaceae) based on six nuclear and plastid markers</dc:title>
+         <dc:identifier>10.1002/tax.12543</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12543</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12543?af=R</prism:url>
+         <prism:section>SYSTEMATICS AND PHYLOGENY</prism:section>
+         <prism:volume>70</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12542?af=R</link>
+         <pubDate>Wed, 20 Oct 2021 01:45:00 -0700</pubDate>
+         <dc:date>2021-10-20T01:45:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12542</guid>
+         <title>Phylogenetic analyses and modelling distributions guide conservation of a critically endangered liana species, Eleutharrhena macrocarpa (Menispermaceae)</title>
+         <description>TAXON, Volume 70, Issue 5, Page 931-945, October 2021. </description>
+         <dc:description>
+Abstract
+Phylogenetic analyses can provide an accurate identification for endangered species, which is a prerequisite for their conservation. Understanding how threats shape the current realized niche of declining species can effectively improve conservation policies. In this study, we used molecular data to identify the real Eleutharrhena macrocarpa, a critically endangered species in Yunnan, China. A niche reduction approach was used to model its range change by predicting the historic and current distributions. Our subfamily‐wide phylogenetic analyses based on five plastid DNA regions indicate that the E. macrocarpa with pinnate‐nerved leaves is real and is a member of Tiliacoreae, whereas the so‐called E. macrocarpa with triplinerved leaves is actually Haematocarpus subpeltatus, which is for the first time reported to be distributed in China. Our subsequent analyses of Tiliacoreae using seven plastid and two nuclear DNA regions further support Eleutharrhena as a distinctly monotypic genus and as sister to Pycnarrhena. Among the four prevalent barcodes in plants, three plastid DNA fragments (rbcL, matK, trnH‐psbA) failed to discriminate E. macrocarpa from Pycnarrhena; however, nuclear ribosomal internal transcribed spacer (ITS) regions could well recognize this endangered species. The distributional range of E. macrocarpa has undergone a dramatic contraction over the last 100 years and may further shrink southwestwards in the future. This dramatic range contraction might be associated with habitat loss due to increasing drought and expansion of rubber plantation. We point out the need for in situ conservation of E. macrocarpa populations, and suggest to establish a large nature reserve in southern and western Yunnan to effectively protect E. macrocarpa and other declining species that exhibit similar distribution and habitat requirements. This study highlights the significance of taxonomy and molecular phylogenetics in biological conservation.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Phylogenetic analyses can provide an accurate identification for endangered species, which is a prerequisite for their conservation. Understanding how threats shape the current realized niche of declining species can effectively improve conservation policies. In this study, we used molecular data to identify the real &lt;i&gt;Eleutharrhena macrocarpa&lt;/i&gt;, a critically endangered species in Yunnan, China. A niche reduction approach was used to model its range change by predicting the historic and current distributions. Our subfamily-wide phylogenetic analyses based on five plastid DNA regions indicate that the &lt;i&gt;E. macrocarpa&lt;/i&gt; with pinnate-nerved leaves is real and is a member of Tiliacoreae, whereas the so-called &lt;i&gt;E. macrocarpa&lt;/i&gt; with triplinerved leaves is actually &lt;i&gt;Haematocarpus subpeltatus&lt;/i&gt;, which is for the first time reported to be distributed in China. Our subsequent analyses of Tiliacoreae using seven plastid and two nuclear DNA regions further support &lt;i&gt;Eleutharrhena&lt;/i&gt; as a distinctly monotypic genus and as sister to &lt;i&gt;Pycnarrhena&lt;/i&gt;. Among the four prevalent barcodes in plants, three plastid DNA fragments (&lt;i&gt;rbcL&lt;/i&gt;, &lt;i&gt;matK&lt;/i&gt;, &lt;i&gt;trnH&lt;/i&gt;-&lt;i&gt;psbA&lt;/i&gt;) failed to discriminate &lt;i&gt;E. macrocarpa&lt;/i&gt; from &lt;i&gt;Pycnarrhena&lt;/i&gt;; however, nuclear ribosomal internal transcribed spacer (ITS) regions could well recognize this endangered species. The distributional range of &lt;i&gt;E. macrocarpa&lt;/i&gt; has undergone a dramatic contraction over the last 100 years and may further shrink southwestwards in the future. This dramatic range contraction might be associated with habitat loss due to increasing drought and expansion of rubber plantation. We point out the need for &lt;i&gt;in situ&lt;/i&gt; conservation of &lt;i&gt;E. macrocarpa&lt;/i&gt; populations, and suggest to establish a large nature reserve in southern and western Yunnan to effectively protect &lt;i&gt;E. macrocarpa&lt;/i&gt; and other declining species that exhibit similar distribution and habitat requirements. This study highlights the significance of taxonomy and molecular phylogenetics in biological conservation.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Lian Lian, 
+Jian‐Yong Shen, 
+Rosa Del C. Ortiz, 
+Sheng‐Xiang Yu, 
+Zhi‐Duan Chen, 
+Wei Wang
+</dc:creator>
+         <category>SYSTEMATICS AND PHYLOGENY</category>
+         <dc:title>Phylogenetic analyses and modelling distributions guide conservation of a critically endangered liana species, Eleutharrhena macrocarpa (Menispermaceae)</dc:title>
+         <dc:identifier>10.1002/tax.12542</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12542</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12542?af=R</prism:url>
+         <prism:section>SYSTEMATICS AND PHYLOGENY</prism:section>
+         <prism:volume>70</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12594?af=R</link>
+         <pubDate>Wed, 20 Oct 2021 01:45:00 -0700</pubDate>
+         <dc:date>2021-10-20T01:45:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12594</guid>
+         <title>Nomenclatural novelties appearing in Taxon 70 (5)</title>
+         <description>TAXON, Volume 70, Issue 5, Page 1153-1153, October 2021. </description>
+         <dc:description/>
+         <content:encoded/>
+         <dc:creator/>
+         <category>NOMENCLATURAL NOVELTIES</category>
+         <dc:title>Nomenclatural novelties appearing in Taxon 70 (5)</dc:title>
+         <dc:identifier>10.1002/tax.12594</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12594</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12594?af=R</prism:url>
+         <prism:section>NOMENCLATURAL NOVELTIES</prism:section>
+         <prism:volume>70</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12595?af=R</link>
+         <pubDate>Wed, 20 Oct 2021 01:45:00 -0700</pubDate>
+         <dc:date>2021-10-20T01:45:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12595</guid>
+         <title>Typifications appearing in Taxon 70 (5)</title>
+         <description>TAXON, Volume 70, Issue 5, Page 1154-1155, October 2021. </description>
+         <dc:description/>
+         <content:encoded/>
+         <dc:creator/>
+         <category>TYPIFICATIONS</category>
+         <dc:title>Typifications appearing in Taxon 70 (5)</dc:title>
+         <dc:identifier>10.1002/tax.12595</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12595</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12595?af=R</prism:url>
+         <prism:section>TYPIFICATIONS</prism:section>
+         <prism:volume>70</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12596?af=R</link>
+         <pubDate>Wed, 20 Oct 2021 01:45:00 -0700</pubDate>
+         <dc:date>2021-10-20T01:45:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12596</guid>
+         <title>Issue Information</title>
+         <description>TAXON, Volume 70, Issue 5, Page i-iv, October 2021. </description>
+         <dc:description/>
+         <content:encoded/>
+         <dc:creator/>
+         <category>ISSUE INFORMATION</category>
+         <dc:title>Issue Information</dc:title>
+         <dc:identifier>10.1002/tax.12596</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12596</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12596?af=R</prism:url>
+         <prism:section>ISSUE INFORMATION</prism:section>
+         <prism:volume>70</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12572?af=R</link>
+         <pubDate>Wed, 20 Oct 2021 01:45:00 -0700</pubDate>
+         <dc:date>2021-10-20T01:45:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12572</guid>
+         <title>IAPT Grants Programs for 2022</title>
+         <description>TAXON, Volume 70, Issue 5, Page 1157-1157, October 2021. </description>
+         <dc:description/>
+         <content:encoded/>
+         <dc:creator/>
+         <category>PLANT SYSTEMATICS WORLD</category>
+         <dc:title>IAPT Grants Programs for 2022</dc:title>
+         <dc:identifier>10.1002/tax.12572</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12572</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12572?af=R</prism:url>
+         <prism:section>PLANT SYSTEMATICS WORLD</prism:section>
+         <prism:volume>70</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12571?af=R</link>
+         <pubDate>Wed, 20 Oct 2021 01:45:00 -0700</pubDate>
+         <dc:date>2021-10-20T01:45:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12571</guid>
+         <title>Capitulum: The Compositae Newsletter reloaded</title>
+         <description>TAXON, Volume 70, Issue 5, Page 1156-1156, October 2021. </description>
+         <dc:description/>
+         <content:encoded/>
+         <dc:creator>
+J. Mauricio Bonifacino, 
+Jennifer R. Mandel, 
+Abigail Moore, 
+Erika R. Moore, 
+Benoit Loeuille, 
+Lizzie Roeble
+</dc:creator>
+         <category>PLANT SYSTEMATICS WORLD</category>
+         <dc:title>Capitulum: The Compositae Newsletter reloaded</dc:title>
+         <dc:identifier>10.1002/tax.12571</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12571</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12571?af=R</prism:url>
+         <prism:section>PLANT SYSTEMATICS WORLD</prism:section>
+         <prism:volume>70</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12573?af=R</link>
+         <pubDate>Wed, 20 Oct 2021 01:45:00 -0700</pubDate>
+         <dc:date>2021-10-20T01:45:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12573</guid>
+         <title>Report of the Nomenclature Committee for Algae: 23</title>
+         <description>TAXON, Volume 70, Issue 5, Page 1124-1125, October 2021. </description>
+         <dc:description>
+Summary
+The name Peridinium splendor‐maris (Blepharocysta splendor‐maris) is not recommended for conservation with the proposed conserved type. The name “Alexandrium” Halim (Dinophyceae) could not be recommended for conservation because it is not a validly published name. The name Gracilariopsis is recommended for conservation. The name Chara flexilis (Nitella flexilis) is not recommended for conservation with the proposed conserved type.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Summary&lt;/h2&gt;
+&lt;p&gt;The name &lt;i&gt;Peridinium splendor-maris&lt;/i&gt; (&lt;i&gt;Blepharocysta splendor-maris&lt;/i&gt;) is not recommended for conservation with the proposed conserved type. The name “&lt;i&gt;Alexandrium&lt;/i&gt;” Halim (&lt;i&gt;Dinophyceae&lt;/i&gt;) could not be recommended for conservation because it is not a validly published name. The name &lt;i&gt;Gracilariopsis&lt;/i&gt; is recommended for conservation. The name &lt;i&gt;Chara flexilis&lt;/i&gt; (&lt;i&gt;Nitella flexilis&lt;/i&gt;) is not recommended for conservation with the proposed conserved type.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Robert A. Andersen
+</dc:creator>
+         <category>NOMENCLATURE COMMITTEE REPORTS</category>
+         <dc:title>Report of the Nomenclature Committee for Algae: 23</dc:title>
+         <dc:identifier>10.1002/tax.12573</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12573</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12573?af=R</prism:url>
+         <prism:section>NOMENCLATURE COMMITTEE REPORTS</prism:section>
+         <prism:volume>70</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12579?af=R</link>
+         <pubDate>Wed, 20 Oct 2021 01:45:00 -0700</pubDate>
+         <dc:date>2021-10-20T01:45:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12579</guid>
+         <title>(2836) Proposal to conserve the name Asplenium arifolium (Hemionitis arifolia, Parahemionitis arifolia) (Pteridaceae) with a conserved type</title>
+         <description>TAXON, Volume 70, Issue 5, Page 1133-1134, October 2021. </description>
+         <dc:description/>
+         <content:encoded/>
+         <dc:creator>
+Stuart Lindsay, 
+David J. Middleton
+</dc:creator>
+         <category>PROPOSALS TO CONSERVE OR REJECT NAMES</category>
+         <dc:title>(2836) Proposal to conserve the name Asplenium arifolium (Hemionitis arifolia, Parahemionitis arifolia) (Pteridaceae) with a conserved type</dc:title>
+         <dc:identifier>10.1002/tax.12579</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12579</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12579?af=R</prism:url>
+         <prism:section>PROPOSALS TO CONSERVE OR REJECT NAMES</prism:section>
+         <prism:volume>70</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12576?af=R</link>
+         <pubDate>Wed, 20 Oct 2021 01:45:00 -0700</pubDate>
+         <dc:date>2021-10-20T01:45:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12576</guid>
+         <title>(2833) Proposal to conserve the name Phalacroma (Dinophysales: Dinophyceae)</title>
+         <description>TAXON, Volume 70, Issue 5, Page 1127-1128, October 2021. </description>
+         <dc:description/>
+         <content:encoded/>
+         <dc:creator>
+Fernando Gómez
+</dc:creator>
+         <category>PROPOSALS TO CONSERVE OR REJECT NAMES</category>
+         <dc:title>(2833) Proposal to conserve the name Phalacroma (Dinophysales: Dinophyceae)</dc:title>
+         <dc:identifier>10.1002/tax.12576</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12576</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12576?af=R</prism:url>
+         <prism:section>PROPOSALS TO CONSERVE OR REJECT NAMES</prism:section>
+         <prism:volume>70</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12575?af=R</link>
+         <pubDate>Wed, 20 Oct 2021 01:45:00 -0700</pubDate>
+         <dc:date>2021-10-20T01:45:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12575</guid>
+         <title>(2832) Proposal to conserve the name Pseudokephyrion against Dinobryopsis (Chrysophyceae: Dinobryaceae)</title>
+         <description>TAXON, Volume 70, Issue 5, Page 1126-1126, October 2021. </description>
+         <dc:description/>
+         <content:encoded/>
+         <dc:creator>
+Dmitry A. Kapustin, 
+Maxim S. Kulikovskiy
+</dc:creator>
+         <category>PROPOSALS TO CONSERVE OR REJECT NAMES</category>
+         <dc:title>(2832) Proposal to conserve the name Pseudokephyrion against Dinobryopsis (Chrysophyceae: Dinobryaceae)</dc:title>
+         <dc:identifier>10.1002/tax.12575</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12575</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12575?af=R</prism:url>
+         <prism:section>PROPOSALS TO CONSERVE OR REJECT NAMES</prism:section>
+         <prism:volume>70</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12578?af=R</link>
+         <pubDate>Wed, 20 Oct 2021 01:45:00 -0700</pubDate>
+         <dc:date>2021-10-20T01:45:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12578</guid>
+         <title>(2835) Proposal to conserve the name Umbilicaria spodochroa (lichenized Ascomycota) with a conserved type and with that spelling</title>
+         <description>TAXON, Volume 70, Issue 5, Page 1131-1132, October 2021. </description>
+         <dc:description/>
+         <content:encoded/>
+         <dc:creator>
+Geir Hestmark
+</dc:creator>
+         <category>PROPOSALS TO CONSERVE OR REJECT NAMES</category>
+         <dc:title>(2835) Proposal to conserve the name Umbilicaria spodochroa (lichenized Ascomycota) with a conserved type and with that spelling</dc:title>
+         <dc:identifier>10.1002/tax.12578</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12578</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12578?af=R</prism:url>
+         <prism:section>PROPOSALS TO CONSERVE OR REJECT NAMES</prism:section>
+         <prism:volume>70</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12577?af=R</link>
+         <pubDate>Wed, 20 Oct 2021 01:45:00 -0700</pubDate>
+         <dc:date>2021-10-20T01:45:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12577</guid>
+         <title>(2834) Proposal to conserve the name Sarcogyne (Acarosporaceae, lichenised Ascomycota) with a conserved type</title>
+         <description>TAXON, Volume 70, Issue 5, Page 1129-1131, October 2021. </description>
+         <dc:description/>
+         <content:encoded/>
+         <dc:creator>
+Kerry Knudsen, 
+Linda Arcadia, 
+Volkmar Wirth
+</dc:creator>
+         <category>PROPOSALS TO CONSERVE OR REJECT NAMES</category>
+         <dc:title>(2834) Proposal to conserve the name Sarcogyne (Acarosporaceae, lichenised Ascomycota) with a conserved type</dc:title>
+         <dc:identifier>10.1002/tax.12577</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12577</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12577?af=R</prism:url>
+         <prism:section>PROPOSALS TO CONSERVE OR REJECT NAMES</prism:section>
+         <prism:volume>70</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12583?af=R</link>
+         <pubDate>Wed, 20 Oct 2021 01:45:00 -0700</pubDate>
+         <dc:date>2021-10-20T01:45:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12583</guid>
+         <title>(2840) Proposal to conserve the name Lilium dauricum against L. pensylvanicum</title>
+         <description>TAXON, Volume 70, Issue 5, Page 1139-1140, October 2021. </description>
+         <dc:description/>
+         <content:encoded/>
+         <dc:creator>
+Yundong Gao
+</dc:creator>
+         <category>PROPOSALS TO CONSERVE OR REJECT NAMES</category>
+         <dc:title>(2840) Proposal to conserve the name Lilium dauricum against L. pensylvanicum</dc:title>
+         <dc:identifier>10.1002/tax.12583</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12583</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12583?af=R</prism:url>
+         <prism:section>PROPOSALS TO CONSERVE OR REJECT NAMES</prism:section>
+         <prism:volume>70</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12582?af=R</link>
+         <pubDate>Wed, 20 Oct 2021 01:45:00 -0700</pubDate>
+         <dc:date>2021-10-20T01:45:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12582</guid>
+         <title>(2839) Proposal to conserve the name Triticum caninum (Elymus caninus) (Poaceae) with a conserved type</title>
+         <description>TAXON, Volume 70, Issue 5, Page 1138-1139, October 2021. </description>
+         <dc:description/>
+         <content:encoded/>
+         <dc:creator>
+Santiago Andrés‐Sánchez, 
+Víctor Lucía, 
+M. Montserrat Martínez‐Ortega, 
+Enrique Rico
+</dc:creator>
+         <category>PROPOSALS TO CONSERVE OR REJECT NAMES</category>
+         <dc:title>(2839) Proposal to conserve the name Triticum caninum (Elymus caninus) (Poaceae) with a conserved type</dc:title>
+         <dc:identifier>10.1002/tax.12582</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12582</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12582?af=R</prism:url>
+         <prism:section>PROPOSALS TO CONSERVE OR REJECT NAMES</prism:section>
+         <prism:volume>70</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12585?af=R</link>
+         <pubDate>Wed, 20 Oct 2021 01:45:00 -0700</pubDate>
+         <dc:date>2021-10-20T01:45:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12585</guid>
+         <title>(2842) Proposal to conserve Coumarouna panamensis (Dipteryx panamensis) against D. oleifera (Leguminosae)</title>
+         <description>TAXON, Volume 70, Issue 5, Page 1142-1144, October 2021. </description>
+         <dc:description/>
+         <content:encoded/>
+         <dc:creator>
+Catarina S. Carvalho, 
+Domingos B.O.S. Cardoso, 
+Haroldo C. Lima, 
+Nelson A. Zamora, 
+Bente B. Klitgaard
+</dc:creator>
+         <category>PROPOSALS TO CONSERVE OR REJECT NAMES</category>
+         <dc:title>(2842) Proposal to conserve Coumarouna panamensis (Dipteryx panamensis) against D. oleifera (Leguminosae)</dc:title>
+         <dc:identifier>10.1002/tax.12585</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12585</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12585?af=R</prism:url>
+         <prism:section>PROPOSALS TO CONSERVE OR REJECT NAMES</prism:section>
+         <prism:volume>70</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12584?af=R</link>
+         <pubDate>Wed, 20 Oct 2021 01:45:00 -0700</pubDate>
+         <dc:date>2021-10-20T01:45:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12584</guid>
+         <title>(2841) Proposal to conserve Lechea verticillata (Bergia ammannioides) (Elatinaceae) with a conserved type</title>
+         <description>TAXON, Volume 70, Issue 5, Page 1140-1142, October 2021. </description>
+         <dc:description/>
+         <content:encoded/>
+         <dc:creator>
+Gregory J. Leach
+</dc:creator>
+         <category>PROPOSALS TO CONSERVE OR REJECT NAMES</category>
+         <dc:title>(2841) Proposal to conserve Lechea verticillata (Bergia ammannioides) (Elatinaceae) with a conserved type</dc:title>
+         <dc:identifier>10.1002/tax.12584</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12584</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12584?af=R</prism:url>
+         <prism:section>PROPOSALS TO CONSERVE OR REJECT NAMES</prism:section>
+         <prism:volume>70</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12581?af=R</link>
+         <pubDate>Wed, 20 Oct 2021 01:45:00 -0700</pubDate>
+         <dc:date>2021-10-20T01:45:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12581</guid>
+         <title>(2838) Proposal to conserve the name Pancratium flavum (Stenomesson flavum) against P. croceum (S. croceum, Clinanthus croceus) (Amaryllidaceae)</title>
+         <description>TAXON, Volume 70, Issue 5, Page 1136-1137, October 2021. </description>
+         <dc:description/>
+         <content:encoded/>
+         <dc:creator>
+Norton Cuba‐Melly, 
+Alan W. Meerow
+</dc:creator>
+         <category>PROPOSALS TO CONSERVE OR REJECT NAMES</category>
+         <dc:title>(2838) Proposal to conserve the name Pancratium flavum (Stenomesson flavum) against P. croceum (S. croceum, Clinanthus croceus) (Amaryllidaceae)</dc:title>
+         <dc:identifier>10.1002/tax.12581</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12581</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12581?af=R</prism:url>
+         <prism:section>PROPOSALS TO CONSERVE OR REJECT NAMES</prism:section>
+         <prism:volume>70</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12580?af=R</link>
+         <pubDate>Wed, 20 Oct 2021 01:45:00 -0700</pubDate>
+         <dc:date>2021-10-20T01:45:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12580</guid>
+         <title>(2837) Proposal to reject the name Juniperus lycia (Cupressaceae)</title>
+         <description>TAXON, Volume 70, Issue 5, Page 1134-1136, October 2021. </description>
+         <dc:description/>
+         <content:encoded/>
+         <dc:creator>
+P. Pablo Ferrer‐Gallego, 
+Emilio Laguna
+</dc:creator>
+         <category>PROPOSALS TO CONSERVE OR REJECT NAMES</category>
+         <dc:title>(2837) Proposal to reject the name Juniperus lycia (Cupressaceae)</dc:title>
+         <dc:identifier>10.1002/tax.12580</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12580</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12580?af=R</prism:url>
+         <prism:section>PROPOSALS TO CONSERVE OR REJECT NAMES</prism:section>
+         <prism:volume>70</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12587?af=R</link>
+         <pubDate>Wed, 20 Oct 2021 01:45:00 -0700</pubDate>
+         <dc:date>2021-10-20T01:45:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12587</guid>
+         <title>(2845) Proposal to conserve the name Nicotiana benthamiana (N. suaveolens var. cordifolia) (Solanaceae) with a conserved type</title>
+         <description>TAXON, Volume 70, Issue 5, Page 1146-1147, October 2021. </description>
+         <dc:description/>
+         <content:encoded/>
+         <dc:creator>
+Mark W. Chase, 
+Sandra Knapp, 
+Luiz A. Cauz‐Santos, 
+Maarten J.M. Christenhusz
+</dc:creator>
+         <category>PROPOSALS TO CONSERVE OR REJECT NAMES</category>
+         <dc:title>(2845) Proposal to conserve the name Nicotiana benthamiana (N. suaveolens var. cordifolia) (Solanaceae) with a conserved type</dc:title>
+         <dc:identifier>10.1002/tax.12587</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12587</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12587?af=R</prism:url>
+         <prism:section>PROPOSALS TO CONSERVE OR REJECT NAMES</prism:section>
+         <prism:volume>70</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12586?af=R</link>
+         <pubDate>Wed, 20 Oct 2021 01:45:00 -0700</pubDate>
+         <dc:date>2021-10-20T01:45:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12586</guid>
+         <title>(2843) Proposal to conserve the name Bertolonia carmoi against B. ovata (Melastomataceae)</title>
+         <description>TAXON, Volume 70, Issue 5, Page 1144-1145, October 2021. </description>
+         <dc:description/>
+         <content:encoded/>
+         <dc:creator>
+José Fernando A. Baumgratz, 
+Thiago E.C. Meneguzzo
+</dc:creator>
+         <category>PROPOSALS TO CONSERVE OR REJECT NAMES</category>
+         <dc:title>(2843) Proposal to conserve the name Bertolonia carmoi against B. ovata (Melastomataceae)</dc:title>
+         <dc:identifier>10.1002/tax.12586</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12586</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12586?af=R</prism:url>
+         <prism:section>PROPOSALS TO CONSERVE OR REJECT NAMES</prism:section>
+         <prism:volume>70</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12589?af=R</link>
+         <pubDate>Wed, 20 Oct 2021 01:45:00 -0700</pubDate>
+         <dc:date>2021-10-20T01:45:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Oct 2021 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12589</guid>
+         <title>(2844) Proposal to conserve the name Rubus tsangiorum against R. hatsushimae (Rosaceae)</title>
+         <description>TAXON, Volume 70, Issue 5, Page 1145-1146, October 2021. </description>
+         <dc:description/>
+         <content:encoded/>
+         <dc:creator>
+Xian‐Hua Xiong, 
+Bo Xu, 
+Xin‐Fen Gao
+</dc:creator>
+         <category>PROPOSALS TO CONSERVE OR REJECT NAMES</category>
+         <dc:title>(2844) Proposal to conserve the name Rubus tsangiorum against R. hatsushimae (Rosaceae)</dc:title>
+         <dc:identifier>10.1002/tax.12589</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12589</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12589?af=R</prism:url>
+         <prism:section>PROPOSALS TO CONSERVE OR REJECT NAMES</prism:section>
+         <prism:volume>70</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12593?af=R</link>
+         <pubDate>Tue, 19 Oct 2021 14:21:51 -0700</pubDate>
+         <dc:date>2021-10-19T02:21:51-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Sun, 12 Sep 2021 11:07:48 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Sun, 12 Sep 2021 11:07:48 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12593</guid>
+         <title>Molecular‐based phylogenetic placement and revision of Micrasepalum (Spermacoceae‐Rubiaceae)</title>
+         <description>TAXON, EarlyView. </description>
+         <dc:description>
+Abstract
+Micrasepalum is a taxonomically and phylogenetically poorly understood genus of Rubiaceae endemic to the global biodiversity hotspot of the Caribbean islands. It has traditionally been associated with species in the Spermacoce clade, but never properly evaluated in a phylogenetic context. Also, little information about seed and fruit morphology of Micrasepalum species was provided in their original descriptions and the few subsequent taxonomic treatments. We performed a molecular phylogenetic study based on nuclear (ITS, ETS) and plastid (atpB‐rbcL, petD, rps16, trnL‐trnF) DNA sequence data to resolve the enigmatic taxonomic identity of Micrasepalum. Our analyses show a largely unresolved or poorly supported backbone in both the nuclear and plastid phylogenies of the Spermacoce clade, so that the sister relationship of Micrasepalum is still uncertain. Merging Micrasepalum with any lineage of the polyphyletic Borreria and Spermacoce or the phylogenetically well‐defined Hexasepalum, Mitracarpus or Richardia would result in a morphologically heterogeneous collection of genera difficult to recognize within the Spermacoce clade. The unresolved relationships within the species‐rich Spermacoce clade are suggestive of a rapid radiation in which Micrasepalum is one of several phylogenetically recalcitrant lineages, but that can be clearly defined morphologically. The genus is distinctive in having a caducous, 2‐lobed calyx and indehiscent, one‐seeded fruit. An updated identification key for all Caribbean genera of the Spermacoce clade and a full taxonomic revision of Micrasepalum are presented, including descriptions focused on reproductive characters, palynological analysis, a distribution map and new lectotypifications, as well as a new synonym for M. eritrichoides.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;&lt;i&gt;Micrasepalum&lt;/i&gt; is a taxonomically and phylogenetically poorly understood genus of Rubiaceae endemic to the global biodiversity hotspot of the Caribbean islands. It has traditionally been associated with species in the Spermacoce clade, but never properly evaluated in a phylogenetic context. Also, little information about seed and fruit morphology of &lt;i&gt;Micrasepalum&lt;/i&gt; species was provided in their original descriptions and the few subsequent taxonomic treatments. We performed a molecular phylogenetic study based on nuclear (ITS, ETS) and plastid (&lt;i&gt;atpB-rbcL&lt;/i&gt;, &lt;i&gt;petD&lt;/i&gt;, &lt;i&gt;rps16&lt;/i&gt;, &lt;i&gt;trnL-trnF&lt;/i&gt;) DNA sequence data to resolve the enigmatic taxonomic identity of &lt;i&gt;Micrasepalum&lt;/i&gt;. Our analyses show a largely unresolved or poorly supported backbone in both the nuclear and plastid phylogenies of the Spermacoce clade, so that the sister relationship of &lt;i&gt;Micrasepalum&lt;/i&gt; is still uncertain. Merging &lt;i&gt;Micrasepalum&lt;/i&gt; with any lineage of the polyphyletic &lt;i&gt;Borreria&lt;/i&gt; and &lt;i&gt;Spermacoce&lt;/i&gt; or the phylogenetically well-defined &lt;i&gt;Hexasepalum&lt;/i&gt;, &lt;i&gt;Mitracarpus&lt;/i&gt; or &lt;i&gt;Richardia&lt;/i&gt; would result in a morphologically heterogeneous collection of genera difficult to recognize within the Spermacoce clade. The unresolved relationships within the species-rich Spermacoce clade are suggestive of a rapid radiation in which &lt;i&gt;Micrasepalum&lt;/i&gt; is one of several phylogenetically recalcitrant lineages, but that can be clearly defined morphologically. The genus is distinctive in having a caducous, 2-lobed calyx and indehiscent, one-seeded fruit. An updated identification key for all Caribbean genera of the Spermacoce clade and a full taxonomic revision of &lt;i&gt;Micrasepalum&lt;/i&gt; are presented, including descriptions focused on reproductive characters, palynological analysis, a distribution map and new lectotypifications, as well as a new synonym for &lt;i&gt;M. eritrichoides&lt;/i&gt;.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Mariela Nuñez Florentin, 
+Roberto M. Salas, 
+Steven B. Janssens, 
+Steven Dessein, 
+Domingos Cardoso
+</dc:creator>
+         <category>SYSTEMATICS AND PHYLOGENY</category>
+         <dc:title>Molecular‐based phylogenetic placement and revision of Micrasepalum (Spermacoceae‐Rubiaceae)</dc:title>
+         <dc:identifier>10.1002/tax.12593</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12593</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12593?af=R</prism:url>
+         <prism:section>SYSTEMATICS AND PHYLOGENY</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12590?af=R</link>
+         <pubDate>Mon, 11 Oct 2021 21:53:54 -0700</pubDate>
+         <dc:date>2021-10-11T09:53:54-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Sun, 12 Sep 2021 11:07:48 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Sun, 12 Sep 2021 11:07:48 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12590</guid>
+         <title>Clusia suborbicularis is not a synonym of Clusia flava: Molecular and metabolomic evidence</title>
+         <description>TAXON, EarlyView. </description>
+         <dc:description>
+Abstract
+The genus Clusia (Clusiaceae) is notorious for its difficult taxonomy; most species are dioecious, with distantly related species having similar morphology, and closely related species having cryptic morphological differences. Because of this, Clusia spp. are often misidentified or, as in the case of C. suborbicularis and C. flava, considered to be the same species. Chemometric analyses of the HPLC metabolic profiles from bark extracts of C. suborbicularis and C. flava, combined with molecular evidence from ITS molecular markers were used to establish the metabolomic similarities and phylogenetic relationship between C. suborbicularis and C. flava, previously identified on the basis of their morphological characteristics. The principal component analyses of the HPLC metabolic profiles of bark extracts from individuals of C. suborbicularis and C. flava showed significant differences, suggesting they should be recognized as distinct species. This assumption was confirmed by phylogenetic reconstructions based on the molecular marker ITS. Furthermore, a theoretical geographical distribution analysis suggests C. suborbicularis could be considered a native species to the Yucatán Peninsula. The results from this investigation support C. suborbicularis as a distinct species, and not a synonym of C. flava. The identification of these two species represents a relevant contribution for the cataloguing, conservation and bioprospecting of Clusia spp. occurring in the Yucatán Peninsula.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The genus &lt;i&gt;Clusia&lt;/i&gt; (Clusiaceae) is notorious for its difficult taxonomy; most species are dioecious, with distantly related species having similar morphology, and closely related species having cryptic morphological differences. Because of this, &lt;i&gt;Clusia&lt;/i&gt; spp. are often misidentified or, as in the case of &lt;i&gt;C. suborbicularis&lt;/i&gt; and &lt;i&gt;C. flava&lt;/i&gt;, considered to be the same species. Chemometric analyses of the HPLC metabolic profiles from bark extracts of &lt;i&gt;C. suborbicularis&lt;/i&gt; and &lt;i&gt;C. flava&lt;/i&gt;, combined with molecular evidence from ITS molecular markers were used to establish the metabolomic similarities and phylogenetic relationship between &lt;i&gt;C. suborbicularis&lt;/i&gt; and &lt;i&gt;C. flava&lt;/i&gt;, previously identified on the basis of their morphological characteristics. The principal component analyses of the HPLC metabolic profiles of bark extracts from individuals of &lt;i&gt;C. suborbicularis&lt;/i&gt; and &lt;i&gt;C. flava&lt;/i&gt; showed significant differences, suggesting they should be recognized as distinct species. This assumption was confirmed by phylogenetic reconstructions based on the molecular marker ITS. Furthermore, a theoretical geographical distribution analysis suggests &lt;i&gt;C. suborbicularis&lt;/i&gt; could be considered a native species to the Yucatán Peninsula. The results from this investigation support &lt;i&gt;C. suborbicularis&lt;/i&gt; as a distinct species, and not a synonym of &lt;i&gt;C. flava&lt;/i&gt;. The identification of these two species represents a relevant contribution for the cataloguing, conservation and bioprospecting of &lt;i&gt;Clusia&lt;/i&gt; spp. occurring in the Yucatán Peninsula.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Luis Alfredo Herbert‐Doctor, 
+Gabriel Dzib, 
+Barry Edward Hammel, 
+Bartolomé Humberto Chi‐Manzanero, 
+Blondy Beatriz Canto‐Canché, 
+Karlina García‐Sosa, 
+Pascal Richomme, 
+Séverine Derbré, 
+Luis Manuel Peña‐Rodríguez
+</dc:creator>
+         <category>SYSTEMATICS AND PHYLOGENY</category>
+         <dc:title>Clusia suborbicularis is not a synonym of Clusia flava: Molecular and metabolomic evidence</dc:title>
+         <dc:identifier>10.1002/tax.12590</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12590</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12590?af=R</prism:url>
+         <prism:section>SYSTEMATICS AND PHYLOGENY</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12592?af=R</link>
+         <pubDate>Thu, 07 Oct 2021 03:34:24 -0700</pubDate>
+         <dc:date>2021-10-07T03:34:24-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Sun, 12 Sep 2021 11:07:48 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Sun, 12 Sep 2021 11:07:48 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12592</guid>
+         <title>Epitypification of the Linnaean name Crepis bursifolia (Asteraceae)</title>
+         <description>TAXON, EarlyView. </description>
+         <dc:description>
+Abstract
+The epitypification of the Linnaean name Crepis bursifolia is discussed. An illustration from Boccone's Museo di piante rare della Sicilia, Malta, Corsica, Italia, Piemonte, e Germania was correctly designated as lectotype by Jiménez López &amp; al. in 2013 according to Art. 7.11 of the ICN. However, this image lacks some of the important characters required for a critical identification of the species (i.e., hairiness of receptacle, length of achenes, number of ribs on the achene surface, and presence of a distinct apical beak on the achene). Following Art. 9.9 of the ICN, an epitype deposited at HFLA is selected to serve as an interpretative type of the lectotype of C. bursifolia.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The epitypification of the Linnaean name &lt;i&gt;Crepis bursifolia&lt;/i&gt; is discussed. An illustration from Boccone's &lt;i&gt;Museo di piante rare della Sicilia, Malta, Corsica, Italia, Piemonte, e Germania&lt;/i&gt; was correctly designated as lectotype by Jiménez López &amp; al. in 2013 according to Art. 7.11 of the &lt;i&gt;ICN&lt;/i&gt;. However, this image lacks some of the important characters required for a critical identification of the species (i.e., hairiness of receptacle, length of achenes, number of ribs on the achene surface, and presence of a distinct apical beak on the achene). Following Art. 9.9 of the &lt;i&gt;ICN&lt;/i&gt;, an epitype deposited at HFLA is selected to serve as an interpretative type of the lectotype of &lt;i&gt;C. bursifolia&lt;/i&gt;.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Duilio Iamonico, 
+Paola Fortini, 
+Romeo Di Pietro
+</dc:creator>
+         <category>NOMENCLATURE</category>
+         <dc:title>Epitypification of the Linnaean name Crepis bursifolia (Asteraceae)</dc:title>
+         <dc:identifier>10.1002/tax.12592</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12592</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12592?af=R</prism:url>
+         <prism:section>NOMENCLATURE</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12588?af=R</link>
+         <pubDate>Wed, 06 Oct 2021 07:01:22 -0700</pubDate>
+         <dc:date>2021-10-06T07:01:22-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Sun, 12 Sep 2021 11:07:48 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Sun, 12 Sep 2021 11:07:48 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12588</guid>
+         <title>Aenigmanu, a new genus of Picramniaceae from Western Amazonia</title>
+         <description>TAXON, EarlyView. </description>
+         <dc:description>
+Abstract
+An unusual tree was collected in the Manu National Park in Peru in 1973 and although recollected many times, remained unidentified for decades. Preliminary molecular analysis indicated that it belonged to the Picramniaceae, even though the vegetative features were discordant. Using the nuclear marker ITS and the chloroplast marker rbcL, sequences were analyzed using Bayesian inference and maximum likelihood methods. The molecular analyses and study of the morphology showed that it is a new genus and species of Picramniaceae, herein described as Aenigmanu alvareziae. We provide a full morphological description, illustrations, and a distribution map of the new taxon, as well as a revised key to the genera of Picramniaceae.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;An unusual tree was collected in the Manu National Park in Peru in 1973 and although recollected many times, remained unidentified for decades. Preliminary molecular analysis indicated that it belonged to the Picramniaceae, even though the vegetative features were discordant. Using the nuclear marker ITS and the chloroplast marker &lt;i&gt;rbcL&lt;/i&gt;, sequences were analyzed using Bayesian inference and maximum likelihood methods. The molecular analyses and study of the morphology showed that it is a new genus and species of Picramniaceae, herein described as &lt;i&gt;Aenigmanu alvareziae&lt;/i&gt;. We provide a full morphological description, illustrations, and a distribution map of the new taxon, as well as a revised key to the genera of Picramniaceae.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+William Wayt Thomas, 
+Nancy Hensold, 
+Robin Foster, 
+Richard H. Ree, 
+Raimundo Luciano Soares Neto
+</dc:creator>
+         <category>SYSTEMATICS AND PHYLOGENY</category>
+         <dc:title>Aenigmanu, a new genus of Picramniaceae from Western Amazonia</dc:title>
+         <dc:identifier>10.1002/tax.12588</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12588</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12588?af=R</prism:url>
+         <prism:section>SYSTEMATICS AND PHYLOGENY</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12574?af=R</link>
+         <pubDate>Thu, 30 Sep 2021 05:20:40 -0700</pubDate>
+         <dc:date>2021-09-30T05:20:40-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Sun, 12 Sep 2021 11:07:48 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Sun, 12 Sep 2021 11:07:48 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12574</guid>
+         <title>Typification of Sphaeria sinensis to precisely fix the application of the name of the economically important Chinese caterpillar fungus, Ophiocordyceps sinensis</title>
+         <description>TAXON, EarlyView. </description>
+         <dc:description>
+Abstract
+There is a long‐standing need to fix the application of the name Sphaeria sinensis, basionym of the economically important Chinese caterpillar fungus Ophiocordyceps sinensis, at the molecular level. The fungus was described by Berkeley in 1843, and is now harvested in the Tibetan Plateau (including the Himalayas). This need arises because of the existence of putative later synonyms in need of confirmation, existence of multiple haplotypes, occurrence of diverged ITS paralogs, and need to be confident of the identity of commercially grown cultures of the asexual morph. Here we report the rediscovery of original material in a spirit collection originally held in the Natural History Museum London but now at the Royal Botanic Gardens Kew. There are also three undated collections under this name in the Kew Fungarium from Berkeley's herbarium, and another with the name of Reeves, who sent the material to the U.K., but which originated from Hooker's herbarium. There is no proof that any of these four dried collections were used by Berkeley when describing the species. The collection in the spirit jar and the published illustration are the only original materials, and that in the spirit jar is designated as lectotype here; the collection from Hooker's herbarium may be an isolectotype but it was not studied by Berkeley. As no DNA would have been recoverable from the spirit collection, we endeavoured to extract DNA from two of the dried collections. Routine DNA amplification did not yield any ITS fragments, so a metagenomic approach was used and the collection from Hooker's herbarium yielded an entire 3189 bp ITS sequence most similar to those of the haplotype that predominates in the major distributional area of the fungus. A rich modern collection from the core region of the fungus in China, with ample stromata of the fungus on the host, and the ITS sequence matching that obtained from the dried specimen from Hooker's herbarium, is designated as epitype to unequivocally fix the application of the name. Ex‐type living cultures from the epitype were obtained and are also being maintained.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;There is a long-standing need to fix the application of the name &lt;i&gt;Sphaeria sinensis&lt;/i&gt;, basionym of the economically important Chinese caterpillar fungus &lt;i&gt;Ophiocordyceps sinensis&lt;/i&gt;, at the molecular level. The fungus was described by Berkeley in 1843, and is now harvested in the Tibetan Plateau (including the Himalayas). This need arises because of the existence of putative later synonyms in need of confirmation, existence of multiple haplotypes, occurrence of diverged ITS paralogs, and need to be confident of the identity of commercially grown cultures of the asexual morph. Here we report the rediscovery of original material in a spirit collection originally held in the Natural History Museum London but now at the Royal Botanic Gardens Kew. There are also three undated collections under this name in the Kew Fungarium from Berkeley's herbarium, and another with the name of Reeves, who sent the material to the U.K., but which originated from Hooker's herbarium. There is no proof that any of these four dried collections were used by Berkeley when describing the species. The collection in the spirit jar and the published illustration are the only original materials, and that in the spirit jar is designated as lectotype here; the collection from Hooker's herbarium may be an isolectotype but it was not studied by Berkeley. As no DNA would have been recoverable from the spirit collection, we endeavoured to extract DNA from two of the dried collections. Routine DNA amplification did not yield any ITS fragments, so a metagenomic approach was used and the collection from Hooker's herbarium yielded an entire 3189 bp ITS sequence most similar to those of the haplotype that predominates in the major distributional area of the fungus. A rich modern collection from the core region of the fungus in China, with ample stromata of the fungus on the host, and the ITS sequence matching that obtained from the dried specimen from Hooker's herbarium, is designated as epitype to unequivocally fix the application of the name. Ex-type living cultures from the epitype were obtained and are also being maintained.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Yi Li, 
+Lan Jiang, 
+David L. Hawksworth, 
+Yong‐Hui Wang, 
+Jiao‐Jiao Lu, 
+Yi‐Jian Yao
+</dc:creator>
+         <category>NOMENCLATURE</category>
+         <dc:title>Typification of Sphaeria sinensis to precisely fix the application of the name of the economically important Chinese caterpillar fungus, Ophiocordyceps sinensis</dc:title>
+         <dc:identifier>10.1002/tax.12574</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12574</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12574?af=R</prism:url>
+         <prism:section>NOMENCLATURE</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12569?af=R</link>
+         <pubDate>Thu, 23 Sep 2021 05:32:31 -0700</pubDate>
+         <dc:date>2021-09-23T05:32:31-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Sun, 12 Sep 2021 11:07:48 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Sun, 12 Sep 2021 11:07:48 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12569</guid>
+         <title>The Latin name for Assam tea revisited and the further nomenclatural significance of the three editions of Julius Bosse's Vollständiges Handbuch der Blumengärtnerei – and contemporary compendia</title>
+         <description>TAXON, EarlyView. </description>
+         <dc:description>
+Abstract
+Two early validly published names for Assam tea (Camellia sinensis var. assamica “(Choisy) Kitam.)”) are identified: Thea assamica Royle ex Hook. 1847 and T. assamica Hort. Belg. ex Bosse 1854; an amended synonymy and a neotypification (with D.‐W. Zhao) for the name of Assam tea, C. sinensis var. assamica (Hook.) Steenis, are provided. The three editions (1829–1861) of Bosse's Vollständiges Handbuch der Blumengärtnerei are also the neglected places of publication of some plant‐names (or their basionyms) in current use; Grevillea lawrenceana Bosse (neotype designated here by P.M. Olde) is an earlier name for G. curviloba McGill. (Proteaceae); Hedera algeriensis (Araliaceae), the name used by Bosse for a now much‐cultivated ivy, was first published by Morren in 1853; an early valid, available name for the florist's cineraria (Senecio hybridus Bosse) is Cineraria ×kewensis Rob. (Compositae), here neotypified (with D.J.N. Hind); the basionym for the well‐known garden plant‐name, “Erysimum ×kewense” (Cruciferae) is identified and neotypified (with D.J.N. Hind), the accepted binomial validated. The currently accepted name for commercial fustic, Maclura tinctoria (Moraceae), was first validly published in Loudon's Hortus Britannicus (1830).
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Two early validly published names for Assam tea (&lt;i&gt;Camellia sinensis&lt;/i&gt; var. &lt;i&gt;assamica&lt;/i&gt; “(Choisy) Kitam.)”) are identified: &lt;i&gt;Thea assamica&lt;/i&gt; Royle ex Hook. 1847 and &lt;i&gt;T. assamica&lt;/i&gt; Hort. Belg. ex Bosse 1854; an amended synonymy and a neotypification (with D.-W. Zhao) for the name of Assam tea, &lt;i&gt;C. sinensis&lt;/i&gt; var. &lt;i&gt;assamica&lt;/i&gt; (Hook.) Steenis, are provided. The three editions (1829–1861) of Bosse's &lt;i&gt;Vollständiges Handbuch der Blumengärtnerei&lt;/i&gt; are also the neglected places of publication of some plant-names (or their basionyms) in current use; &lt;i&gt;Grevillea lawrenceana&lt;/i&gt; Bosse (neotype designated here by P.M. Olde) is an earlier name for &lt;i&gt;G. curviloba&lt;/i&gt; McGill. (Proteaceae); &lt;i&gt;Hedera algeriensis&lt;/i&gt; (Araliaceae), the name used by Bosse for a now much-cultivated ivy, was first published by Morren in 1853; an early valid, available name for the florist's cineraria (&lt;i&gt;Senecio hybridus&lt;/i&gt; Bosse) is &lt;i&gt;Cineraria&lt;/i&gt; ×&lt;i&gt;kewensis&lt;/i&gt; Rob. (Compositae), here neotypified (with D.J.N. Hind); the basionym for the well-known garden plant-name, “&lt;i&gt;Erysimum&lt;/i&gt; ×&lt;i&gt;kewense&lt;/i&gt;” (Cruciferae) is identified and neotypified (with D.J.N. Hind), the accepted binomial validated. The currently accepted name for commercial fustic, &lt;i&gt;Maclura tinctoria&lt;/i&gt; (Moraceae), was first validly published in Loudon's &lt;i&gt;Hortus Britannicus&lt;/i&gt; (1830).&lt;/p&gt;</content:encoded>
+         <dc:creator>
+David J. Mabberley
+</dc:creator>
+         <category>NOMENCLATURE</category>
+         <dc:title>The Latin name for Assam tea revisited and the further nomenclatural significance of the three editions of Julius Bosse's Vollständiges Handbuch der Blumengärtnerei – and contemporary compendia</dc:title>
+         <dc:identifier>10.1002/tax.12569</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12569</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12569?af=R</prism:url>
+         <prism:section>NOMENCLATURE</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12562?af=R</link>
+         <pubDate>Tue, 21 Sep 2021 00:00:00 -0700</pubDate>
+         <dc:date>2021-09-21T12:00:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Sun, 12 Sep 2021 11:07:48 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Sun, 12 Sep 2021 11:07:48 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12562</guid>
+         <title>Phylogeny, character evolution and taxonomic revision of Causonis, a segregate genus from Cayratia (Vitaceae)</title>
+         <description>TAXON, EarlyView. </description>
+         <dc:description>
+Abstract
+Causonis (Vitaceae) is widely distributed in the tropical, sub‐tropical and temperate regions from Asia to Australia. The genus was established by Rafinesque in 1830 but included under Cayratia by Gagnepain in 1911. Generic status of Causonis was restored in 2013, but circumscription of the genus and its species remained poorly understood. Here, we sample 92 accessions of Causonis to reconstruct the phylogenetic relationships within the genus using four chloroplast loci (atpB‐rbcL, trnC‐petN, trnH‐psbA, trnL‐F) and three nuclear loci (AS1, At103, ITS). Both the chloroplast and nuclear data support the monophyly of Causonis, and relationships among major clades of the genus are well‐supported based on the chloroplast data. The first diverged clade consists of two species both endemic to Australasia. Evolutionary trends of eight morphological characters are tested through ancestral character state reconstruction using the chloroplast dataset. We recognize 16 species and 4 varieties in Causonis, including two new species: C. australasica sp. nov. and C. glauca sp. nov. We herein make 10 new combinations for eight species and two varieties. The widespread Causonis japonica is also redefined based on morphological and molecular evidence.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;&lt;i&gt;Causonis&lt;/i&gt; (Vitaceae) is widely distributed in the tropical, sub-tropical and temperate regions from Asia to Australia. The genus was established by Rafinesque in 1830 but included under &lt;i&gt;Cayratia&lt;/i&gt; by Gagnepain in 1911. Generic status of &lt;i&gt;Causonis&lt;/i&gt; was restored in 2013, but circumscription of the genus and its species remained poorly understood. Here, we sample 92 accessions of &lt;i&gt;Causonis&lt;/i&gt; to reconstruct the phylogenetic relationships within the genus using four chloroplast loci (&lt;i&gt;atpB-rbcL&lt;/i&gt;, &lt;i&gt;trnC-petN&lt;/i&gt;, &lt;i&gt;trnH-psbA&lt;/i&gt;, &lt;i&gt;trnL-F&lt;/i&gt;) and three nuclear loci (&lt;i&gt;AS1&lt;/i&gt;, &lt;i&gt;At103&lt;/i&gt;, ITS). Both the chloroplast and nuclear data support the monophyly of &lt;i&gt;Causonis&lt;/i&gt;, and relationships among major clades of the genus are well-supported based on the chloroplast data. The first diverged clade consists of two species both endemic to Australasia. Evolutionary trends of eight morphological characters are tested through ancestral character state reconstruction using the chloroplast dataset. We recognize 16 species and 4 varieties in &lt;i&gt;Causonis&lt;/i&gt;, including two new species: &lt;i&gt;C. australasica&lt;/i&gt; sp. nov. and &lt;i&gt;C. glauca&lt;/i&gt; sp. nov. We herein make 10 new combinations for eight species and two varieties. The widespread &lt;i&gt;Causonis japonica&lt;/i&gt; is also redefined based on morphological and molecular evidence.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Gaurav Parmar, 
+Viet‐Cuong Dang, 
+Romer Narindra Rabarijaona, 
+Zhi‐Duan Chen, 
+Betsy R. Jackes, 
+Russell L. Barrett, 
+Zhu‐Zhi Zhang, 
+Yan‐Ting Niu, 
+Anna Trias‐Blasi, 
+Jun Wen, 
+Li‐Min Lu
+</dc:creator>
+         <category>SYSTEMATICS AND PHYLOGENY</category>
+         <dc:title>Phylogeny, character evolution and taxonomic revision of Causonis, a segregate genus from Cayratia (Vitaceae)</dc:title>
+         <dc:identifier>10.1002/tax.12562</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12562</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12562?af=R</prism:url>
+         <prism:section>SYSTEMATICS AND PHYLOGENY</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12568?af=R</link>
+         <pubDate>Sun, 12 Sep 2021 11:22:47 -0700</pubDate>
+         <dc:date>2021-09-12T11:22:47-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Sun, 12 Sep 2021 11:07:48 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Sun, 12 Sep 2021 11:07:48 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12568</guid>
+         <title>Botanical history and typification in the Tillandsia ionantha complex</title>
+         <description>TAXON, EarlyView. </description>
+         <dc:description>
+Abstract
+A historical compilation of the routes and botanists of the 19th century was made about the holotype of Tillandsia ionantha. This species was described by J.E. Planchon in 1855 from an illustration of a plant grown in L. Van Houtte's greenhouses. After a thorough revision of the main works we concluded that the specimen that served as a model for the T. ionantha illustration is of Mexican origin and was collected by the A. Ghiesbreght team between 1836 and 1845 in the Huatusco region, Veracruz, in northeastern Mexico. Moreover, T. rubentifolia is here lectotypified, and T. scopus is considered a name not validly published.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;A historical compilation of the routes and botanists of the 19th century was made about the holotype of &lt;i&gt;Tillandsia ionantha&lt;/i&gt;. This species was described by J.E. Planchon in 1855 from an illustration of a plant grown in L. Van Houtte's greenhouses. After a thorough revision of the main works we concluded that the specimen that served as a model for the &lt;i&gt;T. ionantha&lt;/i&gt; illustration is of Mexican origin and was collected by the A. Ghiesbreght team between 1836 and 1845 in the Huatusco region, Veracruz, in northeastern Mexico. Moreover, &lt;i&gt;T. rubentifolia&lt;/i&gt; is here lectotypified, and &lt;i&gt;T. scopus&lt;/i&gt; is considered a name not validly published.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Juan José Ancona, 
+Juan Pablo Pinzón, 
+Juan Javier Ortiz Díaz, 
+Ivón Ramírez Morillo, 
+Juan Tun‐Garrido, 
+Clarisse Palma‐Silva, 
+Walter Till
+</dc:creator>
+         <category>BOTANICAL HISTORY</category>
+         <dc:title>Botanical history and typification in the Tillandsia ionantha complex</dc:title>
+         <dc:identifier>10.1002/tax.12568</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12568</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12568?af=R</prism:url>
+         <prism:section>BOTANICAL HISTORY</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12567?af=R</link>
+         <pubDate>Sun, 12 Sep 2021 11:07:48 -0700</pubDate>
+         <dc:date>2021-09-12T11:07:48-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Sun, 12 Sep 2021 11:07:48 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Sun, 12 Sep 2021 11:07:48 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12567</guid>
+         <title>Fixing stray traditions in gingers: The identity and nomenclatural history of Zingiber neesanum and other entwined names</title>
+         <description>TAXON, EarlyView. </description>
+         <dc:description>
+Abstract
+The identities of two historical names, Zingiber neesanum (≡ Alpinia neesana) and Z. macrostachyum are re‐investigated. Both have been considered to represent the same taxonomic entity by various workers in the past 160 years. Yet, based on traditional usage, they were applied to two distinct taxa occurring in the Western Ghats (India), both superficially similar by having long‐stalked inflorescences, but much distinct in flower colour and overall morphology. Alpinia neesana was originally described only from fruiting material, while Z. macrostachyum was described from flowering material of a species with white flowers. Dalzell's presumption that his taxon was identical to Graham's, and unambiguous inclusion of A. neesana in his description made his name nomenclaturally superfluous and illegitimate. After realising the illegitimacy of Dalzell's name, a new combination was created in Zingiber for A. neesana. The name Z. neesanum continued to be applied sensu Dalzell to the white‐flowered species mainly in the central and southern Western Ghats, but it was also applied to a yellow‐flowered species in the northern Western Ghats, for which another name, Z. diwakarianum, was proposed recently. Despite the absence of any original material relating to Graham's or Dalzell's descriptions, re‐collections from the type localities prove beyond any reasonable doubt that the yellow‐flowered species is the true Z. neesanum, making Z. diwakarianum a synonym, and that the existing name Z. anamalayanum has to be applied to the white‐flowered species, originally described by Dalzell as Z. macrostachyum. The significance of authentic primary data sources concerning botanical history such as correspondence and manuscripts of collectors and botanists, and the importance of making these resources widely accessible through digitisation are highlighted.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The identities of two historical names, &lt;i&gt;Zingiber neesanum&lt;/i&gt; (≡ &lt;i&gt;Alpinia neesana&lt;/i&gt;) and &lt;i&gt;Z. macrostachyum&lt;/i&gt; are re-investigated. Both have been considered to represent the same taxonomic entity by various workers in the past 160 years. Yet, based on traditional usage, they were applied to two distinct taxa occurring in the Western Ghats (India), both superficially similar by having long-stalked inflorescences, but much distinct in flower colour and overall morphology. &lt;i&gt;Alpinia neesana&lt;/i&gt; was originally described only from fruiting material, while &lt;i&gt;Z. macrostachyum&lt;/i&gt; was described from flowering material of a species with white flowers. Dalzell's presumption that his taxon was identical to Graham's, and unambiguous inclusion of &lt;i&gt;A. neesana&lt;/i&gt; in his description made his name nomenclaturally superfluous and illegitimate. After realising the illegitimacy of Dalzell's name, a new combination was created in &lt;i&gt;Zingiber&lt;/i&gt; for &lt;i&gt;A. neesana.&lt;/i&gt; The name &lt;i&gt;Z. neesanum&lt;/i&gt; continued to be applied sensu Dalzell to the white-flowered species mainly in the central and southern Western Ghats, but it was also applied to a yellow-flowered species in the northern Western Ghats, for which another name, &lt;i&gt;Z. diwakarianum&lt;/i&gt;, was proposed recently. Despite the absence of any original material relating to Graham's or Dalzell's descriptions, re-collections from the type localities prove beyond any reasonable doubt that the yellow-flowered species is the true &lt;i&gt;Z. neesanum&lt;/i&gt;, making &lt;i&gt;Z. diwakarianum&lt;/i&gt; a synonym, and that the existing name &lt;i&gt;Z. anamalayanum&lt;/i&gt; has to be applied to the white-flowered species, originally described by Dalzell as &lt;i&gt;Z. macrostachyum&lt;/i&gt;. The significance of authentic primary data sources concerning botanical history such as correspondence and manuscripts of collectors and botanists, and the importance of making these resources widely accessible through digitisation are highlighted.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Sameer Patil, 
+Rajendra D. Shinde, 
+Jana Leong‐Škorničková, 
+Rushabh Chaudhari
+</dc:creator>
+         <category>NOMENCLATURE</category>
+         <dc:title>Fixing stray traditions in gingers: The identity and nomenclatural history of Zingiber neesanum and other entwined names</dc:title>
+         <dc:identifier>10.1002/tax.12567</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12567</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12567?af=R</prism:url>
+         <prism:section>NOMENCLATURE</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12566?af=R</link>
+         <pubDate>Mon, 06 Sep 2021 03:40:13 -0700</pubDate>
+         <dc:date>2021-09-06T03:40:13-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Sun, 12 Sep 2021 11:07:48 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Sun, 12 Sep 2021 11:07:48 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12566</guid>
+         <title>Evolution of Impatiens (Balsaminaceae) in the Albertine Rift – The endemic Impatiens purpureoviolacea complex consists of ten species</title>
+         <description>TAXON, EarlyView. </description>
+         <dc:description>
+Abstract
+The Albertine Rift harbours a highly diverse flora with numerous endemic species. An important component of the forest understorey is the herbaceous genus Impatiens. Fieldwork in Burundi, the Democratic Republic of the Congo and Rwanda as well as morphological studies indicated that the Albertine Rift endemic Impatiens purpureoviolacea represents a species complex. We analyzed the hidden diversity of the complex using morphological and molecular data supplemented by herbarium studies. We found that the Impatiens purpureoviolacea complex can be divided into morphologically and phylogenetically well characterized clades containing ten species and a natural hybrid. We describe all of these species, provide a species key and analyze their evolutionary history. Beside Impatiens purpureoviolacea and I. gesneroidea, the already described I. urundiensis is resurrected from synonymy. Two varieties, Impatiens purpureoviolacea var. longicalcarata and I. gesneroidea var. superglabra are raised to species status, and five new species (Impatiens elwiraurzulae, I. lotteri, I. ludewigii, I. lutzmannii, I. versicolor) and a new natural hybrid (I. ×troupinii) are described. Within the mostly insect‐pollinated species of the clade, two bird‐pollinated species (Impatiens gesneroidea, I. superglabra) evolved independently. The clade split from its sister taxon in the Pliocene and started diversifying during the Pliocene/Pleistocene transition in parallel to an increased mountain uplifting and volcanic activity in the Albertine Rift. It further diversified during the Pleistocene, likely due to the changes in forest cover and connectivity induced by climatic fluctuations.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The Albertine Rift harbours a highly diverse flora with numerous endemic species. An important component of the forest understorey is the herbaceous genus &lt;i&gt;Impatiens&lt;/i&gt;. Fieldwork in Burundi, the Democratic Republic of the Congo and Rwanda as well as morphological studies indicated that the Albertine Rift endemic &lt;i&gt;Impatiens purpureoviolacea&lt;/i&gt; represents a species complex. We analyzed the hidden diversity of the complex using morphological and molecular data supplemented by herbarium studies. We found that the &lt;i&gt;Impatiens purpureoviolacea&lt;/i&gt; complex can be divided into morphologically and phylogenetically well characterized clades containing ten species and a natural hybrid. We describe all of these species, provide a species key and analyze their evolutionary history. Beside &lt;i&gt;Impatiens purpureoviolacea&lt;/i&gt; and &lt;i&gt;I. gesneroidea&lt;/i&gt;, the already described &lt;i&gt;I. urundiensis&lt;/i&gt; is resurrected from synonymy. Two varieties, &lt;i&gt;Impatiens purpureoviolacea&lt;/i&gt; var. &lt;i&gt;longicalcarata&lt;/i&gt; and &lt;i&gt;I. gesneroidea&lt;/i&gt; var. &lt;i&gt;superglabra&lt;/i&gt; are raised to species status, and five new species (&lt;i&gt;Impatiens elwiraurzulae&lt;/i&gt;, &lt;i&gt;I. lotteri&lt;/i&gt;, &lt;i&gt;I. ludewigii&lt;/i&gt;, &lt;i&gt;I. lutzmannii&lt;/i&gt;, &lt;i&gt;I. versicolor&lt;/i&gt;) and a new natural hybrid (&lt;i&gt;I. ×troupinii&lt;/i&gt;) are described. Within the mostly insect-pollinated species of the clade, two bird-pollinated species (&lt;i&gt;Impatiens gesneroidea&lt;/i&gt;, &lt;i&gt;I. superglabra&lt;/i&gt;) evolved independently. The clade split from its sister taxon in the Pliocene and started diversifying during the Pliocene/Pleistocene transition in parallel to an increased mountain uplifting and volcanic activity in the Albertine Rift. It further diversified during the Pleistocene, likely due to the changes in forest cover and connectivity induced by climatic fluctuations.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Eberhard Fischer, 
+Stefan Abrahamczyk, 
+Norbert Holstein, 
+Steven B. Janssens
+</dc:creator>
+         <category>SYSTEMATICS AND PHYLOGENY</category>
+         <dc:title>Evolution of Impatiens (Balsaminaceae) in the Albertine Rift – The endemic Impatiens purpureoviolacea complex consists of ten species</dc:title>
+         <dc:identifier>10.1002/tax.12566</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12566</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12566?af=R</prism:url>
+         <prism:section>SYSTEMATICS AND PHYLOGENY</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12565?af=R</link>
+         <pubDate>Mon, 06 Sep 2021 03:13:16 -0700</pubDate>
+         <dc:date>2021-09-06T03:13:16-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Sun, 12 Sep 2021 11:07:48 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Sun, 12 Sep 2021 11:07:48 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12565</guid>
+         <title>Integrative taxonomy of the Selaginella helvetica group based on morphological, molecular and ecological data</title>
+         <description>TAXON, EarlyView. </description>
+         <dc:description>
+Abstract
+The Eurasian and Mediterranean Selaginella helvetica group is one of the taxonomically challenging groups in the cosmopolitan lycophyte genus Selaginella. Species of the S. helvetica group are all small plants with lax strobili composed of more or less isomorphic sporophylls (isosporophylls) that are basically non‐resupinate. Owing to the similar and minute morphological characteristics, the inapplicability of chloroplast DNA markers for species delimitation and the lack of range‐wide sampling, no comprehensive study has been conducted on these species so far. In this study, we performed phylogenetic analyses based on population‐scale sampling of 126 individuals, covering the entire geographical distribution and morphological variation of this group. Five chloroplast (rbcL, psbA, atpI, atpF, atpF‐H) and two nuclear DNA regions (26S rDNA, pgiC) were used to explore species diversity of this group. The phylogeny inferred from nuclear DNA datasets revealed nine well‐supported monophyletic groups, which provided important evidence for species delimitation and called for taxonomic revision of some taxa. However, in the chloroplast phylogeny, individuals of only three species (S. denticulata, S. helvetica, S. tamamontana) formed monophyletic groups, respectively. We further investigated genome size for each species by flow cytometry and evaluated 21 morphological characteristics of 79 herbarium specimens. MaxEnt analysis was performed to predict the potential suitable distribution of each species. As a result of total evidence, 10 taxa were recognized in the S. helvetica group. The delimitation of S. denticulata, S. laxistrobila, S. nipponica, S. pallidissima, S. prostrata, and S. tamamontana was congruent with previous taxonomical treatments. We reinstated S. shensiensis as an independent species and treated S. longistrobilina as its synonym. Selaginella helvetica (s.str.) is confined to Europe and North Asia, former records of it from the Himalaya‐Hengduan mountains represent an independent species (S. jiulongensis comb. nov.). The nuclear pgiC phylogeny and flow cytometry evidence indicated that S. pseudonipponica is an allotetraploid with S. shensiensis and S. nipponica as its parents. Our results highlight that nuclear DNA markers rather than chloroplast DNA markers are more informative in delimitation of closely related species in Selaginella.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The Eurasian and Mediterranean &lt;i&gt;Selaginella helvetica&lt;/i&gt; group is one of the taxonomically challenging groups in the cosmopolitan lycophyte genus &lt;i&gt;Selaginella&lt;/i&gt;. Species of the &lt;i&gt;S. helvetica&lt;/i&gt; group are all small plants with lax strobili composed of more or less isomorphic sporophylls (isosporophylls) that are basically non-resupinate. Owing to the similar and minute morphological characteristics, the inapplicability of chloroplast DNA markers for species delimitation and the lack of range-wide sampling, no comprehensive study has been conducted on these species so far. In this study, we performed phylogenetic analyses based on population-scale sampling of 126 individuals, covering the entire geographical distribution and morphological variation of this group. Five chloroplast (&lt;i&gt;rbcL&lt;/i&gt;, &lt;i&gt;psbA&lt;/i&gt;, &lt;i&gt;atpI&lt;/i&gt;, &lt;i&gt;atpF&lt;/i&gt;, &lt;i&gt;atpF-H&lt;/i&gt;) and two nuclear DNA regions (26S rDNA, &lt;i&gt;pgiC&lt;/i&gt;) were used to explore species diversity of this group. The phylogeny inferred from nuclear DNA datasets revealed nine well-supported monophyletic groups, which provided important evidence for species delimitation and called for taxonomic revision of some taxa. However, in the chloroplast phylogeny, individuals of only three species (&lt;i&gt;S. denticulata&lt;/i&gt;, &lt;i&gt;S. helvetica&lt;/i&gt;, &lt;i&gt;S. tamamontana&lt;/i&gt;) formed monophyletic groups, respectively. We further investigated genome size for each species by flow cytometry and evaluated 21 morphological characteristics of 79 herbarium specimens. MaxEnt analysis was performed to predict the potential suitable distribution of each species. As a result of total evidence, 10 taxa were recognized in the &lt;i&gt;S. helvetica&lt;/i&gt; group. The delimitation of &lt;i&gt;S. denticulata&lt;/i&gt;, &lt;i&gt;S. laxistrobila&lt;/i&gt;, &lt;i&gt;S. nipponica&lt;/i&gt;, &lt;i&gt;S. pallidissima&lt;/i&gt;, &lt;i&gt;S. prostrata&lt;/i&gt;, and &lt;i&gt;S. tamamontana&lt;/i&gt; was congruent with previous taxonomical treatments. We reinstated &lt;i&gt;S. shensiensis&lt;/i&gt; as an independent species and treated &lt;i&gt;S. longistrobilina&lt;/i&gt; as its synonym&lt;i&gt;. Selaginella helvetica&lt;/i&gt; (s.str.) is confined to Europe and North Asia, former records of it from the Himalaya-Hengduan mountains represent an independent species (&lt;i&gt;S. jiulongensis&lt;/i&gt; comb. nov.). The nuclear &lt;i&gt;pgiC&lt;/i&gt; phylogeny and flow cytometry evidence indicated that &lt;i&gt;S. pseudonipponica&lt;/i&gt; is an allotetraploid with &lt;i&gt;S. shensiensis&lt;/i&gt; and &lt;i&gt;S. nipponica&lt;/i&gt; as its parents. Our results highlight that nuclear DNA markers rather than chloroplast DNA markers are more informative in delimitation of closely related species in &lt;i&gt;Selaginella&lt;/i&gt;.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Meng‐Hua Zhang, 
+Ran Wei, 
+Qiao‐Ping Xiang, 
+Atsushi Ebihara, 
+Xian‐Chun Zhang
+</dc:creator>
+         <category>SYSTEMATICS AND PHYLOGENY</category>
+         <dc:title>Integrative taxonomy of the Selaginella helvetica group based on morphological, molecular and ecological data</dc:title>
+         <dc:identifier>10.1002/tax.12565</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12565</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12565?af=R</prism:url>
+         <prism:section>SYSTEMATICS AND PHYLOGENY</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/tax.12564?af=R</link>
+         <pubDate>Fri, 03 Sep 2021 14:29:53 -0700</pubDate>
+         <dc:date>2021-09-03T02:29:53-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/19968175?af=R">Wiley: TAXON: Table of Contents</source>
+         <prism:coverDate>Sun, 12 Sep 2021 11:07:48 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Sun, 12 Sep 2021 11:07:48 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/tax.12564</guid>
+         <title>Ohashia, a new genus of Derris‐like Millettioid legumes (Leguminosae, Papilionoideae) as revealed by molecular phylogenetic evidence</title>
+         <description>TAXON, EarlyView. </description>
+         <dc:description>
+Abstract
+Derris has been one of the most complex genera in the Millettioid s.str. group. Phylogenetic studies have resulted in the transfer of some species into Aganope and Brachypterum to ensure the monophyly of Derris s.str. However, the Chinese endemic species Derris yunnanensis was not included in these phylogenies. Compared to the other monophyletic genera of the Millettioid s.str. group, this species has received special attention due to its distinctive morphological characters. This paper aims to provide evidence that supports recognition of D. yunnanensis as a separate monospecific genus based on morphology and molecular data including complete chloroplast genome and nuclear ITS/5.8S as well as trnK‐matK, trnL‐F IGS, and psbA‐trnH IGS chloroplast DNA sequences. Derris yunnanensis is consistently recovered in a clade as sister to the genus Antheroporum. The species differs from the other genera of the Millettioid s.str. group by having a pseudoraceme with 6–10 flowers per brachyblast, abaxially puberulent standard, conspicuous calyx teeth with the upper 2 connate and the lowermost distinctly longer than the others, a yellowish‐brown puberulent pod having an adaxial suture with a 1–2 mm wide wing, and ovules 3–6 per ovary. Hence, a new genus Ohashia is proposed here.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;&lt;i&gt;Derris&lt;/i&gt; has been one of the most complex genera in the Millettioid s.str. group. Phylogenetic studies have resulted in the transfer of some species into &lt;i&gt;Aganope&lt;/i&gt; and &lt;i&gt;Brachypterum&lt;/i&gt; to ensure the monophyly of &lt;i&gt;Derris&lt;/i&gt; s.str. However, the Chinese endemic species &lt;i&gt;Derris yunnanensis&lt;/i&gt; was not included in these phylogenies. Compared to the other monophyletic genera of the Millettioid s.str. group, this species has received special attention due to its distinctive morphological characters. This paper aims to provide evidence that supports recognition of &lt;i&gt;D. yunnanensis&lt;/i&gt; as a separate monospecific genus based on morphology and molecular data including complete chloroplast genome and nuclear ITS/5.8S as well as &lt;i&gt;trnK-matK&lt;/i&gt;, &lt;i&gt;trnL-F&lt;/i&gt; IGS, and &lt;i&gt;psbA-trnH&lt;/i&gt; IGS chloroplast DNA sequences. &lt;i&gt;Derris yunnanensis&lt;/i&gt; is consistently recovered in a clade as sister to the genus &lt;i&gt;Antheroporum&lt;/i&gt;. The species differs from the other genera of the Millettioid s.str. group by having a pseudoraceme with 6–10 flowers per brachyblast, abaxially puberulent standard, conspicuous calyx teeth with the upper 2 connate and the lowermost distinctly longer than the others, a yellowish-brown puberulent pod having an adaxial suture with a 1–2 mm wide wing, and ovules 3–6 per ovary. Hence, a new genus &lt;i&gt;Ohashia&lt;/i&gt; is proposed here.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Ruo‐Peng Zhang, 
+Yun‐Feng Huang, 
+Xiang‐Yun Zhu
+</dc:creator>
+         <category>SYSTEMATICS AND PHYLOGENY</category>
+         <dc:title>Ohashia, a new genus of Derris‐like Millettioid legumes (Leguminosae, Papilionoideae) as revealed by molecular phylogenetic evidence</dc:title>
+         <dc:identifier>10.1002/tax.12564</dc:identifier>
+         <prism:publicationName>TAXON</prism:publicationName>
+         <prism:doi>10.1002/tax.12564</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/tax.12564?af=R</prism:url>
+         <prism:section>SYSTEMATICS AND PHYLOGENY</prism:section>
+      </item>
+   </channel>
+</rss>

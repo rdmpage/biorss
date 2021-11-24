@@ -179,19 +179,28 @@ $dom = new DOMDocument;
 $dom->loadXML($xml, LIBXML_NOCDATA); // Elsevier wraps text in <![CDATA[ ... ]]>
 $xpath = new DOMXPath($dom);
 
+$force = false;
+
 foreach ($xpath->query('//outline/@xmlUrl') as $node)
 {
 	$url = $node->firstChild->nodeValue;
 	
 	echo $url . "\n";
 	
-	$rss = conditional_get($url, $data);
+	$rss_filename = $cache_dir . '/' . md5($url) . '.xml';	
 	
-	if ($rss != '')
-	{	
-		$rss_filename = $cache_dir . '/' . md5($url) . '.xml';
-		
-		file_put_contents($rss_filename, $rss);
+	if (!file_exists($rss_filename) || $force)
+	{
+		$rss = conditional_get($url, $data);
+	
+		if ($rss != '')
+		{	
+			file_put_contents($rss_filename, $rss);
+		}
+	}
+	else
+	{
+		echo " [exists]\n";
 	}
 }
 

@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+	xmlns:cc="http://web.resource.org/cc/">
+
+	<channel rdf:about="https://threatenedtaxa.org/index.php/JoTT">
+				<title>Journal of Threatened Taxa</title>
+		<link>https://threatenedtaxa.org/index.php/JoTT</link>
+
+							
+		<description>&lt;p&gt;The&lt;em&gt;&lt;strong&gt; Journal of Threatened Taxa&lt;/strong&gt;&lt;/em&gt; is a monthly, peer-reviewed, scientific, open access, international journal on conservation and all associated fields. The aim is to make research results, data, scientific information available free and wide. The motto is to build evidence for conservation globally!&lt;/p&gt;</description>
+
+									<dc:publisher>Wildlife Information Liaison Development (WILD) Society</dc:publisher>
+		
+					<dc:language>en-US</dc:language>
+		
+		<prism:publicationName>Journal of Threatened Taxa</prism:publicationName>
+
+							
+					<prism:issn>0974-7893</prism:issn>
+		
+					<prism:copyright>&lt;p&gt;Authors own the copyright to the articles published in &lt;strong&gt;&lt;em&gt;JoTT&lt;/em&gt;&lt;/strong&gt;. This is indicated explicitly in each publication. The authors grant permission to the publisher Wildlife Information Liaison Development (WILD) Society to publish the article in the &lt;strong&gt;&lt;em&gt;Journal of Threatened Taxa&lt;/em&gt;&lt;/strong&gt;. The authors recognize WILD as the original publisher, and to sell hard copies of the Journal and article to any buyer. &lt;strong&gt;&lt;em&gt;JoTT&lt;/em&gt;&lt;/strong&gt; is registered under the Creative Commons Attribution 4.0 International License (CC BY), which allows authors to retain copyright ownership. Under this license the authors allow anyone to download, cite, use the data, modify, reprint, copy and distribute provided the authors and source of publication are credited through appropriate citations (e.g., Son et al. (2016). Bats (Mammalia: Chiroptera) of the southeastern Truong Son Mountains, Quang Ngai Province, Vietnam. Journal of Threatened Taxa 8(7): 8953–8969. &lt;a href=&quot;https://dx.doi.org/10.11609/jott.2785.8.7.8953-8969&quot;&gt;https://doi.org/10.11609/jott.2785.8.7.8953-8969&lt;/a&gt;). Users of the data do not require specific permission from the authors or the publisher.&lt;/p&gt;</prism:copyright>
+		
+		<items>
+			<rdf:Seq>
+												<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/7468"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/7447"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/7296"/>
+																<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/7475"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/7603"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/7651"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/6463"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/6468"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/6879"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/7034"/>
+																<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/7584"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/7594"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/4062"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/7532"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/7500"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/7514"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/6046"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/7488"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/7018"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/7312"/>
+																<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/5777"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/7005"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/7384"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/7124"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/6568"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/7104"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/6856"/>
+																<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/7614"/>
+										</rdf:Seq>
+		</items>
+	</channel>
+
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/7468">
+
+						<title>Roosting habits and habitats of the Indian Flying Fox Pteropus medius Temminck, 1825 in the northern districts of Tamil Nadu, India</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/7468</link>
+
+										<description>&lt;p&gt;This paper pertains to the study on roosting habits and habitats of the Indian Flying Fox &lt;em&gt;Pteropus medius&lt;/em&gt; Temminck, 1825 in 12 villages of four northern districts—Vellore, Krishnagiri, Tiruvannamalai, and Viluppuram—of Tamil Nadu. Studies targeted roosting tree species, population status, diurnal-roosting behaviour, interactions with other animals, and probable threats to the species. A total of 22,365 individuals of the species were observed in 72 roosting colonies in 72 trees belonging to nine families, 11 genera, and 13 species. The tree species that harbored the greatest population of &lt;em&gt;P. medius&lt;/em&gt; (n= 12,465) were those of &lt;em&gt;Tamarindus indica &lt;/em&gt;L. (Fabaceae) (n= 39), followed by &lt;em&gt;Ficus religiosa &lt;/em&gt;L. (Moraceae) (n= 3,960), &lt;em&gt;Madhuca latifolia &lt;/em&gt;J.F. Macbr. (Sapotaceae) (n= 2,760), and &lt;em&gt;Ficus benghalensis&lt;/em&gt; L. (Moraceae) (n= 1,620). One-Way ANOVA revealed that a significant relationship exists between&lt;span class=&quot;Apple-converted-space&quot;&gt; &lt;/span&gt;colony size and tree diameter at breast height (dbh), and their canopy size (p &amp;lt;0.05). However, no significant difference occurred between the colony size and tree height. The time taken for emergence of individuals of the colony from the canopy for foraging varied between 20 and 40 min after 1750 h in the evening. The species mostly roosted on trees proximal to human settlements, electrical power lines, and water bodies. Individuals of &lt;em&gt;P. medius&lt;/em&gt; used various tree species in different areas in different geographical regions and did not maintain any consistency in roosting tree species selection. A majority of individuals (88.7 %; n= 887) were found roosting using both legs and a minority of &lt;em&gt;P. medius&lt;/em&gt; (11.3 %; n= 113) were clinging to tree branches using one. Individuals of &lt;em&gt;P. medius&lt;/em&gt; flew to nearby water bodies to quench thirst and cool their bodies. Mating was observed during day roost in 146 pairs including male-female fellatio in seven pairs. Smoke from shrines in sacred groves, pruning of branches for various cultural reasons, populations of House Crow &lt;em&gt;Corvus splendens&lt;/em&gt; (Vieillot, 1817) (Corvidae), Black-winged Kite&lt;em&gt; Elanus caeruleus &lt;/em&gt;(Desfontaines, 1789) and Black Kite&lt;em&gt; Milvus migrans&lt;/em&gt; (Boddaert, 1783) (both Accipitridae) were key disturbances to roosting populations of &lt;em&gt;P. medius&lt;/em&gt;.&lt;/p&gt;</description>
+			
+							<dc:creator>M. Pandian</dc:creator>
+							<dc:creator>S. Suresh</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 M. Pandian, S. Suresh
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-10-27</dc:date>
+				<prism:publicationDate>2021-10-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>12</prism:number>
+												<prism:startingPage>19675</prism:startingPage>
+													<prism:endingPage>19688</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.7468.13.12.19675-19688</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/7447">
+
+						<title>Diversity and distribution of avifauna at Warathenna-Hakkinda Environmental Protection Area in Kandy, Sri Lanka</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/7447</link>
+
+										<description>&lt;p&gt;The present study was carried out in the recently established Warathenna-Hakkinda EPA in the Kandy District, Sri Lanka to investigate the avifaunal diversity and conservation threats. Sampling was conducted in two main habitat types: river islands and riverine forests. Both point count (10 m radius) and line transect (200 m long) methods were utilized and maximum of 30 minutes was used to sample the birds in each point. Food habit, niche type, endemism, abundance, and diversity indices (Shannon &amp;amp; Margalef) were calculated to compare the two habitats in this area. A total of 74 bird species belonging to 61 genera and 35 families were encountered from the study site. Among these, seven species are endemic: Sri Lanka Grey Hornbill, Sri Lanka Green Pigeon, Sri Lanka Wood Pigeon, Sri Lanka Hanging Parrot, Crimson-fronted Barbet, Yellow-fronted Barbet, and Sri Lanka Hill Mynah; while six were migratory: Green Sandpiper, Common Sandpiper, Indian Pitta, Asian Brown Flycatcher, Yellow Wagtail, and Grey Wagtail and the rest were non-endemic natives. Most of them were canopy and sub canopy dwellers associated with riverine forests and islands. According to the National Red List of Sri Lanka, three species, the Sri Lanka Wood Pigeon, Sri Lanka Hill Mynah, and Alpine Swift, are listed as threatened. Ardeidae, Alcedinidae, Columbidae, Accipitridae, and Apodidae were the most species rich families in this habitat. Out of the sampled species, 31% and 25% of the birds were carnivores and insectivores, respectively, while 5% were nectarivores. According to the avifauna, the riverine forests are more diverse (Shannon index H’= 2.55; Margalef’s index M= 10.92) than the river islands (H’= 2.29; M= 5.07) in this landscape. The variety of habitats along the Mahaweli River at Warathenna appears to aid in sustaining a rich bird community and this Environmental Protection Area will help create a safe haven for the birds.&lt;/p&gt;</description>
+			
+							<dc:creator>Dinelka Thilakarathne</dc:creator>
+							<dc:creator>Tithira Lakkana</dc:creator>
+							<dc:creator>Gayan Hirimuthugoda</dc:creator>
+							<dc:creator>Chaminda Wijesundara</dc:creator>
+							<dc:creator>Shalika Kumburegama</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Dinelka  Thilakarathne, Tithira Lakkana, Gayan Hirimuthugoda, Chaminda Wijesundara, Shalika Kumburegama
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-10-27</dc:date>
+				<prism:publicationDate>2021-10-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>12</prism:number>
+												<prism:startingPage>19689</prism:startingPage>
+													<prism:endingPage>19701</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.7447.13.12.19689-19701</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/7296">
+
+						<title>Grass species composition in tropical forest of southern India</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/7296</link>
+
+										<description>&lt;p&gt;Grass composition was assessed by plot method (1 m&lt;sup&gt;2&lt;/sup&gt;; n= 1,749) in three habitats (dry deciduous-DDF, moist deciduous-MDF, and thorn forest-TF) at Mudumalai Tiger Reserve, southern India across different seasons from Jan 2004 to Dec 2007. The grass species richness and availability (per cent composition) varied significantly with habitats. Seventy-four species of grasses and sedges were recorded in all three habitats, with a few species common in all habitats. Grass availability varied significantly in different habitats across seasons and was positively influenced by precipitation. Among biotic factors, regeneration and shrub density had a primary influence on grass availability, followed by herb, sedge and weed density. The principal coordinate analysis revealed seven major associations in the tropical forest. There were considerable changes in the composition and association of grasses when compared to the past. Fire resistant species such as &lt;em&gt;Themeda triandra&lt;/em&gt;, &lt;em&gt;Heteropogan contortus&lt;/em&gt; and &lt;em&gt;T. cymbaria&lt;/em&gt; dominated in the DDF. Grass species &lt;em&gt;Aristida&lt;/em&gt;/&lt;em&gt;Eragorstis&lt;/em&gt; were recorded in the TF, which were considered as indicators of heavy grazing pressure. Grass species that were reported rare and sporadic in the earlier study were not recorded, which emphasizes better pasture management in the tropical forest. Grass species composition and availability was threatened by invasion of weeds.&lt;span class=&quot;Apple-converted-space&quot;&gt; &lt;/span&gt;&lt;/p&gt;</description>
+			
+							<dc:creator>M. Ashokkumar</dc:creator>
+							<dc:creator>S. Swaminathan</dc:creator>
+							<dc:creator>R. Nagarajan</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 M. Ashokkumar, S. Swaminathan, R. Nagarajan
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-10-27</dc:date>
+				<prism:publicationDate>2021-10-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>12</prism:number>
+												<prism:startingPage>19702</prism:startingPage>
+													<prism:endingPage>19713</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.7296.13.12.19702-19713</prism:doi>
+					</item>
+						<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/7475">
+
+						<title>A recent sighting of the Stripe-backed Weasel Mustela strigidorsa (Mammalia: Carnivora: Mustelidae) in Hkakabo Razi Landscape, Myanmar</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/7475</link>
+
+										<description>&lt;p&gt;&lt;span class=&quot;Apple-converted-space&quot;&gt; &lt;/span&gt;In March 2019, a Stripe-backed Weasel,&lt;em&gt; Mustela strigidorsa&lt;/em&gt;, was observed in Hkakabo Razi Landscape, Myanmar. Although geographically widespread in southeastern Asia and neighboring areas of northeastern India and southern China, relatively little is known of this small carnivore, which is seldom recorded in camera traps or seen in the wild. In Myanmar, there are 24 previously published records, almost all from mountainous areas. The recent sighting was of a solitary animal, which was foraging at an altitude of 580 m in a thickly vegetated area in montane evergreen forest, close to a stream. The photographs and video footage are the first for the species from the country.&lt;/p&gt;</description>
+			
+							<dc:creator>Sai Sein Lin Oo</dc:creator>
+							<dc:creator>Tun Tun</dc:creator>
+							<dc:creator>Kyaw Myo Naing</dc:creator>
+							<dc:creator>Paul Jeremy James Bates</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Sai Sein Lin Oo, Tun Tun, Kyaw Myo Naing, Paul Jeremy James Bates
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-10-27</dc:date>
+				<prism:publicationDate>2021-10-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>12</prism:number>
+												<prism:startingPage>19855</prism:startingPage>
+													<prism:endingPage>19859</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.7475.13.12.19855-19859</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/7603">
+
+						<title>Are the uplifted reef beds in North Andaman letting nesting Olive Ridley Sea Turtle Lepidochelys olivacea stranded?</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/7603</link>
+
+										<description>&lt;p&gt;During our survey to understand vegetation colonization, focused on mangroves, in the uplifted reef beds near the Radhanagar creek in North Andaman on 10 February 2021 (Lat: 13°24&#039;40.70&quot;N; Lon: 92°50&#039;57.73&quot;E), we came across four carcasses of Olive Ridley turtles within a 500 m transect. The carcasses were probably a week old and are characterized by the presence of degenerating flesh, and foul smell. The article describes the potential reasons behind turtle mortality and future research needs for the holistic understanding of such incidences.&lt;/p&gt;</description>
+			
+							<dc:creator>Nehru Prabakaran</dc:creator>
+							<dc:creator>Vedagiri Thirumurugan</dc:creator>
+							<dc:creator>Anoop Raj Singh</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Nehru Prabakaran, Anoop Raj Singh, Vedagiri Thirumurugan
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-10-27</dc:date>
+				<prism:publicationDate>2021-10-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>12</prism:number>
+												<prism:startingPage>19860</prism:startingPage>
+													<prism:endingPage>19863</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.7603.13.12.19860-19863</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/7651">
+
+						<title>First record of the orb-weaving spider Araneus tubabdominus Zhu &amp; Zhang, 1993 (Araneae: Araneidae) from India</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/7651</link>
+
+										<description>&lt;p&gt;The Chinese species &lt;em&gt;Araneus tubabdominus&lt;/em&gt; Zhu &amp;amp; Zhang, 1993 is recorded for the first time from India. A detailed redescription and illustrations of the female are provided along with a distributional map of the species.&lt;span class=&quot;Apple-converted-space&quot;&gt; &lt;/span&gt;&lt;/p&gt;</description>
+			
+							<dc:creator>Souvik Sen</dc:creator>
+							<dc:creator>John T.D. Caleb</dc:creator>
+							<dc:creator>Shelley Acharya</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Souvik Sen, John T.D. Caleb, Shelley Acharya
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-10-27</dc:date>
+				<prism:publicationDate>2021-10-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>12</prism:number>
+												<prism:startingPage>19864</prism:startingPage>
+													<prism:endingPage>19866</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.7651.13.12.19864-19866</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/6463">
+
+						<title>The genus Catapiestus Perty, 1831 (Coleoptera: Tenebrionidae: Cnodalonini) from Arunachal Pradesh with one new record to India</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/6463</link>
+
+										<description>&lt;p&gt;Three species of the genus &lt;em&gt;Catapiestus &lt;/em&gt;Perty, 1831 (Coleoptera, Tenebrionidae, Cnodalonini), namely &lt;em&gt;Catapiestus subrufescens &lt;/em&gt;Pic, 1911, &lt;em&gt;Catapiestus piceiventris &lt;/em&gt;Fairmaire, 1893, and &lt;em&gt;Catapiestus rugipennis &lt;/em&gt;Chûjô, 1984 have been reported from Arunachal Pradesh, India. These are new records to Arunachal Pradesh state and the species &lt;em&gt;Catapiestus rugipennis&lt;/em&gt; is an addition to the Fauna of India. The number of species of &lt;em&gt;Catapiestus&lt;/em&gt; from Arunachal Pradesh is now raised to four. &lt;span class=&quot;Apple-converted-space&quot;&gt; &lt;/span&gt;&lt;/p&gt;</description>
+			
+							<dc:creator>V.D. Hegde</dc:creator>
+							<dc:creator>Sarita Yadav</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 V.D. Hegde, Sarita Yadav
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-10-27</dc:date>
+				<prism:publicationDate>2021-10-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>12</prism:number>
+												<prism:startingPage>19867</prism:startingPage>
+													<prism:endingPage>19869</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.6463.13.12.19867-19869</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/6468">
+
+						<title>Rediscovery and extended distribution of Indigofera santapaui Sanjappa (Leguminosae: Papilionoideae) from the states of Maharashtra and Gujarat, India</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/6468</link>
+
+										<description>&lt;p&gt;&lt;em&gt;Indigofera santapaui&lt;/em&gt; Sanjappa is a little known endemic legume described from the northern Western Ghats. It is rediscovered and collected from other localities quite away from the type locality. This is found to be the only known species of &lt;em&gt;Indigofera&lt;/em&gt; with yellow flowers. A brief description, image, distribution, and ecological notes have been provided to facilitate correct identification and to know its extent of distribution.&lt;/p&gt;</description>
+			
+							<dc:creator>Kumar Vinod Chhotupuri Gosavi</dc:creator>
+							<dc:creator>Sanjay Gajanan Auti</dc:creator>
+							<dc:creator>Sharad Suresh Kambale</dc:creator>
+							<dc:creator>Munivenkatappa Sanjappa</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Kumar Vinod Chhotupuri Gosavi, Sanjay Gajanan Auti, Sharad Suresh Kambale, Munivenkatappa Sanjappa
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-10-27</dc:date>
+				<prism:publicationDate>2021-10-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>12</prism:number>
+												<prism:startingPage>19870</prism:startingPage>
+													<prism:endingPage>19873</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.6468.13.12.19870-19873</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/6879">
+
+						<title>Additional distribution records of Ceropegia anjanerica, an endemic and ‘Endangered’ lantern flower of the northern Western Ghats, India</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/6879</link>
+
+										<description>&lt;p&gt;&lt;em&gt;Ceropegia anjanerica&lt;/em&gt; has been collected from Bhaskargad, Bramha Hill, Bramhagiri Hill, Harihar fort, and Vatvad Hill. Earlier, this endemic species was known from the type locality Anjaneri Hill and its adjacent locality Kushegaon Hill in Nashik District. The notes on its conservation status, occurrence, and variations are provided.&lt;span class=&quot;Apple-converted-space&quot;&gt; &lt;/span&gt;&lt;/p&gt;</description>
+			
+							<dc:creator>Samir Shrikant Maity</dc:creator>
+							<dc:creator>Ajay Natha Gangurde</dc:creator>
+							<dc:creator>Sharad Suresh Kambale</dc:creator>
+							<dc:creator>Avinash Ramchandra Gholave</dc:creator>
+							<dc:creator>Avinash Asraji Adsul</dc:creator>
+							<dc:creator>Ganesh Babaso Pawar</dc:creator>
+							<dc:creator>Kumar Vinod Chhotupuri Gosavi</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Samir Shrikant Maity, Ajay Natha Gangurde, Sharad Suresh Kambale, Avinash Ramchandra Gholave, Avinash Asraji Adsul, Ganesh Babaso Pawar, Kumar Vinod Chhotupuri Gosavi
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-10-27</dc:date>
+				<prism:publicationDate>2021-10-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>12</prism:number>
+												<prism:startingPage>19874</prism:startingPage>
+													<prism:endingPage>19877</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.6879.13.12.19874-19877</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/7034">
+
+						<title>Notes on the extended distribution of Impatiens megamalayana, a recently described balsam in Western Ghats, India</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/7034</link>
+
+										<description>&lt;p&gt;&lt;em&gt;Impatiens megamalayana&lt;/em&gt; is a recently described balsam from the Megamalai hills of the Western Ghats in Tamil Nadu state. This is a small, annual herb with ridged stem, often distributed in open, wet, rocky grasslands above 1,000 m elevation. The plant considered endemic to the Megamalai hills of Tamil Nadu is recently located in the Urumbikkara hills of Idukki district in Kerala state, which is about 120 km away from its original locality. Urumbikkara is an emerging tourist destination in central Kerala and the newly located populations of the plant are outside protected forest areas and are facing severe threat due to anthrapogenic activities. A detailed description, photographs and distribution maps are provided to facilitate easy identification of the plant in the field. An updated checklist of the genus &lt;em&gt;Impatiens&lt;/em&gt; in Kerala state is also furnished for future reference.&lt;/p&gt;</description>
+			
+							<dc:creator>Anoop P. Balan</dc:creator>
+							<dc:creator>A.J. Robi</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Anoop P. Balan, A.J. Robi 
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-10-27</dc:date>
+				<prism:publicationDate>2021-10-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>12</prism:number>
+												<prism:startingPage>19878</prism:startingPage>
+													<prism:endingPage>19883</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.7034.13.12.19878-19883</prism:doi>
+					</item>
+						<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/7584">
+
+						<title>Habitat use and conservation threats to Wild Water Buffalo Bubalus arnee (Mammalia: Artiodactyla: Bovidae) in Koshi Tappu Wildlife Reserve, Nepal</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/7584</link>
+
+										<description>&lt;p&gt;Wild Water Buffalo (WWB) &lt;em&gt;Bubalus arnee&lt;/em&gt; is an endangered species and a protected animal in Nepal. The remaining WWB population is located in Koshi Tappu Wildlife Reserve (KTWR), and it appears to have low viability under prevailing conditions. We assessed the habitat use and conservation threats to wild water buffalo in KTWR. For habitat analysis the quadrant method was used. Eighty-four quadrants of 25 m&lt;sup&gt;2&lt;/sup&gt; for trees, 168 quadrants of 10m&lt;sup&gt;2&lt;/sup&gt; for shrubs and 336 quadrants of 1 m&lt;sup&gt;2&lt;/sup&gt; for herbs were laid out in the study area. Ivlev’s electivity index (IV) was calculated to assess the use of different habitat components. The important Value Index (IVI) was used for vegetation assessment. A relative threat ranking method was used to assess conservation threats for wild buffalo and their habitats. Wild buffalo mostly preferred habitats with distance to water resources less than 500 m (IV= 0.4), less than 25 % crown coverage (IV= 0.39) and more than 75 % ground coverage (IV= 0.42). The trees species &lt;em&gt;Phyllanthus emblica&lt;/em&gt;, &lt;em&gt;Acacia catechu&lt;/em&gt;, shrub species&lt;em&gt; Mimosa pudica &lt;/em&gt;and the herb species&lt;em&gt; Brachiaria distachya&lt;/em&gt;,&lt;em&gt; Vetiveria zizanioides&lt;/em&gt;,&lt;em&gt; Imperata cylindrica&lt;/em&gt;, and&lt;em&gt; Saccharum spontaneum &lt;/em&gt;were preferred by WWB in the study area. Among the different plant categories, we found that &lt;em&gt;Acacia catechu&lt;/em&gt; was the most preferred tree species (IVI= 156.95), &lt;em&gt;Mimosa pudica&lt;/em&gt; the most preferred shrub species (IVI= 58.68), and &lt;em&gt;Imperata cylindrica&lt;/em&gt; the most preferred herb species (IVI= 64.73). Major conservation threats perceived by local stakeholders for wild buffaloes were overgrazing by cattle and genetic swamping through crossbreeding with domestic buffalo. Therefore, conservation of grass species through control of grazing, and prevention of cross breeding are measures supported by this study. Additionally, site-specific conservation strategies should be adopted, based on identified threats in the study area.&lt;/p&gt;</description>
+			
+							<dc:creator>Reeta Khulal</dc:creator>
+							<dc:creator>Bijaya Neupane</dc:creator>
+							<dc:creator>Bijaya Dhami</dc:creator>
+							<dc:creator>Siddhartha Regmi</dc:creator>
+							<dc:creator>Ganesh Prasad Tiwari</dc:creator>
+							<dc:creator>Manita Parajuli</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Reeta Khulal, Bijaya Neupane, Bijaya Dhami, Siddhartha Regmi, Ganesh Prasad Tiwari, Manita Parajuli
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-10-27</dc:date>
+				<prism:publicationDate>2021-10-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>12</prism:number>
+												<prism:startingPage>19714</prism:startingPage>
+													<prism:endingPage>19724</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.7584.13.12.19714-19724</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/7594">
+
+						<title>Get my head around owls: people perception and knowledge about owls of Andaman Islands</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/7594</link>
+
+										<description>&lt;p&gt;Understanding people’s perceptions and knowledge about birds in an endemic bird area is a prerequisite for bird conservation. This is more so in the case of non-charismatic birds such as owls. In this context, we conducted a questionnaire survey about owls in the North Andaman Island between January 2016 and 2018. We interviewed 203 respondents from six market places in North Andaman tehsil, and collected data on their socio-economic status as well as their knowledge on owls. Although all the respondents were familiar with owls, only 9% of them identified all species of owls in the Andaman Islands. Around 98% of respondents were aware of owl diets, either partly or wholly. We found several superstitious beliefs revolving around owls. Two species, &lt;em&gt;Otus sunia&lt;/em&gt; and &lt;em&gt;Ninox obscura&lt;/em&gt; were associated with negative beliefs while &lt;em&gt;Tyto&lt;/em&gt; &lt;em&gt;deroepstorffi &lt;/em&gt;was associated with positive beliefs. Generalized linear model with the demographical predictors showed that positive attitudes towards owls is associated with age (older), education (literacy), revenue villages and temporary houses. We conclude that &lt;em&gt;Tyto&lt;/em&gt; &lt;em&gt;deroepstorffi &lt;/em&gt;had the highest positive values among islanders and hence, may be considered as a focal species to create awareness about owls and to protect other endemic owls of the Andaman Islands. Awareness programmes targeting younger, illiterate people, and land encroachers may help in conservation of cryptic owl species of Andaman.&lt;/p&gt;</description>
+			
+							<dc:creator>Shanmugavel Sureshmarimuthu</dc:creator>
+							<dc:creator>Santhanakrishnan Babu</dc:creator>
+							<dc:creator>Nagaraj Rajeshkumar</dc:creator>
+							<dc:creator>Honnavalli Nagaraj Kumara</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Shanmugavel Sureshmarimuthu, Santhanakrishnan Babu, Nagaraj Rajeshkumar, Honnavalli Nagaraj Kumara
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-10-27</dc:date>
+				<prism:publicationDate>2021-10-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>12</prism:number>
+												<prism:startingPage>19725</prism:startingPage>
+													<prism:endingPage>19732</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.7594.13.12.19725-19732</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/4062">
+
+						<title>Abundance and diversity of threatened birds in Nangal Wetland, Punjab, India</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/4062</link>
+
+										<description>&lt;p&gt;Anthropogenic threats to wetland ecosystems, including discharge of industrial effluents, municipal sewerage, land reclamation, erosion and deforestation, have contributed to the rapid declines in populations of many bird species. The present study aimed to document avian diversity, including birds on the IUCN Red List, at Nangal Wetland, Punjab from February 2013 to January 2015. A total of 155 species belonging to 48 families (resident and migratory) under 17 orders were recorded, of which 13 come under various IUCN Red List categories: one ‘Endangered’—Egyptian Vulture &lt;em&gt;Neophron percnopterus&lt;/em&gt;; five ‘Vulnerable’—Common Pochard &lt;em&gt;Aythya ferina&lt;/em&gt;, Greater-Spotted Eagle &lt;em&gt;Aquila clanga&lt;/em&gt;, Sarus Crane &lt;em&gt;Grus antigone&lt;/em&gt;, Lesser White-Fronted Goose &lt;em&gt;Anser erythropus&lt;/em&gt;, and Woolly-necked Stork &lt;em&gt;Ciconia episcopus&lt;/em&gt;; and seven ‘Near Threatened’—Ferruginous Duck &lt;em&gt;Aythya nyroca&lt;/em&gt;, River Lapwing &lt;em&gt;Vanellus duvaucelii&lt;/em&gt;, Indian River Tern &lt;em&gt;Sterna aurantia&lt;/em&gt;, Painted Stork &lt;em&gt;Mycteria leucocephala&lt;/em&gt;, Oriental Darter &lt;em&gt;Anhinga melanogaster&lt;/em&gt;, Blossom-headed Parakeet &lt;em&gt;Psittacula roseata&lt;/em&gt;, and Alexandrine Parakeet &lt;em&gt;Psittacula eupatria&lt;/em&gt;. The Shannon-Weaver index of diversity was highest during winter (H’= 1.9) followed by autumn (H’= 1.9) then spring (H’= 1.5), and was lowest during summer (H’= 1.4). Though this wetland is highly productive and provides homes to many threatened species, untreated industrial effluents from adjoining areas sometimes create problems. The discharge of pollutants should be stopped through strict enforcement of environmental laws and policies.&lt;span class=&quot;Apple-converted-space&quot;&gt; &lt;/span&gt;&lt;/p&gt;</description>
+			
+							<dc:creator>Rajwinder Kaur</dc:creator>
+							<dc:creator>Onkar Singh Brraich</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Rajwinder Kaur, Onkar Singh Brraich
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-10-27</dc:date>
+				<prism:publicationDate>2021-10-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>12</prism:number>
+												<prism:startingPage>19733</prism:startingPage>
+													<prism:endingPage>19742</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.4062.13.12.19733-19742</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/7532">
+
+						<title>Evaluation of fish diversity and abundance in the Kabul River with comparisons between reaches above and below Kabul City, Afghanistan</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/7532</link>
+
+										<description>&lt;p&gt;The fish fauna of the Kabul River downstream of the City of Kabul face threats from increasing human population such as pollution, overfishing, and increased development. Despite the rapid increase of these activities leading to threats to fishes in the Kabul River, no studies have examined the changes in diversity, distribution, and abundance of fish fauna in the Kabul River surrounding of Kabul City.&lt;span class=&quot;Apple-converted-space&quot;&gt; &lt;/span&gt;In this study, the Kabul River was divided into two zones (upstream and downstream) consisting of six sampling sites (3 sites per zone). Of the total of 1,190 fishes collected, Cypriniformes was the dominant order with one family, six genera, and eight species. Cyprinidae was the dominant family of that order with 81.4% (&lt;em&gt;n&lt;/em&gt;= 969) of total individuals. Species abundance was higher in the upstream reaches in almost all analyses. Upstream sites recorded 11 species, while seven species were recorded from downstream sites. Fish species richness was significantly higher upstream versus downstream reaches (9.67 ± 1.53 vs.&lt;span class=&quot;Apple-converted-space&quot;&gt; &lt;/span&gt;6.33 ± .58; &lt;em&gt;U= &lt;/em&gt;.00&lt;em&gt;, z= &lt;/em&gt;-1.99,&lt;em&gt; p= &lt;/em&gt;.04&lt;em&gt;, r&lt;/em&gt;= .81). Species diversity upstream was significantly higher than downstream (&lt;em&gt;H’&lt;/em&gt;= 1.90 ± 0.15, &lt;em&gt;D&lt;sub&gt;1&lt;/sub&gt;&lt;/em&gt;= 0.81 ± 0.02). Similarly, species evenness was also higher upstream than downstream (&lt;em&gt;J’&lt;/em&gt;= 0.84 ± 0.01). Low diversity, abundance, and evenness in downstream reaches are likely due to anthropogenic activities affecting the river in and around Kabul City.&lt;/p&gt;</description>
+			
+							<dc:creator>Ugyen Kelzang</dc:creator>
+							<dc:creator>Ahmad Farid Habibi</dc:creator>
+							<dc:creator>Ryan J. Thoni</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Ugyen Kelzang, Ahmad Farid Habibi, Ryan J. Thoni
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-10-27</dc:date>
+				<prism:publicationDate>2021-10-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>12</prism:number>
+												<prism:startingPage>19743</prism:startingPage>
+													<prism:endingPage>19752</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.7532.13.12.19743-19752</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/7500">
+
+						<title>New record of Myrmarachne melanocephala MacLeay, 1839 (Araneae: Salticidae) from Jharkhand, India and biogeographical implications of the co-occurrence of its ant model Tetraponera rufonigra Jerdon, 1851</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/7500</link>
+
+										<description>&lt;p&gt;We report the occurrence of the ant-mimicking jumping spider &lt;em&gt;Myrmarachne melanocephala&lt;/em&gt; MacLeay, 1839 for the first time from Hazaribagh Wildlife Sanctuary, Jharkhand, India. Digital illustrations and descriptions of the spider, the female’s exuviae, and video records of a live male are also presented. The distribution pattern of &lt;em&gt;M. melanocephala&lt;/em&gt; has not been studied in detail across India whereas its ant model, &lt;em&gt;Tetraponera rufonigra&lt;/em&gt; Jerdon, 1851 is known to have a wide distribution. Co-occurrence of the mimic and the model implies a wider range of biogeographical distribution of these species in India.&lt;strong&gt;&lt;span class=&quot;Apple-converted-space&quot;&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+			
+							<dc:creator>Rahul Kumar</dc:creator>
+							<dc:creator>Mirtunjay Sharma</dc:creator>
+							<dc:creator>Ajay Kumar Sharma</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Rahul Kumar, Mirtunjay Sharma, Ajay Kumar Sharma
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-10-27</dc:date>
+				<prism:publicationDate>2021-10-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>12</prism:number>
+												<prism:startingPage>19753</prism:startingPage>
+													<prism:endingPage>19761</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.7500.13.12.19753-19761</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/7514">
+
+						<title>Diversity of spiders (Arachnida: Araneae) and the impact of pruning in Indian sandalwood plantations from Karnataka, India</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/7514</link>
+
+										<description>&lt;p&gt;Indian sandalwood &lt;em&gt;Santalum album&lt;/em&gt; L. plantations in Karnataka were surveyed to study the diversity and abundance of spider fauna. A total of 1,244 individuals belonging to 56 spider species in 40 genera under 14 families were recorded in the sandalwood plantations. Among the spider families recorded, Araneidae was the most dominant with 15 species in nine genera followed by Salticidae with 13 species in 10 genera, Thomisidae with seven species in four genera, Oxyopidae with four species in three genera, Uloboridae with four species in a genus, and Theridiidae by three species each under three genera. Lycosidae and Sparassidae are represented by two species under two genera each. The families Cheiracanthiidae, Clubionidae, Hersiliidae, Philodromidae, and Pholcidae are represented by a species each. The pruning of sandalwood revealed a significant negative effect on the occurrence and distribution of spiders.&lt;span class=&quot;Apple-converted-space&quot;&gt; &lt;/span&gt;&lt;/p&gt;</description>
+			
+							<dc:creator>S. Padma</dc:creator>
+							<dc:creator>R. Sundararaj</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 S. Padma, R. Sundararaj
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-10-27</dc:date>
+				<prism:publicationDate>2021-10-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>12</prism:number>
+												<prism:startingPage>19762</prism:startingPage>
+													<prism:endingPage>19772</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.7514.13.12.19762-19772</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/6046">
+
+						<title>New records of cheilostome Bryozoa from the eastern coast of India encrusting on the exoskeleton of live horseshoe crabs of Indian Sundarbans</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/6046</link>
+
+										<description>&lt;p&gt;Bryozoans are common commensal on hard surfaces and cover slow-moving animals like molluscans, sea turtles, brachyuran crabs, and horseshoe crabs. A total of six species of bryozoans belonging to four genus under three families of order Cheilostomatida were recorded encrusting on the carapaces of horseshoe crabs collected from Indian Sundarbans along the east coast of India and two among them, viz., &lt;em&gt;Biflustra savartii&lt;/em&gt; (Audouin, 1826) and &lt;em&gt;Sinoflustra arabianensis&lt;/em&gt; (Menon &amp;amp; Nair, 1975) are reported for the first time. Additionally, &lt;em&gt;Jellyella tuberculata&lt;/em&gt; (Bosc, 1802) is reported for the first time from West Bengal coastal waters, previously known only from the Odisha coast of India. Both male and female horseshoe crabs were found to have been encrusted with bryozoan mats, although adequately not known about the life stages of their encrustation.&lt;/p&gt;</description>
+			
+							<dc:creator>Swati Das</dc:creator>
+							<dc:creator>Maria Susan Sanjay</dc:creator>
+							<dc:creator>Basudev Tripathy</dc:creator>
+							<dc:creator>C. Venkatraman</dc:creator>
+							<dc:creator>K.A. Subramanian</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Swati Das, Maria Susan Sanjay, Basudev Tripathy, C. Venkatraman, K.A. Subramanian
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-10-27</dc:date>
+				<prism:publicationDate>2021-10-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>12</prism:number>
+												<prism:startingPage>19773</prism:startingPage>
+													<prism:endingPage>19780</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.6046.13.12.19773-19780</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/7488">
+
+						<title>On the pteridophytes of Bherjan-Borajan-Padumoni Wildlife Sanctuary, Assam, India</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/7488</link>
+
+										<description>&lt;p&gt;A preliminary survey on the pteridophytic flora of Bherjan-Borajan-Padumoni Wildlife Sanctuary of Assam, India revealed a total of 33 species belonging to 23 genera and 15 families. Most of the species belong to the family Pteridaceae followed by Polypodiaceae and Thelypteridaceae. A brief taxonomic description of each species is provided.&lt;em&gt; Stenochlaena palustris &lt;/em&gt;(Burm.f.) Bedd., an edible fern, grows abundantly all over, especially in the openings and clearings.&lt;/p&gt;</description>
+			
+							<dc:creator>Pranjal Borah</dc:creator>
+							<dc:creator>Jayanta Barukial</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Pranjal Borah, Jayanta Barukial
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-10-27</dc:date>
+				<prism:publicationDate>2021-10-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>12</prism:number>
+												<prism:startingPage>19781</prism:startingPage>
+													<prism:endingPage>19790</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.7488.13.12.19781-19790</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/7018">
+
+						<title>Population status of Heritiera fomes Buch.-Ham., a threatened species from Mahanadi Mangrove Wetland, India</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/7018</link>
+
+										<description>&lt;p&gt;&lt;em&gt;Heritiera fomes &lt;/em&gt;Buch.&lt;strong&gt;-&lt;/strong&gt;Ham. is assessed as an endangered mangrove species by IUCN, and information on population status is lacking. The present study assesses the status of &lt;em&gt;H. fomes &lt;/em&gt;in Mahanadi Mangrove Wetland on the east coast of India. Three forest blocks were selected and sampled for this study. Among these, the mean girth at breast height (GBH) of &lt;em&gt;H. fomes &lt;/em&gt;was the highest in Hetamundia (HD) forest block. GBH of &lt;em&gt;H. fomes&lt;/em&gt; was inversely proportional to the cumulative disturbance index (R&lt;sup&gt;2&lt;/sup&gt;= 0.7244, p value &amp;lt;0.005). The relative density was maximum for &lt;em&gt;H. fomes&lt;/em&gt; (56%) at Bhitarkharnasi (BK), and for &lt;em&gt;Excoecaria agallocha &lt;/em&gt;at Hetamundia (HD; 35%) &amp;amp; Kansaridia (KD; 54%), respectively. &lt;em&gt;Excoecaria agallocha &lt;/em&gt;is a dominant species possibly impacting natural populations of &lt;em&gt;H. fomes&lt;/em&gt;. Climate change and rising sea levels may also negatively affect the existence of this species. Therefore, appropriate strategies should be taken for conservation of this globally threatened mangrove species prior to its extinction.&lt;/p&gt;</description>
+			
+							<dc:creator>Sudam Charan Sahu</dc:creator>
+							<dc:creator>Manas Ranjan Mohanta</dc:creator>
+							<dc:creator>N.H. Ravindranath</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Sudam Charan Sahu, Manas Ranjan Mohanta, N.H. Ravindranath
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-10-27</dc:date>
+				<prism:publicationDate>2021-10-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>12</prism:number>
+												<prism:startingPage>19791</prism:startingPage>
+													<prism:endingPage>19798</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.7018.13.12.19791-19798</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/7312">
+
+						<title>Additions to the lichenized and lichenicolous fungi of Jammu &amp; Kashmir from Kishtwar High Altitude National Park</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/7312</link>
+
+										<description>&lt;p&gt;The present study reports 14 lichenized and two lichenicolous fungi new to the mycota of Jammu &amp;amp; Kashmir. The lichenized fungi are&lt;em&gt; Buellia aeruginascens&lt;/em&gt; (Nyl.) Zahlbr., &lt;em&gt;Caloplaca pachycheila&lt;/em&gt; Poelt &amp;amp; Hinter., &lt;em&gt;Cladonia cervicornis &lt;/em&gt;ssp.&lt;em&gt; verticillata&lt;/em&gt; (Hoffm.) Ahti,&lt;em&gt; Hafellia&lt;/em&gt; &lt;em&gt;curatellae&lt;/em&gt; (Malme) Marbach, &lt;em&gt;Hafellia&lt;/em&gt; &lt;em&gt;subnexa&lt;/em&gt; Marbach,&lt;em&gt; Hafellia tetrapla &lt;/em&gt;(Nyl.) Pusswald,&lt;em&gt; Leptogium askotense&lt;/em&gt; D.D.Awasthi,&lt;em&gt; Nephromopsis laii&lt;/em&gt; (A. Thell &amp;amp; Randlane) Saag &amp;amp; A.Thell,&lt;em&gt; Polycauliona phlogina &lt;/em&gt;(Ach.) Arup&lt;em&gt;, &lt;/em&gt;Frödén &amp;amp; Søchting,&lt;em&gt; Pyxine&lt;/em&gt; &lt;em&gt;cognata&lt;/em&gt; Stirt., &lt;em&gt;Rinodina conradii &lt;/em&gt;Körb&lt;em&gt;., Rinodina intermedia &lt;/em&gt;Bagl.&lt;em&gt;, Rinodina oxydata&lt;/em&gt; (A.Massal.) A.Massal., and &lt;em&gt;Squamulea squamosa &lt;/em&gt;(B.deLesd.) Arup, Søchting &amp;amp; Frödén. The lichenicolous fungi include &lt;em&gt;Abrothallus&lt;/em&gt; &lt;em&gt;microspermus&lt;/em&gt; Tul. and &lt;em&gt;Lichenoconium lecanorae&lt;/em&gt; (Jaap) D.Hawksw. The species are enumerated along with their present distribution.&lt;/p&gt;</description>
+			
+							<dc:creator>Vishal Kumar</dc:creator>
+							<dc:creator>Yashpal Sharma</dc:creator>
+							<dc:creator>Siljo Joseph</dc:creator>
+							<dc:creator>Roshnikumar Ngangom</dc:creator>
+							<dc:creator>Sanjeeva Nayaka</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Vishal Kumar, Yash Pal Sharma, Siljo Joseph, Roshinikumar Ngangom, Sanjeeva Nayaka
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-10-27</dc:date>
+				<prism:publicationDate>2021-10-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>12</prism:number>
+												<prism:startingPage>19799</prism:startingPage>
+													<prism:endingPage>19807</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.7312.13.12.19799-19807</prism:doi>
+					</item>
+						<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/5777">
+
+						<title>Is release of rehabilitated wildlife with embedded lead ammunition advisable? Plumbism in a Jaguar Panthera Onca (Mammalia: Carnivora: Felidae), survivor of gunshot wounds</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/5777</link>
+
+										<description>&lt;p&gt;Lead poisoning is a threat to wildlife, particularly after ingestion of lead ammunition derived from hunting activities. Little information, however, is available concerning plumbism in wild animals that survive the trauma associated with gunshot wounds. This study presents a possible example of lead intoxication by embedded pellets in a Jaguar &lt;em&gt;Panthera onca&lt;/em&gt; nineteen months after being injured by a shotgun blast. In addition, the possible path of incorporation of lead into the trophic chain after the eventual release and death of an impacted animal, thereby expanding and prolonging the toxic effects of lead ammunition, is discussed. Direct intoxication by ammunition retained in the body of wild animals, as well as the indirect impacts on predators and scavengers that consume their flesh, should be sufficient reasons to reconsider the release of individuals with embedded lead ammunition into the wild.&lt;/p&gt;</description>
+			
+							<dc:creator>Eduardo A. Díaz</dc:creator>
+							<dc:creator>Carolina Sáenz</dc:creator>
+							<dc:creator>E. Santiago Jiménez</dc:creator>
+							<dc:creator>David A. Egas</dc:creator>
+							<dc:creator>Kelly Swing</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Eduardo A. Díaz, Carolina Sáenz, E. Santiago Jiménez, David A. Egas, Kelly Swing
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-10-27</dc:date>
+				<prism:publicationDate>2021-10-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>12</prism:number>
+												<prism:startingPage>19808</prism:startingPage>
+													<prism:endingPage>19812</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.5777.13.12.19808-19812</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/7005">
+
+						<title>New record of the Sewing Needle Zipper Loach Paracanthocobitis linypha Singer &amp; Page, 2015 (Teleostei: Cypriniformes: Nemacheilidae) from the Chindwin drainage of Manipur, India</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/7005</link>
+
+										<description>&lt;p&gt;&lt;em&gt;Paracanthocobitis linypha &lt;/em&gt;Singer &amp;amp; Page, a freshwater nemacheiline zipper loach, is reported for the first time from the Lokchao River of Manipur (headwaters of Chindwin drainage), in northeastern India. The species is diagnosed in having an incomplete lateral line, flank with 10–14 thin dark bars, long bars occasionally alternating with short bars extending up to about lateral mid-line, interspaces broader than bar width. Morphometric and meristic data of the examined specimens were compared with the original description to validate the species identity.&lt;/p&gt;</description>
+			
+							<dc:creator>Rameshori Yumnam</dc:creator>
+							<dc:creator>Yengkhom Chinglemba</dc:creator>
+							<dc:creator>Vishwanath Waikhom</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Rameshori Yumnam, Yengkhom Chinglemba, Vishwanath Waikhom
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-10-27</dc:date>
+				<prism:publicationDate>2021-10-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>12</prism:number>
+												<prism:startingPage>19813</prism:startingPage>
+													<prism:endingPage>19817</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.7005.13.12.19813-19817</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/7384">
+
+						<title>Field identification characters to diagnose Microhyla mukhlesuri from closely related M. mymensinghensis (Amphibia: Microhylidae) and range extension of M. mukhlesuri up to West Bengal State, India</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/7384</link>
+
+										<description>&lt;p&gt;&lt;em&gt;Microhyla mymensinghensis&lt;/em&gt; and &lt;em&gt;Microhyla mukhlesuri &lt;/em&gt;were recorded from West Bengal, also analyzed 12 characters to separate the species. We also hereby first time confirm the presence of &lt;em&gt;Microhyla mukhlesuri&lt;/em&gt; from the main land in India&lt;/p&gt;</description>
+			
+							<dc:creator>Suman Pratihar</dc:creator>
+							<dc:creator>Kaushik Deuti</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Suman Pratihar, Kaushik Deuti 
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-10-27</dc:date>
+				<prism:publicationDate>2021-10-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>12</prism:number>
+												<prism:startingPage>19818</prism:startingPage>
+													<prism:endingPage>19823</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.7384.13.12.19818-19823</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/7124">
+
+						<title>First report of Scipinia horrida (Stål) (Heteroptera: Reduviidae) from Assam, with comments on related genus Irantha Stål</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/7124</link>
+
+										<description>&lt;p&gt;Presence of reduviid bugs &lt;em&gt;Scipinia horrida&lt;/em&gt; (Stål, 1861) and &lt;em&gt;Irantha&lt;/em&gt; sp., belonging to the family Reduviidae and subfamily Harpactorinae, is reported here for the first time from Guwahati, Assam. We provide images and comparative comments on these two bugs.&lt;span class=&quot;Apple-converted-space&quot;&gt; &lt;/span&gt;&lt;/p&gt;</description>
+			
+							<dc:creator>Anjana Singha Naorem</dc:creator>
+							<dc:creator>Santana Saikia</dc:creator>
+							<dc:creator>Anandita Buragohain</dc:creator>
+							<dc:creator>Rubina Azmeera Begum</dc:creator>
+							<dc:creator>Swapnil S. Boyane</dc:creator>
+							<dc:creator>Hemant V. Ghate</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Anjana Singha Naorem, Santana Saikia, Anandita Buragohain, Rubina Azmeera Begum, Swapnil S. Boyane, Hemant V. Ghate
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-10-27</dc:date>
+				<prism:publicationDate>2021-10-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>12</prism:number>
+												<prism:startingPage>19824</prism:startingPage>
+													<prism:endingPage>19830</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.7124.13.12.19824-19830</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/6568">
+
+						<title>Flesh fly (Diptera: Sarcophagidae): male terminalia, diversity and expanded geographical distribution from India</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/6568</link>
+
+										<description>&lt;p&gt;Despite its veterinary, medical and forensic importance, the biodiversity of sarcophagid flies (Diptera: Sarcophagidae) has remained poorly investigated in India. We have performed a survey of Sarcophagidae species in connection with a study conducted on Diptera, which exposed the flesh fly diversity in and around the campus of the University of Calicut, Kerala, India. The survey was conducted using traps baited with decomposing fish and chicken liver and by the sweeping method. Eleven species were collected, including four species recorded from this state for the first time, one of which is new to the Indian mainland and the second record after Sundarbans Biosphere Reserve. Male terminalia of &lt;em&gt;Sinonipponia bengalensis, Parasarcophaga choudhuryi, Boettcherisca karnyi&lt;/em&gt;, and &lt;em&gt;Boettcherisca nathani&lt;/em&gt; are illustrated. This result expands the knowledge on the geographical distribution and habitat occupancy of sarcophagid species as well as their forensic relevance and provides a background for future systematic investigations.&lt;/p&gt;</description>
+			
+							<dc:creator>Kanholi Sreejith</dc:creator>
+							<dc:creator>Shuvra Kanti Sinha</dc:creator>
+							<dc:creator>Santanu Mahato</dc:creator>
+							<dc:creator>Edamana Pushpalatha</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Kanholi Sreejith, Shuvra Kanti Sinha, Santanu Mahato, Edamana Pushpalatha
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-10-27</dc:date>
+				<prism:publicationDate>2021-10-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>12</prism:number>
+												<prism:startingPage>19831</prism:startingPage>
+													<prism:endingPage>19836</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.6568.13.12.19831-19836</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/7104">
+
+						<title>Checklist of moths (Heterocera) of Tadong, Sikkim, India</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/7104</link>
+
+										<description>&lt;p&gt;This study attempts to create a checklist of moths recorded from two different parts of Tadong in Sikkim, located in the northeastern Himalaya of India. Out of 160 photographed specimens of moths, 133 species were identified and classified. Sixteen families of moths were recorded out of which Erebidae (30.83%) had the highest number of species followed by Geometridae (24.81%), and Crambidae (18.05%) while the other families comprised of 26.30% of the total species.&lt;/p&gt;</description>
+			
+							<dc:creator>Prayash Chettri</dc:creator>
+							<dc:creator>Yuki Matsui</dc:creator>
+							<dc:creator>Hideshi Naka</dc:creator>
+							<dc:creator>Archana Tiwari</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Prayash Chettri, Yuki Matsui, Hideshi Naka, Archana Tiwari
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-10-27</dc:date>
+				<prism:publicationDate>2021-10-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>12</prism:number>
+												<prism:startingPage>19837</prism:startingPage>
+													<prism:endingPage>19848</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.7104.13.12.19837-19848</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/6856">
+
+						<title>New distribution records of Begonia L., B. murina Craib and B. poilanei Kiew (Begoniaceae: Cucurbitales) for Laos</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/6856</link>
+
+										<description>&lt;p&gt;&lt;em&gt;Begonia murina&lt;/em&gt; Craib from central and &lt;em&gt;B. poilanei&lt;/em&gt; Kiew from southern of Laos, are newly recorded in Laos. Based on Lao materials, detailed description, photographs, and notes on habitat, ecology, &amp;amp; taxonomic discussion of these two species compared with the Chinese, Thai, &amp;amp; Vietnamese types are provided.&lt;/p&gt;</description>
+			
+							<dc:creator>Phongphayboun Phonepaseuth</dc:creator>
+							<dc:creator>Phetlasy Souladeth</dc:creator>
+							<dc:creator>Soulivanh Lanorsavanh</dc:creator>
+							<dc:creator>Shuichiro Tagane</dc:creator>
+							<dc:creator>Thyraphon Vongthavone</dc:creator>
+							<dc:creator>Keooudone Souvannakhoummane</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Phongphayboun  Phonepaseuth, Phetlasy  Souladeth, Soulivanh Lanorsavanh, Shuichiro Tagane, Thyraphon Vongthavone, Keooudone Souvannakhoummane
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-10-27</dc:date>
+				<prism:publicationDate>2021-10-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>12</prism:number>
+												<prism:startingPage>19849</prism:startingPage>
+													<prism:endingPage>19854</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.6856.13.12.19849-19854</prism:doi>
+					</item>
+						<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/7614">
+
+						<title>A look over on the scented tree of India (Santalum album)</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/7614</link>
+
+										<description>&lt;p&gt;N/A&lt;/p&gt;</description>
+			
+							<dc:creator>Suresh Ramanan S</dc:creator>
+							<dc:creator>A. Arunachalam</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 S. Suresh Ramanan, A. Arunachalam
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-10-27</dc:date>
+				<prism:publicationDate>2021-10-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>12</prism:number>
+												<prism:startingPage>19884</prism:startingPage>
+													<prism:endingPage>19886</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.7614.13.12.19884-19886</prism:doi>
+					</item>
+	</rdf:RDF>
