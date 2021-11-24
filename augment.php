@@ -432,7 +432,23 @@ function add_meta(&$doc)
 					
 				}	
 				
-				
+				// DOIs in various places
+				if (!isset($doc->doi))
+				{
+					// CNKI
+					foreach ($dom->find('li span[class=rowtit]') as $span)	
+					{
+						if (preg_match('/DOI：/u', $span->plaintext)	)
+						{
+							$p = $span->next_sibling();
+							if ($p)
+							{
+								$doc->doi = $p->plaintext;
+							}
+						}
+					}
+				}
+
 				// image
 				
 				// If we don't have an image in <META> go looking elsewhere
