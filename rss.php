@@ -176,6 +176,21 @@ function rss_to_internal($xml)
 					$dataFeedElement->{'@id'} = $node->firstChild->nodeValue;
 				}
 			}
+			
+			// at this point check that we have an id
+			if (!isset($dataFeedElement->{'@id'}))
+			{
+				foreach ($xpath->query('atom:id', $item) as $node)
+				{
+					$dataFeedElement->{'@id'} = $node->firstChild->nodeValue;
+					
+					if (!isset($dataFeedElement->url ))
+					{
+						$dataFeedElement->url 	  = $node->firstChild->nodeValue;
+					}
+				}				
+			
+			}
 	
 			// name
 			foreach ($xpath->query('rss:title | title | atom:title', $item) as $node)
@@ -764,6 +779,9 @@ if (0)
 	//$filename = 'examples/zoobank.xml'; // rss 2 
 	
 	$filename = 'examples/zookeys.xml'; 
+	
+	$filename = 'cache/2021-11-24/0abe4bd4e1c41f034b91fd79cc81fda4.xml';
+
 
 
 	$xml = file_get_contents($filename);
