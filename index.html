@@ -199,7 +199,7 @@ isodate_to_string = function (datestring) {
 							var image_ok = true;
 							
 							if (data.dataFeedElement[i].image.match(/d200x_.jpg/)) {
-								image_ok = false;
+								image_ok = false;							
 							}
 							
 							if (image_ok) {						
@@ -211,9 +211,11 @@ isodate_to_string = function (datestring) {
 						html += '<div class="col s9 m10">';
 						
 						// title
-						html += '<div class="card-title">';
+						//html += '<div class="card-title">';
+						html += '<b style="font-size:1.1em;">';
 						html += data.dataFeedElement[i].name;
-						html += '</div>';
+						html += '</b>';
+						//html += '</div>';
 						
 						html += '<div>';
 						
