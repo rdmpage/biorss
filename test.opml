@@ -38,7 +38,7 @@
 		xmlUrl="https://www.cambridge.org/core/rss/product/id/2DD17A42E6E59026C256A7EBBDB96645"/>		
 
 
-<!-- M -->	
+<!-- E -->	
 
 	<outline 
 		text="Entomologist's Monthly Magazine" 
@@ -62,6 +62,16 @@
 		version="RSS" 
 		htmlUrl="https://www.sciencedirect.com/journal/molecular-phylogenetics-and-evolution/issues" 
 		xmlUrl="https://rss.sciencedirect.com/publication/science/10557903"/>
+		
+		
+	<outline 
+		text="Mycotaxon" 
+		title="Mycotaxon" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://www.ingentaconnect.com/content/mtax/mt" 
+		xmlUrl="https://api.ingentaconnect.com/content/mtax/mt/latest?format=rss"/>		
 		
 
 <!-- P -->	

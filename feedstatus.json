@@ -20,5 +20,9 @@
         "modified": "Wed, 12 May 2021 23:00:37 GMT"
     },
     "https://pubmed.ncbi.nlm.nih.gov/rss/search/1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD/?limit=15&utm_campaign=pubmed-2&fc=20211108074834": {},
-    "https://zookeys.pensoft.net/rss.php": {}
+    "https://zookeys.pensoft.net/rss.php": {},
+    "https://api.ingentaconnect.com/content/mtax/mt/latest?format=rss": {
+        "etag": "\"85ff-5d05382b3f391\"",
+        "modified": "Tue, 09 Nov 2021 04:26:17 GMT"
+    }
 }

@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+ xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:prism="http://prismstandard.org/namespaces/2.0/basic/"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/">
+ <channel rdf:about="http://api.ingentaconnect.com/content/mtax/mt/latest?format=rss">
+ <title>Latest Issue of MYCOTAXON</title>
+ <link>https://www.ingentaconnect.com/content/mtax/mt/latest</link>
+ <description>RSS feed of the most recently published issue of MYCOTAXON</description>
+ <image rdf:resource="https://www.ingentaconnect.com/journal-logos/mtax/mt.png"/>
+ <dc:description>RSS feed of the most recently published issue of MYCOTAXON</dc:description>
+ <dc:title>Latest Issue of MYCOTAXON RSS Feed</dc:title>
+ <dc:date>2021-11-09T04:26:17Z</dc:date>
+ <admin:generatorAgent rdf:resource="https://www.ingentaconnect.com"/>
+ <admin:errorReportsTo rdf:resource="mailto:help@ingentaconnect.com"/>
+ <sy:updatePeriod>daily</sy:updatePeriod>
+ <sy:updateFrequency>2</sy:updateFrequency>
+ <sy:updateBase>2004-01-01T07:00+00:00</sy:updateBase>
+ <items>
+ <rdf:Seq>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00001"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00002"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00003"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00004"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00005"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00006"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00007"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00008"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00009"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00010"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00011"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00012"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00013"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00014"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00015"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00016"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00017"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00018"/>
+ <rdf:li rdf:resource="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00019"/>
+ </rdf:Seq>
+ </items>
+<dc:publisher>Mycotaxon</dc:publisher>
+<dc:rights>(copyright) 2021 Mycotaxon</dc:rights>
+<prism:publicationName>MYCOTAXON</prism:publicationName>
+<prism:distributor>Ingenta Connect</prism:distributor>
+<prism:coverDisplayDate>4 November 2021</prism:coverDisplayDate>
+<prism:isPartOf rdf:resource="urn:issn:0093-4666"/><prism:issn>0093-4666</prism:issn>
+ </channel>
+<item rdf:about="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00001">
+<link>https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00001</link>
+<title>Volume 136-3: Contents, Corrigenda, Nomenclatural Updates, Peers, Editorial</title>
+<dc:title>Volume 136-3: Contents, Corrigenda, Nomenclatural Updates, Peers, Editorial</dc:title>
+<dc:format>application/pdf</dc:format>
+<prism:volume>136</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>i</prism:startingPage><prism:endingPage>xii</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003"/>
+<prism:section>Front Matter</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00002">
+<link>https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00002</link>
+<title>
+ Vanakripa chinensis sp. nov. from China and notes on the genus</title>
+<dc:title>
+ Vanakripa chinensis sp. nov. from China and notes on the genus</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Zhang, Kai</dc:creator><dc:creator>Guo, Weihua</dc:creator><dc:creator>Li, De-Wei</dc:creator><dc:creator>Castañeda-Ruiz, Rafael F.</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Kai</foaf:givenName><foaf:familyName>Zhang</foaf:familyName><foaf:name>Zhang, Kai</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Weihua</foaf:givenName><foaf:familyName>Guo</foaf:familyName><foaf:name>Guo, Weihua</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>De-Wei</foaf:givenName><foaf:familyName>Li</foaf:familyName><foaf:name>Li, De-Wei</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Rafael F.</foaf:givenName><foaf:familyName>Castañeda-Ruiz</foaf:familyName><foaf:name>Castañeda-Ruiz, Rafael F.</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>136</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>545</prism:startingPage><prism:endingPage>551</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003"/>
+<prism:section>New Taxa</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00003">
+<link>https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00003</link>
+<title>
+ Cordana sinensis sp. nov. from southern China</title>
+<dc:title>
+ Cordana sinensis sp. nov. from southern China</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Qiu, Ling</dc:creator><dc:creator>Zhang, Kai</dc:creator><dc:creator>Xu, Zhao-Huan</dc:creator><dc:creator>Castañeda-Ruíz, Rafael F.</dc:creator><dc:creator>Ma, Jian</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Ling</foaf:givenName><foaf:familyName>Qiu</foaf:familyName><foaf:name>Qiu, Ling</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Kai</foaf:givenName><foaf:familyName>Zhang</foaf:familyName><foaf:name>Zhang, Kai</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Zhao-Huan</foaf:givenName><foaf:familyName>Xu</foaf:familyName><foaf:name>Xu, Zhao-Huan</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Rafael F.</foaf:givenName><foaf:familyName>Castañeda-Ruíz</foaf:familyName><foaf:name>Castañeda-Ruíz, Rafael F.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Jian</foaf:givenName><foaf:familyName>Ma</foaf:familyName><foaf:name>Ma, Jian</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>136</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>553</prism:startingPage><prism:endingPage>562</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003"/>
+<prism:section>New Taxa</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00004">
+<link>https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00004</link>
+<title>
+ Pezicula endophytica sp. nov., endophytic in Dendrobium in Thailand</title>
+<dc:title>
+ Pezicula endophytica sp. nov., endophytic in Dendrobium in Thailand</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Ma, Xiao-Ya</dc:creator><dc:creator>Kang, Ji-Chuan</dc:creator><dc:creator>Hyde, Kevin D.</dc:creator><dc:creator>Doilom, Mingkwan</dc:creator><dc:creator>Chomnunti, Putarak</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Xiao-Ya</foaf:givenName><foaf:familyName>Ma</foaf:familyName><foaf:name>Ma, Xiao-Ya</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Ji-Chuan</foaf:givenName><foaf:familyName>Kang</foaf:familyName><foaf:name>Kang, Ji-Chuan</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Kevin D.</foaf:givenName><foaf:familyName>Hyde</foaf:familyName><foaf:name>Hyde, Kevin D.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Mingkwan</foaf:givenName><foaf:familyName>Doilom</foaf:familyName><foaf:name>Doilom, Mingkwan</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Putarak</foaf:givenName><foaf:familyName>Chomnunti</foaf:familyName><foaf:name>Chomnunti, Putarak</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>136</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>563</prism:startingPage><prism:endingPage>577</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003"/>
+<prism:section>New Taxa</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00005">
+<link>https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00005</link>
+<title>
+ Globoramichloridium delicatum and Heteroconium simile spp. nov. from southern China</title>
+<dc:title>
+ Globoramichloridium delicatum and Heteroconium simile spp. nov. from southern China</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Qiu, Ling</dc:creator><dc:creator>Shi, Xu-Gen</dc:creator><dc:creator>Zhang, Xiu-Guo</dc:creator><dc:creator>Castañeda-Ruíz, Rafael F.</dc:creator><dc:creator>Xia, Ji-Wen</dc:creator><dc:creator>Ma, Jian</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Ling</foaf:givenName><foaf:familyName>Qiu</foaf:familyName><foaf:name>Qiu, Ling</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Xu-Gen</foaf:givenName><foaf:familyName>Shi</foaf:familyName><foaf:name>Shi, Xu-Gen</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Xiu-Guo</foaf:givenName><foaf:familyName>Zhang</foaf:familyName><foaf:name>Zhang, Xiu-Guo</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Rafael F.</foaf:givenName><foaf:familyName>Castañeda-Ruíz</foaf:familyName><foaf:name>Castañeda-Ruíz, Rafael F.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Ji-Wen</foaf:givenName><foaf:familyName>Xia</foaf:familyName><foaf:name>Xia, Ji-Wen</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Jian</foaf:givenName><foaf:familyName>Ma</foaf:familyName><foaf:name>Ma, Jian</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>136</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>579</prism:startingPage><prism:endingPage>586</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003"/>
+<prism:section>New Taxa</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00006">
+<link>https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00006</link>
+<title>
+ Neosporidesmium himachalense sp. nov. from India and Neosporidesmina gen. nov. to accommodate N. michelia
+ </title>
+<dc:title>
+ Neosporidesmium himachalense sp. nov. from India and Neosporidesmina gen. nov. to accommodate N. michelia
+ </dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Verma, Rajnish Kumar</dc:creator><dc:creator>Prasher, I.B.</dc:creator><dc:creator>Sushma</dc:creator><dc:creator>Gautam, Ajay Kumar</dc:creator><dc:creator>Rajeshkumar, Kunhiraman C.</dc:creator><dc:creator>Kumar, Ashish</dc:creator><dc:creator>Castañeda-Ruiz, Rafael F.</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Rajnish Kumar</foaf:givenName><foaf:familyName>Verma</foaf:familyName><foaf:name>Verma, Rajnish Kumar</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>I.B.</foaf:givenName><foaf:familyName>Prasher</foaf:familyName><foaf:name>Prasher, I.B.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName></foaf:givenName><foaf:familyName>Sushma</foaf:familyName><foaf:name>Sushma</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Ajay Kumar</foaf:givenName><foaf:familyName>Gautam</foaf:familyName><foaf:name>Gautam, Ajay Kumar</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Kunhiraman C.</foaf:givenName><foaf:familyName>Rajeshkumar</foaf:familyName><foaf:name>Rajeshkumar, Kunhiraman C.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Ashish</foaf:givenName><foaf:familyName>Kumar</foaf:familyName><foaf:name>Kumar, Ashish</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Rafael F.</foaf:givenName><foaf:familyName>Castañeda-Ruiz</foaf:familyName><foaf:name>Castañeda-Ruiz, Rafael F.</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>136</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>587</prism:startingPage><prism:endingPage>595</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003"/>
+<prism:section>New Taxa</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00007">
+<link>https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00007</link>
+<title>
+ Cladorrhinum yunnanense sp. nov. from China</title>
+<dc:title>
+ Cladorrhinum yunnanense sp. nov. from China</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Pan, Yue</dc:creator><dc:creator>Xia, Ji-Wen</dc:creator><dc:creator>Huang, Sheng-Ting</dc:creator><dc:creator>Zhu, Chun-Yuan</dc:creator><dc:creator>Zhang, Xiu-Guo</dc:creator><dc:creator>Li, Zhuang</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Yue</foaf:givenName><foaf:familyName>Pan</foaf:familyName><foaf:name>Pan, Yue</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Ji-Wen</foaf:givenName><foaf:familyName>Xia</foaf:familyName><foaf:name>Xia, Ji-Wen</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Sheng-Ting</foaf:givenName><foaf:familyName>Huang</foaf:familyName><foaf:name>Huang, Sheng-Ting</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Chun-Yuan</foaf:givenName><foaf:familyName>Zhu</foaf:familyName><foaf:name>Zhu, Chun-Yuan</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Xiu-Guo</foaf:givenName><foaf:familyName>Zhang</foaf:familyName><foaf:name>Zhang, Xiu-Guo</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Zhuang</foaf:givenName><foaf:familyName>Li</foaf:familyName><foaf:name>Li, Zhuang</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>136</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>597</prism:startingPage><prism:endingPage>605</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003"/>
+<prism:section>New Taxa</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00008">
+<link>https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00008</link>
+<title>
+ Mazosia hainanensis sp. nov. from tropical China</title>
+<dc:title>
+ Mazosia hainanensis sp. nov. from tropical China</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Yao, Zong-Ting</dc:creator><dc:creator>Jia, Ze-Feng</dc:creator><dc:creator>Jiang, Shu-Hua</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Zong-Ting</foaf:givenName><foaf:familyName>Yao</foaf:familyName><foaf:name>Yao, Zong-Ting</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Ze-Feng</foaf:givenName><foaf:familyName>Jia</foaf:familyName><foaf:name>Jia, Ze-Feng</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Shu-Hua</foaf:givenName><foaf:familyName>Jiang</foaf:familyName><foaf:name>Jiang, Shu-Hua</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>136</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>607</prism:startingPage><prism:endingPage>613</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003"/>
+<prism:section>New Taxa</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00009">
+<link>https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00009</link>
+<title>
+ Racocetra cromosomica sp. nov. from Oaxaca, Mexico</title>
+<dc:title>
+ Racocetra cromosomica sp. nov. from Oaxaca, Mexico</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Chimal-Sánchez, Eduardo</dc:creator><dc:creator>Reyes-Jaramillo, Irma</dc:creator><dc:creator>Camargo-Ricalde, Sara Lucía</dc:creator><dc:creator>Varela, Lucía</dc:creator><dc:creator>Salmerón Castro, Jose Yabín</dc:creator><dc:creator>Montaño, Noé Manuel</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Eduardo</foaf:givenName><foaf:familyName>Chimal-Sánchez</foaf:familyName><foaf:name>Chimal-Sánchez, Eduardo</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Irma</foaf:givenName><foaf:familyName>Reyes-Jaramillo</foaf:familyName><foaf:name>Reyes-Jaramillo, Irma</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Sara Lucía</foaf:givenName><foaf:familyName>Camargo-Ricalde</foaf:familyName><foaf:name>Camargo-Ricalde, Sara Lucía</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Lucía</foaf:givenName><foaf:familyName>Varela</foaf:familyName><foaf:name>Varela, Lucía</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Castro, Jose Yabín</foaf:givenName><foaf:familyName>Salmerón Castro</foaf:familyName><foaf:name>Salmerón Castro, Jose Yabín</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Noé Manuel</foaf:givenName><foaf:familyName>Montaño</foaf:familyName><foaf:name>Montaño, Noé Manuel</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>136</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>615</prism:startingPage><prism:endingPage>626</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003"/>
+<prism:section>New Taxa</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00010">
+<link>https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00010</link>
+<title>
+ Bactrospora cozumelensis sp. nov. from Mexico</title>
+<dc:title>
+ Bactrospora cozumelensis sp. nov. from Mexico</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>García-Martínez, Yenitze A.</dc:creator><dc:creator>Guzmán-Guillermo, Jorge</dc:creator><dc:creator>Valenzuela, Ricardo</dc:creator><dc:creator>Raymundo, Tania</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Yenitze A.</foaf:givenName><foaf:familyName>García-Martínez</foaf:familyName><foaf:name>García-Martínez, Yenitze A.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Jorge</foaf:givenName><foaf:familyName>Guzmán-Guillermo</foaf:familyName><foaf:name>Guzmán-Guillermo, Jorge</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Ricardo</foaf:givenName><foaf:familyName>Valenzuela</foaf:familyName><foaf:name>Valenzuela, Ricardo</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Tania</foaf:givenName><foaf:familyName>Raymundo</foaf:familyName><foaf:name>Raymundo, Tania</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>136</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>627</prism:startingPage><prism:endingPage>634</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003"/>
+<prism:section>New Taxa</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00011">
+<link>https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00011</link>
+<title>
+ Lembosia mimusopis sp. nov. from Thailand</title>
+<dc:title>
+ Lembosia mimusopis sp. nov. from Thailand</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Marasinghe, Diana S.</dc:creator><dc:creator>Dayarathne, Monika C.</dc:creator><dc:creator>Maharachchikumbura, Sajeewa S.N.</dc:creator><dc:creator>Elgorban, Abdallah M.</dc:creator><dc:creator>Hongsanan, Sinang</dc:creator><dc:creator>Hyde, Kevin D.</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Diana S.</foaf:givenName><foaf:familyName>Marasinghe</foaf:familyName><foaf:name>Marasinghe, Diana S.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Monika C.</foaf:givenName><foaf:familyName>Dayarathne</foaf:familyName><foaf:name>Dayarathne, Monika C.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Sajeewa S.N.</foaf:givenName><foaf:familyName>Maharachchikumbura</foaf:familyName><foaf:name>Maharachchikumbura, Sajeewa S.N.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Abdallah M.</foaf:givenName><foaf:familyName>Elgorban</foaf:familyName><foaf:name>Elgorban, Abdallah M.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Sinang</foaf:givenName><foaf:familyName>Hongsanan</foaf:familyName><foaf:name>Hongsanan, Sinang</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Kevin D.</foaf:givenName><foaf:familyName>Hyde</foaf:familyName><foaf:name>Hyde, Kevin D.</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>136</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>635</prism:startingPage><prism:endingPage>644</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003"/>
+<prism:section>New Taxa</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00012">
+<link>https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00012</link>
+<title>
+ Fibroporia gossypium isolated from an indoor environment in Argentina</title>
+<dc:title>
+ Fibroporia gossypium isolated from an indoor environment in Argentina</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Robles, Carolina A.</dc:creator><dc:creator>Pildain, María Belén</dc:creator><dc:creator>Sautua, Francisco</dc:creator><dc:creator>Carmona, Marcelo A.</dc:creator><dc:creator>Rajchenberg, Mario</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Carolina A.</foaf:givenName><foaf:familyName>Robles</foaf:familyName><foaf:name>Robles, Carolina A.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>María Belén</foaf:givenName><foaf:familyName>Pildain</foaf:familyName><foaf:name>Pildain, María Belén</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Francisco</foaf:givenName><foaf:familyName>Sautua</foaf:familyName><foaf:name>Sautua, Francisco</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Marcelo A.</foaf:givenName><foaf:familyName>Carmona</foaf:familyName><foaf:name>Carmona, Marcelo A.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Mario</foaf:givenName><foaf:familyName>Rajchenberg</foaf:familyName><foaf:name>Rajchenberg, Mario</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>136</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>645</prism:startingPage><prism:endingPage>660</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003"/>
+<prism:section>Environmental Range Verification</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00013">
+<link>https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00013</link>
+<title>
+ Rubellofomes cystidiatus and Spongiporus floriformis newly recorded for India</title>
+<dc:title>
+ Rubellofomes cystidiatus and Spongiporus floriformis newly recorded for India</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Nellipunath, Vinjusha</dc:creator><dc:creator>Kumar, T.K. Arun</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Vinjusha</foaf:givenName><foaf:familyName>Nellipunath</foaf:familyName><foaf:name>Nellipunath, Vinjusha</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>T.K. Arun</foaf:givenName><foaf:familyName>Kumar</foaf:familyName><foaf:name>Kumar, T.K. Arun</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>136</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>661</prism:startingPage><prism:endingPage>667</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003"/>
+<prism:section>New Ranges/Hosts</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00014">
+<link>https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00014</link>
+<title>
+ Diplodia bulgarica, a new record for Turkey</title>
+<dc:title>
+ Diplodia bulgarica, a new record for Turkey</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Eken, Cafer</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Cafer</foaf:givenName><foaf:familyName>Eken</foaf:familyName><foaf:name>Eken, Cafer</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>136</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>669</prism:startingPage><prism:endingPage>673</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003"/>
+<prism:section>New Ranges/Hosts</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00015">
+<link>https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00015</link>
+<title>
+ Gerhardtia foliicola, a new record for Pakistan</title>
+<dc:title>
+ Gerhardtia foliicola, a new record for Pakistan</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Izhar, Aiman</dc:creator><dc:creator>Usman, Muhammad</dc:creator><dc:creator>Kiran, Munazza</dc:creator><dc:creator>Khalid, Abdul Nasir</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Aiman</foaf:givenName><foaf:familyName>Izhar</foaf:familyName><foaf:name>Izhar, Aiman</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Muhammad</foaf:givenName><foaf:familyName>Usman</foaf:familyName><foaf:name>Usman, Muhammad</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Munazza</foaf:givenName><foaf:familyName>Kiran</foaf:familyName><foaf:name>Kiran, Munazza</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Abdul Nasir</foaf:givenName><foaf:familyName>Khalid</foaf:familyName><foaf:name>Khalid, Abdul Nasir</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>136</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>675</prism:startingPage><prism:endingPage>684</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003"/>
+<prism:section>New Ranges/Hosts</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00016">
+<link>https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00016</link>
+<title>Checklist of the lichens of The Reserva Florestal Adolphe Ducke in Manaus (Amazonas, Brazil)</title>
+<dc:title>Checklist of the lichens of The Reserva Florestal Adolphe Ducke in Manaus (Amazonas, Brazil)</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Aptroot, André</dc:creator><dc:creator>Cavalcante, Janice Gomes</dc:creator><dc:creator>Santos, Lidiane Alves dos</dc:creator><dc:creator>Oliveira Junior, Isaias</dc:creator><dc:creator>Lima, Dayane de Oliveira</dc:creator><dc:creator>Cáceres, Marcela Eugenia da Silva</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>André</foaf:givenName><foaf:familyName>Aptroot</foaf:familyName><foaf:name>Aptroot, André</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Janice Gomes</foaf:givenName><foaf:familyName>Cavalcante</foaf:familyName><foaf:name>Cavalcante, Janice Gomes</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Lidiane Alves dos</foaf:givenName><foaf:familyName>Santos</foaf:familyName><foaf:name>Santos, Lidiane Alves dos</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Junior, Isaias</foaf:givenName><foaf:familyName>Oliveira Junior</foaf:familyName><foaf:name>Oliveira Junior, Isaias</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Dayane de Oliveira</foaf:givenName><foaf:familyName>Lima</foaf:familyName><foaf:name>Lima, Dayane de Oliveira</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Marcela Eugenia da Silva</foaf:givenName><foaf:familyName>Cáceres</foaf:familyName><foaf:name>Cáceres, Marcela Eugenia da Silva</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>136</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>685</prism:startingPage><prism:endingPage>685</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003"/>
+<prism:section>Mycobiota (Funga) New to The Mycotaxon Website</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00017">
+<link>https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00017</link>
+<title>First molecular-based contribution to the checklist of Lebanon macrofungi</title>
+<dc:title>First molecular-based contribution to the checklist of Lebanon macrofungi</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Sleiman, Sandra</dc:creator><dc:creator>Bellanger, Jean-Michel</dc:creator><dc:creator>Richard, Franck</dc:creator><dc:creator>Stephan, Jean</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Sandra</foaf:givenName><foaf:familyName>Sleiman</foaf:familyName><foaf:name>Sleiman, Sandra</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Jean-Michel</foaf:givenName><foaf:familyName>Bellanger</foaf:familyName><foaf:name>Bellanger, Jean-Michel</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Franck</foaf:givenName><foaf:familyName>Richard</foaf:familyName><foaf:name>Richard, Franck</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Jean</foaf:givenName><foaf:familyName>Stephan</foaf:familyName><foaf:name>Stephan, Jean</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>136</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>687</prism:startingPage><prism:endingPage>687</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003"/>
+<prism:section>Mycobiota (Funga) New to The Mycotaxon Website</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00018">
+<link>https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00018</link>
+<title>Checklist of powdery mildew fungi (Erysiphaceae) in Pakistan</title>
+<dc:title>Checklist of powdery mildew fungi (Erysiphaceae) in Pakistan</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Afshan, N.S.</dc:creator><dc:creator>Zafar, I.</dc:creator><dc:creator>Khalid, A.N.</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>N.S.</foaf:givenName><foaf:familyName>Afshan</foaf:familyName><foaf:name>Afshan, N.S.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>I.</foaf:givenName><foaf:familyName>Zafar</foaf:familyName><foaf:name>Zafar, I.</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>A.N.</foaf:givenName><foaf:familyName>Khalid</foaf:familyName><foaf:name>Khalid, A.N.</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>136</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>689</prism:startingPage><prism:endingPage>689</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003"/>
+<prism:section>Mycobiota (Funga) New to The Mycotaxon Website</prism:section>
+</item>
+<item rdf:about="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00019">
+<link>https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003/art00019</link>
+<title>Aphyllophoroid fungi (Basidiomycota) of Chile: An annotated checklist</title>
+<dc:title>Aphyllophoroid fungi (Basidiomycota) of Chile: An annotated checklist</dc:title>
+<dc:format>application/pdf</dc:format>
+<dc:creator>Riquelme, Cristian</dc:creator><dc:creator>Rajchenberg, Mario</dc:creator>
+<foaf:maker><foaf:Person><foaf:givenName>Cristian</foaf:givenName><foaf:familyName>Riquelme</foaf:familyName><foaf:name>Riquelme, Cristian</foaf:name></foaf:Person></foaf:maker><foaf:maker><foaf:Person><foaf:givenName>Mario</foaf:givenName><foaf:familyName>Rajchenberg</foaf:familyName><foaf:name>Rajchenberg, Mario</foaf:name></foaf:Person></foaf:maker>
+<prism:volume>136</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>691</prism:startingPage><prism:endingPage>691</prism:endingPage>
+<prism:isPartOf rdf:resource="https://www.ingentaconnect.com/content/mtax/mt/2021/00000136/00000003"/>
+<prism:section>Mycobiota (Funga) New to The Mycotaxon Website</prism:section>
+</item>
+ </rdf:RDF>
