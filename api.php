@@ -120,42 +120,41 @@ function display_treemap ($path, $callback = '')
 	$nodes = array();
 	foreach ($obj->rows as $row)
 	{
-		$node_array = array_slice($row->key, 0, $level + 1);
-		$node_key = join("-", $node_array);
-		
-		if (!isset($nodes[$node_key]))
+		// don't include key as an item
+		if (count($row->key) > $level)
 		{
-			$nodes[$node_key] = new stdclass;
-			$nodes[$node_key]->count = 0;
+	
+			$node_array = array_slice($row->key, 0, $level + 1);
+			$node_key = join("-", $node_array);
+		
+			if (!isset($nodes[$node_key]))
+			{
+				$nodes[$node_key] = new stdclass;
+				$nodes[$node_key]->count = 0;
 			
-			if (count($row->key) == $level)
-			{
-				$nodes[$node_key]->label = $row->key[$level - 1];
+				if (count($row->key) == $level)
+				{
+					$nodes[$node_key]->label = $row->key[$level - 1];
+				}
+				else
+				{
+					$nodes[$node_key]->label = $row->key[$level];
+				}
+				$nodes[$node_key]->key = $node_array;
+				$nodes[$node_key]->children = 1;
 			}
-			else
+		
+			$nodes[$node_key]->count += $row->value;
+		
+			if (count($row->key) > $level + 1)
 			{
-				$nodes[$node_key]->label = $row->key[$level];
+				$nodes[$node_key]->children++;
 			}
-			$nodes[$node_key]->key = $node_array;
-			$nodes[$node_key]->children = 1;
-		}
-		
-		$nodes[$node_key]->count += $row->value;
-		
-		if (count($row->key) > $level + 1)
-		{
-			$nodes[$node_key]->children++;
-		}
 
-
+		}
 	}	
 	
-	
-	if (count($nodes) > 1)
-	{
-		array_shift($nodes);
-	}
-	
+
 	
 	/*
 	echo '<pre>';
