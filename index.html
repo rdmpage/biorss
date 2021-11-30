@@ -233,8 +233,8 @@ isodate_to_string = function (datestring) {
 						}
 						
 						// DOI?
-						if (data.dataFeedElement[i].doi) {
-							html += '&nbsp;<i class="ai ai-doi ai-1x"></i>&nbsp;<a href="https://doi.org/' + data.dataFeedElement[i].doi + '" target="_new">' + data.dataFeedElement[i].doi + '</a>';							
+						if (data.dataFeedElement[i].item.doi) {
+							html += '&nbsp;<i class="ai ai-doi ai-1x"></i>&nbsp;<a href="https://doi.org/' + data.dataFeedElement[i].item.doi + '" target="_new">' + data.dataFeedElement[i].item.doi + '</a>';							
 						}
 					
 						html += '</div>';

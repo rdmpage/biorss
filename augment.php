@@ -318,7 +318,7 @@ function add_meta(&$doc)
 	// add empty array to signal that we have processed this, even if we find no names
 	$doc->meta = array();
 		
-	if (isset($doc->url) && (!isset($doc->doi) || !isset($doc->image) || !isset($doc->datePublished)  || !isset($doc->description)))
+	if (isset($doc->url) && (!isset($doc->item->doi) || !isset($doc->image) || !isset($doc->datePublished)  || !isset($doc->description)))
 	{
 		$html = get($doc->url);	
 		
@@ -345,19 +345,19 @@ function add_meta(&$doc)
 					}
 				
 					// DOI
-					if (!isset($doc->doi) && isset($meta->name) && ($meta->content != ''))
+					if (!isset($doc->item->doi) && isset($meta->name) && ($meta->content != ''))
 					{
 						switch ($meta->name)
 						{				
 							case 'citation_doi':
 								$doi = $meta->content;
-								$doc->doi = $doi;
+								$doc->item->doi = $doi;
 								break;					
 
 							case 'DC.identifier':
 								$doi = $meta->content;
 								$doi = str_replace('info:doi/', '', $doi);
-								$doc->doi = $doi;
+								$doc->item->doi = $doi;
 								break;	
 								
 							// https://cdnsciencepub.com/doi/abs/10.1139/cjes-2020-0190
@@ -365,7 +365,7 @@ function add_meta(&$doc)
 								if (isset($meta->scheme) && ($meta->scheme == 'doi'))
 								{
 									$doi = $meta->content;
-									$doc->doi = $doi;	
+									$doc->item->doi = $doi;	
 								}								
 								break;					
 												
@@ -433,7 +433,7 @@ function add_meta(&$doc)
 				}	
 				
 				// DOIs in various places
-				if (!isset($doc->doi))
+				if (!isset($doc->item->doi))
 				{
 					// CNKI
 					foreach ($dom->find('li span[class=rowtit]') as $span)	
@@ -443,7 +443,7 @@ function add_meta(&$doc)
 							$p = $span->next_sibling();
 							if ($p)
 							{
-								$doc->doi = $p->plaintext;
+								$doc->item->doi = $p->plaintext;
 							}
 						}
 					}
@@ -487,7 +487,30 @@ function add_meta(&$doc)
 			}
 			
 			$doc->meta = array_unique($doc->meta);
-		}	
+		}
+		
+		if (!isset($doc->image))
+		{
+			// try and find an image
+			if (isset($doc->url))
+			{
+				// wanfangdata.com.cn/periodical/dwfl202102003
+				if (preg_match('/.cn\/periodical\/(?<code>[a-z]{4})\d+/', $doc->url, $m))
+				{
+					$doc->image = 'https://www.wanfangdata.com.cn/images/PeriodicalImages/' . $m['code'] . '/' . $m['code'] . '.jpg';
+				}
+			
+			}
+		
+		}
+		
+		// DOI as identifier
+		if (isset($doc->item->doi) && !isset($doc->item->{'@id'}))
+		{
+			$doc->item->{'@id'} = 'https://doi.org/' . $doc->item->doi;
+		}
+		
+			
 	}
 	
 	return $status;
