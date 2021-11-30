@@ -62,6 +62,15 @@
 <!-- E -->	
 
 	<outline 
+		text="Edinburgh Journal of Botany" 
+		title="Edinburgh Journal of Botany" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://journals.rbge.org.uk/ejb/index" 
+		xmlUrl="https://journals.rbge.org.uk/ejb/gateway/plugin/WebFeedGatewayPlugin/rss"/>
+
+	<outline 
 		text="Entomologisk Tidskrift" 
 		title="Entomologisk Tidskrift" 
 		description="" 
@@ -121,6 +130,15 @@
 		htmlUrl="https://www.sciencedirect.com/journal/molecular-phylogenetics-and-evolution/issues" 
 		xmlUrl="https://rss.sciencedirect.com/publication/science/10557903"/>
 		
+	<outline 
+		text="MycoKeys" 
+		title="MycoKeys" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="http://mycokeys.pensoft.net" 
+		xmlUrl="http://mycokeys.pensoft.net/rss.php"/>		
+		
 		
 	<outline 
 		text="Mycotaxon" 
@@ -131,8 +149,32 @@
 		htmlUrl="https://www.ingentaconnect.com/content/mtax/mt" 
 		xmlUrl="https://api.ingentaconnect.com/content/mtax/mt/latest?format=rss"/>		
 		
+		
+<!-- N -->
+
+	
+
+	<outline 
+		text="Arbeiten aus Nova Hedwigia" 
+		title="Arbeiten aus Nova Hedwigia" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="http://www.schweizerbart.de//journals/nova_hedwigia" 
+		xmlUrl="https://www.schweizerbart.de/services/feeds/papers/nova_hedwigia/de/rss.xml	"/>		
+
 
 <!-- P -->	
+
+	<outline 
+		text="Latest Issue of PERSOONIA MOLECULAR PHYLOGENY AND EVOLUTION OF FUNGI" 
+		title="Latest Issue of PERSOONIA MOLECULAR PHYLOGENY AND EVOLUTION OF FUNGI" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://www.ingentaconnect.com/content/nhn/pimj/latest" 
+		xmlUrl="https://api.ingentaconnect.com/content/nhn/pimj/latest?format=rss"/>		
+
 
 	<outline 
 		text="Latest Articles from PhytoKeys" 
