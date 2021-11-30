@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:georss="http://www.georss.org/georss" xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+  <title>蛛形学报 / Acta Arachnologica Sinica</title>
+  <link href="https://www.wanfangdata.com.cn/perio/detail.do?perio_id=zxxb&amp;perio_title=蛛形学报"/>
+  <link rel="self" type="application/atom+xml" href="https://www.wanfangdata.com.cn/perio/detail.do?perio_id=zxxb&amp;perio_title=蛛形学报"/>
+  <updated>2021-11-24T17:23:55+00:00</updated>
+  <id>https://www.wanfangdata.com.cn/perio/detail.do?perio_id=zxxb&amp;perio_title=蛛形学报</id>
+  <entry>
+    <title>中国延斑蛛属4新种(蜘蛛目:古筛蛛科) / Four new species of the genus Ectatosticta(Araneae,Hypochilidae)from China</title>
+    <content type="html">&lt;p&gt;本文报道了中国延斑蛛属(Ectatosticta Simon,1892)4新种:八戒延斑蛛,新种E.bajie sp.nov.(♂♀);大鹏延斑蛛,新种 E.dapeng sp.nov.(♂♀);如来延斑蛛,新种 E.rulai sp.nov.(♂♀);余锟延斑蛛,新种E.yukuni sp.nov.(♂♀).提供了这4种延斑蛛的描述、照片以及详细的鉴别特征. / Four new species of the spider genus Ectatosticta Simon,1892 are reported,diagnosed,described and illustrated.The new species are E.bajie sp.nov.(♂♀),E.dapeng sp.nov.(♂♀),E.rulai sp.nov.(♂♀)and E.yukuni sp.nov.(♂♀).&lt;/p&gt;&lt;p&gt;&lt;a href="https://d.wanfangdata.com.cn/periodical/zxxb202101001"&gt;d.wanfangdata.com.cn&lt;/a&gt;&lt;/p&gt;</content>
+    <id>https://d.wanfangdata.com.cn/periodical/zxxb202101001</id>
+    <link rel="alternate" type="text/html" href="https://d.wanfangdata.com.cn/periodical/zxxb202101001"/>
+    <published>2021-01-01T00:00:00+00:00</published>
+    <updated>2021-01-01T00:00:00+00:00</updated>
+    <prism:doi>10.3969/j.issn.1005-9628.2021.01.001</prism:doi>
+  </entry>
+  <entry>
+    <title>中国南方蜘蛛2新种:Pinelema mulunensis sp.nov.和 Stedocys vittiformis sp.nov.(蛛形纲:蜘蛛目) / Pinelema mulunensis sp.nov.and Stedocys vittiformis sp.nov.,two new species from southern China(Arachnida:Araneae)</title>
+    <content type="html">&lt;p&gt;依据采自中国广西壮族自治区的蜘蛛标本,本文描述了 2个新种:木论平莱蛛Pinelema mulunensis sp.nov.(泰来蛛科)和丝带斯德蛛Stedocys vittiformis sp.nov.(花皮蛛科).文中提供了 2新种的彩色外形图、生殖器鉴别特征图及模式标本分布地图.模式标本保存于湖南师范大学. / Guangxi Zhuang Autonomous Region of China has rich biological resource and many spider species have been found here.Two new species collected from Guangxi,Pinelema mulunensis Chen&amp;Xu sp.nov.(male and female)and Stedocys vittiformis Liang&amp;Xu sp.nov.(male)belonging to family Telemidae and Scytodidae respectively,are described and illustrated.Pinelema mulunensis sp.nov.is a member of Pinelema bailongensis species group.The updated keys to Pinelema bailongensis species group and to Stedocys species from China are also supplied.&lt;/p&gt;&lt;p&gt;&lt;a href="https://d.wanfangdata.com.cn/periodical/zxxb202101002"&gt;d.wanfangdata.com.cn&lt;/a&gt;&lt;/p&gt;</content>
+    <id>https://d.wanfangdata.com.cn/periodical/zxxb202101002</id>
+    <link rel="alternate" type="text/html" href="https://d.wanfangdata.com.cn/periodical/zxxb202101002"/>
+    <published>2021-01-01T00:00:00+00:00</published>
+    <updated>2021-01-01T00:00:00+00:00</updated>
+    <prism:doi>10.3969/j.issn.1005-9628.2021.01.002</prism:doi>
+  </entry>
+</feed>

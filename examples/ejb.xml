@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+	xmlns:cc="http://web.resource.org/cc/">
+
+	<channel rdf:about="https://journals.rbge.org.uk/ejb">
+				<title>Edinburgh Journal of Botany</title>
+		<link>https://journals.rbge.org.uk/ejb</link>
+
+							
+		<description>&lt;p&gt;The &lt;em&gt;Edinburgh Journal of Botany&lt;/em&gt; is an international journal of plant systematics covering related aspects of biodiversity, conservation science and phytogeography for plants and fungi.&lt;/p&gt;</description>
+
+									<dc:publisher>Royal Botanic Garden Edinburgh</dc:publisher>
+		
+					<dc:language>en-US</dc:language>
+		
+		<prism:publicationName>Edinburgh Journal of Botany</prism:publicationName>
+
+							
+					<prism:issn>0960-4286</prism:issn>
+		
+					<prism:copyright>&lt;p&gt;Please read our &lt;a href=&quot;https://journals.rbge.org.uk/ejb/policies&quot;&gt;Open Access, Copyright and Permissions policies&lt;/a&gt; for more information.&amp;nbsp;&lt;/p&gt;</prism:copyright>
+		
+		<items>
+			<rdf:Seq>
+												<rdf:li rdf:resource="https://journals.rbge.org.uk/ejb/article/view/321"/>
+																<rdf:li rdf:resource="https://journals.rbge.org.uk/ejb/article/view/331"/>
+									<rdf:li rdf:resource="https://journals.rbge.org.uk/ejb/article/view/336"/>
+									<rdf:li rdf:resource="https://journals.rbge.org.uk/ejb/article/view/334"/>
+									<rdf:li rdf:resource="https://journals.rbge.org.uk/ejb/article/view/335"/>
+									<rdf:li rdf:resource="https://journals.rbge.org.uk/ejb/article/view/337"/>
+									<rdf:li rdf:resource="https://journals.rbge.org.uk/ejb/article/view/347"/>
+									<rdf:li rdf:resource="https://journals.rbge.org.uk/ejb/article/view/348"/>
+									<rdf:li rdf:resource="https://journals.rbge.org.uk/ejb/article/view/350"/>
+									<rdf:li rdf:resource="https://journals.rbge.org.uk/ejb/article/view/355"/>
+									<rdf:li rdf:resource="https://journals.rbge.org.uk/ejb/article/view/358"/>
+									<rdf:li rdf:resource="https://journals.rbge.org.uk/ejb/article/view/357"/>
+									<rdf:li rdf:resource="https://journals.rbge.org.uk/ejb/article/view/356"/>
+									<rdf:li rdf:resource="https://journals.rbge.org.uk/ejb/article/view/362"/>
+									<rdf:li rdf:resource="https://journals.rbge.org.uk/ejb/article/view/370"/>
+									<rdf:li rdf:resource="https://journals.rbge.org.uk/ejb/article/view/371"/>
+									<rdf:li rdf:resource="https://journals.rbge.org.uk/ejb/article/view/363"/>
+									<rdf:li rdf:resource="https://journals.rbge.org.uk/ejb/article/view/365"/>
+									<rdf:li rdf:resource="https://journals.rbge.org.uk/ejb/article/view/364"/>
+									<rdf:li rdf:resource="https://journals.rbge.org.uk/ejb/article/view/393"/>
+									<rdf:li rdf:resource="https://journals.rbge.org.uk/ejb/article/view/373"/>
+									<rdf:li rdf:resource="https://journals.rbge.org.uk/ejb/article/view/382"/>
+										</rdf:Seq>
+		</items>
+	</channel>
+
+			<item rdf:about="https://journals.rbge.org.uk/ejb/article/view/321">
+
+						<title>EDITORIAL: MAJOR CHANGES TO THE EDINBURGH JOURNAL OF BOTANY</title>
+			<link>https://journals.rbge.org.uk/ejb/article/view/321</link>
+
+										<description>&lt;p&gt;The Edinburgh Journal of Botany has moved to online only and is now using the Diamond Open Access model. The journal will continue to publish high-quality, peer-reviewed scientific papers, but these will now be both free to publish and free to access.&lt;/p&gt;</description>
+			
+							<dc:creator>Peter Wilkie</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Peter Wilkie (Editor-in-Chief)
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-03-08</dc:date>
+				<prism:publicationDate>2021-03-08</prism:publicationDate>
+						<prism:volume>78</prism:volume>			
+												<prism:startingPage>1</prism:startingPage>
+													<prism:endingPage>1</prism:endingPage>
+							
+							<prism:doi>10.24823/EJB.2021.321</prism:doi>
+					</item>
+				<item rdf:about="https://journals.rbge.org.uk/ejb/article/view/331">
+
+						<title>FLORA OF NEPAL NOTULAE I: TAXONOMIC NOTES ON NEPALESE SALVIA</title>
+			<link>https://journals.rbge.org.uk/ejb/article/view/331</link>
+
+										<description>&lt;p&gt;While preparing the account of Salvia L. for the Flora of Nepal, two unnamed species were noted. These species are described here as Salvia clementae Pendry &amp;amp; Y.K.Wei and S. manasluensis Pendry &amp;amp; Y.K.Wei. Salvia transhimalaica Yonek., recently described from Mustang, is reduced to synonymy under S. przewalskii Maxim. A key to the species of Salvia in Nepal is presented.&lt;/p&gt;</description>
+			
+							<dc:creator>Colin A Pendry</dc:creator>
+							<dc:creator>Yukun K Wei</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Colin A Pendry, Yukun K Wei
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-03-09</dc:date>
+				<prism:publicationDate>2021-03-09</prism:publicationDate>
+						<prism:volume>78</prism:volume>			
+												<prism:startingPage>1</prism:startingPage>
+													<prism:endingPage>8</prism:endingPage>
+							
+							<prism:doi>10.24823/EJB.2021.331</prism:doi>
+					</item>
+			<item rdf:about="https://journals.rbge.org.uk/ejb/article/view/336">
+
+						<title>ERIOCAULON MEENACHILENSE, A NEW TUBEROUS SPECIES OF ERIOCAULACEAE FROM THE SOUTHERN WESTERN GHATS, INDIA</title>
+			<link>https://journals.rbge.org.uk/ejb/article/view/336</link>
+
+										<description>&lt;p&gt;Eriocaulon meenachilense, a new species of the family Eriocaulaceae from the southern Western Ghats, India, is described and illustrated. The new species is similar to Eriocaulon idukkianum and E. tuberiferum but differs in its short, linear-subulate, stiff leaves, solitary 6-angled peduncle, inflexed involucral bracts, eglandular petals, and yellow anthers and seeds.&lt;/p&gt;</description>
+			
+							<dc:creator>Anoop P Balan</dc:creator>
+							<dc:creator>Robi Aloor Jose</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Anoop P Balam, Robi Aloor Jose
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-03-09</dc:date>
+				<prism:publicationDate>2021-03-09</prism:publicationDate>
+						<prism:volume>78</prism:volume>			
+												<prism:startingPage>1</prism:startingPage>
+													<prism:endingPage>8</prism:endingPage>
+							
+							<prism:doi>10.24823/EJB.2021.336</prism:doi>
+					</item>
+			<item rdf:about="https://journals.rbge.org.uk/ejb/article/view/334">
+
+						<title>SALVIA SUBVIOLACEA, A NEW SPECIES FROM THE HIMALAYAS–HENGDUAN MOUNTAINS, CHINA</title>
+			<link>https://journals.rbge.org.uk/ejb/article/view/334</link>
+
+										<description>&lt;p&gt;Salvia subviolacea Y.K.Wei &amp;amp; Pendry, a new species from China, is described. Salvia subviolacea belongs to Salvia subg. Glutinaria (Raf.) G.X.Hu, C.L.Xiang &amp;amp; B.T.Drew, sect. Eurysphace E.Peter, and is distinguished from morphologically similar species by differences in its habit, leaves, inflorescences and flowers. It has a disjunct distribution in Sichuan and Xizang, and its IUCN Red List conservation assessment is Endangered. The Xizang population is under extreme threat and rapid conservation measures need to be taken.&lt;/p&gt;</description>
+			
+							<dc:creator>Yukun K Wei</dc:creator>
+							<dc:creator>Colin A Pendry</dc:creator>
+							<dc:creator>YanBo Huang</dc:creator>
+							<dc:creator>BinJie Ge</dc:creator>
+							<dc:creator>HanWen Xiao</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Yukun K Wei, Colin A Pendry, YanBo Huang, BinJie Ge, HanWen Xiao
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-03-09</dc:date>
+				<prism:publicationDate>2021-03-09</prism:publicationDate>
+						<prism:volume>78</prism:volume>			
+												<prism:startingPage>1</prism:startingPage>
+													<prism:endingPage>9</prism:endingPage>
+							
+							<prism:doi>10.24823/EJB.2021.334</prism:doi>
+					</item>
+			<item rdf:about="https://journals.rbge.org.uk/ejb/article/view/335">
+
+						<title>A SURVEY OF ALUMINIUM ACCUMULATION IN EUMACHIA (RUBIACEAE)</title>
+			<link>https://journals.rbge.org.uk/ejb/article/view/335</link>
+
+										<description>&lt;p&gt;A useful character for spotting specimens of the pantropical Rubiaceae genus Eumachia is the leaves drying green. The physiological reasons for this are unresolved. We investigated whether the phenomenon is related to the accumulation of aluminium. Samples of foliage from herbarium specimens of nine species of Eumachia (Rubiaceae), including collections from Asia-Pacific, Africa and the Americas, were analysed for elemental concentrations. For comparison, specimens of the closely related genera Psychotria and Palicourea from similar geographical regions were also analysed. Two species, Palicourea violacea (Panama) and Psychotria pallens (Brazil) were found to be aluminium hyperaccumulators (≥ 1% Al by dry weight), with a third species, Eumachia collina (from New Caledonia), falling just short of the threshold with 0.99% Al. Aluminium accumulation (≥ 0.4% Al by dry weight) occurs but is infrequent among species of Eumachia and appears less&lt;br&gt;common than in the close relative Palicourea. Aluminium accumulation also appears patchy in Psychotria sensu stricto. It seems unlikely that herbarium greenness in Eumachia is directly related to aluminium accumulation.&lt;/p&gt;</description>
+			
+							<dc:creator>Ian M Turner</dc:creator>
+							<dc:creator>Francis Q Brearley</dc:creator>
+							<dc:creator>Liam A Trethowan</dc:creator>
+							<dc:creator>Timothy M A Utteridge</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Ian M Turner, Francis Q Brearley, Liam A Trethowan, Timothy M A  Utteridge
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-03-09</dc:date>
+				<prism:publicationDate>2021-03-09</prism:publicationDate>
+						<prism:volume>78</prism:volume>			
+												<prism:startingPage>1</prism:startingPage>
+													<prism:endingPage>10</prism:endingPage>
+							
+							<prism:doi>10.24823/EJB.2021.335</prism:doi>
+					</item>
+			<item rdf:about="https://journals.rbge.org.uk/ejb/article/view/337">
+
+						<title>NEW CHROMOSOME COUNTS OF ASIAN COSTACEAE AND INITIAL INSIGHTS INTO THE GENOME EVOLUTION OF THE FAMILY</title>
+			<link>https://journals.rbge.org.uk/ejb/article/view/337</link>
+
+										<description>&lt;p&gt;Chromosome counts were obtained from six species of Costaceae from Asia. Our count of 2n = 18 for Cheilocostus speciosus confirms previous counts, and the other five counts have been made for the first time (Cheilocostus borneensis, Cheilocostus globosus, Cheilocostus sopuensis, Costus muluensis and Paracostus sp.). These chromosome counts reveal two somatic numbers, 2n = 18 and 2n = 36, of which the former is a new diploid number for the genus Paracostus. A comprehensive review of existing counts was conducted through literature and database searches. Mapping of these on a published comprehensive phylogenetic tree suggests that the diploid count of 2n = 18 is probably ancestral in the Costaceae, with repeated parallel evolution of tetraploidy and one case of octoploidy. The existence of triploid counts in several lineages harbouring polyploids suggests that diploids and tetraploids may exist in close proximity, and that crosses or meiotic&lt;br&gt;irregularities may lead to triploid genotypes occurring frequently.&lt;/p&gt;</description>
+			
+							<dc:creator>Pim H van Caspel</dc:creator>
+							<dc:creator>Axel Dalberg Poulsen</dc:creator>
+							<dc:creator>Michael Möller</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Pim H van Caspel, Axel Dalberg Poulsen, Michael Möller
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-03-10</dc:date>
+				<prism:publicationDate>2021-03-10</prism:publicationDate>
+						<prism:volume>78</prism:volume>			
+												<prism:startingPage>1</prism:startingPage>
+													<prism:endingPage>13</prism:endingPage>
+							
+							<prism:doi>10.24823/EJB.2021.337</prism:doi>
+					</item>
+			<item rdf:about="https://journals.rbge.org.uk/ejb/article/view/347">
+
+						<title>TAXONOMIC REVIEW AND PHYLOGENETIC INVESTIGATIONS OF LAVANDULA FROM IRAN AND OMAN</title>
+			<link>https://journals.rbge.org.uk/ejb/article/view/347</link>
+
+										<description>&lt;p&gt;A review of the native Iranian species of Lavandula is presented, including the first recorded occurrence of L. pubescens, new distribution records for L. coronopifolia, and a detailed description and observations of the poorly known endemic L. sublepidota. The phylogenetic relationships of several taxa, including Lavandula sublepidota and L. hasikensis from Oman, are investigated for the first time using molecular data (matK and ITS regions), and changes to the sectional classification are proposed.&lt;/p&gt;</description>
+			
+							<dc:creator>Firouzeh Bordbar</dc:creator>
+							<dc:creator>Tim M. Upson</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Firouzeh Bordbar, Tim M.  Upson
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-03-19</dc:date>
+				<prism:publicationDate>2021-03-19</prism:publicationDate>
+						<prism:volume>78</prism:volume>			
+												<prism:startingPage>1</prism:startingPage>
+													<prism:endingPage>16</prism:endingPage>
+							
+							<prism:doi>10.24823/EJB.2021.347</prism:doi>
+					</item>
+			<item rdf:about="https://journals.rbge.org.uk/ejb/article/view/348">
+
+						<title>A SYNOPSIS OF THE WOOD-DECAY GENUS LAXITEXTUM (HERICIACEAE, RUSSULALES, BASIDIOMYCOTA) AND A NEW SPECIES FROM CAMEROON</title>
+			<link>https://journals.rbge.org.uk/ejb/article/view/348</link>
+
+										<description>&lt;p&gt;Descriptions of and a key to the globally known species of the genus Laxitextum are provided. A new species from Cameroon, Laxitextum globisporum, is described.&lt;/p&gt;</description>
+			
+							<dc:creator>Terry W. Henkel</dc:creator>
+							<dc:creator>Leif Ryvarden</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Terry W. Henkel, Leif Ryvarden
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-03-19</dc:date>
+				<prism:publicationDate>2021-03-19</prism:publicationDate>
+						<prism:volume>78</prism:volume>			
+												<prism:startingPage>1</prism:startingPage>
+													<prism:endingPage>9</prism:endingPage>
+							
+							<prism:doi>10.24823/EJB.2021.348</prism:doi>
+					</item>
+			<item rdf:about="https://journals.rbge.org.uk/ejb/article/view/350">
+
+						<title>KAEMPFERIA JENJITTIKULIAE (KAEMPFERIA SUBG. PROTANTHIUM: ZINGIBERACEAE), A NEW, ENDANGERED SPECIES ENDEMIC TO THAILAND</title>
+			<link>https://journals.rbge.org.uk/ejb/article/view/350</link>
+
+										<description>&lt;p&gt;Kaempferia jenjittikuliae, a new species of Kaempferia subg. Protanthium (Zingiberaceae) from Central–Northeastern Thailand, is described and illustrated. The diagnostic characters of this novel taxon are discussed and compared with those of the morphologically similar species Kaempferia lopburiensis, K. rotunda and K. udonensis. Detailed photographs of plants and dissected flowers, and information on phenology, distribution and ecology, are provided. A preliminary IUCN conservation assessment of Critically Endangered (CR) is assigned.&lt;/p&gt;</description>
+			
+							<dc:creator>Nattapon Nopporncharoenkul</dc:creator>
+							<dc:creator>Thunchanok Somnoo</dc:creator>
+							<dc:creator>Wattana Tanming</dc:creator>
+							<dc:creator>Charun Maknoi</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Nattapon Nopporncharoenkul, Thunchanok Somnoo, Wattana Tanming, Charun Maknoi
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-03-19</dc:date>
+				<prism:publicationDate>2021-03-19</prism:publicationDate>
+						<prism:volume>78</prism:volume>			
+												<prism:startingPage>1</prism:startingPage>
+													<prism:endingPage>13</prism:endingPage>
+							
+							<prism:doi>10.24823/EJB.2021.350</prism:doi>
+					</item>
+			<item rdf:about="https://journals.rbge.org.uk/ejb/article/view/355">
+
+						<title>USING HERBARIUM DATA TO INCREASE THE LIKELIHOOD OF FINDING FERTILE PLANTS IN THE FIELD</title>
+			<link>https://journals.rbge.org.uk/ejb/article/view/355</link>
+
+										<description>&lt;p&gt;The Phenological Predictability Index (PPI) is an algorithm incorporated into Brahms, one of the most widely used herbarium database management systems. PPI uses herbarium specimen data to calculate the probability of the occurrence of various phenological events in the field. Our hypothesis was that use of PPI to quantify the likelihood that a given species will be found in flower bud, flower or fruit in a particular area in a specific period makes field expeditions more successful in terms of finding fertile plants. PPI was applied to herbarium data for various angiosperm species locally abundant in Central Brazil to determine the month in which they were most likely to be found, in each of five areas of the Distrito Federal, with flower buds, flowers or fruits (i.e. the ‘maximum probability month’ for each of these phenophases). Plants of the selected species growing along randomised transects were tagged and their phenology was monitored over 12 months (method 1), and two one-day field excursions to each area were undertaken, by botanists with no prior knowledge of whether the species had previously been recorded at these sites, to record their phenological state (method 2). The results showed that field excursions in the PPI-determined maximum probability month for flower buds, flowers or fruits would be expected to result in a &amp;gt; 90% likelihood of finding individual plants of a given species in each of these phenophases. PPI may fail to predict phenophase for species with supra-annual reproductive events or with high event contingency. For bimodal species, the PPI-determined maximum probability month is that in which a specific phenophase is likely to be most intense. In planning an all-purpose collecting trip to an area with seasonal plant fertility, PPI scores are useful when selecting the best month for travel.&lt;/p&gt;</description>
+			
+							<dc:creator>J. S. Silva</dc:creator>
+							<dc:creator>E. Lenza</dc:creator>
+							<dc:creator>A. L. C. Moreira</dc:creator>
+							<dc:creator>C. E. B. Proença</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 J. S. Silva, E. Lenza, A. L. C. Moreira, C. E. B. Proença
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-04-07</dc:date>
+				<prism:publicationDate>2021-04-07</prism:publicationDate>
+						<prism:volume>78</prism:volume>			
+												<prism:startingPage>1</prism:startingPage>
+													<prism:endingPage>18</prism:endingPage>
+							
+							<prism:doi>10.24823/EJB.2021.355</prism:doi>
+					</item>
+			<item rdf:about="https://journals.rbge.org.uk/ejb/article/view/358">
+
+						<title>IMPATIENS SUBFALCATA (BALSAMINACEAE), A NEW SPECIES FROM LAOS</title>
+			<link>https://journals.rbge.org.uk/ejb/article/view/358</link>
+
+										<description>&lt;p&gt;Impatiens subfalcata Soulad. &amp;amp; Tagane, a new species of Balsaminaceae from southern Laos, is described and illustrated. The new species is morphologically similar to Impatiens attopeuensis and I. notoptera in having succulent stems, serrate leaf margins and pinkish flowers, but distinguished from these two by its falcate lanceolate or oblanceolate leaves, more numerous secondary veins, shorter petioles and smaller dorsal petals.&lt;/p&gt;</description>
+			
+							<dc:creator>P. Souladeth</dc:creator>
+							<dc:creator>S. Tagane</dc:creator>
+							<dc:creator>Y. Suyama</dc:creator>
+							<dc:creator>N. Ishii</dc:creator>
+							<dc:creator>A. Nagahama</dc:creator>
+							<dc:creator>K. Souvannakhoummane</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 P. Souladeth, S. Tagane, Y. Suyama, N. Ishii, A. Nagahama, K. Souvannakhoummane
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-04-07</dc:date>
+				<prism:publicationDate>2021-04-07</prism:publicationDate>
+						<prism:volume>78</prism:volume>			
+												<prism:startingPage>1</prism:startingPage>
+													<prism:endingPage>10</prism:endingPage>
+							
+							<prism:doi>10.24823/EJB.2021.358</prism:doi>
+					</item>
+			<item rdf:about="https://journals.rbge.org.uk/ejb/article/view/357">
+
+						<title>THE VIOLETS OF THE BRAZILIAN SAVANNA: A REVISION OF THE POMBALIA LANATA COMPLEX (VIOLACEAE), WITH DESCRIPTIONS OF TWO NEW SPECIES</title>
+			<link>https://journals.rbge.org.uk/ejb/article/view/357</link>
+
+										<description>&lt;p&gt;Pombalia Vand. (Violaceae) is represented in the Cerrado by a well-supported monophyletic group of species known as the Pombalia lanata complex, characterised by some unique vegetative and reproductive features within the genus. This group includes six species – Pombalia cristalina, P. insignis, P. lanata, P. poaya, P. strigoides and P. velutina – the first two of which are new to science. Pombalia lanata shows the widest geographical distribution throughout the Central Brazilian Plateau and the Espinhaço Range in Minas Gerais state, with a disjunction in Misiones Province, Argentina. Because most species in this group are narrow endemics, we evaluated the conservation status of all taxa. An identification key for the species, descriptions, illustrations, maps of geographical distribution and nomenclatural notes are also provided.&lt;/p&gt;</description>
+			
+							<dc:creator>J. Paula-Souza</dc:creator>
+							<dc:creator>A. G. Lima</dc:creator>
+							<dc:creator>V. C. Souza</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 J. Paula-Souza, A. G. Lima, V. C. Souza
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-04-07</dc:date>
+				<prism:publicationDate>2021-04-07</prism:publicationDate>
+						<prism:volume>78</prism:volume>			
+												<prism:startingPage>1</prism:startingPage>
+													<prism:endingPage>32</prism:endingPage>
+							
+							<prism:doi>10.24823/EJB.2021.357</prism:doi>
+					</item>
+			<item rdf:about="https://journals.rbge.org.uk/ejb/article/view/356">
+
+						<title>POLYGALA PETRICOLA (POLYGALACEAE), A NEW SPECIES FROM BRAZIL</title>
+			<link>https://journals.rbge.org.uk/ejb/article/view/356</link>
+
+										<description>&lt;p&gt;Polygala petricola, a new species from Brazil, is described. It belongs to the subgenus Polygala, sect. Timutua, ser. Eriocoideae. The diagnostic characters distinguishing it from its closest relatives are described and discussed. Its conservation status is assessed, and a distribution map and illustrations are provided.&lt;/p&gt;</description>
+			
+							<dc:creator>J. F. B. Pastore</dc:creator>
+							<dc:creator>S. S. Flaviano</dc:creator>
+							<dc:creator>M. O. D. Pivari</dc:creator>
+							<dc:creator>A. C. S. A. Anastacio</dc:creator>
+							<dc:creator>E. Amano</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 J. F. B. Pastore, S. S. Flaviano, M. O. D. Pivari, A. C. S. A. Anastacio, E. Amano
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-04-14</dc:date>
+				<prism:publicationDate>2021-04-14</prism:publicationDate>
+						<prism:volume>78</prism:volume>			
+												<prism:startingPage>1</prism:startingPage>
+													<prism:endingPage>7</prism:endingPage>
+							
+							<prism:doi>10.24823/EJB.2021.356</prism:doi>
+					</item>
+			<item rdf:about="https://journals.rbge.org.uk/ejb/article/view/362">
+
+						<title>IMPATIENS ROSTRATA (BALSAMINACEAE), A NEW SPECIES FROM KHAMMOUANE PROVINCE, LAOS, AND NINE NEW RECORDS</title>
+			<link>https://journals.rbge.org.uk/ejb/article/view/362</link>
+
+										<description>&lt;p&gt;One new species, Impatiens rostrata Souvann. &amp;amp; Lanors., is described and illustrated, and nine new records of Impatiens for Laos are reported. A lectotype of Impatiens rubrostriata Hook.f. is designated, and two new synonyms are made.&lt;/p&gt;</description>
+			
+							<dc:creator>K. Souvannakhoummane</dc:creator>
+							<dc:creator>M. F. Newman</dc:creator>
+							<dc:creator>S. Lanorsavanh</dc:creator>
+							<dc:creator>P. Suksathan</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 K. Souvannakhoummane, M. F.  Newman, S. Lanorsavanh, P. Suksathan
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-04-28</dc:date>
+				<prism:publicationDate>2021-04-28</prism:publicationDate>
+						<prism:volume>78</prism:volume>			
+												<prism:startingPage>1</prism:startingPage>
+													<prism:endingPage>15</prism:endingPage>
+							
+							<prism:doi>10.24823/EJB.2021.362</prism:doi>
+					</item>
+			<item rdf:about="https://journals.rbge.org.uk/ejb/article/view/370">
+
+						<title>FLORA OF NEPAL NOTULAE III: ISODON LOPHANTHOIDES VAR. SESSILIS PENDRY (LAMIACEAE), A NEW VARIETY FROM NEPAL</title>
+			<link>https://journals.rbge.org.uk/ejb/article/view/370</link>
+
+										<description>&lt;p&gt;&lt;span dir=&quot;ltr&quot; style=&quot;left: 94.4887px; top: 284.351px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(1.01621);&quot;&gt;A new v&lt;/span&gt;&lt;span dir=&quot;ltr&quot; style=&quot;left: 144.182px; top: 284.351px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.990577);&quot;&gt;ariety &lt;/span&gt;&lt;span dir=&quot;ltr&quot; style=&quot;left: 182.802px; top: 284.351px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(1.05255);&quot;&gt;of &lt;/span&gt;&lt;span dir=&quot;ltr&quot; style=&quot;left: 199.643px; top: 284.351px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.991154);&quot;&gt;Isodon lophanthoides&lt;/span&gt;&lt;span dir=&quot;ltr&quot; style=&quot;left: 333.449px; top: 284.351px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.996966);&quot;&gt; (Buch.-Ham. ex D&lt;/span&gt;&lt;span dir=&quot;ltr&quot; style=&quot;left: 446.377px; top: 284.351px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.966603);&quot;&gt;.Don) &lt;/span&gt;&lt;span dir=&quot;ltr&quot; style=&quot;left: 484.064px; top: 284.351px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(1.04064);&quot;&gt;H.Har&lt;/span&gt;&lt;span dir=&quot;ltr&quot; style=&quot;left: 520.217px; top: 284.351px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(1.00631);&quot;&gt;a is &lt;/span&gt;&lt;span dir=&quot;ltr&quot; style=&quot;left: 546.359px; top: 284.351px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.990479);&quot;&gt;described and &lt;/span&gt;&lt;span dir=&quot;ltr&quot; style=&quot;left: 639.454px; top: 284.351px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.967037);&quot;&gt;a ke&lt;/span&gt;&lt;span dir=&quot;ltr&quot; style=&quot;left: 665.462px; top: 284.351px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.996062);&quot;&gt;y to the &lt;/span&gt;&lt;span dir=&quot;ltr&quot; style=&quot;left: 94.4887px; top: 305.184px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.998962);&quot;&gt;varieties &lt;/span&gt;&lt;span dir=&quot;ltr&quot; style=&quot;left: 151.402px; top: 305.184px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(1.0456);&quot;&gt;of this &lt;/span&gt;&lt;span dir=&quot;ltr&quot; style=&quot;left: 195.267px; top: 305.184px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(1.00543);&quot;&gt;species &lt;/span&gt;&lt;span dir=&quot;ltr&quot; style=&quot;left: 247.529px; top: 305.184px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(1.0075);&quot;&gt;in &lt;/span&gt;&lt;span dir=&quot;ltr&quot; style=&quot;left: 262.627px; top: 305.184px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(1.01385);&quot;&gt;Nepal &lt;/span&gt;&lt;span dir=&quot;ltr&quot; style=&quot;left: 303.165px; top: 305.184px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.990285);&quot;&gt;is presented.&lt;/span&gt;&lt;/p&gt;</description>
+			
+							<dc:creator>Colin A Pendry</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Colin A Pendry
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-06-02</dc:date>
+				<prism:publicationDate>2021-06-02</prism:publicationDate>
+						<prism:volume>78</prism:volume>			
+												<prism:startingPage>1</prism:startingPage>
+													<prism:endingPage>2</prism:endingPage>
+							
+							<prism:doi>10.24823/EJB.2021.370</prism:doi>
+					</item>
+			<item rdf:about="https://journals.rbge.org.uk/ejb/article/view/371">
+
+						<title>FLORA OF NEPAL NOTULAE II: PHLOMOIDES LONGIDENTATA PENDRY, A NEW SPECIES OF LABIATAE FROM NEPAL AND BHUTAN</title>
+			<link>https://journals.rbge.org.uk/ejb/article/view/371</link>
+
+										<description>&lt;p&gt;&lt;span dir=&quot;ltr&quot; style=&quot;left: 94.4882px; top: 284.351px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.952414);&quot;&gt;The &lt;/span&gt;&lt;span dir=&quot;ltr&quot; style=&quot;left: 122.092px; top: 284.351px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(1.00537);&quot;&gt;species &lt;/span&gt;&lt;span dir=&quot;ltr&quot; style=&quot;left: 174.35px; top: 284.351px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.996425);&quot;&gt;Phlomoides longidentata&lt;/span&gt;&lt;span dir=&quot;ltr&quot; style=&quot;left: 328.768px; top: 284.351px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.971111);&quot;&gt; Pendr&lt;/span&gt;&lt;span dir=&quot;ltr&quot; style=&quot;left: 369.672px; top: 284.351px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(1.00647);&quot;&gt;y is &lt;/span&gt;&lt;span dir=&quot;ltr&quot; style=&quot;left: 394.813px; top: 284.351px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.996174);&quot;&gt;described &lt;/span&gt;&lt;span dir=&quot;ltr&quot; style=&quot;left: 460.548px; top: 284.351px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(1.0348);&quot;&gt;from Nepal &lt;/span&gt;&lt;span dir=&quot;ltr&quot; style=&quot;left: 535.03px; top: 284.351px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.9775);&quot;&gt;and &lt;/span&gt;&lt;span dir=&quot;ltr&quot; style=&quot;left: 562.388px; top: 284.351px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.988571);&quot;&gt;Bhutan &lt;/span&gt;&lt;span dir=&quot;ltr&quot; style=&quot;left: 610.808px; top: 284.351px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.9775);&quot;&gt;and &lt;/span&gt;&lt;span dir=&quot;ltr&quot; style=&quot;left: 638.167px; top: 284.351px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.967099);&quot;&gt;a ke&lt;/span&gt;&lt;span dir=&quot;ltr&quot; style=&quot;left: 664.177px; top: 284.351px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.996062);&quot;&gt;y to the &lt;/span&gt;&lt;span dir=&quot;ltr&quot; style=&quot;left: 94.4882px; top: 305.184px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(1.00537);&quot;&gt;species &lt;/span&gt;&lt;span dir=&quot;ltr&quot; style=&quot;left: 146.747px; top: 305.184px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(1.05349);&quot;&gt;of &lt;/span&gt;&lt;span dir=&quot;ltr&quot; style=&quot;left: 163.602px; top: 305.184px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(1.00583);&quot;&gt;Phlomoides&lt;/span&gt;&lt;span dir=&quot;ltr&quot; style=&quot;left: 237.028px; top: 305.184px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.998114);&quot;&gt; in &lt;/span&gt;&lt;span dir=&quot;ltr&quot; style=&quot;left: 255.967px; top: 305.184px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(1.0211);&quot;&gt;Nepal is &lt;/span&gt;&lt;span dir=&quot;ltr&quot; style=&quot;left: 311.09px; top: 305.184px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.979706);&quot;&gt;presented.&lt;/span&gt;&lt;/p&gt;</description>
+			
+							<dc:creator>C. A. Pendry</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 C.A. Pendry
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-06-02</dc:date>
+				<prism:publicationDate>2021-06-02</prism:publicationDate>
+						<prism:volume>78</prism:volume>			
+												<prism:startingPage>1</prism:startingPage>
+													<prism:endingPage>6</prism:endingPage>
+							
+							<prism:doi>10.24823/EJB.2021.371</prism:doi>
+					</item>
+			<item rdf:about="https://journals.rbge.org.uk/ejb/article/view/363">
+
+						<title>TWO NEW TAXA OF RHODODENDRON (ERICACEAE) FROM VIETNAM</title>
+			<link>https://journals.rbge.org.uk/ejb/article/view/363</link>
+
+										<description>&lt;p&gt;Two new taxa from Vietnam are described and illustrated: Rhododendron tephropeploides, in subsection Tephropepla, and R. chunii subsp. vietnamense, in subsection Tsutsusi.&lt;/p&gt;</description>
+			
+							<dc:creator>R. A. Baines</dc:creator>
+							<dc:creator>D. F. Chamberlain</dc:creator>
+							<dc:creator>V. D. Nguyen</dc:creator>
+							<dc:creator>B. H. Quang</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 R. A. Baines, D. F. Chamberlain, V. D.  Nguyen, B. H.  Quang
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-06-28</dc:date>
+				<prism:publicationDate>2021-06-28</prism:publicationDate>
+						<prism:volume>78</prism:volume>			
+												<prism:startingPage>1</prism:startingPage>
+													<prism:endingPage>8</prism:endingPage>
+							
+							<prism:doi>10.24823/EJB.2021.363</prism:doi>
+					</item>
+			<item rdf:about="https://journals.rbge.org.uk/ejb/article/view/365">
+
+						<title>A NEW SPECIES OF RAPHIOCARPUS (GESNERIACEAE) FROM VIETNAM</title>
+			<link>https://journals.rbge.org.uk/ejb/article/view/365</link>
+
+										<description>&lt;p&gt;The new species Raphiocarpus axillaris D.J.Middleton from Tam Đảo National Park in northern Vietnam is described and illustrated.&lt;/p&gt;</description>
+			
+							<dc:creator>D. Middleton</dc:creator>
+							<dc:creator>Q. B. Nguyễn</dc:creator>
+							<dc:creator>H. Đ. Trần</dc:creator>
+							<dc:creator>J. Leong-Škorničková</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 David Middleton, Q. B.  Nguyễn, H. Đ.  Trần, J.  Leong-Škorničková
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-08-25</dc:date>
+				<prism:publicationDate>2021-08-25</prism:publicationDate>
+						<prism:volume>78</prism:volume>			
+												<prism:startingPage>1</prism:startingPage>
+													<prism:endingPage>4</prism:endingPage>
+							
+							<prism:doi>10.24823/EJB.2021.365</prism:doi>
+					</item>
+			<item rdf:about="https://journals.rbge.org.uk/ejb/article/view/364">
+
+						<title>A TAXONOMIC REVISION OF CYRTANDRA (GESNERIACEAE) IN SULAWESI, INDONESIA</title>
+			<link>https://journals.rbge.org.uk/ejb/article/view/364</link>
+
+										<description>&lt;p&gt;Taxonomic evaluation of Cyrtandra (Gesneriaceae) from Sulawesi has resulted in the recognition of 39 species. Of these, four species are described as new here: Cyrtandra balgooyi H.J.Atkins &amp;amp; Karton., C. flavomaculata H.J.Atkins &amp;amp; Karton., C. longistamina H.J.Atkins &amp;amp; Karton. and C. parvicalyx H.J.Atkins &amp;amp; Karton. Eleven names are lectotypified and three names are placed in synonymy. Provisional conservation assessments suggest that seven of these species are Critically Endangered, six are Endangered, three are Vulnerable, two are Data Deficient and 21 are of Least Concern. Illustrations, distribution maps, and a key to the Cyrtandra species of Sulawesi are presented.&lt;/p&gt; &lt;p&gt;Evaluasi taksonomi Cyrtandra (Gesneriaceae) dari Sulawesi menghasilkan pengenalan 39 jenis. Diantara jenis-jenis tersebut, empat jenis dideskripsikan sebagai jenis yang baru disini: Cyrtandra balgooyi H.J.Atkins &amp;amp; Karton., C. flavomaculata H.J.Atkins &amp;amp; Karton., C. longistamina H.J.Atkins &amp;amp; Karton. and C. parvicalyx H.J.Atkins &amp;amp; Karton. Sebelas nama telah dilektotipifikasikan dan tiga nama ditempatkan dalam sinonim. Penilaian konservasi sementara menyarankan bahwa tujuh dari jenisjenis ini dinyatakan Critically Endangered, enam dinyatakan Endangered, tiga dinyatakan Vulnerable, dua dinyatakan Data Deficient dan 21 sisanya dinyatakan Least Concern. Ilustrasi, peta distribusi dan kunci identifikasi untuk jenis-jenis Cyrtandra dari Sulawesi disajikan.&lt;/p&gt;</description>
+			
+							<dc:creator>H. J. Atkins</dc:creator>
+							<dc:creator>A. Kartonegoro</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 H. J. Atkins, A. Kartonegoro
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-09-08</dc:date>
+				<prism:publicationDate>2021-09-08</prism:publicationDate>
+						<prism:volume>78</prism:volume>			
+												<prism:startingPage>1</prism:startingPage>
+													<prism:endingPage>122</prism:endingPage>
+							
+							<prism:doi>10.24823/EJB.2021.364</prism:doi>
+					</item>
+			<item rdf:about="https://journals.rbge.org.uk/ejb/article/view/393">
+
+						<title>A NOTE ON VACCINIUM BRASSII SLEUMER (ERICACEAE), RECORDING FILAMENTOUS WAX ON THE FLOWERS</title>
+			<link>https://journals.rbge.org.uk/ejb/article/view/393</link>
+
+										<description>&lt;p&gt;Routine identification of historical &lt;em&gt;Vaccinium&lt;/em&gt; specimens at E revealed scurfy deposits on a specimen identified as &lt;em&gt;Vaccinium&lt;/em&gt; &lt;em&gt;brassii&lt;/em&gt; Sleumer. On examination with a Scanning Electron Microscope (SEM), these scurfy deposits turned out to be filamentous wax remarkably similar to that observed in &lt;em&gt;Vaccinium ceraceum&lt;/em&gt; Argent. The disparity of the geographical locations of these two species is noted, together with the lack of molecular data to give insights into the evolutionary relationships.&lt;/p&gt;</description>
+			
+							<dc:creator>G. Argent</dc:creator>
+							<dc:creator>F. Christie</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Frieda Christie, George Argent
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-09-23</dc:date>
+				<prism:publicationDate>2021-09-23</prism:publicationDate>
+						<prism:volume>78</prism:volume>			
+												<prism:startingPage>1</prism:startingPage>
+													<prism:endingPage>6</prism:endingPage>
+							
+							<prism:doi>10.24823/EJB.2021.393</prism:doi>
+					</item>
+			<item rdf:about="https://journals.rbge.org.uk/ejb/article/view/373">
+
+						<title>LITSEA ANAMALAYANA (LAURACEAE) A NEW SPECIES FROM NELLIYAMPATHY HILLS, INDIA.</title>
+			<link>https://journals.rbge.org.uk/ejb/article/view/373</link>
+
+										<description>&lt;p&gt;The new species &lt;em&gt;Litsea anamalayana&lt;/em&gt; Robi &amp;amp; Udayan, from Kerala, India, is described and illustrated. A detailed description is given, together with information on its distribution and ecology. Photographs of the new species are provided, as well as a comparison with the morphologically similar &lt;em&gt;L. glabrata&lt;/em&gt; (Wall. ex Nees) Hook.f.&lt;/p&gt;</description>
+			
+							<dc:creator>Robi A. J.</dc:creator>
+							<dc:creator>Udayan P.S.</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Robi A. J., Udayan P.S.
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-11-02</dc:date>
+				<prism:publicationDate>2021-11-02</prism:publicationDate>
+						<prism:volume>78</prism:volume>			
+												<prism:startingPage>1</prism:startingPage>
+													<prism:endingPage>5</prism:endingPage>
+							
+							<prism:doi>10.24823/EJB.2021.373</prism:doi>
+					</item>
+			<item rdf:about="https://journals.rbge.org.uk/ejb/article/view/382">
+
+						<title>USE OF POLYETHYLENE GLYCOL (PEG, CARBOWAX) AS AN EMBEDDING MEDIUM PRODUCES RESULTS COMPARABLE TO PARAFFIN</title>
+			<link>https://journals.rbge.org.uk/ejb/article/view/382</link>
+
+										<description>&lt;p&gt;Polyethylene glycol (PEG) is a non-carcinogenic, water-soluble polymer of ethylene oxide that has found wide applicability in industry and medicine, and has been used to embed and section small animal and plant tissues. Here we investigate the use of PEG for the rapid embedding of larger plant tissues. Ovaries of Musa velutina, Heliconia psittacorum and eight other species were embedded with a mixture of PEG 1450 and PEG 4000. It was found that tissues up to 6.5 × 10 mm could easily be embedded and sectioned in PEG. Embedded tissues could be stored at room temperature for up to 5 days with no detrimental effects. Sections were easily cut at 8–15 μm on a rotary microtome. PEG embedding resulted in equal or better tissue differentiation, better retention of cell inclusions, and reduced shrinkage compared with paraffin embedding. The process was also faster, requiring only 3–6 h compared with the 2 days needed for paraffin embedding. PEG is a rapid-embedding medium suitable for use with even large plant tissues.&lt;/p&gt;</description>
+			
+							<dc:creator>A. Romanov</dc:creator>
+							<dc:creator>K. Ly</dc:creator>
+							<dc:creator>B. Kirchoff</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 A. Romanov, K. Ly, B. Kirchoff
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-11-19</dc:date>
+				<prism:publicationDate>2021-11-19</prism:publicationDate>
+						<prism:volume>78</prism:volume>			
+												<prism:startingPage>1</prism:startingPage>
+													<prism:endingPage>13</prism:endingPage>
+							
+							<prism:doi>10.24823/EJB.2021.382</prism:doi>
+					</item>
+	</rdf:RDF>
+

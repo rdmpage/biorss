@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:georss="http://www.georss.org/georss" xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+  <title>动物分类学报 / Acta Zootaxonomica Sinica</title>
+  <link href="https://www.wanfangdata.com.cn/perio/detail.do?perio_id=dwfl&amp;perio_title=动物分类学报"/>
+  <link rel="self" type="application/atom+xml" href="https://www.wanfangdata.com.cn/perio/detail.do?perio_id=dwfl&amp;perio_title=动物分类学报"/>
+  <updated>2021-11-24T17:58:57+00:00</updated>
+  <id>https://www.wanfangdata.com.cn/perio/detail.do?perio_id=dwfl&amp;perio_title=动物分类学报</id>
+  <entry>
+    <title>A genus and three species of Anthomyzidae newly recorded from China(Diptera)</title>
+    <content type="html">&lt;p&gt;The genus Stiphrosoma Czerny,1928 with S.humerale Rohá?ek&amp;Barber,2005 and two species,Anthomyza elbergi Andersson,1976 and A.pallida(Zetterstedt,1838),are newly recorded from China.A key to all genera and species of the family in China is provided.&lt;/p&gt;&lt;p&gt;&lt;a href="https://d.wanfangdata.com.cn/periodical/dwfl202102003"&gt;d.wanfangdata.com.cn&lt;/a&gt;&lt;/p&gt;</content>
+    <id>https://d.wanfangdata.com.cn/periodical/dwfl202102003</id>
+    <link rel="alternate" type="text/html" href="https://d.wanfangdata.com.cn/periodical/dwfl202102003"/>
+    <published>2021-01-01T00:00:00+00:00</published>
+    <updated>2021-01-01T00:00:00+00:00</updated>
+    <prism:doi>10.11865/zs.2021105</prism:doi>
+  </entry>
+</feed>
