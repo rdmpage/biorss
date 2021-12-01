@@ -263,11 +263,11 @@ function add_geo(&$doc)
 						if (!in_array($feature->properties->wikidata_id, $wikidata))
 						{
 							$place = new stdclass;				
-							$place->{'@type'} = 'Place';
+							$place->type = 'Place';
 		
 							// coordinates
 							$place->geo = new stdclass;
-							$place->geo->{'@type'} = 'GeoCoordinates';
+							$place->geo->type = 'GeoCoordinates';
 		
 							$place->geo->latitude 	= (float)$feature->geometry->coordinates[1];
 							$place->geo->longitude 	= (float)$feature->geometry->coordinates[0];
@@ -277,8 +277,8 @@ function add_geo(&$doc)
 								$place->geo->addressCountry = $feature->properties->country_code;
 							}
 						
-							$place->{'@id'} 	= 'http://www.wikidata.org/entity/' . $feature->properties->wikidata_id;
-							$place->name 		= $feature->properties->name;
+							$place->id 	= 'http://www.wikidata.org/entity/' . $feature->properties->wikidata_id;
+							$place->name = $feature->properties->name;
 				
 							$doc->contentLocation[] = $place;
 							
@@ -320,7 +320,26 @@ function add_meta(&$doc)
 		
 	if (isset($doc->url) && (!isset($doc->item->doi) || !isset($doc->image) || !isset($doc->datePublished)  || !isset($doc->description)))
 	{
-		$html = get($doc->url);	
+		$go = true;
+		
+		$url = $doc->url;
+		
+		// Source shouldn't be an aggregator
+		if (preg_match('/zoobank.org/', $url))
+		{
+			if (isset($doc->item->doi))
+			{
+				$url = 'https://doi.org/' . $doc->item->doi;
+			}
+		}
+		
+		if (!$go)
+		{
+			return $status;
+		}
+	
+	
+		$html = get($url);	
 		
 		if ($html == '')
 		{
@@ -505,9 +524,9 @@ function add_meta(&$doc)
 		}
 		
 		// DOI as identifier
-		if (isset($doc->item->doi) && !isset($doc->item->{'@id'}))
+		if (isset($doc->item->doi) && !isset($doc->item->id))
 		{
-			$doc->item->{'@id'} = 'https://doi.org/' . $doc->item->doi;
+			$doc->item->id = 'https://doi.org/' . $doc->item->doi;
 		}
 		
 			
