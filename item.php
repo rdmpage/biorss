@@ -22,6 +22,12 @@ function add_multingual_key_value(&$item, $key, $values)
 //----------------------------------------------------------------------------------------
 function add_to_item(&$item, $key, $value)
 {
+	// ignore empty values
+	if ($value == "")
+	{
+		return $item;
+	}
+
 	switch ($key)
 	{
 		case 'Abstract':
@@ -44,11 +50,14 @@ function add_to_item(&$item, $key, $value)
 			$item->{$key} = strtolower($value);
 			break;
 			
+		case 'endpage':
 		case 'endingPage':
 			$item->pageEnd = $value;
 			break;	
 			
 		case 'Id':
+		case 'lsid':
+		case 'referenceuuid':
 			$item->identifier[] = $value;
 			break;		
 			
@@ -74,10 +83,12 @@ function add_to_item(&$item, $key, $value)
 			$item->datePublished = date("Y-m-H", strtotime($value));
 			break;
 
+		case 'parentreference':
 		case 'publicationTitle':		
 			$item->container = $value;
 			break;
 			
+		case 'startpage':
 		case 'startingPage':
 			$item->pageStart = $value;
 			break;
@@ -94,6 +105,11 @@ function add_to_item(&$item, $key, $value)
 		case 'Volum':
 			$item->volumeNumber = $value;
 			break;
+			
+		case 'year':
+			$item->datePublished = $value . "-00-00";
+			break;
+
 		
 		
 		default:
