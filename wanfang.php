@@ -170,13 +170,13 @@ function post($url, $data = '', $content_type = '')
 
 
 $periodicals = array(
-/*
+
 	// Acta Arachnologica Sinica
 	'zxxb' => array(
 				'zxxb202101001',
 				'zxxb202101002'
 			),
-			
+/*			
 	// Acta Entomologica Sinica
 	'kcxb' => array(
 				'kcxb201601004'
@@ -186,13 +186,13 @@ $periodicals = array(
 	'dwfl' => array(
 				'dwfl202102003'
 			),
-			*/
+			
 			
 	// Acta Botanica Boreali-Occidentalia Sinica
 	'xbzwxb' => array(
 				'xbzwxb201601006'
 			),			
-
+*/
 
 );
 
@@ -212,8 +212,8 @@ older journals
 foreach ($periodicals as $journal => $ids)
 {
 	$dataFeed = new stdclass;
-	$dataFeed->{'@context'} = 'http://schema.org/';
-	$dataFeed->{'@type'} = 'DataFeed';
+	//$dataFeed->{'@context'} = 'http://schema.org/';
+	//$dataFeed->{'@type'} = 'DataFeed';
 	
 	
 	$dataFeed->dataFeedElement = array();
@@ -234,10 +234,10 @@ foreach ($periodicals as $journal => $ids)
 		foreach ($obj->detail[0] as $item)
 		{
 			$dataFeedElement = new stdclass;
-			$dataFeedElement->{'@type'} = 'DataFeedItem';
+			//$dataFeedElement->{'@type'} = 'DataFeedItem';
 		
 			$dataFeedElement->url = 'https://d.wanfangdata.com.cn/periodical/' . $id;
-			$dataFeedElement->{'@id'} = $dataFeedElement->url;
+			$dataFeedElement->id = $dataFeedElement->url;
 		
 			$dataFeedElement->name = join(' / ', $item->Title);
 			$dataFeedElement->description = join(' / ', $item->Abstract);
@@ -259,146 +259,30 @@ foreach ($periodicals as $journal => $ids)
 			
 			// item
 			$dataFeedElement->item = new stdclass;
-			$dataFeedElement->item->{'@type'} = "CreativeWork";
+			//$dataFeedElement->item->{'@type'} = "CreativeWork";
 							
 			if (isset($item->DOI))
 			{
-				$dataFeedElement->item->doi = $item->DOI;
-				$dataFeedElement->item->{'@id'} = 'https://doi.org/' . $dataFeedElement->item->doi;
+				add_to_item($dataFeedElement->item, 'doi', $item->DOI);
+				$dataFeedElement->item->id = 'https://doi.org/' . $dataFeedElement->item->doi;
 			}
 			
-			/*
-                           [PeriodicalTitle] => Array
-                                (
-                                    [0] => 西北植物学报
-                                    [1] => Acta Botanica Boreali-Occidentalia Sinica
-                                )
 
-                            [SourceDB] => Array
-                                (
-                                    [0] => WF
-                                    [1] => ISTIC
-                                )
-
-                            [SingleSourceDB] => WF
-                            [IsOA] => 
-                            [Fund] => Array
-                                (
-                                    [0] => 院创新团队
-                                    [1] => 云南省应用基础研究计划
-                                    [2] => 国家自然科学基金
-                                    [3] => 国家观赏园艺工程技术研究中心
-                                    [4] => 云南省中青年学术和技术带头人培养项目
-                                )
-
-                            [PublishDate] => 2016-01-01 00:00:00
-                            [MetadataOnlineDate] => 2016-06-22 00:00:00
-                            [FulltextOnlineDate] => 2016-06-22 00:00:00
-                            [ServiceMode] => 1
-                            [HasFulltext] => 1
-                            [PublishYear] => 2016
-                            [Issue] => 1
-                            [Volum] => 36
-                            [Page] => 37-42
-                            [PageNo] => 6
-                            [Column] => Array
-                                (
-                                    [0] => 研究报告
-                                )
-			*/
-			
 			foreach ($item as $k => $v)
 			{
 				switch ($k)
 				{
+					case 'Abstract':
 					case 'Creator':
-						$names = array();
-						if (is_array($v))
-						{
-							$names = $v;
-						}
-						else
-						{
-							$names[] = $v;
-						}
-						
-						foreach ($names as $value)
-						{
-							$author = new stdclass;
-							$author->{'@type'} = 'Person';
-							$author->name = new stdclass;							
-							$author->name->{'@language'} = 'en';
-							$author->name->{'@value'} = $value;
-														
-							// https://stackoverflow.com/a/3212339/9684
-							if (preg_match('/\p{Han}+/u', $value))
-							{
-								$author->name->{'@language'} = 'zh';
-							}
-							
-							$dataFeedElement->item->author[] = $author;
-						}
-						break;										
-				
+					case 'Id':
 					case 'ISSN':
-						if (!isset($dataFeedElement->item->isPartOf))
-						{
-							$dataFeedElement->item->isPartOf = new stdclass;
-							$dataFeedElement->item->isPartOf->{'@type'} = "Periodical";
-						}
-						$dataFeedElement->item->isPartOf->issn[] = $v;
-						break;
-						
 					case 'Issue':
-						$dataFeedElement->item->issueNumber = $v;
-						break;
-						
 					case 'Page':
-						$dataFeedElement->item->pagination = $v;
-						break;
-						
 					case 'PeriodicalTitle':
-						if (!isset($dataFeedElement->item->isPartOf))
-						{
-							$dataFeedElement->item->isPartOf = new stdclass;
-							$dataFeedElement->item->isPartOf->{'@type'} = "Periodical";
-						}
-						$dataFeedElement->item->isPartOf->name = $v;				
-						break;
-
 					case 'PublishDate':
-						$dataFeedElement->item->datePublished = date(DATE_ISO8601, strtotime($v));
-						break;
-						
-					case 'Title':
-						$names = array();
-						if (is_array($v))
-						{
-							$names = $v;
-						}
-						else
-						{
-							$names[] = $v;
-						}
-						
-						foreach ($names as $value)
-						{
-							$name = new stdclass;
-							$name->{'@language'} = 'en';
-							$name->{'@value'} = $value;
-														
-							// https://stackoverflow.com/a/3212339/9684
-							if (preg_match('/\p{Han}+/u', $value))
-							{
-								$name->{'@language'} = 'zh';
-							}
-							
-							$dataFeedElement->item->name[] = $name;
-						}
-						break;						
-						
 					case 'Volum':
-						$dataFeedElement->item->volumeNumber = $v;
+					case 'Title':
+						add_to_item($dataFeedElement->item, $k, $v);
 						break;
 				
 					default:

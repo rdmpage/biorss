@@ -2,7 +2,7 @@
 
 error_reporting(E_ALL);
 
-
+require_once (dirname(__FILE__) . '/item.php');
 require_once (dirname(__FILE__) . '/utils.php');
 
 require 'vendor/autoload.php';
@@ -30,7 +30,6 @@ function rss_to_internal($xml)
 	$xpath->registerNamespace('geo',    			'http://www.w3.org/2003/01/geo/wgs84_pos#');
 	$xpath->registerNamespace('georss',    			'http://www.georss.org/georss');
 	$xpath->registerNamespace('prism', 				'http://prismstandard.org/namespaces/1.2/basic/');
-	//$xpath->registerNamespace('prism', 				'http://purl.org/rss/1.0/modules/prism/');
 	$xpath->registerNamespace('rdf',   				'http://www.w3.org/1999/02/22-rdf-syntax-ns#');
 	$xpath->registerNamespace('rss',   				'http://purl.org/rss/1.0/');
 	$xpath->registerNamespace('woe',   				'http://where.yahooapis.com/v1/schema.rng');
@@ -38,8 +37,8 @@ function rss_to_internal($xml)
 	// Model RSS as schema.org DataFeed
 
 	$dataFeed = new stdclass;
-	$dataFeed->{'@context'} = 'http://schema.org/';
-	$dataFeed->{'@type'} = 'DataFeed';
+	//$dataFeed->{'@context'} = 'http://schema.org/';
+	//$dataFeed->{'@type'} = 'DataFeed';
 
 	//------------------------------------------------------------------------------------
 	// feed title
@@ -157,12 +156,12 @@ function rss_to_internal($xml)
 		foreach ($itemCollection as $item)
 		{
 			$dataFeedElement = new stdclass;
-			$dataFeedElement->{'@type'} = 'DataFeedItem';
+			//$dataFeedElement->{'@type'} = 'DataFeedItem';
 	
 			// link
 			foreach ($xpath->query('rss:link | link | atom:link[@rel="alternate" and @type="text/html"]/@href', $item) as $node)
 			{
-				$dataFeedElement->{'@id'} = $node->firstChild->nodeValue;
+				$dataFeedElement->id = $node->firstChild->nodeValue;
 				$dataFeedElement->url = $node->firstChild->nodeValue;
 			}
 						
@@ -171,9 +170,9 @@ function rss_to_internal($xml)
 			{
 				$dataFeedElement->pdf = $node->firstChild->nodeValue;
 				
-				if (!isset($dataFeedElement->{'@id'}))
+				if (!isset($dataFeedElement->id))
 				{
-					$dataFeedElement->{'@id'} = $dataFeedElement->pdf ;
+					$dataFeedElement->id = $dataFeedElement->pdf ;
 				}
 			}	
 			
@@ -182,16 +181,16 @@ function rss_to_internal($xml)
 			{
 				if (preg_match('/scholar.google.com/', $node->firstChild->nodeValue))
 				{
-					$dataFeedElement->{'@id'} = $node->firstChild->nodeValue;
+					$dataFeedElement->id = $node->firstChild->nodeValue;
 				}
 			}
 			
 			// at this point check that we have an id
-			if (!isset($dataFeedElement->{'@id'}))
+			if (!isset($dataFeedElement->id))
 			{
 				foreach ($xpath->query('atom:id', $item) as $node)
 				{
-					$dataFeedElement->{'@id'} = $node->firstChild->nodeValue;
+					$dataFeedElement->id = $node->firstChild->nodeValue;
 					
 					if (!isset($dataFeedElement->url))
 					{
@@ -337,7 +336,7 @@ function rss_to_internal($xml)
 				// flickr
 				foreach ($xpath->query('woe:woeid', $item) as $node)
 				{
-					$place->{'@id'} = 'https://www.flickr.com/places/info/' . $node->firstChild->nodeValue;		
+					$place->id = 'https://www.flickr.com/places/info/' . $node->firstChild->nodeValue;		
 				}		
 				
 				$dataFeedElement->contentLocation[]  = $place;
@@ -349,17 +348,11 @@ function rss_to_internal($xml)
 			if (1) // 0 if we don't want these details
 			{
 				$dataFeedElement->item = new stdclass;
-				
-				// default identifier?
-				// $dataFeedElement->item->{'@id'} = "_:" . $cuid->cuid();
-								
-				$dataFeedElement->item->{'@type'} = "CreativeWork";
-				$dataFeedElement->item->author = array();
-												
+																
 				// doi
 				foreach ($xpath->query('prism:doi | *[local-name()="doi"]', $item) as $node)
 				{
-					$dataFeedElement->item->doi = strtolower(trim($node->firstChild->nodeValue));
+					add_to_item($dataFeedElement->item, 'doi', trim($node->firstChild->nodeValue));
 				}
 				
 				// dc:identfier
@@ -367,27 +360,29 @@ function rss_to_internal($xml)
 				{
 					if (preg_match('/^doi:(?<doi>.*)/', $node->firstChild->nodeValue, $m))
 					{
+						add_to_item($dataFeedElement->item, 'doi', $m['doi']);
+
 						$dataFeedElement->item->doi = $m['doi'];
 					}
 					if (preg_match('/^pmid:(?<pmid>\d+)/', $node->firstChild->nodeValue, $m))
 					{
-						$dataFeedElement->item->pmid = $m['pmid'];
+						add_to_item($dataFeedElement->item, 'pmid', $m['pmid']);
 					}
 				}
 				
 				if (isset($dataFeedElement->item->doi))
 				{
-					$dataFeedElement->item->{'@id'} = 'https://doi.org/' . $dataFeedElement->item->doi;
+					$dataFeedElement->item->id = 'https://doi.org/' . $dataFeedElement->item->doi;
 				}
 				elseif (isset($dataFeedElement->item->pmid))
 				{
-					$dataFeedElement->item->{'@id'} = 'https://pubmed.ncbi.nlm.nih.gov/' . $dataFeedElement->item->pmid;
+					$dataFeedElement->item->id = 'https://pubmed.ncbi.nlm.nih.gov/' . $dataFeedElement->item->pmid;
 				}
 				
 				// title
 				if (isset($dataFeedElement->name))
 				{
-					$dataFeedElement->item->name = $dataFeedElement->name;
+					add_to_item($dataFeedElement->item, 'name', $dataFeedElement->name);
 				}
 
 				// bibliographic metadata(?)
@@ -398,12 +393,8 @@ function rss_to_internal($xml)
 						// Some publishers (e.g., Wiley) store multiple values here
 						$parts = preg_split('/,\s*\R/u', $node->firstChild->nodeValue);
 						foreach ($parts as $part)
-						{					
-							$author = new stdclass;
-							$author->{'@type'} = 'Person';
-							$author->name = trim($part);
-		
-							$dataFeedElement->item->author[] = $author;
+						{	
+							add_to_item($dataFeedElement->item, 'author', trim($part));
 						}
 					}
 				}
@@ -413,7 +404,7 @@ function rss_to_internal($xml)
 					// some feeds have empty tags
 					if (isset($node->firstChild->nodeValue))
 					{
-						$dataFeedElement->item->volumeNumber = trim($node->firstChild->nodeValue);
+						add_to_item($dataFeedElement->item, 'volume', trim($node->firstChild->nodeValue));
 					}
 				}
 				
@@ -422,39 +413,30 @@ function rss_to_internal($xml)
 					// some feeds have empty tags
 					if (isset($node->firstChild->nodeValue))
 					{
-						$dataFeedElement->item->issueNumber = trim($node->firstChild->nodeValue);
+						add_to_item($dataFeedElement->item, 'number', trim($node->firstChild->nodeValue));
 					}
 				}
 				
 				foreach ($xpath->query('prism:startingPage | *[local-name()="startingPage"]', $item) as $node)
 				{
-					$dataFeedElement->item->pageStart = trim($node->firstChild->nodeValue);
+					add_to_item($dataFeedElement->item, 'startingPage', trim($node->firstChild->nodeValue));
 				}
 				
 				foreach ($xpath->query('prism:endingPage | *[local-name()="endingPage"]', $item) as $node)
 				{
-					$dataFeedElement->item->pageEnd = trim($node->firstChild->nodeValue);
+					add_to_item($dataFeedElement->item, 'endingPage', trim($node->firstChild->nodeValue));
 				}
 				
 				foreach ($xpath->query('prism:publicationDate | dc:date', $item) as $node)
 				{
-					$dataFeedElement->item->datePublished = date(DATE_ISO8601, strtotime(trim($node->firstChild->nodeValue)));
+					add_to_item($dataFeedElement->item, 'publicationDate', trim($node->firstChild->nodeValue));
 				}
 				
 				// Pubmed has journal
 				foreach ($xpath->query('dc:source | prism:publicationTitle', $item) as $node)
 				{
-					$dataFeedElement->item->isPartOf = new stdclass;
-					$dataFeedElement->item->isPartOf->{'@type'} = 'Periodical';
-					$dataFeedElement->item->isPartOf->name = $node->firstChild->nodeValue;
+					add_to_item($dataFeedElement->item, 'publicationTitle', trim($node->firstChild->nodeValue));
 				}				
-				
-				// cleanup
-				if (count($dataFeedElement->item->author) == 0)
-				{
-					unset($dataFeedElement->item->author);
-				}
-				
 	
 			}
 	
@@ -579,10 +561,10 @@ function internal_to_rss($dataFeed, $format = 'atom')
 				rss_content($dataFeedElement, $feed, $item);
 				
 				// id
-				if (isset($dataFeedElement->{'@id'}))
+				if (isset($dataFeedElement->id))
 				{
 					$id = $item->appendChild($feed->createElement('id'));
-					$id->appendChild($feed->createTextNode($dataFeedElement->{'@id'}));
+					$id->appendChild($feed->createTextNode($dataFeedElement->id));
 				}
 											
 				// link
@@ -875,14 +857,14 @@ if (0)
 	
 	//$filename = 'examples/googlescholar.xml'; // rss 2 
 
-	//$filename = 'examples/native-pubmed.xml'; // rss 2 
+	$filename = 'examples/native-pubmed.xml'; // rss 2 
 	//$filename = 'examples/zoobank.xml'; // rss 2 
 	
 	//$filename = 'examples/zookeys.xml'; 
 	
 	//$filename = 'cache/2021-11-24/0abe4bd4e1c41f034b91fd79cc81fda4.xml';
 
-	// $filename = 'examples/ejb.xml'; 
+	//$filename = 'examples/ejb.xml'; 
 	
 	//$filename = 'examples/canent.xml';
 
