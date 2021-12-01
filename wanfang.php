@@ -1,7 +1,7 @@
 <?php
 
 // Wangang
-
+require_once (dirname(__FILE__) . '/config.inc.php');
 require_once (dirname(__FILE__) . '/rss.php');
 
 /*
@@ -168,6 +168,7 @@ function post($url, $data = '', $content_type = '')
 	return $response;
 }
 
+//----------------------------------------------------------------------------------------
 
 $periodicals = array(
 
@@ -176,7 +177,7 @@ $periodicals = array(
 				'zxxb202101001',
 				'zxxb202101002'
 			),
-/*			
+			
 	// Acta Entomologica Sinica
 	'kcxb' => array(
 				'kcxb201601004'
@@ -192,7 +193,7 @@ $periodicals = array(
 	'xbzwxb' => array(
 				'xbzwxb201601006'
 			),			
-*/
+
 
 );
 
@@ -206,16 +207,20 @@ older journals
 
 */
 
-	
 
 
 foreach ($periodicals as $journal => $ids)
 {
+	$cache_dir = $config['cache'] . '/' . $journal;
+
+	if (!file_exists($cache_dir))
+	{
+		$oldumask = umask(0); 
+		mkdir($cache_dir, 0777);
+		umask($oldumask);
+	}	
+
 	$dataFeed = new stdclass;
-	//$dataFeed->{'@context'} = 'http://schema.org/';
-	//$dataFeed->{'@type'} = 'DataFeed';
-	
-	
 	$dataFeed->dataFeedElement = array();
 
 	foreach ($ids as $id)
@@ -298,6 +303,11 @@ foreach ($periodicals as $journal => $ids)
 	}
 
 	print_r($dataFeed);
+	
+	$filename = $cache_dir . '/' . $journal . '.json';
+	file_put_contents($filename, json_encode($dataFeed, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE));
+	
+	
 	
 	// this should be added directly... but then we need a way to queue objects and post process then
 	// or we save the JSON and process the file...
