@@ -95,6 +95,14 @@
 <!-- I -->	
 
 
+	<outline 
+		text="Insecta Mundi" 
+		title="Insecta Mundi" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://journals.flvc.org/mundi/index" 
+		xmlUrl="https://journals.flvc.org/mundi/gateway/plugin/WebFeedGatewayPlugin/rss"/>
 
 
 	<outline 
@@ -262,8 +270,15 @@
 			htmlUrl="https://academic.oup.com/zoolinnean/issue"
 			xmlUrl="https://academic.oup.com/rss/site_5579/3435.xml" />
 			
-			
-			
+	
+	<outline 
+		text="Zoology in the Middle East" 
+		title="Zoology in the Middle East" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://www.tandfonline.com/toc/tzme20/current" 
+		xmlUrl="https://www.tandfonline.com/feed/rss/tzme20"/>
 			
 	
 	<outline 
@@ -272,7 +287,7 @@
 		description="" 
 		type="rss" 
 		version="RSS" 
-		htmlUrl="" 
+		htmlUrl="https://www.mapress.com/zt" 
 		xmlUrl="https://www.mapress.com/zt/gateway/plugin/WebFeedGatewayPlugin/rss"/>
 		
 		
