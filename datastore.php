@@ -24,7 +24,7 @@ function store($dataFeedElement, $force = false)
 	global $config;
 	global $couch;
 	
-	$id = $dataFeedElement->{'@id'};
+	$id = $dataFeedElement->id;
 	
 	$go = true;
 	
@@ -58,7 +58,7 @@ function store($dataFeedElement, $force = false)
 	{
 		// so we can have an internal queue if we need one
 		$doc = new stdclass;
-		$doc->_id 					= $dataFeedElement->{'@id'};
+		$doc->_id 					= $dataFeedElement->id;
 		$doc->{'message-timestamp'} = date("c", time());			// now
 		$doc->{'message-modified'}  = $doc->{'message-timestamp'};	// now
 		//$doc->{'message-format'} 	= 'unknown';					// what type of object is this?		
