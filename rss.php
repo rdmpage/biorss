@@ -432,11 +432,28 @@ function rss_to_internal($xml)
 					add_to_item($dataFeedElement->item, 'publicationDate', trim($node->firstChild->nodeValue));
 				}
 				
-				// Pubmed has journal
+				// PubMed has journal
 				foreach ($xpath->query('dc:source | prism:publicationTitle', $item) as $node)
 				{
 					add_to_item($dataFeedElement->item, 'publicationTitle', trim($node->firstChild->nodeValue));
 				}				
+
+
+				foreach ($xpath->query('prism:publicationName', $item) as $node)
+				{
+					// T&F use prism:publicationName for the title of the article
+					if (!preg_match('/tandfonline/', $dataFeedElement->url))
+					{
+						add_to_item($dataFeedElement->item, 'publicationTitle', trim($node->firstChild->nodeValue));
+					}
+				}				
+
+				/*
+				foreach ($xpath->query('prism:issn', $item) as $node)
+				{
+					add_to_item($dataFeedElement->item, 'issn', trim($node->firstChild->nodeValue));
+				}
+				*/
 	
 			}
 	
@@ -867,7 +884,10 @@ if (0)
 	//$filename = 'examples/ejb.xml'; 
 	
 	//$filename = 'examples/canent.xml';
-
+	
+	$filename = 'cache/2021-11-24/0bbc3f91d852e8dd9c9d1ae448ef5f33.xml';
+	$filename = 'cache/2021-11-24/5c20d2dbd02f93c620b415eda1f19284.xml';
+	$filename = 'cache/2021-11-24/2150d69c452159c003d91353ddfb76a0.xml';
 
 	$xml = file_get_contents($filename);
 	
