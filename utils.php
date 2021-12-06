@@ -70,4 +70,21 @@ function translate_date($date_string, $locale = "en_GB")
 }
 
 
+//----------------------------------------------------------------------------------------
+function url_pattern_to_doi($url)
+{
+	$doi = '';
+	
+	if ($doi == "")
+	{
+		if (preg_match('/(?<doi>10\.\d+\/(.*))\.pdf/', $url, $m))
+		{
+			$doi = $m['doi'];
+		}
+	}	
+	
+	return $doi;
+}
+
+
 ?>

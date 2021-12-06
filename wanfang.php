@@ -174,10 +174,10 @@ $periodicals = array(
 
 	// Acta Arachnologica Sinica
 	'zxxb' => array(
-				'zxxb202101001',
-				'zxxb202101002'
+//				'zxxb202101001',
+				'zxxb202101032'
 			),
-			
+	/*		
 	// Acta Entomologica Sinica
 	'kcxb' => array(
 				'kcxb201601004'
@@ -194,8 +194,26 @@ $periodicals = array(
 				'xbzwxb201601006'
 			),			
 
-
+	*/
 );
+
+
+// make up some codes
+
+$code			= 'zxxb';
+$year 			= 2021;
+$num_issues 	= 1;
+$num_articles 	= 30;
+
+for ($issue = 1; $issue <= $num_issues; $issue++)
+{
+	for ($article = 1; $article <= $num_articles; $article++)
+	{
+		$article_id = $code . $year . str_pad($issue, 2, '0', STR_PAD_LEFT) . str_pad($article, 3, '0', STR_PAD_LEFT);
+		
+		$periodicals[$code][] = $article_id;
+	}
+}
 
 /*
 
@@ -234,71 +252,75 @@ foreach ($periodicals as $journal => $ids)
 	
 		$obj = json_decode($json);
 	
-		// print_r($obj);
-	
-		foreach ($obj->detail[0] as $item)
+		print_r($obj);
+		
+		if (count($obj->detail) > 0)
 		{
-			$dataFeedElement = new stdclass;
-			//$dataFeedElement->{'@type'} = 'DataFeedItem';
-		
-			$dataFeedElement->url = 'https://d.wanfangdata.com.cn/periodical/' . $id;
-			$dataFeedElement->id = $dataFeedElement->url;
-		
-			$dataFeedElement->name = join(' / ', $item->Title);
-			$dataFeedElement->description = join(' / ', $item->Abstract);
-				
-			$dataFeedElement->datePublished = $item->PublishDate;
-		
-			// name whole feed based on the journal
-			if (!isset($dataFeed->name))
-			{			
-				$dataFeed->name = join(' / ', $item->PeriodicalTitle);
-			}
-
-			// make up a feed url
-			if (!isset($dataFeed->url))
-			{			
-				$dataFeed->url = 'https://www.wanfangdata.com.cn/perio/detail.do?perio_id='
-					. $journal . '&perio_title=' . $item->PeriodicalTitle[0];
-			}
-			
-			// item
-			$dataFeedElement->item = new stdclass;
-			//$dataFeedElement->item->{'@type'} = "CreativeWork";
-							
-			if (isset($item->DOI))
+	
+			foreach ($obj->detail[0] as $item)
 			{
-				add_to_item($dataFeedElement->item, 'doi', $item->DOI);
-				$dataFeedElement->item->id = 'https://doi.org/' . $dataFeedElement->item->doi;
-			}
-			
-
-			foreach ($item as $k => $v)
-			{
-				switch ($k)
-				{
-					case 'Abstract':
-					case 'Creator':
-					case 'Id':
-					case 'ISSN':
-					case 'Issue':
-					case 'Page':
-					case 'PeriodicalTitle':
-					case 'PublishDate':
-					case 'Volum':
-					case 'Title':
-						add_to_item($dataFeedElement->item, $k, $v);
-						break;
+				$dataFeedElement = new stdclass;
+				//$dataFeedElement->{'@type'} = 'DataFeedItem';
+		
+				$dataFeedElement->url = 'https://d.wanfangdata.com.cn/periodical/' . $id;
+				$dataFeedElement->id = $dataFeedElement->url;
+		
+				$dataFeedElement->name = join(' / ', $item->Title);
+				$dataFeedElement->description = join(' / ', $item->Abstract);
 				
-					default:
-						break;
+				$dataFeedElement->datePublished = $item->PublishDate;
+		
+				// name whole feed based on the journal
+				if (!isset($dataFeed->name))
+				{			
+					$dataFeed->name = join(' / ', $item->PeriodicalTitle);
+				}
+
+				// make up a feed url
+				if (!isset($dataFeed->url))
+				{			
+					$dataFeed->url = 'https://www.wanfangdata.com.cn/perio/detail.do?perio_id='
+						. $journal . '&perio_title=' . $item->PeriodicalTitle[0];
 				}
 			
+				// item
+				$dataFeedElement->item = new stdclass;
+				//$dataFeedElement->item->{'@type'} = "CreativeWork";
+							
+				if (isset($item->DOI))
+				{
+					add_to_item($dataFeedElement->item, 'doi', $item->DOI);
+					$dataFeedElement->item->id = 'https://doi.org/' . $dataFeedElement->item->doi;
+				}
+			
+
+				foreach ($item as $k => $v)
+				{
+					switch ($k)
+					{
+						case 'Abstract':
+						case 'Creator':
+						case 'Id':
+						case 'ISSN':
+						case 'Issue':
+						case 'Page':
+						case 'PeriodicalTitle':
+						case 'PublishDate':
+						case 'Volum':
+						case 'Title':
+							add_to_item($dataFeedElement->item, $k, $v);
+							break;
+				
+						default:
+							break;
+					}
+			
+				}
+		
+				//print_r($dataFeedElement);
+		
+				$dataFeed->dataFeedElement[] = $dataFeedElement;	
 			}
-		
-			//print_r($dataFeedElement);
-		
-			$dataFeed->dataFeedElement[] = $dataFeedElement;	
 		}
 	}
 

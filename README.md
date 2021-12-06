@@ -6,11 +6,8 @@ A potential successor to [uBioRSS](http://www.ubio.org/rss/) and [uBioRSS Nomina
 
 Take RSS feeds from journals and databases, creating them if needed, then index by taxon and geography. Output RSS feeds keyed by taxon and/or geography. Create simple visualisations.
 
-Patrick R. Leary, David P. Remsen, Catherine N. Norton, David J. Patterson, Indra Neil Sarkar, uBioRSS: Tracking taxonomic literature using RSS, Bioinformatics, Volume 23, Issue 11, June 2007, Pages 1434–1436, https://doi.org/10.1093/bioinformatics/btm109
+Original goal was to rely on RSS feeds, or generate my own RSS from various sources. Now seems better to use RSS if available, but otherwise generate schema.org-style JSON and use that directly for other, potentially richer sources.
 
-Little, D. P. (2020). Recognition of Latin scientific names using artificial neural networks. Applications in Plant Sciences, 8(7). doi:10.1002/aps3.11378
-
-Mindell, D. P., Fisher, B. L., Roopnarine, P., Eisen, J., Mace, G. M., Page, R. D. M., & Pyle, R. L. (2011). Aggregating, Tagging and Integrating Biodiversity Research. PLoS ONE, 6(8), e19491. doi:10.1371/journal.pone.0019491
 
 ## Feeds
 
@@ -29,9 +26,22 @@ Google Scholar can send email alerts for a search term, so an obvious approach i
 
 The Google Scholar alert email is in HTML so we need to parse it and extract the information we require. Note that Google Scholar doesn’t include DOIs in the results, so we may have to resolve URLs and go hunting for DOIs. Some links may be PDFs, ideally we can find the corresponding HTML link so that we can parse that.
 
+### Pensoft
+
+Lyubo mentions OAI endpoint, investigate further.
+
 ### PubMed
 
 PubMed supports the creation of RSS feeds based on user searches, e.g.  [("new species") OR ("n. sp.") OR ("sp. nov.") OR ("n. gen.") OR ("gen. nov.") OR ("n. comb.") OR ("comb. nov.”)](https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;v=2.15.0&amp;utm_source=Rested&amp;utm_medium=rss&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;utm_campaign=pubmed-2&amp;ff=20211108074851)
+
+### Wanfang
+
+Scrape using JSON.
+
+### ZooBank
+
+ZooBank has RSS but it doesn’t seem to be updated(?). Can also query using year as a search term. JSON data doesn’t have precise time, nor does it have the DOI. GBIF https://www.gbif.org/dataset/c8227bb4-4143-443f-8cb2-51f9576aff14 https://doi.org/10.15468/wkr0kn seems to lag behind ZooBank.
+
 
 ### Zootaxa
 
@@ -49,3 +59,15 @@ JSON-LD | https://json-ld.org/playground/
 OPML | http://validator.opml.org
 RSS feed | https://validator.w3.org/feed/
 Structured data using schema.org | https://validator.schema.org
+
+## Visualisation
+
+Feed is a list in descending time order, taxon facet is a treemap, geography facet is a map.
+
+## References
+
+Patrick R. Leary, David P. Remsen, Catherine N. Norton, David J. Patterson, Indra Neil Sarkar, uBioRSS: Tracking taxonomic literature using RSS, Bioinformatics, Volume 23, Issue 11, June 2007, Pages 1434–1436, https://doi.org/10.1093/bioinformatics/btm109
+
+Little, D. P. (2020). Recognition of Latin scientific names using artificial neural networks. Applications in Plant Sciences, 8(7). doi:10.1002/aps3.11378
+
+Mindell, D. P., Fisher, B. L., Roopnarine, P., Eisen, J., Mace, G. M., Page, R. D. M., & Pyle, R. L. (2011). Aggregating, Tagging and Integrating Biodiversity Research. PLoS ONE, 6(8), e19491. doi:10.1371/journal.pone.0019491
