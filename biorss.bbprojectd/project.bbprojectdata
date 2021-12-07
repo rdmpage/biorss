@@ -29,6 +29,7 @@
 		<string>AA053ED9-7E48-4F40-919A-221938ED2BF8</string>
 		<string>F547D28F-F1AF-46A2-B5FF-A2592E9F7837</string>
 		<string>8B94E479-9366-4BB9-871D-F3DCBDAD0DB1</string>
+		<string>06CC9ADA-253A-4AB7-B605-141297645F4E</string>
 		<string>34E9B3B5-6DA0-4206-A33D-D7CD259FB97D</string>
 		<string>B350D297-B8A7-4271-A329-3694CBC65097</string>
 		<string>00250180-C438-4C58-9686-2899C319662A</string>
@@ -88,6 +89,56 @@
 			</dict>
 			<key>ItemName</key>
 			<string>pubmed.php</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
+		<key>06CC9ADA-253A-4AB7-B605-141297645F4E</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9vaxwDAAAAAAQQMAAAAHBRPKUvnfgMF0lNGrVb7NIw
+				tO2UTPKNH4Z4JjoBiGroDAIAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAFAAAAAQEAAHJwYWdlAAAABQAA
+				AAEBAABTaXRlcwAAAAYAAAABAQAAYmlvcnNzAAALAAAA
+				AQEAAGpvYi1maXgucGhwABQAAAABBgAAEAAAACAAAAAw
+				AAAAQAAAAFAAAAAIAAAABAMAABBnAgAAAAAACAAAAAQD
+				AACFdA0AAAAAAAgAAAAEAwAABFZMAAAAAAAIAAAABAMA
+				AD92eQgDAAAACAAAAAQDAADF68MIAwAAABQAAAABBgAA
+				gAAAAJAAAACgAAAAsAAAAMAAAAAIAAAAAAQAAEHDmrT5
+				fwAHGAAAAAECAAABAAAAAAAAAA8AAAAAAAAAAAAAAAAA
+				AAAIAAAABAMAAAMAAAAAAAAABAAAAAMDAAD1AQAACAAA
+				AAEJAABmaWxlOi8vLwwAAAABAQAATWFjaW50b3NoIEhE
+				CAAAAAQDAAAA4MUydAAAAAgAAAAABAAAQb7dXWIAAAAk
+				AAAAAQEAADI1RTQyODZELTcxMkMtMzg5OS1CNDNGLTVE
+				M0Y2QThCRDEyMRgAAAABAgAAgQAAAAEAAADvEwAAAQAA
+				AAAAAAAAAAAAAQAAAAEBAAAvAAAAAAAAAAEFAAAaAAAA
+				AQEAAE5TVVJMRG9jdW1lbnRJZGVudGlmaWVyS2V5AAAE
+				AAAAAwMAADSrAQDYAAAA/v///wEAAAAAAAAAEQAAAAQQ
+				AABkAAAAAAAAAAUQAADQAAAAAAAAABAQAAD8AAAAAAAA
+				AEAQAADsAAAAAAAAAAIgAADIAQAAAAAAAAUgAAA4AQAA
+				AAAAABAgAABIAQAAAAAAABEgAAB8AQAAAAAAABIgAABc
+				AQAAAAAAABMgAABsAQAAAAAAACAgAACoAQAAAAAAADAg
+				AADUAQAAAAAAAAHAAAAcAQAAAAAAABHAAAAgAAAAAAAA
+				ABLAAAAsAQAAAAAAABDQAAAEAAAAAAAAANwBAIAAAgAA
+				AAAAAA==
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/rpage/Sites/biorss/job-fix.php</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>./job-fix.php</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>job-fix.php</string>
 			<key>ItemType</key>
 			<string>FileReference</string>
 			<key>UserOverrideItemName</key>
@@ -1673,11 +1724,11 @@
 				AAAAAOgBAIAMAgAAAAAAAA==
 				</data>
 				<key>FileURL</key>
-				<string>file:///Users/rpage/Sites/biorss/googlescholar_to_rss.php</string>
+				<string>file:///Users/rpage/Sites/biorss/experiments/googlescholar_to_rss.php</string>
 				<key>HasSecurityScope</key>
 				<true/>
 				<key>RelativePath</key>
-				<string>./googlescholar_to_rss.php</string>
+				<string>./experiments/googlescholar_to_rss.php</string>
 				<key>TypeID</key>
 				<string>_CFileLocator</string>
 				<key>Version</key>

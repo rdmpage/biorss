@@ -1,0 +1,1128 @@
+Delivered-To: rdmpage@gmail.com
+Received: by 2002:a05:6520:3348:b0:150:7385:796a with SMTP id r8csp7575162lkc;
+        Wed, 1 Dec 2021 14:45:08 -0800 (PST)
+X-Received: by 2002:a05:6122:14b4:: with SMTP id c20mr11744715vkq.30.1638398708540;
+        Wed, 01 Dec 2021 14:45:08 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1638398708; cv=none;
+        d=google.com; s=arc-20160816;
+        b=AVFqPMgojDEBcFq+q1f1xKKEsieYMP74fv43gLu4sqixHBb/U/0yWCW2N4qta5Ut19
+         8NMFc4+w4Ozw2SirgKgIyTIBT1u2gEbNsB1znyivAGPoRmHjzoHapFNmv8XQ5NmDqVdY
+         XdnTtHyNaZEbTYdXJcl5gMfB/4My86xhJW8bdpZg712RBae9Jxx3RnqkYM6VeGeM7Wwb
+         Euu7ezjeHg2LL1Q26g94vLdMmx/QSVFQufGXmv7KusRRcFvRpaTRzmJL0Qq2kTxRBx19
+         oUcigu9/Atd+lO61QowAWFw6RfliyXnsTODCtkcMwUw6Ss/ksUzx+6IjnIhlbD0GhOwi
+         k5/g==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=content-transfer-encoding:to:from:subject:message-id:date
+         :mime-version:dkim-signature;
+        bh=Oa75Cf9gAydw9002d4+MnV+j1G7Ea5BFJ5GmlFKf2ZA=;
+        b=UEv5bLnNiCWtyjldLLILJdSoKD3jBtNR/YGjzBzocP7/oLUF1lAYuGVk73AE6RXhPT
+         aqjzVSXJPOq8tXRmqAp85D2RJ8fl3KlmCBjcP1ztZGA3Kmuf0dsrPGAtbWvVTfd0iqVZ
+         KNxD8b2xobOLBzm5YD1prJsXRHra1ByJ0pRcVX3/TqHlylZWWpJ5ZgFXKOh5J/ACnoAI
+         8MiztrCBzrNYjBWAhHoNGWXMPt3pjel4LRDvEFAqI6jsQBhs7SO9gSSo+80+1KjnXukN
+         Rt7TgptGeoPv21TBCxAmY7L8i/hEW79E52gPzeUjmR+4/1Vre6DjR5bCO9Q+oL8Vel+4
+         BHUQ==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@google.com header.s=20210112 header.b="f3cA/34c";
+       spf=pass (google.com: domain of 39pqnyrukb50p9eli7o7iboqp-klobmivdlldib.9ljoajm7dbdj7fi.9lj@scholar-alerts.bounces.google.com designates 209.85.220.73 as permitted sender) smtp.mailfrom=39PqnYRUKB50P9ELI7O7IBOQP-KLOBMIVDLLDIB.9LJOAJM7DBDJ7FI.9LJ@scholar-alerts.bounces.google.com;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=google.com
+Return-Path: <39PqnYRUKB50P9ELI7O7IBOQP-KLOBMIVDLLDIB.9LJOAJM7DBDJ7FI.9LJ@scholar-alerts.bounces.google.com>
+Received: from mail-sor-f73.google.com (mail-sor-f73.google.com. [209.85.220.73])
+        by mx.google.com with SMTPS id w17sor570241uam.43.2021.12.01.14.45.08
+        for <rdmpage@gmail.com>
+        (Google Transport Security);
+        Wed, 01 Dec 2021 14:45:08 -0800 (PST)
+Received-SPF: pass (google.com: domain of 39pqnyrukb50p9eli7o7iboqp-klobmivdlldib.9ljoajm7dbdj7fi.9lj@scholar-alerts.bounces.google.com designates 209.85.220.73 as permitted sender) client-ip=209.85.220.73;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@google.com header.s=20210112 header.b="f3cA/34c";
+       spf=pass (google.com: domain of 39pqnyrukb50p9eli7o7iboqp-klobmivdlldib.9ljoajm7dbdj7fi.9lj@scholar-alerts.bounces.google.com designates 209.85.220.73 as permitted sender) smtp.mailfrom=39PqnYRUKB50P9ELI7O7IBOQP-KLOBMIVDLLDIB.9LJOAJM7DBDJ7FI.9LJ@scholar-alerts.bounces.google.com;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=google.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20210112;
+        h=mime-version:date:message-id:subject:from:to
+         :content-transfer-encoding;
+        bh=Oa75Cf9gAydw9002d4+MnV+j1G7Ea5BFJ5GmlFKf2ZA=;
+        b=f3cA/34cvACKAxCFLbLJE4MGTgS20c58FwcvHcdWU7ZrMk23XExFx2kKgnA1GeuQ//
+         ucszARfzz3CAHOsmH4MN7pT9ANCWZ9xiDx3An6SQnke7OUWGwf2O7UwOxL9TMvQqW/Zs
+         uTKXkOPEGXpuonl8L5URbhJ6KLztGb44Frpmi1tsl6iJ1ugkzkez16ex67CAFIr5fm/a
+         dt3fn+mJit5FF1XNL8BYey3GaAoX7/HXfMqG/QuW73Z3J6NRYPqEl2e8Q3y43lxpgmWN
+         Q5IwPSxFftDOQAnqbblXghvKiBkg02HTpBiyLPqs+zH3yWXQ/QmWLQkrv2qTBMWhygg8
+         4d7A==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:mime-version:date:message-id:subject:from:to
+         :content-transfer-encoding;
+        bh=Oa75Cf9gAydw9002d4+MnV+j1G7Ea5BFJ5GmlFKf2ZA=;
+        b=fYsYVyMZS5foOT23trZiVECm6RSlBevnuz3XeNtqHUGCB1c8/L97ekjOYjBCqxManI
+         St3cRLeQPNGp26zsAYz26yqJ7RnSoItZ0bdnq10VzLac8P0dNJAtjra+0RLmHLZuGlhw
+         VNxIGsHfNO7LviTVlqdm03YXnEOQkYu6+GKWd2reTNoqQpOdZ72n9RzCR3SVQJk1CZRR
+         H+0yRQ7EyB0uOw95/QdLgxJV52bcSTqyCW1jTQT/9ADlsWy+C3YLIZW8flgO30A2K2fj
+         G4+vupBOjJOeeubwISf/AWcNbtOVDHwR1A5myYo4HLnsr5Rer8xdT1P2YKLoIQE2lXKj
+         vgGQ==
+X-Gm-Message-State: AOAM532NkKsGCE8MvtnBt/Ut3fMHUoTGZLEQYR1+0/ZDxKu8OcCKNz0x
+	gs48lsdIlTzGKGbYa2umuw==
+X-Google-Smtp-Source: ABdhPJyPkF4SSp+4opaqEodZIkx557pGFodBCGunUrulBehcjhSA7jTR+8K9VEaDR6vpYHWk2P1X3TFlL9G3rg==
+MIME-Version: 1.0
+X-Received: by 2002:ab0:c10:: with SMTP id a16mr11582244uak.51.1638398708033;
+ Wed, 01 Dec 2021 14:45:08 -0800 (PST)
+Date: Wed, 01 Dec 2021 14:45:08 -0800
+Message-ID: <000000000000fe282405d21d6c5a@google.com>
+Subject: "n. sp." OR "new species" OR "n. gen." OR "sp. nov ... - new results
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: rdmpage@gmail.com
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html><html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:o=3D"urn:=
+schemas-microsoft-com:office:office"><head><!--[if gte mso 9]><xml><o:Offic=
+eDocumentSettings><o:AllowPNG/><o:PixelsPerInch>96</o:PixelsPerInch></o:Off=
+iceDocumentSettings></xml><![endif]--><style>body{background-color:#fff}.gs=
+e_alrt_title{text-decoration:none}.gse_alrt_title:hover{text-decoration:und=
+erline} @media screen and (max-width: 599px) {.gse_alrt_sni br{display:none=
+;}}</style></head><body><!--[if gte mso 9]><table cellpadding=3D"0" cellspa=
+cing=3D"0" border=3D"0"><tr><td style=3D"width:600px"><![endif]--><div styl=
+e=3D"font-family:arial,sans-serif;font-size:13px;line-height:16px;color:#22=
+2;width:100%;max-width:600px"><h3 style=3D"font-weight:normal;margin:0;font=
+-size:17px;line-height:20px;"><a href=3D"https://scholar.google.ca/scholar_=
+url?url=3Dhttps://www.sciencedirect.com/science/article/pii/S07232020210011=
+19&amp;hl=3Den&amp;sa=3DX&amp;d=3D8646942758422568890&amp;ei=3D8_qnYYPLGYGU=
+y9YP_b6g0Ag&amp;scisig=3DAAGBfm1GDR5VU0FMp9zI608AuBziOzlZqw&amp;oi=3Dschola=
+ralrt&amp;hist=3D4Z5WABAAAAAJ:9524340157753604263:AAGBfm2s1u6dXm_HqG8n9fyMD=
+vYCTFQrnQ&amp;html=3D&amp;folt=3Dkw" class=3D"gse_alrt_title" style=3D"font=
+-size:17px;color:#1a0dab">=E2=80=A6=C2=A0Diversity in a Military Impacted L=
+agoon (Vieques, Puerto Rico) and description of =E2=80=9CCandidatus Biekeib=
+acterium resiliens=E2=80=9D <b>gen</b>. <b>nov</b>., <b>sp</b>. <b>nov</b>.=
+ comprising a new=C2=A0=E2=80=A6</a></h3><div style=3D"color:#006621">LD Sa=
+ntiago, N DeLeon-Rodriguez, K LaSanta-Pag=C3=A1n=E2=80=A6=C2=A0- Systematic=
+ and Applied=C2=A0=E2=80=A6, 2021</div><div class=3D"gse_alrt_sni">Abstract=
+ The Anones Lagoon, located in the Island Municipality of Vieques, Puerto <=
+br>Rico (PR), received extensive bombing by the US Navy during military exe=
+rcises for <br>decades until 2003 when military activities ceased. Here, we=
+ employed shotgun=C2=A0=E2=80=A6</div><div style=3D"width:auto"><table cell=
+padding=3D"0" cellspacing=3D"0" border=3D"0"><tbody><tr><td style=3D"paddin=
+g-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.googl=
+e.ca/citations?hl=3Den&amp;update_op=3Demail_library_add&amp;info=3Dut_pFKA=
+cAHgJ&amp;citsig=3DAMD79ooAAAAAY4kuc8fHdOvxXWl05O3vS0glSKOC4BVi" style=3D"t=
+ext-decoration:none;display:inline-block;padding:4px 8px 4px 0;mso-padding-=
+alt:0;"><img alt=3D"Save" src=3D"https://scholar.google.ca/intl/en/scholar/=
+images/1x/save-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"ver=
+tical-align:top"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4p=
+x 16px 0 0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp=
+;oi=3Dscholaralrt&amp;ss=3Dtw&amp;url=3Dhttps://www.sciencedirect.com/scien=
+ce/article/pii/S0723202021001119&amp;rt=3DMicrobial+Diversity+in+a+Military=
++Impacted+Lagoon+(Vieques,+Puerto+Rico)+and+description+of+%E2%80%9CCandida=
+tus+Biekeibacterium+resiliens%E2%80%9D+gen.+nov.,+sp.+nov.+comprising+a+new=
++bacterial+family&amp;scisig=3DAAGBfm0grkhMg3V2h3fX9SCyw55qNiHMpg" style=3D=
+"text-decoration:none;display:inline-block;padding:4px 8px;mso-padding-alt:=
+0;"><img alt=3D"Twitter" src=3D"https://scholar.google.ca/intl/en/scholar/i=
+mages/1x/tw-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertic=
+al-align:top"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 1=
+6px 0 0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=
+=3Dscholaralrt&amp;ss=3Din&amp;url=3Dhttps://www.sciencedirect.com/science/=
+article/pii/S0723202021001119&amp;rt=3DMicrobial+Diversity+in+a+Military+Im=
+pacted+Lagoon+(Vieques,+Puerto+Rico)+and+description+of+%E2%80%9CCandidatus=
++Biekeibacterium+resiliens%E2%80%9D+gen.+nov.,+sp.+nov.+comprising+a+new+ba=
+cterial+family&amp;scisig=3DAAGBfm0grkhMg3V2h3fX9SCyw55qNiHMpg" style=3D"te=
+xt-decoration:none;display:inline-block;padding:4px 8px;mso-padding-alt:0;"=
+><img alt=3D"LinkedIn" src=3D"https://scholar.google.ca/intl/en/scholar/ima=
+ges/1x/in-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical=
+-align:top"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16p=
+x 0 0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=
+=3Dscholaralrt&amp;ss=3Dfb&amp;url=3Dhttps://www.sciencedirect.com/science/=
+article/pii/S0723202021001119&amp;rt=3DMicrobial+Diversity+in+a+Military+Im=
+pacted+Lagoon+(Vieques,+Puerto+Rico)+and+description+of+%E2%80%9CCandidatus=
++Biekeibacterium+resiliens%E2%80%9D+gen.+nov.,+sp.+nov.+comprising+a+new+ba=
+cterial+family&amp;scisig=3DAAGBfm0grkhMg3V2h3fX9SCyw55qNiHMpg" style=3D"te=
+xt-decoration:none;display:inline-block;padding:4px 8px;mso-padding-alt:0;"=
+><img alt=3D"Facebook" src=3D"https://scholar.google.ca/intl/en/scholar/ima=
+ges/1x/fb-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical=
+-align:top"></a></td></tr></tbody></table></div><br><h3 style=3D"font-weigh=
+t:normal;margin:0;font-size:17px;line-height:20px;"><span style=3D"font-siz=
+e:11px;font-weight:bold;color:#1a0dab;vertical-align:2px">[PDF]</span> <a h=
+ref=3D"https://scholar.google.ca/scholar_url?url=3Dhttps://www.mdpi.com/207=
+9-6382/10/12/1447/pdf&amp;hl=3Den&amp;sa=3DX&amp;d=3D3006107511941913933&am=
+p;ei=3D8_qnYYPLGYGUy9YP_b6g0Ag&amp;scisig=3DAAGBfm1iA6sXpUUwBytteAka9Zasxx-=
+mFA&amp;oi=3Dscholaralrt&amp;hist=3D4Z5WABAAAAAJ:9524340157753604263:AAGBfm=
+2s1u6dXm_HqG8n9fyMDvYCTFQrnQ&amp;html=3D&amp;folt=3Dkw" class=3D"gse_alrt_t=
+itle" style=3D"font-size:17px;color:#1a0dab">In Silico Analysis of PKS and =
+NRPS Gene Clusters in Arisostatin-and Kosinostatin-Producers and Descriptio=
+n of Micromonospora okii <b>sp</b>. <b>nov</b>.</a></h3><div style=3D"color=
+:#006621">H Komaki, N Ichikawa, A Hosoyama, M Hamada=E2=80=A6=C2=A0- Antibi=
+otics, 2021</div><div class=3D"gse_alrt_sni">Micromonospora sp. TP-A0316 an=
+d Micromonospora sp. TP-A0468 are producers of <br>arisostatin and kosinost=
+atin, respectively. Micromonospora sp. TP-A0316 showed a <br>16S rRNA gene =
+sequence similarity of 100% to Micromonospora oryzae CP2R9-1T=C2=A0=E2=80=
+=A6</div><div style=3D"width:auto"><table cellpadding=3D"0" cellspacing=3D"=
+0" border=3D"0"><tbody><tr><td style=3D"padding-right:4px;mso-padding-alt:4=
+px 16px 0 0;"><a href=3D"https://scholar.google.ca/citations?hl=3Den&amp;up=
+date_op=3Demail_library_add&amp;info=3DTV3u5drWtykJ&amp;citsig=3DAMD79ooAAA=
+AAY4kucytv2u3a2UEXn7kY6Dyzbt9zjnHX" style=3D"text-decoration:none;display:i=
+nline-block;padding:4px 8px 4px 0;mso-padding-alt:0;"><img alt=3D"Save" src=
+=3D"https://scholar.google.ca/intl/en/scholar/images/1x/save-32.png" border=
+=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td><td=
+ style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https=
+://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dtw=
+&amp;url=3Dhttps://www.mdpi.com/2079-6382/10/12/1447/pdf&amp;rt=3DIn+Silico=
++Analysis+of+PKS+and+NRPS+Gene+Clusters+in+Arisostatin-and+Kosinostatin-Pro=
+ducers+and+Description+of+Micromonospora+okii+sp.+nov.&amp;scisig=3DAAGBfm2=
+KINkReu3QBV6yzB8eTkpj89Hwgw" style=3D"text-decoration:none;display:inline-b=
+lock;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"Twitter" src=3D"https:=
+//scholar.google.ca/intl/en/scholar/images/1x/tw-32.png" border=3D"0" heigh=
+t=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td><td style=3D"pa=
+dding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.g=
+oogle.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Din&amp;url=3Dh=
+ttps://www.mdpi.com/2079-6382/10/12/1447/pdf&amp;rt=3DIn+Silico+Analysis+of=
++PKS+and+NRPS+Gene+Clusters+in+Arisostatin-and+Kosinostatin-Producers+and+D=
+escription+of+Micromonospora+okii+sp.+nov.&amp;scisig=3DAAGBfm2KINkReu3QBV6=
+yzB8eTkpj89Hwgw" style=3D"text-decoration:none;display:inline-block;padding=
+:4px 8px;mso-padding-alt:0;"><img alt=3D"LinkedIn" src=3D"https://scholar.g=
+oogle.ca/intl/en/scholar/images/1x/in-32.png" border=3D"0" height=3D"16" wi=
+dth=3D"16" style=3D"vertical-align:top"></a></td><td style=3D"padding-right=
+:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/sc=
+holar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dfb&amp;url=3Dhttps://www.=
+mdpi.com/2079-6382/10/12/1447/pdf&amp;rt=3DIn+Silico+Analysis+of+PKS+and+NR=
+PS+Gene+Clusters+in+Arisostatin-and+Kosinostatin-Producers+and+Description+=
+of+Micromonospora+okii+sp.+nov.&amp;scisig=3DAAGBfm2KINkReu3QBV6yzB8eTkpj89=
+Hwgw" style=3D"text-decoration:none;display:inline-block;padding:4px 8px;ms=
+o-padding-alt:0;"><img alt=3D"Facebook" src=3D"https://scholar.google.ca/in=
+tl/en/scholar/images/1x/fb-32.png" border=3D"0" height=3D"16" width=3D"16" =
+style=3D"vertical-align:top"></a></td></tr></tbody></table></div><br><h3 st=
+yle=3D"font-weight:normal;margin:0;font-size:17px;line-height:20px;"><span =
+style=3D"font-size:11px;font-weight:bold;color:#1a0dab;vertical-align:2px">=
+[PDF]</span> <a href=3D"https://scholar.google.ca/scholar_url?url=3Dhttps:/=
+/www.awe.gov.au/sites/default/files/documents/application-stomphastis-submi=
+ssion.pdf&amp;hl=3Den&amp;sa=3DX&amp;d=3D9011070821883093881&amp;ei=3D8_qnY=
+YPLGYGUy9YP_b6g0Ag&amp;scisig=3DAAGBfm1VxCC-RQdttyUbyI9WTwotd4TCMA&amp;oi=
+=3Dscholaralrt&amp;hist=3D4Z5WABAAAAAJ:9524340157753604263:AAGBfm2s1u6dXm_H=
+qG8n9fyMDvYCTFQrnQ&amp;html=3D&amp;folt=3Dkw" class=3D"gse_alrt_title" styl=
+e=3D"font-size:17px;color:#1a0dab">Application to release Stomphastis <b>sp=
+</b>. <b>nov</b>., an agent for the biological control of Jatropha gossypii=
+folia in Australia</a></h3><div style=3D"color:#006621">DBJ Taylor, K Dhile=
+epan=C2=A0- Biosecurity Queensland, Department of Agriculture and=C2=A0=E2=
+=80=A6, 2021</div><div class=3D"gse_alrt_sni">Executive summary Jatropha go=
+ssypiifolia (Euphorbiaceae), commonly known as <br>bellyache bush, is a ser=
+ious weed of rangelands and riparian zones of northern <br>Australia, and i=
+t has the potential to invade much of northern Australia. Biological=C2=A0=
+=E2=80=A6</div><div style=3D"width:auto"><table cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0"><tbody><tr><td style=3D"padding-right:4px;mso-padding=
+-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/citations?hl=3Den&=
+amp;update_op=3Demail_library_add&amp;info=3DeaM6eCvBDX0J&amp;citsig=3DAMD7=
+9ooAAAAAY4kuc8J0AP6xGLWNVmi9yqo7Lx-3X9X_" style=3D"text-decoration:none;dis=
+play:inline-block;padding:4px 8px 4px 0;mso-padding-alt:0;"><img alt=3D"Sav=
+e" src=3D"https://scholar.google.ca/intl/en/scholar/images/1x/save-32.png" =
+border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:top"></a></=
+td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D=
+"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;s=
+s=3Dtw&amp;url=3Dhttps://www.awe.gov.au/sites/default/files/documents/appli=
+cation-stomphastis-submission.pdf&amp;rt=3DApplication+to+release+Stomphast=
+is+sp.+nov.,+an+agent+for+the+biological+control+of+Jatropha+gossypiifolia+=
+in+Australia&amp;scisig=3DAAGBfm3ZyVKkAS5k7kCkeij3nrCgmNB7vQ" style=3D"text=
+-decoration:none;display:inline-block;padding:4px 8px;mso-padding-alt:0;"><=
+img alt=3D"Twitter" src=3D"https://scholar.google.ca/intl/en/scholar/images=
+/1x/tw-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-al=
+ign:top"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0=
+ 0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dsc=
+holaralrt&amp;ss=3Din&amp;url=3Dhttps://www.awe.gov.au/sites/default/files/=
+documents/application-stomphastis-submission.pdf&amp;rt=3DApplication+to+re=
+lease+Stomphastis+sp.+nov.,+an+agent+for+the+biological+control+of+Jatropha=
++gossypiifolia+in+Australia&amp;scisig=3DAAGBfm3ZyVKkAS5k7kCkeij3nrCgmNB7vQ=
+" style=3D"text-decoration:none;display:inline-block;padding:4px 8px;mso-pa=
+dding-alt:0;"><img alt=3D"LinkedIn" src=3D"https://scholar.google.ca/intl/e=
+n/scholar/images/1x/in-32.png" border=3D"0" height=3D"16" width=3D"16" styl=
+e=3D"vertical-align:top"></a></td><td style=3D"padding-right:4px;mso-paddin=
+g-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=
+=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dfb&amp;url=3Dhttps://www.awe.gov.au/sit=
+es/default/files/documents/application-stomphastis-submission.pdf&amp;rt=3D=
+Application+to+release+Stomphastis+sp.+nov.,+an+agent+for+the+biological+co=
+ntrol+of+Jatropha+gossypiifolia+in+Australia&amp;scisig=3DAAGBfm3ZyVKkAS5k7=
+kCkeij3nrCgmNB7vQ" style=3D"text-decoration:none;display:inline-block;paddi=
+ng:4px 8px;mso-padding-alt:0;"><img alt=3D"Facebook" src=3D"https://scholar=
+.google.ca/intl/en/scholar/images/1x/fb-32.png" border=3D"0" height=3D"16" =
+width=3D"16" style=3D"vertical-align:top"></a></td></tr></tbody></table></d=
+iv><br><h3 style=3D"font-weight:normal;margin:0;font-size:17px;line-height:=
+20px;"><a href=3D"https://scholar.google.ca/scholar_url?url=3Dhttps://www.m=
+dpi.com/2077-1312/9/12/1334&amp;hl=3Den&amp;sa=3DX&amp;d=3D8638900119994660=
+148&amp;ei=3D8_qnYYPLGYGUy9YP_b6g0Ag&amp;scisig=3DAAGBfm1jusco5buIFszUsGS_J=
+ArRE9t4IQ&amp;oi=3Dscholaralrt&amp;hist=3D4Z5WABAAAAAJ:9524340157753604263:=
+AAGBfm2s1u6dXm_HqG8n9fyMDvYCTFQrnQ&amp;html=3D&amp;folt=3Dkw" class=3D"gse_=
+alrt_title" style=3D"font-size:17px;color:#1a0dab">Oncholaimus tripapillatu=
+s <b>sp</b>. <b>nov</b>., a New Free-Living Marine Nematode of the Genus On=
+cholaimus Dujardin, 1845 (Nematoda: Enoplida: Oncholaimidae) from the=C2=A0=
+=E2=80=A6</a></h3><div style=3D"color:#006621">H Lee, H Lee, H Rho=C2=A0- J=
+ournal of Marine Science and Engineering, 2021</div><div class=3D"gse_alrt_=
+sni">During a survey of the free-living marine nematodes of Korea, two spec=
+ies belonging <br>to the genus Oncholaimus Dujardin, 1845 were discovered. =
+A <b>new species</b>, <br>Oncholaimus tripapillatus <b>sp</b>. <b>nov</b>. =
+and a newly recorded species, Oncholaimus=C2=A0=E2=80=A6</div><div style=3D=
+"width:auto"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tbody=
+><tr><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=
+=3D"https://scholar.google.ca/citations?hl=3Den&amp;update_op=3Demail_libra=
+ry_add&amp;info=3DNHVcZuOJ43cJ&amp;citsig=3DAMD79ooAAAAAY4kuc8koyeG7Vt4mx_J=
+x4lW2kjm6BINI" style=3D"text-decoration:none;display:inline-block;padding:4=
+px 8px 4px 0;mso-padding-alt:0;"><img alt=3D"Save" src=3D"https://scholar.g=
+oogle.ca/intl/en/scholar/images/1x/save-32.png" border=3D"0" height=3D"16" =
+width=3D"16" style=3D"vertical-align:top"></a></td><td style=3D"padding-rig=
+ht:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/=
+scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dtw&amp;url=3Dhttps://ww=
+w.mdpi.com/2077-1312/9/12/1334&amp;rt=3DOncholaimus+tripapillatus+sp.+nov.,=
++a+New+Free-Living+Marine+Nematode+of+the+Genus+Oncholaimus+Dujardin,+1845+=
+(Nematoda:+Enoplida:+Oncholaimidae)+from+the+Subtidal+Sediment+of+Dokdo+Isl=
+and,+East%C2%A0%E2%80%A6&amp;scisig=3DAAGBfm05MXK4Oul6DuVlN7ulyN7k9_HHxA" s=
+tyle=3D"text-decoration:none;display:inline-block;padding:4px 8px;mso-paddi=
+ng-alt:0;"><img alt=3D"Twitter" src=3D"https://scholar.google.ca/intl/en/sc=
+holar/images/1x/tw-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D=
+"vertical-align:top"></a></td><td style=3D"padding-right:4px;mso-padding-al=
+t:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den=
+&amp;oi=3Dscholaralrt&amp;ss=3Din&amp;url=3Dhttps://www.mdpi.com/2077-1312/=
+9/12/1334&amp;rt=3DOncholaimus+tripapillatus+sp.+nov.,+a+New+Free-Living+Ma=
+rine+Nematode+of+the+Genus+Oncholaimus+Dujardin,+1845+(Nematoda:+Enoplida:+=
+Oncholaimidae)+from+the+Subtidal+Sediment+of+Dokdo+Island,+East%C2%A0%E2%80=
+%A6&amp;scisig=3DAAGBfm05MXK4Oul6DuVlN7ulyN7k9_HHxA" style=3D"text-decorati=
+on:none;display:inline-block;padding:4px 8px;mso-padding-alt:0;"><img alt=
+=3D"LinkedIn" src=3D"https://scholar.google.ca/intl/en/scholar/images/1x/in=
+-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:to=
+p"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><=
+a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholara=
+lrt&amp;ss=3Dfb&amp;url=3Dhttps://www.mdpi.com/2077-1312/9/12/1334&amp;rt=
+=3DOncholaimus+tripapillatus+sp.+nov.,+a+New+Free-Living+Marine+Nematode+of=
++the+Genus+Oncholaimus+Dujardin,+1845+(Nematoda:+Enoplida:+Oncholaimidae)+f=
+rom+the+Subtidal+Sediment+of+Dokdo+Island,+East%C2%A0%E2%80%A6&amp;scisig=
+=3DAAGBfm05MXK4Oul6DuVlN7ulyN7k9_HHxA" style=3D"text-decoration:none;displa=
+y:inline-block;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"Facebook" sr=
+c=3D"https://scholar.google.ca/intl/en/scholar/images/1x/fb-32.png" border=
+=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td></t=
+r></tbody></table></div><br><h3 style=3D"font-weight:normal;margin:0;font-s=
+ize:17px;line-height:20px;"><a href=3D"https://scholar.google.ca/scholar_ur=
+l?url=3Dhttps://onlinelibrary.wiley.com/doi/abs/10.1111/njb.03405&amp;hl=3D=
+en&amp;sa=3DX&amp;d=3D10491443466738971187&amp;ei=3D8_qnYYPLGYGUy9YP_b6g0Ag=
+&amp;scisig=3DAAGBfm2NUnLqnGqTc_pJO-3tq3L-569V2A&amp;oi=3Dscholaralrt&amp;h=
+ist=3D4Z5WABAAAAAJ:9524340157753604263:AAGBfm2s1u6dXm_HqG8n9fyMDvYCTFQrnQ&a=
+mp;html=3D&amp;folt=3Dkw" class=3D"gse_alrt_title" style=3D"font-size:17px;=
+color:#1a0dab">A new Vincetoxicum (Apocynaceae) species from Eastern Anatol=
+ia and its relationship based on biosystematic properties</a></h3><div styl=
+e=3D"color:#006621">S G=C3=BCven, K Co=C5=9Fkun=C3=A7elebi, S Makbul=C2=A0-=
+ Nordic Journal of Botany, 2021</div><div class=3D"gse_alrt_sni">=E2=80=A6 =
+is provided and the seed micromorphology and palynological properties of th=
+e <br>
+<b>new</b> <b>species</b> is described for the first time. The =E2=80=A6 Th=
+e specific epithet refers to <br>
+Anadolu (Asia minor, Anatolia) where the only known localities of the <b>ne=
+w</b> <b>species</b>=C2=A0=E2=80=A6</div><div style=3D"width:auto"><table c=
+ellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tbody><tr><td style=3D"pad=
+ding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.go=
+ogle.ca/citations?hl=3Den&amp;update_op=3Demail_library_add&amp;info=3DM7IR=
+OD8YmZEJ&amp;citsig=3DAMD79ooAAAAAY4kuc40pSuhL76nw0_v9c5G8Z3edmhfX" style=
+=3D"text-decoration:none;display:inline-block;padding:4px 8px 4px 0;mso-pad=
+ding-alt:0;"><img alt=3D"Save" src=3D"https://scholar.google.ca/intl/en/sch=
+olar/images/1x/save-32.png" border=3D"0" height=3D"16" width=3D"16" style=
+=3D"vertical-align:top"></a></td><td style=3D"padding-right:4px;mso-padding=
+-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=
+=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dtw&amp;url=3Dhttps://onlinelibrary.wile=
+y.com/doi/abs/10.1111/njb.03405&amp;rt=3DA+new+Vincetoxicum+(Apocynaceae)+s=
+pecies+from+Eastern+Anatolia+and+its+relationship+based+on+biosystematic+pr=
+operties&amp;scisig=3DAAGBfm1UuIGZV6E-BOz01dDqPnfhFPstbw" style=3D"text-dec=
+oration:none;display:inline-block;padding:4px 8px;mso-padding-alt:0;"><img =
+alt=3D"Twitter" src=3D"https://scholar.google.ca/intl/en/scholar/images/1x/=
+tw-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:=
+top"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"=
+><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dschola=
+ralrt&amp;ss=3Din&amp;url=3Dhttps://onlinelibrary.wiley.com/doi/abs/10.1111=
+/njb.03405&amp;rt=3DA+new+Vincetoxicum+(Apocynaceae)+species+from+Eastern+A=
+natolia+and+its+relationship+based+on+biosystematic+properties&amp;scisig=
+=3DAAGBfm1UuIGZV6E-BOz01dDqPnfhFPstbw" style=3D"text-decoration:none;displa=
+y:inline-block;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"LinkedIn" sr=
+c=3D"https://scholar.google.ca/intl/en/scholar/images/1x/in-32.png" border=
+=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td><td=
+ style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https=
+://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dfb=
+&amp;url=3Dhttps://onlinelibrary.wiley.com/doi/abs/10.1111/njb.03405&amp;rt=
+=3DA+new+Vincetoxicum+(Apocynaceae)+species+from+Eastern+Anatolia+and+its+r=
+elationship+based+on+biosystematic+properties&amp;scisig=3DAAGBfm1UuIGZV6E-=
+BOz01dDqPnfhFPstbw" style=3D"text-decoration:none;display:inline-block;padd=
+ing:4px 8px;mso-padding-alt:0;"><img alt=3D"Facebook" src=3D"https://schola=
+r.google.ca/intl/en/scholar/images/1x/fb-32.png" border=3D"0" height=3D"16"=
+ width=3D"16" style=3D"vertical-align:top"></a></td></tr></tbody></table></=
+div><br><h3 style=3D"font-weight:normal;margin:0;font-size:17px;line-height=
+:20px;"><a href=3D"https://scholar.google.ca/scholar_url?url=3Dhttps://link=
+.springer.com/chapter/10.1007/978-981-16-3836-7_4&amp;hl=3Den&amp;sa=3DX&am=
+p;d=3D8347947660018508508&amp;ei=3D8_qnYYPLGYGUy9YP_b6g0Ag&amp;scisig=3DAAG=
+Bfm1lJU2B0JkkPkYLf3TWdHAQLLhwPA&amp;oi=3Dscholaralrt&amp;hist=3D4Z5WABAAAAA=
+J:9524340157753604263:AAGBfm2s1u6dXm_HqG8n9fyMDvYCTFQrnQ&amp;html=3D&amp;fo=
+lt=3Dkw" class=3D"gse_alrt_title" style=3D"font-size:17px;color:#1a0dab">Sy=
+stematics and Taxonomy</a></h3><div style=3D"color:#006621">Y Huang, Y Guo=
+=C2=A0- Free-living Marine Nematodes from the East China Sea, 2022</div><di=
+v class=3D"gse_alrt_sni">Abstract Identifying species was mainly on the bas=
+is of the pictorial key proposed by <br>
+Warwick et al.(1998) and a lot of literatures of the nematode taxonomists. =
+<br>
+Classification of free-living marine nematodes was made according to the sy=
+stematic=C2=A0=E2=80=A6</div><div style=3D"width:auto"><table cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0"><tbody><tr><td style=3D"padding-right=
+:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/ci=
+tations?hl=3Den&amp;update_op=3Demail_library_add&amp;info=3D3OL03ire2XMJ&a=
+mp;citsig=3DAMD79ooAAAAAY4kuc5_OnkyOfJMrH7kmpILWkdGX2apR" style=3D"text-dec=
+oration:none;display:inline-block;padding:4px 8px 4px 0;mso-padding-alt:0;"=
+><img alt=3D"Save" src=3D"https://scholar.google.ca/intl/en/scholar/images/=
+1x/save-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-a=
+lign:top"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px =
+0 0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Ds=
+cholaralrt&amp;ss=3Dtw&amp;url=3Dhttps://link.springer.com/chapter/10.1007/=
+978-981-16-3836-7_4&amp;rt=3DSystematics+and+Taxonomy&amp;scisig=3DAAGBfm3F=
+ztjY307oA3m61qgF6Qdx7ImyFw" style=3D"text-decoration:none;display:inline-bl=
+ock;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"Twitter" src=3D"https:/=
+/scholar.google.ca/intl/en/scholar/images/1x/tw-32.png" border=3D"0" height=
+=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td><td style=3D"pad=
+ding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.go=
+ogle.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Din&amp;url=3Dht=
+tps://link.springer.com/chapter/10.1007/978-981-16-3836-7_4&amp;rt=3DSystem=
+atics+and+Taxonomy&amp;scisig=3DAAGBfm3FztjY307oA3m61qgF6Qdx7ImyFw" style=
+=3D"text-decoration:none;display:inline-block;padding:4px 8px;mso-padding-a=
+lt:0;"><img alt=3D"LinkedIn" src=3D"https://scholar.google.ca/intl/en/schol=
+ar/images/1x/in-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"ve=
+rtical-align:top"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4=
+px 16px 0 0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&am=
+p;oi=3Dscholaralrt&amp;ss=3Dfb&amp;url=3Dhttps://link.springer.com/chapter/=
+10.1007/978-981-16-3836-7_4&amp;rt=3DSystematics+and+Taxonomy&amp;scisig=3D=
+AAGBfm3FztjY307oA3m61qgF6Qdx7ImyFw" style=3D"text-decoration:none;display:i=
+nline-block;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"Facebook" src=
+=3D"https://scholar.google.ca/intl/en/scholar/images/1x/fb-32.png" border=
+=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td></t=
+r></tbody></table></div><br><h3 style=3D"font-weight:normal;margin:0;font-s=
+ize:17px;line-height:20px;"><a href=3D"https://scholar.google.ca/scholar_ur=
+l?url=3Dhttps://www.sciencedirect.com/science/article/pii/S0959438821001306=
+&amp;hl=3Den&amp;sa=3DX&amp;d=3D10502838845732324252&amp;ei=3D8_qnYYPLGYGUy=
+9YP_b6g0Ag&amp;scisig=3DAAGBfm2z0oGVU1tT0t2MspNL0tewmtby_w&amp;oi=3Dscholar=
+alrt&amp;hist=3D4Z5WABAAAAAJ:9524340157753604263:AAGBfm2s1u6dXm_HqG8n9fyMDv=
+YCTFQrnQ&amp;html=3D&amp;folt=3Dkw" class=3D"gse_alrt_title" style=3D"font-=
+size:17px;color:#1a0dab">Brains and speciation: Control of behavior</a></h3=
+><div style=3D"color:#006621">AJ Barker=C2=A0- Current Opinion in Neurobiol=
+ogy, 2021</div><div class=3D"gse_alrt_sni">=E2=80=A6 These global resources=
+ will not only further expand our knowledge of genetic <br>
+changes contributing to neural circuit diversity but be essential for adapt=
+ing genetic <br>
+tools for circuit mapping and manipulation to <b>new</b> <b>species</b>. In=
+ addition to whole=C2=A0=E2=80=A6</div><div style=3D"width:auto"><table cel=
+lpadding=3D"0" cellspacing=3D"0" border=3D"0"><tbody><tr><td style=3D"paddi=
+ng-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.goog=
+le.ca/citations?hl=3Den&amp;update_op=3Demail_library_add&amp;info=3DnIMMpU=
+iUwZEJ&amp;citsig=3DAMD79ooAAAAAY4kucxgKwrWmgkCQJjtQaHDGn7eEKSzi" style=3D"=
+text-decoration:none;display:inline-block;padding:4px 8px 4px 0;mso-padding=
+-alt:0;"><img alt=3D"Save" src=3D"https://scholar.google.ca/intl/en/scholar=
+/images/1x/save-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"ve=
+rtical-align:top"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4=
+px 16px 0 0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&am=
+p;oi=3Dscholaralrt&amp;ss=3Dtw&amp;url=3Dhttps://www.sciencedirect.com/scie=
+nce/article/pii/S0959438821001306&amp;rt=3DBrains+and+speciation:+Control+o=
+f+behavior&amp;scisig=3DAAGBfm2CDXhhIeHz1Q2XKoUjaKQAcvJwmg" style=3D"text-d=
+ecoration:none;display:inline-block;padding:4px 8px;mso-padding-alt:0;"><im=
+g alt=3D"Twitter" src=3D"https://scholar.google.ca/intl/en/scholar/images/1=
+x/tw-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-alig=
+n:top"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0=
+;"><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscho=
+laralrt&amp;ss=3Din&amp;url=3Dhttps://www.sciencedirect.com/science/article=
+/pii/S0959438821001306&amp;rt=3DBrains+and+speciation:+Control+of+behavior&=
+amp;scisig=3DAAGBfm2CDXhhIeHz1Q2XKoUjaKQAcvJwmg" style=3D"text-decoration:n=
+one;display:inline-block;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"Li=
+nkedIn" src=3D"https://scholar.google.ca/intl/en/scholar/images/1x/in-32.pn=
+g" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:top"></a=
+></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=
+=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&am=
+p;ss=3Dfb&amp;url=3Dhttps://www.sciencedirect.com/science/article/pii/S0959=
+438821001306&amp;rt=3DBrains+and+speciation:+Control+of+behavior&amp;scisig=
+=3DAAGBfm2CDXhhIeHz1Q2XKoUjaKQAcvJwmg" style=3D"text-decoration:none;displa=
+y:inline-block;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"Facebook" sr=
+c=3D"https://scholar.google.ca/intl/en/scholar/images/1x/fb-32.png" border=
+=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td></t=
+r></tbody></table></div><br><h3 style=3D"font-weight:normal;margin:0;font-s=
+ize:17px;line-height:20px;"><a href=3D"https://scholar.google.ca/scholar_ur=
+l?url=3Dhttps://elibrary.ru/item.asp%3Fid%3D46713270&amp;hl=3Den&amp;sa=3DX=
+&amp;d=3D6574932227739684962&amp;ei=3D8_qnYYPLGYGUy9YP_b6g0Ag&amp;scisig=3D=
+AAGBfm20OEPCgT48blpRJxPdjArPRyeXCg&amp;oi=3Dscholaralrt&amp;hist=3D4Z5WABAA=
+AAAJ:9524340157753604263:AAGBfm2s1u6dXm_HqG8n9fyMDvYCTFQrnQ&amp;html=3D&amp=
+;folt=3Dkw" class=3D"gse_alrt_title" style=3D"font-size:17px;color:#1a0dab"=
+>MYCOLOGY AND PHYTOPATHOLOGY</a></h3><div style=3D"color:#006621">TS BULGAK=
+OV, AG SHIRYAEV=C2=A0- MYCOLOGY AND PHYTOPATHOLOGY=C2=A0=E2=80=A6, 2021</di=
+v><div class=3D"gse_alrt_sni">=E2=80=A6 According the research results, 63 =
+<b>new</b> <b>species</b> of plant pathogenic microfungi <br>
+developing on leaves of vascular plants were recorded in Ekaterinburg city =
+and its <br>
+suburbs. Two species, Alternaria obtusa and Ramularia bergeniae , were firs=
+tly=C2=A0=E2=80=A6</div><div style=3D"width:auto"><table cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0"><tbody><tr><td style=3D"padding-right:4px;ms=
+o-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/citations=
+?hl=3Den&amp;update_op=3Demail_library_add&amp;info=3DYhCxkAbaPlsJ&amp;cits=
+ig=3DAMD79ooAAAAAY4kucxus4XF9P0L5rf3KZc_F--Tke_9x" style=3D"text-decoration=
+:none;display:inline-block;padding:4px 8px 4px 0;mso-padding-alt:0;"><img a=
+lt=3D"Save" src=3D"https://scholar.google.ca/intl/en/scholar/images/1x/save=
+-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:to=
+p"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><=
+a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholara=
+lrt&amp;ss=3Dtw&amp;url=3Dhttps://elibrary.ru/item.asp%3Fid%3D46713270&amp;=
+rt=3DMYCOLOGY+AND+PHYTOPATHOLOGY&amp;scisig=3DAAGBfm36AhldLATPUY4WKUXd5tj0-=
+KZ0EQ" style=3D"text-decoration:none;display:inline-block;padding:4px 8px;m=
+so-padding-alt:0;"><img alt=3D"Twitter" src=3D"https://scholar.google.ca/in=
+tl/en/scholar/images/1x/tw-32.png" border=3D"0" height=3D"16" width=3D"16" =
+style=3D"vertical-align:top"></a></td><td style=3D"padding-right:4px;mso-pa=
+dding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/scholar_share=
+?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Din&amp;url=3Dhttps://elibrary.ru/ite=
+m.asp%3Fid%3D46713270&amp;rt=3DMYCOLOGY+AND+PHYTOPATHOLOGY&amp;scisig=3DAAG=
+Bfm36AhldLATPUY4WKUXd5tj0-KZ0EQ" style=3D"text-decoration:none;display:inli=
+ne-block;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"LinkedIn" src=3D"h=
+ttps://scholar.google.ca/intl/en/scholar/images/1x/in-32.png" border=3D"0" =
+height=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td><td style=
+=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://sch=
+olar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dfb&amp;u=
+rl=3Dhttps://elibrary.ru/item.asp%3Fid%3D46713270&amp;rt=3DMYCOLOGY+AND+PHY=
+TOPATHOLOGY&amp;scisig=3DAAGBfm36AhldLATPUY4WKUXd5tj0-KZ0EQ" style=3D"text-=
+decoration:none;display:inline-block;padding:4px 8px;mso-padding-alt:0;"><i=
+mg alt=3D"Facebook" src=3D"https://scholar.google.ca/intl/en/scholar/images=
+/1x/fb-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-al=
+ign:top"></a></td></tr></tbody></table></div><br><h3 style=3D"font-weight:n=
+ormal;margin:0;font-size:17px;line-height:20px;"><a href=3D"https://scholar=
+.google.ca/scholar_url?url=3Dhttps://onlinelibrary.wiley.com/doi/abs/10.111=
+1/jzs.12546&amp;hl=3Den&amp;sa=3DX&amp;d=3D4107612188130360754&amp;ei=3D8_q=
+nYYPLGYGUy9YP_b6g0Ag&amp;scisig=3DAAGBfm2eScUNLUNB7290NrRAg_2tSH_NXw&amp;oi=
+=3Dscholaralrt&amp;hist=3D4Z5WABAAAAAJ:9524340157753604263:AAGBfm2s1u6dXm_H=
+qG8n9fyMDvYCTFQrnQ&amp;html=3D&amp;folt=3Dkw" class=3D"gse_alrt_title" styl=
+e=3D"font-size:17px;color:#1a0dab">Understanding the real magnitude of the =
+arachnid order Ricinulei through deep Sanger sequencing across its distribu=
+tion range and phylogenomics, with the=C2=A0=E2=80=A6</a></h3><div style=3D=
+"color:#006621">LR Benavides, SR Daniels, G Giribet=C2=A0- Journal of Zoolo=
+gical Systematics and Evolutionary=C2=A0=E2=80=A6</div><div class=3D"gse_al=
+rt_sni">=E2=80=A6 Ricinoides is further divided into two or three deep clad=
+es corresponding to <br>
+different ancestral forest refugia, and the sampled Cryptocellus segregate =
+into a <br>
+Mesoamerican and a South American clade, but a <b>new</b> <b>species</b> fr=
+om Tobago is the=C2=A0=E2=80=A6</div><div style=3D"width:auto"><table cellp=
+adding=3D"0" cellspacing=3D"0" border=3D"0"><tbody><tr><td style=3D"padding=
+-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google=
+.ca/citations?hl=3Den&amp;update_op=3Demail_library_add&amp;info=3Dsj2TpIUr=
+ATkJ&amp;citsig=3DAMD79ooAAAAAY4kuc35YzcLaQhL0zKzUM6Faox_EmSJ9" style=3D"te=
+xt-decoration:none;display:inline-block;padding:4px 8px 4px 0;mso-padding-a=
+lt:0;"><img alt=3D"Save" src=3D"https://scholar.google.ca/intl/en/scholar/i=
+mages/1x/save-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vert=
+ical-align:top"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px=
+ 16px 0 0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;=
+oi=3Dscholaralrt&amp;ss=3Dtw&amp;url=3Dhttps://onlinelibrary.wiley.com/doi/=
+abs/10.1111/jzs.12546&amp;rt=3DUnderstanding+the+real+magnitude+of+the+arac=
+hnid+order+Ricinulei+through+deep+Sanger+sequencing+across+its+distribution=
++range+and+phylogenomics,+with+the+formalization+of+the+first+species+from%=
+C2%A0%E2%80%A6&amp;scisig=3DAAGBfm1Rgu4-41RxlRMwHIPGMzto_OkszA" style=3D"te=
+xt-decoration:none;display:inline-block;padding:4px 8px;mso-padding-alt:0;"=
+><img alt=3D"Twitter" src=3D"https://scholar.google.ca/intl/en/scholar/imag=
+es/1x/tw-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-=
+align:top"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px=
+ 0 0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3D=
+scholaralrt&amp;ss=3Din&amp;url=3Dhttps://onlinelibrary.wiley.com/doi/abs/1=
+0.1111/jzs.12546&amp;rt=3DUnderstanding+the+real+magnitude+of+the+arachnid+=
+order+Ricinulei+through+deep+Sanger+sequencing+across+its+distribution+rang=
+e+and+phylogenomics,+with+the+formalization+of+the+first+species+from%C2%A0=
+%E2%80%A6&amp;scisig=3DAAGBfm1Rgu4-41RxlRMwHIPGMzto_OkszA" style=3D"text-de=
+coration:none;display:inline-block;padding:4px 8px;mso-padding-alt:0;"><img=
+ alt=3D"LinkedIn" src=3D"https://scholar.google.ca/intl/en/scholar/images/1=
+x/in-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-alig=
+n:top"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0=
+;"><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscho=
+laralrt&amp;ss=3Dfb&amp;url=3Dhttps://onlinelibrary.wiley.com/doi/abs/10.11=
+11/jzs.12546&amp;rt=3DUnderstanding+the+real+magnitude+of+the+arachnid+orde=
+r+Ricinulei+through+deep+Sanger+sequencing+across+its+distribution+range+an=
+d+phylogenomics,+with+the+formalization+of+the+first+species+from%C2%A0%E2%=
+80%A6&amp;scisig=3DAAGBfm1Rgu4-41RxlRMwHIPGMzto_OkszA" style=3D"text-decora=
+tion:none;display:inline-block;padding:4px 8px;mso-padding-alt:0;"><img alt=
+=3D"Facebook" src=3D"https://scholar.google.ca/intl/en/scholar/images/1x/fb=
+-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:to=
+p"></a></td></tr></tbody></table></div><br><h3 style=3D"font-weight:normal;=
+margin:0;font-size:17px;line-height:20px;"><span style=3D"font-size:11px;fo=
+nt-weight:bold;color:#1a0dab;vertical-align:2px">[HTML]</span> <a href=3D"h=
+ttps://scholar.google.ca/scholar_url?url=3Dhttps://www.sciencedirect.com/sc=
+ience/article/pii/S2352484721006570&amp;hl=3Den&amp;sa=3DX&amp;d=3D26639942=
+34050602164&amp;ei=3D8_qnYYPLGYGUy9YP_b6g0Ag&amp;scisig=3DAAGBfm3VPXyCZN008=
+0f1Lvst9kFoL1RnYA&amp;oi=3Dscholaralrt&amp;hist=3D4Z5WABAAAAAJ:952434015775=
+3604263:AAGBfm2s1u6dXm_HqG8n9fyMDvYCTFQrnQ&amp;html=3D&amp;folt=3Dkw" class=
+=3D"gse_alrt_title" style=3D"font-size:17px;color:#1a0dab">Temporal feature=
+ adaptive non-intrusive load monitoring via unsupervised probability densit=
+y evolution</a></h3><div style=3D"color:#006621">Y Liu, TE Song, X Sun, S G=
+ao, X Huang=C2=A0- Energy Reports, 2021</div><div class=3D"gse_alrt_sni">Ab=
+stract Toward the smart power and energy consumption, non-intrusive load <b=
+r>
+monitoring is emerging as the promising technical assistance of intelligent=
+ energy <br>
+user. The load behaviors of individual power users are distinct, that is po=
+tential to=C2=A0=E2=80=A6</div><div style=3D"width:auto"><table cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0"><tbody><tr><td style=3D"padding-right=
+:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/ci=
+tations?hl=3Den&amp;update_op=3Demail_library_add&amp;info=3DtGRGNKRo-CQJ&a=
+mp;citsig=3DAMD79ooAAAAAY4kuc-BnrKIyEl9qL7sfSifIsllEBZxe" style=3D"text-dec=
+oration:none;display:inline-block;padding:4px 8px 4px 0;mso-padding-alt:0;"=
+><img alt=3D"Save" src=3D"https://scholar.google.ca/intl/en/scholar/images/=
+1x/save-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-a=
+lign:top"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px =
+0 0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Ds=
+cholaralrt&amp;ss=3Dtw&amp;url=3Dhttps://www.sciencedirect.com/science/arti=
+cle/pii/S2352484721006570&amp;rt=3DTemporal+feature+adaptive+non-intrusive+=
+load+monitoring+via+unsupervised+probability+density+evolution&amp;scisig=
+=3DAAGBfm1fe44VMXhvP9SPvuwc8VN6FVWiBQ" style=3D"text-decoration:none;displa=
+y:inline-block;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"Twitter" src=
+=3D"https://scholar.google.ca/intl/en/scholar/images/1x/tw-32.png" border=
+=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td><td=
+ style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https=
+://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Din=
+&amp;url=3Dhttps://www.sciencedirect.com/science/article/pii/S2352484721006=
+570&amp;rt=3DTemporal+feature+adaptive+non-intrusive+load+monitoring+via+un=
+supervised+probability+density+evolution&amp;scisig=3DAAGBfm1fe44VMXhvP9SPv=
+uwc8VN6FVWiBQ" style=3D"text-decoration:none;display:inline-block;padding:4=
+px 8px;mso-padding-alt:0;"><img alt=3D"LinkedIn" src=3D"https://scholar.goo=
+gle.ca/intl/en/scholar/images/1x/in-32.png" border=3D"0" height=3D"16" widt=
+h=3D"16" style=3D"vertical-align:top"></a></td><td style=3D"padding-right:4=
+px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/scho=
+lar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dfb&amp;url=3Dhttps://www.sc=
+iencedirect.com/science/article/pii/S2352484721006570&amp;rt=3DTemporal+fea=
+ture+adaptive+non-intrusive+load+monitoring+via+unsupervised+probability+de=
+nsity+evolution&amp;scisig=3DAAGBfm1fe44VMXhvP9SPvuwc8VN6FVWiBQ" style=3D"t=
+ext-decoration:none;display:inline-block;padding:4px 8px;mso-padding-alt:0;=
+"><img alt=3D"Facebook" src=3D"https://scholar.google.ca/intl/en/scholar/im=
+ages/1x/fb-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertica=
+l-align:top"></a></td></tr></tbody></table></div><br><h3 style=3D"font-weig=
+ht:normal;margin:0;font-size:17px;line-height:20px;"><a href=3D"https://sch=
+olar.google.ca/scholar_url?url=3Dhttps://link.springer.com/article/10.1134/=
+S0003683821060089&amp;hl=3Den&amp;sa=3DX&amp;d=3D3391923260337418485&amp;ei=
+=3D8_qnYYPLGYGUy9YP_b6g0Ag&amp;scisig=3DAAGBfm1RKkRoSVPOXjipEOQR3fBTogvJxA&=
+amp;oi=3Dscholaralrt&amp;hist=3D4Z5WABAAAAAJ:9524340157753604263:AAGBfm2s1u=
+6dXm_HqG8n9fyMDvYCTFQrnQ&amp;html=3D&amp;folt=3Dkw" class=3D"gse_alrt_title=
+" style=3D"font-size:17px;color:#1a0dab">Extracellular, Highly Stable, Alka=
+line Peptidases of the Alkalophilic Bacteria Alkalicaulis satelles G-192t a=
+nd Aliidiomarina sp. P-156 and Their Possible Use in the=C2=A0=E2=80=A6</a>=
+</h3><div style=3D"color:#006621">EV Lavrentyeva, EB Erdyneeva, YE Dunaevsk=
+ii=E2=80=A6=C2=A0- Applied Biochemistry and=C2=A0=E2=80=A6, 2021</div><div =
+class=3D"gse_alrt_sni">=E2=80=A6 However, due to the continuous development=
+ of technologies and the tightening <br>
+of environmental standards, the search for <b>new</b> <b>species</b> of alk=
+alophilic bacteria from <br>
+natural habitats that are capable of producing stable alkaline enzymes rema=
+ins an=C2=A0=E2=80=A6</div><div style=3D"width:auto"><table cellpadding=3D"=
+0" cellspacing=3D"0" border=3D"0"><tbody><tr><td style=3D"padding-right:4px=
+;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/citati=
+ons?hl=3Den&amp;update_op=3Demail_library_add&amp;info=3D9fDL7TuIEi8J&amp;c=
+itsig=3DAMD79ooAAAAAY4kucy7j5HFHpcgNi7D5RmYLFFOJcz0E" style=3D"text-decorat=
+ion:none;display:inline-block;padding:4px 8px 4px 0;mso-padding-alt:0;"><im=
+g alt=3D"Save" src=3D"https://scholar.google.ca/intl/en/scholar/images/1x/s=
+ave-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align=
+:top"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;=
+"><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dschol=
+aralrt&amp;ss=3Dtw&amp;url=3Dhttps://link.springer.com/article/10.1134/S000=
+3683821060089&amp;rt=3DExtracellular,+Highly+Stable,+Alkaline+Peptidases+of=
++the+Alkalophilic+Bacteria+Alkalicaulis+satelles+G-192t+and+Aliidiomarina+s=
+p.+P-156+and+Their+Possible+Use+in+the+Composition+of+Detergents&amp;scisig=
+=3DAAGBfm2JpptbHCobYg1p62EgarX1s2U1hQ" style=3D"text-decoration:none;displa=
+y:inline-block;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"Twitter" src=
+=3D"https://scholar.google.ca/intl/en/scholar/images/1x/tw-32.png" border=
+=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td><td=
+ style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https=
+://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Din=
+&amp;url=3Dhttps://link.springer.com/article/10.1134/S0003683821060089&amp;=
+rt=3DExtracellular,+Highly+Stable,+Alkaline+Peptidases+of+the+Alkalophilic+=
+Bacteria+Alkalicaulis+satelles+G-192t+and+Aliidiomarina+sp.+P-156+and+Their=
++Possible+Use+in+the+Composition+of+Detergents&amp;scisig=3DAAGBfm2JpptbHCo=
+bYg1p62EgarX1s2U1hQ" style=3D"text-decoration:none;display:inline-block;pad=
+ding:4px 8px;mso-padding-alt:0;"><img alt=3D"LinkedIn" src=3D"https://schol=
+ar.google.ca/intl/en/scholar/images/1x/in-32.png" border=3D"0" height=3D"16=
+" width=3D"16" style=3D"vertical-align:top"></a></td><td style=3D"padding-r=
+ight:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.c=
+a/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dfb&amp;url=3Dhttps://=
+link.springer.com/article/10.1134/S0003683821060089&amp;rt=3DExtracellular,=
++Highly+Stable,+Alkaline+Peptidases+of+the+Alkalophilic+Bacteria+Alkalicaul=
+is+satelles+G-192t+and+Aliidiomarina+sp.+P-156+and+Their+Possible+Use+in+th=
+e+Composition+of+Detergents&amp;scisig=3DAAGBfm2JpptbHCobYg1p62EgarX1s2U1hQ=
+" style=3D"text-decoration:none;display:inline-block;padding:4px 8px;mso-pa=
+dding-alt:0;"><img alt=3D"Facebook" src=3D"https://scholar.google.ca/intl/e=
+n/scholar/images/1x/fb-32.png" border=3D"0" height=3D"16" width=3D"16" styl=
+e=3D"vertical-align:top"></a></td></tr></tbody></table></div><br><h3 style=
+=3D"font-weight:normal;margin:0;font-size:17px;line-height:20px;"><a href=
+=3D"https://scholar.google.ca/scholar_url?url=3Dhttps://www.sciencedirect.c=
+om/science/article/pii/S2468584421000829&amp;hl=3Den&amp;sa=3DX&amp;d=3D124=
+7024186553510071&amp;ei=3D8_qnYYPLGYGUy9YP_b6g0Ag&amp;scisig=3DAAGBfm01t9Bc=
+wicXnVqSlP_1UHlADhP1wQ&amp;oi=3Dscholaralrt&amp;hist=3D4Z5WABAAAAAJ:9524340=
+157753604263:AAGBfm2s1u6dXm_HqG8n9fyMDvYCTFQrnQ&amp;html=3D&amp;folt=3Dkw" =
+class=3D"gse_alrt_title" style=3D"font-size:17px;color:#1a0dab">Live animal=
+ markets: identifying the origins of emerging infectious diseases</a></h3><=
+div style=3D"color:#006621">J Galindo-Gonz=C3=A1lez=C2=A0- Current Opinion =
+in Environmental Science &amp; Health, 2021</div><div class=3D"gse_alrt_sni=
+">=E2=80=A6 There are 219 species of viruses recognized by the ICTV that in=
+fect humans, and <br>
+<b>new</b> <b>species</b> of human viruses continue to be identified at a r=
+ate of three or four per <br>
+year (14). Diseases caused by different microorganisms have been present in=
+ the=C2=A0=E2=80=A6</div><div style=3D"width:auto"><table cellpadding=3D"0"=
+ cellspacing=3D"0" border=3D"0"><tbody><tr><td style=3D"padding-right:4px;m=
+so-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/citation=
+s?hl=3Den&amp;update_op=3Demail_library_add&amp;info=3Dt6jXAeRRThEJ&amp;cit=
+sig=3DAMD79ooAAAAAY4kuc-urzyO-HzKjLkGJsxAQLwme9O8Z" style=3D"text-decoratio=
+n:none;display:inline-block;padding:4px 8px 4px 0;mso-padding-alt:0;"><img =
+alt=3D"Save" src=3D"https://scholar.google.ca/intl/en/scholar/images/1x/sav=
+e-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:t=
+op"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;">=
+<a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholar=
+alrt&amp;ss=3Dtw&amp;url=3Dhttps://www.sciencedirect.com/science/article/pi=
+i/S2468584421000829&amp;rt=3DLive+animal+markets:+identifying+the+origins+o=
+f+emerging+infectious+diseases&amp;scisig=3DAAGBfm3-XcBFtV_jx9CqEdxV2mzk_IV=
+lKQ" style=3D"text-decoration:none;display:inline-block;padding:4px 8px;mso=
+-padding-alt:0;"><img alt=3D"Twitter" src=3D"https://scholar.google.ca/intl=
+/en/scholar/images/1x/tw-32.png" border=3D"0" height=3D"16" width=3D"16" st=
+yle=3D"vertical-align:top"></a></td><td style=3D"padding-right:4px;mso-padd=
+ing-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/scholar_share?h=
+l=3Den&amp;oi=3Dscholaralrt&amp;ss=3Din&amp;url=3Dhttps://www.sciencedirect=
+.com/science/article/pii/S2468584421000829&amp;rt=3DLive+animal+markets:+id=
+entifying+the+origins+of+emerging+infectious+diseases&amp;scisig=3DAAGBfm3-=
+XcBFtV_jx9CqEdxV2mzk_IVlKQ" style=3D"text-decoration:none;display:inline-bl=
+ock;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"LinkedIn" src=3D"https:=
+//scholar.google.ca/intl/en/scholar/images/1x/in-32.png" border=3D"0" heigh=
+t=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td><td style=3D"pa=
+dding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.g=
+oogle.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dfb&amp;url=3Dh=
+ttps://www.sciencedirect.com/science/article/pii/S2468584421000829&amp;rt=
+=3DLive+animal+markets:+identifying+the+origins+of+emerging+infectious+dise=
+ases&amp;scisig=3DAAGBfm3-XcBFtV_jx9CqEdxV2mzk_IVlKQ" style=3D"text-decorat=
+ion:none;display:inline-block;padding:4px 8px;mso-padding-alt:0;"><img alt=
+=3D"Facebook" src=3D"https://scholar.google.ca/intl/en/scholar/images/1x/fb=
+-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:to=
+p"></a></td></tr></tbody></table></div><br><h3 style=3D"font-weight:normal;=
+margin:0;font-size:17px;line-height:20px;"><span style=3D"font-size:11px;fo=
+nt-weight:bold;color:#1a0dab;vertical-align:2px">[PDF]</span> <a href=3D"ht=
+tps://scholar.google.ca/scholar_url?url=3Dhttps://media.australian.museum/m=
+edia/dd/documents/1776_complete.36a6ad6.pdf&amp;hl=3Den&amp;sa=3DX&amp;d=3D=
+15033271594023751908&amp;ei=3D8_qnYYPLGYGUy9YP_b6g0Ag&amp;scisig=3DAAGBfm27=
+Vmds84iVcrIAGOTVKOmw91-hIQ&amp;oi=3Dscholaralrt&amp;hist=3D4Z5WABAAAAAJ:952=
+4340157753604263:AAGBfm2s1u6dXm_HqG8n9fyMDvYCTFQrnQ&amp;html=3D&amp;folt=3D=
+kw" class=3D"gse_alrt_title" style=3D"font-size:17px;color:#1a0dab">Descrip=
+tion and figures of new lectotype and paralectotype material of Recent brac=
+hiopod Thecidellina maxilla (Hedley, 1899)</a></h3><div style=3D"color:#006=
+621">JH Robinson=C2=A0- Records of the Australian Museum, 2021</div><div cl=
+ass=3D"gse_alrt_sni">=E2=80=A6 However, the holotype of a <b>new</b> <b>spe=
+cies</b> can only be fixed in the original <br>
+publication by the original author (ICZN 73.1.3). Hedley (1899) provided a =
+<br>
+description of the morphological range of multiple specimens of his <b>new<=
+/b> <b>species</b>, but=C2=A0=E2=80=A6</div><div style=3D"width:auto"><tabl=
+e cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tbody><tr><td style=3D"=
+padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar=
+.google.ca/citations?hl=3Den&amp;update_op=3Demail_library_add&amp;info=3D5=
+JDBdd3ooNAJ&amp;citsig=3DAMD79ooAAAAAY4kuczw_1swNR6xg1j-5Ilb4uNYVu7Oo" styl=
+e=3D"text-decoration:none;display:inline-block;padding:4px 8px 4px 0;mso-pa=
+dding-alt:0;"><img alt=3D"Save" src=3D"https://scholar.google.ca/intl/en/sc=
+holar/images/1x/save-32.png" border=3D"0" height=3D"16" width=3D"16" style=
+=3D"vertical-align:top"></a></td><td style=3D"padding-right:4px;mso-padding=
+-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=
+=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dtw&amp;url=3Dhttps://media.australian.m=
+useum/media/dd/documents/1776_complete.36a6ad6.pdf&amp;rt=3DDescription+and=
++figures+of+new+lectotype+and+paralectotype+material+of+Recent+brachiopod+T=
+hecidellina+maxilla+(Hedley,+1899)&amp;scisig=3DAAGBfm0iuFVtujETMMmc0pVvkBg=
+3AS3Sgg" style=3D"text-decoration:none;display:inline-block;padding:4px 8px=
+;mso-padding-alt:0;"><img alt=3D"Twitter" src=3D"https://scholar.google.ca/=
+intl/en/scholar/images/1x/tw-32.png" border=3D"0" height=3D"16" width=3D"16=
+" style=3D"vertical-align:top"></a></td><td style=3D"padding-right:4px;mso-=
+padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/scholar_sha=
+re?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Din&amp;url=3Dhttps://media.austral=
+ian.museum/media/dd/documents/1776_complete.36a6ad6.pdf&amp;rt=3DDescriptio=
+n+and+figures+of+new+lectotype+and+paralectotype+material+of+Recent+brachio=
+pod+Thecidellina+maxilla+(Hedley,+1899)&amp;scisig=3DAAGBfm0iuFVtujETMMmc0p=
+VvkBg3AS3Sgg" style=3D"text-decoration:none;display:inline-block;padding:4p=
+x 8px;mso-padding-alt:0;"><img alt=3D"LinkedIn" src=3D"https://scholar.goog=
+le.ca/intl/en/scholar/images/1x/in-32.png" border=3D"0" height=3D"16" width=
+=3D"16" style=3D"vertical-align:top"></a></td><td style=3D"padding-right:4p=
+x;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/schol=
+ar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dfb&amp;url=3Dhttps://media.a=
+ustralian.museum/media/dd/documents/1776_complete.36a6ad6.pdf&amp;rt=3DDesc=
+ription+and+figures+of+new+lectotype+and+paralectotype+material+of+Recent+b=
+rachiopod+Thecidellina+maxilla+(Hedley,+1899)&amp;scisig=3DAAGBfm0iuFVtujET=
+MMmc0pVvkBg3AS3Sgg" style=3D"text-decoration:none;display:inline-block;padd=
+ing:4px 8px;mso-padding-alt:0;"><img alt=3D"Facebook" src=3D"https://schola=
+r.google.ca/intl/en/scholar/images/1x/fb-32.png" border=3D"0" height=3D"16"=
+ width=3D"16" style=3D"vertical-align:top"></a></td></tr></tbody></table></=
+div><br><h3 style=3D"font-weight:normal;margin:0;font-size:17px;line-height=
+:20px;"><span style=3D"font-size:11px;font-weight:bold;color:#1a0dab;vertic=
+al-align:2px">[HTML]</span> <a href=3D"https://scholar.google.ca/scholar_ur=
+l?url=3Dhttps://www.sciencedirect.com/science/article/pii/S2666517421000638=
+&amp;hl=3Den&amp;sa=3DX&amp;d=3D6869368603337040422&amp;ei=3D8_qnYYPLGYGUy9=
+YP_b6g0Ag&amp;scisig=3DAAGBfm0dijVMPLK9a6MqvO4Hq93mke_rig&amp;oi=3Dscholara=
+lrt&amp;hist=3D4Z5WABAAAAAJ:9524340157753604263:AAGBfm2s1u6dXm_HqG8n9fyMDvY=
+CTFQrnQ&amp;html=3D&amp;folt=3Dkw" class=3D"gse_alrt_title" style=3D"font-s=
+ize:17px;color:#1a0dab">Genomic analysis of Elizabethkingia species from aq=
+uatic environments: evidence for potential clinical transmission</a></h3><d=
+iv style=3D"color:#006621">S Hem, VM Jarocki, DJ Baker, IG Charles, B Drigo=
+=E2=80=A6=C2=A0- Current Research in=C2=A0=E2=80=A6, 2021</div><div class=
+=3D"gse_alrt_sni">=E2=80=A6 In addition, three <b>new</b> <b>species</b> we=
+re redefined in 2017 =E2=80=93 Elizabethkingia <br>
+bruuniana, Elizabethkingia ursingii and Elizabethkingia occulta - the forme=
+r <br>
+previously been referred to as Elizabethkingia genomospecies 3 and the latt=
+er two=C2=A0=E2=80=A6</div><div style=3D"width:auto"><table cellpadding=3D"=
+0" cellspacing=3D"0" border=3D"0"><tbody><tr><td style=3D"padding-right:4px=
+;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/citati=
+ons?hl=3Den&amp;update_op=3Demail_library_add&amp;info=3DJiIgaVnmVF8J&amp;c=
+itsig=3DAMD79ooAAAAAY4kucz2Vo3yT3XZttxM7zmgNfOk20BaL" style=3D"text-decorat=
+ion:none;display:inline-block;padding:4px 8px 4px 0;mso-padding-alt:0;"><im=
+g alt=3D"Save" src=3D"https://scholar.google.ca/intl/en/scholar/images/1x/s=
+ave-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align=
+:top"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;=
+"><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dschol=
+aralrt&amp;ss=3Dtw&amp;url=3Dhttps://www.sciencedirect.com/science/article/=
+pii/S2666517421000638&amp;rt=3DGenomic+analysis+of+Elizabethkingia+species+=
+from+aquatic+environments:+evidence+for+potential+clinical+transmission&amp=
+;scisig=3DAAGBfm2S0OgsQaCuXgjl3lpsQIMX3yarFA" style=3D"text-decoration:none=
+;display:inline-block;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"Twitt=
+er" src=3D"https://scholar.google.ca/intl/en/scholar/images/1x/tw-32.png" b=
+order=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:top"></a></t=
+d><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"=
+https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=
+=3Din&amp;url=3Dhttps://www.sciencedirect.com/science/article/pii/S26665174=
+21000638&amp;rt=3DGenomic+analysis+of+Elizabethkingia+species+from+aquatic+=
+environments:+evidence+for+potential+clinical+transmission&amp;scisig=3DAAG=
+Bfm2S0OgsQaCuXgjl3lpsQIMX3yarFA" style=3D"text-decoration:none;display:inli=
+ne-block;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"LinkedIn" src=3D"h=
+ttps://scholar.google.ca/intl/en/scholar/images/1x/in-32.png" border=3D"0" =
+height=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td><td style=
+=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://sch=
+olar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dfb&amp;u=
+rl=3Dhttps://www.sciencedirect.com/science/article/pii/S2666517421000638&am=
+p;rt=3DGenomic+analysis+of+Elizabethkingia+species+from+aquatic+environment=
+s:+evidence+for+potential+clinical+transmission&amp;scisig=3DAAGBfm2S0OgsQa=
+CuXgjl3lpsQIMX3yarFA" style=3D"text-decoration:none;display:inline-block;pa=
+dding:4px 8px;mso-padding-alt:0;"><img alt=3D"Facebook" src=3D"https://scho=
+lar.google.ca/intl/en/scholar/images/1x/fb-32.png" border=3D"0" height=3D"1=
+6" width=3D"16" style=3D"vertical-align:top"></a></td></tr></tbody></table>=
+</div><br><h3 style=3D"font-weight:normal;margin:0;font-size:17px;line-heig=
+ht:20px;"><a href=3D"https://scholar.google.ca/scholar_url?url=3Dhttps://ww=
+w.sciencedirect.com/science/article/pii/S0753396921000537&amp;hl=3Den&amp;s=
+a=3DX&amp;d=3D7944510635279825700&amp;ei=3D8_qnYYPLGYGUy9YP_b6g0Ag&amp;scis=
+ig=3DAAGBfm17FpCmLcsklBdK7UVL2fGixVE9Pw&amp;oi=3Dscholaralrt&amp;hist=3D4Z5=
+WABAAAAAJ:9524340157753604263:AAGBfm2s1u6dXm_HqG8n9fyMDvYCTFQrnQ&amp;html=
+=3D&amp;folt=3Dkw" class=3D"gse_alrt_title" style=3D"font-size:17px;color:#=
+1a0dab">Middle Permian ostracod fauna from the Khao Khad Formation (Indochi=
+na Terrane), Central Thailand</a></h3><div style=3D"color:#006621">A Chitna=
+rin, C Ketwetsuriya=C2=A0- Annales de Pal=C3=A9ontologie, 2021</div><div cl=
+ass=3D"gse_alrt_sni">=E2=80=A6 Accordingly, Permian ostracods of the Indoch=
+ina Terrane are diversified, many <br>
+<b>new</b> <b>species</b> have been identified and they show close relation=
+ships with faunas <br>
+from South China Block on the Palaeo-Tethys realm. =E2=80=A6</div><div styl=
+e=3D"width:auto"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><t=
+body><tr><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a h=
+ref=3D"https://scholar.google.ca/citations?hl=3Den&amp;update_op=3Demail_li=
+brary_add&amp;info=3DJLsqulSSQG4J&amp;citsig=3DAMD79ooAAAAAY4kucy9kp-qyLjQi=
+mbJYCMsWvN_tUFhM" style=3D"text-decoration:none;display:inline-block;paddin=
+g:4px 8px 4px 0;mso-padding-alt:0;"><img alt=3D"Save" src=3D"https://schola=
+r.google.ca/intl/en/scholar/images/1x/save-32.png" border=3D"0" height=3D"1=
+6" width=3D"16" style=3D"vertical-align:top"></a></td><td style=3D"padding-=
+right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.=
+ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dtw&amp;url=3Dhttps:/=
+/www.sciencedirect.com/science/article/pii/S0753396921000537&amp;rt=3DMiddl=
+e+Permian+ostracod+fauna+from+the+Khao+Khad+Formation+(Indochina+Terrane),+=
+Central+Thailand&amp;scisig=3DAAGBfm0Q-jUuU3vxPF-M3fDRJ-KhEO65qA" style=3D"=
+text-decoration:none;display:inline-block;padding:4px 8px;mso-padding-alt:0=
+;"><img alt=3D"Twitter" src=3D"https://scholar.google.ca/intl/en/scholar/im=
+ages/1x/tw-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertica=
+l-align:top"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16=
+px 0 0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=
+=3Dscholaralrt&amp;ss=3Din&amp;url=3Dhttps://www.sciencedirect.com/science/=
+article/pii/S0753396921000537&amp;rt=3DMiddle+Permian+ostracod+fauna+from+t=
+he+Khao+Khad+Formation+(Indochina+Terrane),+Central+Thailand&amp;scisig=3DA=
+AGBfm0Q-jUuU3vxPF-M3fDRJ-KhEO65qA" style=3D"text-decoration:none;display:in=
+line-block;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"LinkedIn" src=3D=
+"https://scholar.google.ca/intl/en/scholar/images/1x/in-32.png" border=3D"0=
+" height=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td><td styl=
+e=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://sc=
+holar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dfb&amp;=
+url=3Dhttps://www.sciencedirect.com/science/article/pii/S0753396921000537&a=
+mp;rt=3DMiddle+Permian+ostracod+fauna+from+the+Khao+Khad+Formation+(Indochi=
+na+Terrane),+Central+Thailand&amp;scisig=3DAAGBfm0Q-jUuU3vxPF-M3fDRJ-KhEO65=
+qA" style=3D"text-decoration:none;display:inline-block;padding:4px 8px;mso-=
+padding-alt:0;"><img alt=3D"Facebook" src=3D"https://scholar.google.ca/intl=
+/en/scholar/images/1x/fb-32.png" border=3D"0" height=3D"16" width=3D"16" st=
+yle=3D"vertical-align:top"></a></td></tr></tbody></table></div><br><h3 styl=
+e=3D"font-weight:normal;margin:0;font-size:17px;line-height:20px;"><span st=
+yle=3D"font-size:11px;font-weight:bold;color:#1a0dab;vertical-align:2px">[H=
+TML]</span> <a href=3D"https://scholar.google.ca/scholar_url?url=3Dhttps://=
+ejbpc.springeropen.com/articles/10.1186/s41938-021-00496-1&amp;hl=3Den&amp;=
+sa=3DX&amp;d=3D5993638862469678287&amp;ei=3D8_qnYYPLGYGUy9YP_b6g0Ag&amp;sci=
+sig=3DAAGBfm29Xc5sGtVxA0l4EHP5HiqGYlhifQ&amp;oi=3Dscholaralrt&amp;hist=3D4Z=
+5WABAAAAAJ:9524340157753604263:AAGBfm2s1u6dXm_HqG8n9fyMDvYCTFQrnQ&amp;html=
+=3D&amp;folt=3Dkw" class=3D"gse_alrt_title" style=3D"font-size:17px;color:#=
+1a0dab">First report of entomopathogenic nematode Steinernema surkhetense a=
+nd its pathogenic potential to larvae of the Greater Wax Moth (Galleria mel=
+lonella L.) in=C2=A0=E2=80=A6</a></h3><div style=3D"color:#006621">PQ Trinh=
+, DT Nguyen, LTM Le, TH Nguyen=C2=A0- Egyptian Journal of Biological Pest=
+=C2=A0=E2=80=A6, 2021</div><div class=3D"gse_alrt_sni">Entomopathogenic nem=
+atodes (EPNs) are evidently a useful nematode group for <br>
+the biocontrol of insect pests. It is well known that efficacy of different=
+ EPN strains, <br>
+even belonging to the same species, can be significantly varied in differen=
+t localities=C2=A0=E2=80=A6</div><div style=3D"width:auto"><table cellpaddi=
+ng=3D"0" cellspacing=3D"0" border=3D"0"><tbody><tr><td style=3D"padding-rig=
+ht:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/=
+citations?hl=3Den&amp;update_op=3Demail_library_add&amp;info=3Dz0R7LcquLVMJ=
+&amp;citsig=3DAMD79ooAAAAAY4kuc5PBAyEDa1MyF-8wK4dPdgm8NZLk" style=3D"text-d=
+ecoration:none;display:inline-block;padding:4px 8px 4px 0;mso-padding-alt:0=
+;"><img alt=3D"Save" src=3D"https://scholar.google.ca/intl/en/scholar/image=
+s/1x/save-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical=
+-align:top"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16p=
+x 0 0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=
+=3Dscholaralrt&amp;ss=3Dtw&amp;url=3Dhttps://ejbpc.springeropen.com/article=
+s/10.1186/s41938-021-00496-1&amp;rt=3DFirst+report+of+entomopathogenic+nema=
+tode+Steinernema+surkhetense+and+its+pathogenic+potential+to+larvae+of+the+=
+Greater+Wax+Moth+(Galleria+mellonella+L.)+in+Vietnam&amp;scisig=3DAAGBfm1s0=
+tjCabscwXyPQY3CWRr-0tTUbw" style=3D"text-decoration:none;display:inline-blo=
+ck;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"Twitter" src=3D"https://=
+scholar.google.ca/intl/en/scholar/images/1x/tw-32.png" border=3D"0" height=
+=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td><td style=3D"pad=
+ding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.go=
+ogle.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Din&amp;url=3Dht=
+tps://ejbpc.springeropen.com/articles/10.1186/s41938-021-00496-1&amp;rt=3DF=
+irst+report+of+entomopathogenic+nematode+Steinernema+surkhetense+and+its+pa=
+thogenic+potential+to+larvae+of+the+Greater+Wax+Moth+(Galleria+mellonella+L=
+.)+in+Vietnam&amp;scisig=3DAAGBfm1s0tjCabscwXyPQY3CWRr-0tTUbw" style=3D"tex=
+t-decoration:none;display:inline-block;padding:4px 8px;mso-padding-alt:0;">=
+<img alt=3D"LinkedIn" src=3D"https://scholar.google.ca/intl/en/scholar/imag=
+es/1x/in-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-=
+align:top"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px=
+ 0 0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3D=
+scholaralrt&amp;ss=3Dfb&amp;url=3Dhttps://ejbpc.springeropen.com/articles/1=
+0.1186/s41938-021-00496-1&amp;rt=3DFirst+report+of+entomopathogenic+nematod=
+e+Steinernema+surkhetense+and+its+pathogenic+potential+to+larvae+of+the+Gre=
+ater+Wax+Moth+(Galleria+mellonella+L.)+in+Vietnam&amp;scisig=3DAAGBfm1s0tjC=
+abscwXyPQY3CWRr-0tTUbw" style=3D"text-decoration:none;display:inline-block;=
+padding:4px 8px;mso-padding-alt:0;"><img alt=3D"Facebook" src=3D"https://sc=
+holar.google.ca/intl/en/scholar/images/1x/fb-32.png" border=3D"0" height=3D=
+"16" width=3D"16" style=3D"vertical-align:top"></a></td></tr></tbody></tabl=
+e></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:17px;line-he=
+ight:20px;"><a href=3D"https://scholar.google.ca/scholar_url?url=3Dhttps://=
+link.springer.com/chapter/10.1007/978-981-16-3836-7_7&amp;hl=3Den&amp;sa=3D=
+X&amp;d=3D17424485407243711684&amp;ei=3D8_qnYYPLGYGUy9YP_b6g0Ag&amp;scisig=
+=3DAAGBfm1ZsF2yhJVXL7wnsv1knLDorSNnDw&amp;oi=3Dscholaralrt&amp;hist=3D4Z5WA=
+BAAAAAJ:9524340157753604263:AAGBfm2s1u6dXm_HqG8n9fyMDvYCTFQrnQ&amp;html=3D&=
+amp;folt=3Dkw" class=3D"gse_alrt_title" style=3D"font-size:17px;color:#1a0d=
+ab">Order Desmodorida De Coninck, 1965</a></h3><div style=3D"color:#006621"=
+>Y Huang, Y Guo=C2=A0- Free-living Marine Nematodes from the East China Sea=
+, 2022</div><div class=3D"gse_alrt_sni">Abstract Body cuticle with annulati=
+on extending from the pharyngeal region to the <br>
+non-annulated tail end, no special ornamentation. Short thin somatic setae =
+arranged <br>
+in six or eight longitudinal rows. Head capsule well developed. Amphid cryp=
+tospiral=C2=A0=E2=80=A6</div><div style=3D"width:auto"><table cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0"><tbody><tr><td style=3D"padding-right=
+:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/ci=
+tations?hl=3Den&amp;update_op=3Demail_library_add&amp;info=3DxDS9tCg10PEJ&a=
+mp;citsig=3DAMD79ooAAAAAY4kuc_3AgUsUuO53eDMW6cHRxUJjQ3lq" style=3D"text-dec=
+oration:none;display:inline-block;padding:4px 8px 4px 0;mso-padding-alt:0;"=
+><img alt=3D"Save" src=3D"https://scholar.google.ca/intl/en/scholar/images/=
+1x/save-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-a=
+lign:top"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px =
+0 0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Ds=
+cholaralrt&amp;ss=3Dtw&amp;url=3Dhttps://link.springer.com/chapter/10.1007/=
+978-981-16-3836-7_7&amp;rt=3DOrder+Desmodorida+De+Coninck,+1965&amp;scisig=
+=3DAAGBfm37b8Mmbui3enG1v0GqUXjwjHnm2A" style=3D"text-decoration:none;displa=
+y:inline-block;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"Twitter" src=
+=3D"https://scholar.google.ca/intl/en/scholar/images/1x/tw-32.png" border=
+=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td><td=
+ style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https=
+://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Din=
+&amp;url=3Dhttps://link.springer.com/chapter/10.1007/978-981-16-3836-7_7&am=
+p;rt=3DOrder+Desmodorida+De+Coninck,+1965&amp;scisig=3DAAGBfm37b8Mmbui3enG1=
+v0GqUXjwjHnm2A" style=3D"text-decoration:none;display:inline-block;padding:=
+4px 8px;mso-padding-alt:0;"><img alt=3D"LinkedIn" src=3D"https://scholar.go=
+ogle.ca/intl/en/scholar/images/1x/in-32.png" border=3D"0" height=3D"16" wid=
+th=3D"16" style=3D"vertical-align:top"></a></td><td style=3D"padding-right:=
+4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/sch=
+olar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dfb&amp;url=3Dhttps://link.=
+springer.com/chapter/10.1007/978-981-16-3836-7_7&amp;rt=3DOrder+Desmodorida=
++De+Coninck,+1965&amp;scisig=3DAAGBfm37b8Mmbui3enG1v0GqUXjwjHnm2A" style=3D=
+"text-decoration:none;display:inline-block;padding:4px 8px;mso-padding-alt:=
+0;"><img alt=3D"Facebook" src=3D"https://scholar.google.ca/intl/en/scholar/=
+images/1x/fb-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"verti=
+cal-align:top"></a></td></tr></tbody></table></div><br><h3 style=3D"font-we=
+ight:normal;margin:0;font-size:17px;line-height:20px;"><a href=3D"https://s=
+cholar.google.ca/scholar_url?url=3Dhttps://www.sciencedirect.com/science/ar=
+ticle/pii/S073708062100455X&amp;hl=3Den&amp;sa=3DX&amp;d=3D1753128576873661=
+5031&amp;ei=3D8_qnYYPLGYGUy9YP_b6g0Ag&amp;scisig=3DAAGBfm0h-cpXIBNk35UXgzW5=
+RepF3sGcBQ&amp;oi=3Dscholaralrt&amp;hist=3D4Z5WABAAAAAJ:9524340157753604263=
+:AAGBfm2s1u6dXm_HqG8n9fyMDvYCTFQrnQ&amp;html=3D&amp;folt=3Dkw" class=3D"gse=
+_alrt_title" style=3D"font-size:17px;color:#1a0dab">Development and Use of =
+an Enzyme-Linked Immunosorbent Assay to Determine Temporal Exposure Pattern=
+s to Putative Agents of Nocardioform Placentitis</a></h3><div style=3D"colo=
+r:#006621">AE Page, E Partridge, E Erol, KE Scoggin, CE Fedorka=E2=80=A6=C2=
+=A0- Journal of Equine Veterinary=C2=A0=E2=80=A6, 2021</div><div class=3D"g=
+se_alrt_sni">Abstract Nocardioform placentitis is characterized by focal, m=
+ucoid placentitis <br>
+resulting in late-term abortion, premature birth, or small, full-term foals=
+, occur <br>
+sporadically, and are most commonly associated with Crossiella equi and=C2=
+=A0=E2=80=A6</div><div style=3D"width:auto"><table cellpadding=3D"0" cellsp=
+acing=3D"0" border=3D"0"><tbody><tr><td style=3D"padding-right:4px;mso-padd=
+ing-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/citations?hl=3D=
+en&amp;update_op=3Demail_library_add&amp;info=3DdyponYWjS_MJ&amp;citsig=3DA=
+MD79ooAAAAAY4kuc2RTOVQZB1oAonC3PwUOpU8rWRuz" style=3D"text-decoration:none;=
+display:inline-block;padding:4px 8px 4px 0;mso-padding-alt:0;"><img alt=3D"=
+Save" src=3D"https://scholar.google.ca/intl/en/scholar/images/1x/save-32.pn=
+g" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:top"></a=
+></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=
+=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&am=
+p;ss=3Dtw&amp;url=3Dhttps://www.sciencedirect.com/science/article/pii/S0737=
+08062100455X&amp;rt=3DDevelopment+and+Use+of+an+Enzyme-Linked+Immunosorbent=
++Assay+to+Determine+Temporal+Exposure+Patterns+to+Putative+Agents+of+Nocard=
+ioform+Placentitis&amp;scisig=3DAAGBfm0fVpfTNHHAVcouJ13F33MxJ7vW-g" style=
+=3D"text-decoration:none;display:inline-block;padding:4px 8px;mso-padding-a=
+lt:0;"><img alt=3D"Twitter" src=3D"https://scholar.google.ca/intl/en/schola=
+r/images/1x/tw-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"ver=
+tical-align:top"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4p=
+x 16px 0 0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp=
+;oi=3Dscholaralrt&amp;ss=3Din&amp;url=3Dhttps://www.sciencedirect.com/scien=
+ce/article/pii/S073708062100455X&amp;rt=3DDevelopment+and+Use+of+an+Enzyme-=
+Linked+Immunosorbent+Assay+to+Determine+Temporal+Exposure+Patterns+to+Putat=
+ive+Agents+of+Nocardioform+Placentitis&amp;scisig=3DAAGBfm0fVpfTNHHAVcouJ13=
+F33MxJ7vW-g" style=3D"text-decoration:none;display:inline-block;padding:4px=
+ 8px;mso-padding-alt:0;"><img alt=3D"LinkedIn" src=3D"https://scholar.googl=
+e.ca/intl/en/scholar/images/1x/in-32.png" border=3D"0" height=3D"16" width=
+=3D"16" style=3D"vertical-align:top"></a></td><td style=3D"padding-right:4p=
+x;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/schol=
+ar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dfb&amp;url=3Dhttps://www.sci=
+encedirect.com/science/article/pii/S073708062100455X&amp;rt=3DDevelopment+a=
+nd+Use+of+an+Enzyme-Linked+Immunosorbent+Assay+to+Determine+Temporal+Exposu=
+re+Patterns+to+Putative+Agents+of+Nocardioform+Placentitis&amp;scisig=3DAAG=
+Bfm0fVpfTNHHAVcouJ13F33MxJ7vW-g" style=3D"text-decoration:none;display:inli=
+ne-block;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"Facebook" src=3D"h=
+ttps://scholar.google.ca/intl/en/scholar/images/1x/fb-32.png" border=3D"0" =
+height=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td></tr></tbo=
+dy></table></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:17p=
+x;line-height:20px;"><a href=3D"https://scholar.google.ca/scholar_url?url=
+=3Dhttps://www.sciencedirect.com/science/article/pii/S0960852421017685&amp;=
+hl=3Den&amp;sa=3DX&amp;d=3D3845027976819495623&amp;ei=3D8_qnYYPLGYGUy9YP_b6=
+g0Ag&amp;scisig=3DAAGBfm0ZsfJn19kgkeFFZxJ-0F3DCWChnA&amp;oi=3Dscholaralrt&a=
+mp;hist=3D4Z5WABAAAAAJ:9524340157753604263:AAGBfm2s1u6dXm_HqG8n9fyMDvYCTFQr=
+nQ&amp;html=3D&amp;folt=3Dkw" class=3D"gse_alrt_title" style=3D"font-size:1=
+7px;color:#1a0dab">Initial pH-driven production of volatile fatty acid from=
+ hybrid Pennisetum</a></h3><div style=3D"color:#006621">T Xing, Z Wang, F Z=
+hen, H Liu, D Wo, L Li, Y Guo=E2=80=A6=C2=A0- Bioresource Technology, 2021<=
+/div><div class=3D"gse_alrt_sni">Abstract In this work, the impact of initi=
+al pH on the production of volatile fatty acids (VFAs) <br>
+of hybrid Pennisetum was investigated. The batch experiments were conducted=
+ <br>
+under six distinct beginning pH at a mesophilic temperature. Initial pH had=
+ an=C2=A0=E2=80=A6</div><div style=3D"width:auto"><table cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0"><tbody><tr><td style=3D"padding-right:4px;ms=
+o-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/citations=
+?hl=3Den&amp;update_op=3Demail_library_add&amp;info=3Dx9LDtZJIXDUJ&amp;cits=
+ig=3DAMD79ooAAAAAY4kuc1ZHesHKTdIGfSkyeio2vx-NFA55" style=3D"text-decoration=
+:none;display:inline-block;padding:4px 8px 4px 0;mso-padding-alt:0;"><img a=
+lt=3D"Save" src=3D"https://scholar.google.ca/intl/en/scholar/images/1x/save=
+-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:to=
+p"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><=
+a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholara=
+lrt&amp;ss=3Dtw&amp;url=3Dhttps://www.sciencedirect.com/science/article/pii=
+/S0960852421017685&amp;rt=3DInitial+pH-driven+production+of+volatile+fatty+=
+acid+from+hybrid+Pennisetum&amp;scisig=3DAAGBfm1nweopaS3qq1E2z1r-IALMvuwZ4g=
+" style=3D"text-decoration:none;display:inline-block;padding:4px 8px;mso-pa=
+dding-alt:0;"><img alt=3D"Twitter" src=3D"https://scholar.google.ca/intl/en=
+/scholar/images/1x/tw-32.png" border=3D"0" height=3D"16" width=3D"16" style=
+=3D"vertical-align:top"></a></td><td style=3D"padding-right:4px;mso-padding=
+-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=
+=3Den&amp;oi=3Dscholaralrt&amp;ss=3Din&amp;url=3Dhttps://www.sciencedirect.=
+com/science/article/pii/S0960852421017685&amp;rt=3DInitial+pH-driven+produc=
+tion+of+volatile+fatty+acid+from+hybrid+Pennisetum&amp;scisig=3DAAGBfm1nweo=
+paS3qq1E2z1r-IALMvuwZ4g" style=3D"text-decoration:none;display:inline-block=
+;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"LinkedIn" src=3D"https://s=
+cholar.google.ca/intl/en/scholar/images/1x/in-32.png" border=3D"0" height=
+=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td><td style=3D"pad=
+ding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.go=
+ogle.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dfb&amp;url=3Dht=
+tps://www.sciencedirect.com/science/article/pii/S0960852421017685&amp;rt=3D=
+Initial+pH-driven+production+of+volatile+fatty+acid+from+hybrid+Pennisetum&=
+amp;scisig=3DAAGBfm1nweopaS3qq1E2z1r-IALMvuwZ4g" style=3D"text-decoration:n=
+one;display:inline-block;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"Fa=
+cebook" src=3D"https://scholar.google.ca/intl/en/scholar/images/1x/fb-32.pn=
+g" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:top"></a=
+></td></tr></tbody></table></div><br><h3 style=3D"font-weight:normal;margin=
+:0;font-size:17px;line-height:20px;"><span style=3D"font-size:11px;font-wei=
+ght:bold;color:#1a0dab;vertical-align:2px">[HTML]</span> <a href=3D"https:/=
+/scholar.google.ca/scholar_url?url=3Dhttps://esajournals.onlinelibrary.wile=
+y.com/doi/full/10.1002/ecs2.3827&amp;hl=3Den&amp;sa=3DX&amp;d=3D77663385581=
+36905787&amp;ei=3D8_qnYYPLGYGUy9YP_b6g0Ag&amp;scisig=3DAAGBfm3wblgdVGAabFKC=
+JIAMjoihZl7knw&amp;oi=3Dscholaralrt&amp;hist=3D4Z5WABAAAAAJ:952434015775360=
+4263:AAGBfm2s1u6dXm_HqG8n9fyMDvYCTFQrnQ&amp;html=3D&amp;folt=3Dkw" class=3D=
+"gse_alrt_title" style=3D"font-size:17px;color:#1a0dab">Spatial and tempora=
+l partitioning of mustelids in Southeast Alaska</a></h3><div style=3D"color=
+:#006621">CA Kupferman, AP Crupi, LP Waits, SL Gilbert=C2=A0- Ecosphere, 20=
+21</div><div class=3D"gse_alrt_sni">=E2=80=A6 When <b>new</b> <b>species</b=
+> enter existing ecological communities, their effects on fellow <br>
+guild members are difficult to predict. Competition between species =E2=80=
+=A6 Nonetheless, <br>
+we feel these initial trends are important to consider when examining these=
+ <b>new</b>=C2=A0=E2=80=A6</div><div style=3D"width:auto"><table cellpaddin=
+g=3D"0" cellspacing=3D"0" border=3D"0"><tbody><tr><td style=3D"padding-righ=
+t:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/c=
+itations?hl=3Den&amp;update_op=3Demail_library_add&amp;info=3DO3ArU8WTx2sJ&=
+amp;citsig=3DAMD79ooAAAAAY4kuc1bMs6moMWm1_jq2a6a7JtSFnw2G" style=3D"text-de=
+coration:none;display:inline-block;padding:4px 8px 4px 0;mso-padding-alt:0;=
+"><img alt=3D"Save" src=3D"https://scholar.google.ca/intl/en/scholar/images=
+/1x/save-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-=
+align:top"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px=
+ 0 0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3D=
+scholaralrt&amp;ss=3Dtw&amp;url=3Dhttps://esajournals.onlinelibrary.wiley.c=
+om/doi/full/10.1002/ecs2.3827&amp;rt=3DSpatial+and+temporal+partitioning+of=
++mustelids+in+Southeast+Alaska&amp;scisig=3DAAGBfm2FWDt0O7YLBPepNvJOJE4puA7=
+83A" style=3D"text-decoration:none;display:inline-block;padding:4px 8px;mso=
+-padding-alt:0;"><img alt=3D"Twitter" src=3D"https://scholar.google.ca/intl=
+/en/scholar/images/1x/tw-32.png" border=3D"0" height=3D"16" width=3D"16" st=
+yle=3D"vertical-align:top"></a></td><td style=3D"padding-right:4px;mso-padd=
+ing-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/scholar_share?h=
+l=3Den&amp;oi=3Dscholaralrt&amp;ss=3Din&amp;url=3Dhttps://esajournals.onlin=
+elibrary.wiley.com/doi/full/10.1002/ecs2.3827&amp;rt=3DSpatial+and+temporal=
++partitioning+of+mustelids+in+Southeast+Alaska&amp;scisig=3DAAGBfm2FWDt0O7Y=
+LBPepNvJOJE4puA783A" style=3D"text-decoration:none;display:inline-block;pad=
+ding:4px 8px;mso-padding-alt:0;"><img alt=3D"LinkedIn" src=3D"https://schol=
+ar.google.ca/intl/en/scholar/images/1x/in-32.png" border=3D"0" height=3D"16=
+" width=3D"16" style=3D"vertical-align:top"></a></td><td style=3D"padding-r=
+ight:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.c=
+a/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dfb&amp;url=3Dhttps://=
+esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.3827&amp;rt=3DSpa=
+tial+and+temporal+partitioning+of+mustelids+in+Southeast+Alaska&amp;scisig=
+=3DAAGBfm2FWDt0O7YLBPepNvJOJE4puA783A" style=3D"text-decoration:none;displa=
+y:inline-block;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"Facebook" sr=
+c=3D"https://scholar.google.ca/intl/en/scholar/images/1x/fb-32.png" border=
+=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td></t=
+r></tbody></table></div><br><p><b>&quot;n. sp.&quot; OR &quot;new species&q=
+uot; OR &quot;n. gen.&quot; OR &quot;sp. nov.&quot; OR &quot;gen. nov.&quot=
+; - new results</b></p><div style=3D"line-height:16px;mso-line-height-rule:=
+exactly;border-top:1px solid #bdbdbd">&nbsp;</div><p style=3D"margin:8px 0 =
+16px 0;color:#666">This message was sent by Google Scholar because you're f=
+ollowing new results for <a href=3D"https://scholar.google.ca/scholar?q=3D%=
+22n.+sp.%22+OR+%22new+species%22+OR+%22n.+gen.%22+OR+%22sp.+nov.%22+OR+%22g=
+en.+nov.%22&amp;as_sdt=3D0,5&amp;scisbd=3D1&amp;hl=3Den" style=3D"color:#1a=
+0dab;">[&quot;n. sp.&quot; OR &quot;new species&quot; OR &quot;n. gen.&quot=
+; OR &quot;sp. nov.&quot; OR &quot;gen. nov.&quot;]</a>.<img src=3D"https:/=
+/scholar.google.ca/scholar_url?url=3Dhttps://scholar.google.ca/scholar/imag=
+es/cleardot.gif&amp;hl=3Den&amp;sa=3DX&amp;ei=3D8_qnYYPLGYGUy9YP_b6g0Ag&amp=
+;scisig=3DAAGBfm0MgrS2nIxD34QSOqYL9V-_gIvqdA&amp;hist=3D4Z5WABAAAAAJ:952434=
+0157753604263:AAGBfm2s1u6dXm_HqG8n9fyMDvYCTFQrnQ&amp;html=3D&amp;folt=3Dkw"=
+ height=3D1 width=3D1 alt=3D""></p><div style=3D"margin-bottom:8px;"><div><=
+!--[if gte mso 9]><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0"><=
+tr><td style=3D"mso-line-height-rule:exactly;line-height:27px;border-top:1p=
+x solid #fff;border-bottom:1px solid #fff;mso-text-raise:-1px;"><![endif]--=
+><a href=3D"https://scholar.google.ca/scholar_alerts?view_op=3Dlist_alerts&=
+amp;email_for_op=3Drdmpage%40gmail.com&amp;alert_id=3DpzjkTulALYQJ&amp;hl=
+=3Den" style=3D"display:inline-block;text-decoration:none;font-family:arial=
+,sans-serif;font-size:13px;font-size:11px;text-transform:uppercase;font-siz=
+e:13px;line-height:21px;padding:3px 0;color:#1a0dab;border-top:1px solid tr=
+ansparent;border-bottom:1px solid transparent;border-radius:3px;mso-padding=
+-alt:0;mso-border-alt:none;"><span style=3D"mso-text-raise:5px">List alerts=
+</span></a><!--[if gte mso 9]></td></tr></table><![endif]--></div><div><!--=
+[if gte mso 9]><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0"><tr>=
+<td style=3D"mso-line-height-rule:exactly;line-height:27px;border-top:1px s=
+olid #fff;border-bottom:1px solid #fff;mso-text-raise:-1px;"><![endif]--><a=
+ href=3D"https://scholar.google.ca/scholar_alerts?view_op=3Dcancel_alert_op=
+tions&amp;email_for_op=3Drdmpage%40gmail.com&amp;alert_id=3DpzjkTulALYQJ&am=
+p;hl=3Den" style=3D"display:inline-block;text-decoration:none;font-family:a=
+rial,sans-serif;font-size:13px;font-size:11px;text-transform:uppercase;font=
+-size:13px;line-height:21px;padding:3px 0;color:#1a0dab;border-top:1px soli=
+d transparent;border-bottom:1px solid transparent;border-radius:3px;mso-pad=
+ding-alt:0;mso-border-alt:none;"><span style=3D"mso-text-raise:5px">Cancel =
+alert</span></a><!--[if gte mso 9]></td></tr></table><![endif]--></div></di=
+v></div><!--[if gte mso 9]></td></tr></table><![endif]--></body></html>
