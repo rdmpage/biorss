@@ -173,8 +173,9 @@ isodate_to_string = function (datestring) {
 			}
 			html += path[n - 1];
 			
-			document.getElementById("treemap-breadcrumbs").innerHTML = html;
-		
+			document.getElementById("treemap-breadcrumbs").innerHTML = html;		
+			
+			
 
 			var url = 'api.php?country=' + country + '&path=' + encodeURIComponent(JSON.stringify(path));
 		
@@ -185,6 +186,8 @@ isodate_to_string = function (datestring) {
 					html += '<div class="row">';
 					html += '<a class="btn" style="float:right;" href="' + data.url + '"><i class="material-icons right">rss_feed</i>Feed</a>';
 					html += '</div>';
+					
+					history.pushState(null, null, '?feed=' + data.parameters);
 					
 					
 					for (var i in data.dataFeedElement) {
@@ -222,8 +225,7 @@ isodate_to_string = function (datestring) {
 						if (data.dataFeedElement[i].datePublished) {
 							html += '<i class="tiny material-icons">date_range</i>&nbsp;' + isodate_to_string(data.dataFeedElement[i].datePublished);
 						}
-						
-						
+												
 						// source of link
 						if (data.dataFeedElement[i].url) {
 							var m = data.dataFeedElement[i].url.match(/https?:\/\/([^\/]+)\//);
@@ -238,9 +240,6 @@ isodate_to_string = function (datestring) {
 						}
 					
 						html += '</div>';
-						
-					
-						
 						
 						/*
 						if (data.dataFeedElement[i].description) {
@@ -281,23 +280,15 @@ isodate_to_string = function (datestring) {
 							
 							}
 							
-							
-							
-							
 							html += '</div>';
 							html += '</li>';
 							html += '</ul>';
 						}
-						
-						
-						html += '</div>';
-						
+												
+						html += '</div>';						
 						html += '</div>';
 						html += '</div>';
 						html += '</div>';
-
-						
-	
 					}
 				
 					document.getElementById("feed").innerHTML = html;
@@ -314,7 +305,6 @@ isodate_to_string = function (datestring) {
 		'packages':['geochart'],
 	});
 	google.charts.setOnLoadCallback(drawRegionsMap);
-	
 	
 	var country_to_region = { "DZ" : "015", "EG" : "015", "EH" : "015", "LY" : "015", "MA" : "015", "SD" : "015", "SS" : "015", "TN" : "015", "BF" : "011", "BJ" : "011", "CI" : "011", "CV" : "011", "GH" : "011", "GM" : "011", "GN" : "011", "GW" : "011", "LR" : "011", "ML" : "011", "MR" : "011", "NE" : "011", "NG" : "011", "SH" : "011", "SL" : "011", "SN" : "011", "TG" : "011", "AO" : "017", "CD" : "017", "ZR" : "017", "CF" : "017", "CG" : "017", "CM" : "017", "GA" : "017", "GQ" : "017", "ST" : "017", "TD" : "017", "BI" : "014", "DJ" : "014", "ER" : "014", "ET" : "014", "KE" : "014", "KM" : "014", "MG" : "014", "MU" : "014", "MW" : "014", "MZ" : "014", "RE" : "014", "RW" : "014", "SC" : "014", "SO" : "014", "TZ" : "014", "UG" : "014", "YT" : "014", "ZM" : "014", "ZW" : "014", "BW" : "018", "LS" : "018", "NA" : "018", "SZ" : "018", "ZA" : "018", "GG" : "154", "JE" : "154", "AX" : "154", "DK" : "154", "EE" : "154", "FI" : "154", "FO" : "154", "GB" : "154", "IE" : "154", "IM" : "154", "IS" : "154", "LT" : "154", "LV" : "154", "NO" : "154", "SE" : "154", "SJ" : "154", "AT" : "155", "BE" : "155", "CH" : "155", "DE" : "155", "DD" : "155", "FR" : "155", "FX" : "155", "LI" : "155", "LU" : "155", "MC" : "155", "NL" : "155", "BG" : "151", "BY" : "151", "CZ" : "151", "HU" : "151", "MD" : "151", "PL" : "151", "RO" : "151", "RU" : "151", "SU" : "151", "SK" : "151", "UA" : "151", "AD" : "039", "AL" : "039", "BA" : "039", "ES" : "039", "GI" : "039", "GR" : "039", "HR" : "039", "IT" : "039", "ME" : "039", "MK" : "039", "MT" : "039", "RS" : "039", "PT" : "039", "SI" : "039", "SM" : "039", "VA" : "039", "YU" : "039", "BM" : "021", "CA" : "021", "GL" : "021", "PM" : "021", "US" : "021", "AG" : "029", "AI" : "029", "AN" : "029", "AW" : "029", "BB" : "029", "BL" : "029", "BS" : "029", "CU" : "029", "DM" : "029", "DO" : "029", "GD" : "029", "GP" : "029", "HT" : "029", "JM" : "029", "KN" : "029", "KY" : "029", "LC" : "029", "MF" : "029", "MQ" : "029", "MS" : "029", "PR" : "029", "TC" : "029", "TT" : "029", "VC" : "029", "VG" : "029", "VI" : "029", "BZ" : "013", "CR" : "013", "GT" : "013", "HN" : "013", "MX" : "013", "NI" : "013", "PA" : "013", "SV" : "013", "AR" : "005", "BO" : "005", "BR" : "005", "CL" : "005", "CO" : "005", "EC" : "005", "FK" : "005", "GF" : "005", "GY" : "005", "PE" : "005", "PY" : "005", "SR" : "005", "UY" : "005", "VE" : "005", "TM" : "143", "TJ" : "143", "KG" : "143", "KZ" : "143", "UZ" : "143", "CN" : "030", "HK" : "030", "JP" : "030", "KP" : "030", "KR" : "030", "MN" : "030", "MO" : "030", "TW" : "030", "AF" : "034", "BD" : "034", "BT" : "034", "IN" : "034", "IR" : "034", "LK" : "034", "MV" : "034", "NP" : "034", "PK" : "034", "BN" : "035", "ID" : "035", "KH" : "035", "LA" : "035", "MM" : "035", "BU" : "035", "MY" : "035", "PH" : "035", "SG" : "035", "TH" : "035", "TL" : "035", "TP" : "035", "VN" : "035", "AE" : "145", "AM" : "145", "AZ" : "145", "BH" : "145", "CY" : "145", "GE" : "145", "IL" : "145", "IQ" : "145", "JO" : "145", "KW" : "145", "LB" : "145", "OM" : "145", "PS" : "145", "QA" : "145", "SA" : "145", "NT" : "145", "SY" : "145", "TR" : "145", "YE" : "145", "YD" : "145", "AU" : "053", "NF" : "053", "NZ" : "053", "FJ" : "054", "NC" : "054", "PG" : "054", "SB" : "054", "VU" : "054", "FM" : "057", "GU" : "057", "KI" : "057", "MH" : "057", "MP" : "057", "NR" : "057", "PW" : "057", "AS" : "061", "CK" : "061", "NU" : "061", "PF" : "061", "PN" : "061", "TK" : "061", "TO" : "061", "TV" : "061", "WF" : "061", "WS" : "061"};
 	
@@ -376,7 +366,8 @@ isodate_to_string = function (datestring) {
 		chart.draw(data, options);
 	}	
 	
-	// Reste map to display world with no country selected
+	//------------------------------------------------------------------------------------
+	// Restore map to display world with no country selected
 	function world() {
 	
 		// set country to "WORLD" 
@@ -394,10 +385,33 @@ isodate_to_string = function (datestring) {
 		drawRegionsMap();
 		
 		// update feed
-		getfeed();
-	
+		getfeed();	
 	}
 	
+	//------------------------------------------------------------------------------------
+	// Draw a country (e.g., if we have set one as a URL parameter)
+	function set_country(country) {
+		geo_data = [];
+		geo_data.push(['Country', 'Numbers']);
+		geo_data.push([country, null]);
+
+		options.region = country_to_region[country];
+	}
+		
+	</script>
+	
+
+    <script>	
+		//http://stackoverflow.com/a/25359264
+		$.urlParam = function(name, url){
+			var results = new RegExp('[\?&]' + name + '=([^&#]*)').exec(url);
+			if (results==null){
+			   return null;
+			}
+			else{
+			   return results[1] || 0;
+			}
+		}    
 	</script>
 	
 				
@@ -456,7 +470,7 @@ isodate_to_string = function (datestring) {
 </div>
 
 <script>
-getfeed();
+//getfeed();
 
 
 function set_path(p) {
@@ -515,6 +529,49 @@ function drawTreemap(path) {
 //drawTreemap(path);
 
 </script>
+
+	<script>
+		// need to handle this better, need to update map and treemap based on parameters,
+		// at the moment it assumes user has chosen a facet
+	
+	
+		// http://localhost/~rpage/biorss/api.php?feed=Y291bnRyeT1WTiZwYXRoPSU1QiUyMkJJT1RBJTIyJTVE
+		// http://localhost/~rpage/biorss?feed=Y291bnRyeT1WTiZwYXRoPSU1QiUyMkJJT1RBJTIyJTJDJTIyUGxhbnRhZSUyMiUyQyUyMlRyYWNoZW9waHl0YSUyMiU1RA==
+	
+	
+		// do we have a URL parameter?
+		var feed = $.urlParam('feed', window.location.href);
+		if (feed) {
+		   var parameters = '?' + atob(feed);
+		   
+		   country = 'WORLD';
+		   path = ["BIOTA"];
+		   
+		   var parameter1 = $.urlParam('country', parameters);
+		   
+		   if (parameter1) {
+		   	country = parameter1;
+		   	set_country(country);
+		   }
+		   
+		   var parameter2 = JSON.parse(decodeURIComponent($.urlParam('path', parameters)));
+		   
+		   if (parameter2) {
+		   	path = parameter2;
+		   }
+		   
+		   getfeed();
+		   
+		   
+		  //alert(JSON.stringify(parameter2));
+		}
+		else
+		{
+			 getfeed();
+		}
+
+			
+	</script>
 
 
 </body>
