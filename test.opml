@@ -298,6 +298,8 @@
 		
 		
 <!-- Z -->		
+
+	<!--
 		<outline 
 			text="Latest ZooBank Registration Activity" 
 			title="Latest ZooBank Registration Activity"
@@ -306,7 +308,7 @@
 			version="RSS" 
 			htmlUrl="http://zoobank.org/"
 			xmlUrl="http://zoobank.org/rss/rss.xml" />
-
+	-->
 			
 			
 			

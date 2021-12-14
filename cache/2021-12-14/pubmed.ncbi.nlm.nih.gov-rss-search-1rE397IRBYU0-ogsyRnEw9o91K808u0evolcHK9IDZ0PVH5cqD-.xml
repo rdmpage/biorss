@@ -1,0 +1,398 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>(new species) OR (n. sp.) OR (sp. nov.) OR (n. gen.) OR (gen. nov.) OR (n. comb.) OR (comb. nov.)</title>
+    <link>https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;utm_source=Mobile Safari UI/WKWebView&amp;utm_campaign=pubmed-2&amp;ff=20211214094348&amp;utm_medium=rss&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;v=2.15.0&amp;fc=20211108074834</link>
+    <description>(new species) OR (n. sp.) OR (sp. nov.) OR (n. gen.) OR (gen. nov.) OR (n. comb.) OR (comb. nov.): Latest results from PubMed</description>
+    <atom:link href="https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;utm_source=Mobile Safari UI/WKWebView&amp;utm_campaign=pubmed-2&amp;ff=20211214094348&amp;utm_medium=rss&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;v=2.15.0&amp;fc=20211108074834" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>PubMed RSS feeds (2.15.0)</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 14 Dec 2021 14:43:49 +0000</lastBuildDate>
+    <pubDate>Mon, 13 Dec 2021 06:00:00 -0500</pubDate>
+    <ttl>120</ttl>
+    <item>
+      <title>Exploring in-silico prediction for the development of a RT-qPCR-high resolution melting assay for the broad detection of emaraviruses</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34902460/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211214094348&amp;v=2.15.0</link>
+      <description>High-resolution melting (HRM) has shown to be reliable for the detection, discrimination, and diagnosis of several diseases of plants, animals, and humans. The aim of this research was to explore the ability to predict HRM outputs when coupled to reverse transcription quantitative polymerase chain reaction (RT-qPCR). This research used the species in the Emaravirus genus as model to framework the development of genus-specific RT-qPCR-HRM assays. A pair of degenerate genus-specific primers were...</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">J Virol Methods. 2021 Dec 10:114425. doi: 10.1016/j.jviromet.2021.114425. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">High-resolution melting (HRM) has shown to be reliable for the detection, discrimination, and diagnosis of several diseases of plants, animals, and humans. The aim of this research was to explore the ability to predict HRM outputs when coupled to reverse transcription quantitative polymerase chain reaction (RT-qPCR). This research used the species in the Emaravirus genus as model to framework the development of genus-specific RT-qPCR-HRM assays. A pair of degenerate genus-specific primers were designed for use in endpoint RT-PCR and RT-qPCR-HRM detection of emaraviruses. Eleven species of RNA viruses infecting economically important crops are classified within the genus Emaravirus, family Fimoviridae. There are at least fifteen other non-classified species that may be added. Some of these viruses are spreading rapidly and cause economically important diseases on several crops, raising a need for a sensitive diagnostic technique for taxonomic and quarantine purposes. RT-PCR and RT-qPCR-HRM were able to detect seven emaravirus species in-vitro with sensitivity up to one fg of cDNA. Specific parameters for prediction in-silico of the melting temperatures of each expected emaravirus amplicon are provided and compared to the data obtained in-vitro. A very distinct isolate of the High Plains wheat mosaic virus was also detected. The prediction in-silico of fluorescence of high-resolution DNA melting curves of predicted RT-PCR products using uMelt<sup>SM</sup> speeded the design and development of RT-qPCR-HRM assay. This approach avoided rounds of HRM tests in-vitro when searching for the optimal regions that provides accurate diagnosis. The resultant assay provided sensitive detection and reliable diagnosis for potentially any emaravirus, including new species or strains.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34902460/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211214094348&v=2.15.0">34902460</a> | DOI:<a href=https://doi.org/10.1016/j.jviromet.2021.114425>10.1016/j.jviromet.2021.114425</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34902460</guid>
+      <pubDate>Mon, 13 Dec 2021 06:00:00 -0500</pubDate>
+      <dc:creator>Alejandro Olmedo-Velarde</dc:creator>
+      <dc:creator>Francisco M Ochoa-Corona</dc:creator>
+      <dc:creator>Adriana E Larrea-Sarmiento</dc:creator>
+      <dc:creator>Toufic Elbeaino</dc:creator>
+      <dc:creator>Francisco Flores</dc:creator>
+      <dc:date>2021-12-13</dc:date>
+      <dc:source>Journal of virological methods</dc:source>
+      <dc:title>Exploring in-silico prediction for the development of a RT-qPCR-high resolution melting assay for the broad detection of emaraviruses</dc:title>
+      <dc:identifier>pmid:34902460</dc:identifier>
+      <dc:identifier>doi:10.1016/j.jviromet.2021.114425</dc:identifier>
+    </item>
+    <item>
+      <title>Pratylenchus smoliki, a new nematode species (Pratylenchidae: Tylenchomorpha) from the Great Plains region of North America</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34901874/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211214094348&amp;v=2.15.0</link>
+      <description>Pratylenchus smoliki is a new species of root-lesion nematode described from corn-soybean production fields in the Central Great Plains of North America. It is characterized by populations with relatively abundant males, two lip annuli, females with a round functional spermatheca and a conoid to subcylindrical tail with a non-crenate, smooth terminus. In host preference tests, corn and wheat produce the largest nematode populations, whereas sorghum and soybeans produce less than 20% the numbers...</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">J Nematol. 2021 Dec 10;53:e2021-100. doi: 10.21307/jofnem-2021-100. eCollection 2021.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one"><i>Pratylenchus smoliki</i> is a new species of root-lesion nematode described from corn-soybean production fields in the Central Great Plains of North America. It is characterized by populations with relatively abundant males, two lip annuli, females with a round functional spermatheca and a conoid to subcylindrical tail with a non-crenate, smooth terminus. In host preference tests, corn and wheat produce the largest nematode populations, whereas sorghum and soybeans produce less than 20% the numbers observed on corn. Scanning electron microscopy reveals that the <i>en face</i> patterns compare to those seen in <i>Pratylenchus pseudocoffeae</i>, <i>P</i>. <i>scribneri, P. hexincisus</i>, and <i>P. alleni.</i> The pattern is described as rectangular to trapezoidal subdorsal and subventral lips adjoining oral disc, but with a clear demarcation between the oral disc and the subdorsal and subventral sectors. A Maximum Likelihood COI tree recognizes <i>P</i>. <i>smoliki</i> as a moderately-well-supported clade with several haplotype subgroups. A Maximum Likelihood partial 28S tree provides strong support for the <i>P. smoliki</i> clade and reinforces the close relationships between species with similar <i>en face</i> patterns. Topotype specimens of <i>P</i>. <i>alleni</i> were demonstrably different from <i>P. smoliki</i> using DNA markers. The geographic range of <i>P. smoliki</i> overlaps with the ranges of <i>P. alleni</i>, <i>P. scribneri</i>, <i>P. neglectus</i>, <i>P</i>. <i>hexicisus</i>, and <i>P. dakotaensis</i>. The observed host range (corn, rye, sunflower, and wheat) suggests that <i>P. smoliki</i> may be native to the tallgrass prairie region of the Great Plains.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34901874/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211214094348&v=2.15.0">34901874</a> | PMC:<a href="https://www.ncbi.nlm.nih.gov/pmc/PMC8662978/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211214094348&v=2.15.0">PMC8662978</a> | DOI:<a href=https://doi.org/10.21307/jofnem-2021-100>10.21307/jofnem-2021-100</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34901874</guid>
+      <pubDate>Mon, 13 Dec 2021 06:00:00 -0500</pubDate>
+      <dc:creator>Thomas Powers</dc:creator>
+      <dc:creator>Timothy Todd</dc:creator>
+      <dc:creator>Tim Harris</dc:creator>
+      <dc:creator>Rebecca Higgins</dc:creator>
+      <dc:creator>Ann MacGuidwin</dc:creator>
+      <dc:creator>Peter Mullin</dc:creator>
+      <dc:creator>Mehmet Ozbayrak</dc:creator>
+      <dc:creator>Kirsten Powers</dc:creator>
+      <dc:creator>Kanan Sakai</dc:creator>
+      <dc:date>2021-12-13</dc:date>
+      <dc:source>Journal of nematology</dc:source>
+      <dc:title>Pratylenchus smoliki, a new nematode species (Pratylenchidae: Tylenchomorpha) from the Great Plains region of North America</dc:title>
+      <dc:identifier>pmid:34901874</dc:identifier>
+      <dc:identifier>pmc:PMC8662978</dc:identifier>
+      <dc:identifier>doi:10.21307/jofnem-2021-100</dc:identifier>
+    </item>
+    <item>
+      <title>Halophilic bacteria of salt lakes and saline soils of the Peri-Caspian lowland (Republic of Daghestan) and their biotechnological potential</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34901720/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211214094348&amp;v=2.15.0</link>
+      <description>The article presents the results of studying the biodiversity and biotechnological potential of halophilic microorganisms from the thermal highly mineralized Berikey Lake, the salty Lake Tarumovskoye and saline soils of the Peri-Caspian Lowland (Republic of Daghestan). Denitrifying halophilic bacteria of the genus Halomonas and Virgibacillus were identified using microbiological methods and 16S rRNA gene analysis. A new species Halomonas sp. G2 (MW386470) with a similarity of the nucleotide...</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">Vavilovskii Zhurnal Genet Selektsii. 2021 Mar;25(2):224-233. doi: 10.18699/VJ21.026.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">The article presents the results of studying the biodiversity and biotechnological potential of halophilic microorganisms from the thermal highly mineralized Berikey Lake, the salty Lake Tarumovskoye and saline soils of the Peri-Caspian Lowland (Republic of Daghestan). Denitrifying halophilic bacteria of the genus Halomonas and Virgibacillus were identified using microbiological methods and 16S rRNA gene analysis. A new species Halomonas sp. G2 (MW386470) with a similarity of the nucleotide sequences of the 16S rRNA genes is 95 %. Strain G2 is an extreme halophile capable of growing in the range of 5-25 % NaCl (optimum 25 %) and forming a carotenoid pigment. Mesophil, 30-37 °С (optimum 30 °С); neutrophil, pH 6-8 (optimum 7.2-7.4). Strain G2 chemolithotroph; reduces nitrate or nitrite as electron donors; catalase-, amylase-, protease- and β-galactosidase-positive; lipase-, oxidase- and urease-negative. Not able to hydrolyze inositol, indole; produces lysine, gelatin, ectoine; uses citrate and sodium malate as a source of carbon and energy; does not produce ornitin, H2S or acid from d-mannose, sucrose, glycerol, cellobiose, except for lactose and d-glucose. Susceptible to trimethoprim, ciprofloxacin, ofloxacin, kanamycin, vancomycin, rifampicin, cefuroxime, ampicillin, ceftazidime, fosfomycin, clarithromycin, cefepime, cefaclor. The G+C content in DNA is 67.3 %. A distinctive characteristic of the isolate was the production of industrially significant hydrolytic enzymes such as amylase, protease, β-galactosidase, and oxidoreductase (catalase) at a NaCl concentration of 25 % in the medium. Habitat: saline soils on the territory of the Tersko-Kumskaya lowland (Republic of Daghestan, Russia). The rest of the halophilic isolates of H. ventosae G1 (MW386469), H. elongata G3 (MW386471), V. salinarius B2 (MW386472), and V. salinarius B3 (MW386473) had a high degree of similarity (100 %) with the type strains of H. elongata DSM 2581Т and V. salarius DSM 18441Т ; the content of G+C in DNA was 65.8, 66.5, 42.8 and 37.3 %, respectively. The strains had a high biotechnological potential at NaCl concentrations of 5 and 25 % in the medium. The data obtained expanded the understanding of the diversity and ecological significance of denitrifying bacteria in the functioning of arid ecosystems and make it possible to identify strains producing enzymes of industrial importance.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34901720/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211214094348&v=2.15.0">34901720</a> | PMC:<a href="https://www.ncbi.nlm.nih.gov/pmc/PMC8627887/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211214094348&v=2.15.0">PMC8627887</a> | DOI:<a href=https://doi.org/10.18699/VJ21.026>10.18699/VJ21.026</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34901720</guid>
+      <pubDate>Mon, 13 Dec 2021 06:00:00 -0500</pubDate>
+      <dc:creator>E A Khalilova</dc:creator>
+      <dc:creator>S T Kotenko</dc:creator>
+      <dc:creator>E A Islammagomedova</dc:creator>
+      <dc:creator>A A Abakarova</dc:creator>
+      <dc:creator>N А Chernyh</dc:creator>
+      <dc:creator>D A Aliverdiyeva</dc:creator>
+      <dc:date>2021-12-13</dc:date>
+      <dc:source>Vavilovskii zhurnal genetiki i selektsii</dc:source>
+      <dc:title>Halophilic bacteria of salt lakes and saline soils of the Peri-Caspian lowland (Republic of Daghestan) and their biotechnological potential</dc:title>
+      <dc:identifier>pmid:34901720</dc:identifier>
+      <dc:identifier>pmc:PMC8627887</dc:identifier>
+      <dc:identifier>doi:10.18699/VJ21.026</dc:identifier>
+    </item>
+    <item>
+      <title>Iocasia fonsfrigidae NS-1 gen. nov., sp. nov., a Novel Deep-Sea Bacterium Possessing Diverse Carbohydrate Metabolic Pathways</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34899621/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211214094348&amp;v=2.15.0</link>
+      <description>Resolving metabolisms of deep-sea microorganisms is crucial for understanding ocean energy cycling. Here, a strictly anaerobic, Gram-negative strain NS-1 was isolated from the deep-sea cold seep in the South China Sea. Phylogenetic analysis based on 16S rRNA gene sequence indicated that strain NS-1 was most closely related to the type strain Halocella cellulosilytica DSM 7362^(T) (with 92.52% similarity). A combination of phylogenetic, genomic, and physiological traits with strain NS-1, was...</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">Front Microbiol. 2021 Nov 24;12:725159. doi: 10.3389/fmicb.2021.725159. eCollection 2021.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Resolving metabolisms of deep-sea microorganisms is crucial for understanding ocean energy cycling. Here, a strictly anaerobic, Gram-negative strain NS-1 was isolated from the deep-sea cold seep in the South China Sea. Phylogenetic analysis based on 16S rRNA gene sequence indicated that strain NS-1 was most closely related to the type strain <i>Halocella cellulosilytica</i> DSM 7362<sup>T</sup> (with 92.52% similarity). A combination of phylogenetic, genomic, and physiological traits with strain NS-1, was proposed to be representative of a novel genus in the family Halanaerobiaceae, for which <i>Iocasia fonsfrigidae</i> NS-1 was named. It is noteworthy that <i>I. fonsfrigidae</i> NS-1 could metabolize multiple carbohydrates including xylan, alginate, starch, and lignin, and thereby produce diverse fermentation products such as hydrogen, lactate, butyrate, and ethanol. The expressions of the key genes responsible for carbohydrate degradation as well as the production of the above small molecular substrates when strain NS-1 cultured under different conditions, were further analyzed by transcriptomic methods. We thus predicted that part of the ecological role of <i>Iocasia</i> sp. is likely in the fermentation of products from the degradation of diverse carbohydrates to produce hydrogen as well as other small molecules, which are in turn utilized by other members of cold seep microbes.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34899621/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211214094348&v=2.15.0">34899621</a> | PMC:<a href="https://www.ncbi.nlm.nih.gov/pmc/PMC8652127/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211214094348&v=2.15.0">PMC8652127</a> | DOI:<a href=https://doi.org/10.3389/fmicb.2021.725159>10.3389/fmicb.2021.725159</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34899621</guid>
+      <pubDate>Mon, 13 Dec 2021 06:00:00 -0500</pubDate>
+      <dc:creator>Jing Zhang</dc:creator>
+      <dc:creator>Yuechao Zhang</dc:creator>
+      <dc:creator>Rui Liu</dc:creator>
+      <dc:creator>Ruining Cai</dc:creator>
+      <dc:creator>Fanghua Liu</dc:creator>
+      <dc:creator>Chaomin Sun</dc:creator>
+      <dc:date>2021-12-13</dc:date>
+      <dc:source>Frontiers in microbiology</dc:source>
+      <dc:title>Iocasia fonsfrigidae NS-1 gen. nov., sp. nov., a Novel Deep-Sea Bacterium Possessing Diverse Carbohydrate Metabolic Pathways</dc:title>
+      <dc:identifier>pmid:34899621</dc:identifier>
+      <dc:identifier>pmc:PMC8652127</dc:identifier>
+      <dc:identifier>doi:10.3389/fmicb.2021.725159</dc:identifier>
+    </item>
+    <item>
+      <title>Fungal diversity notes 1387-1511: taxonomic and phylogenetic contributions on genera and species of fungal taxa</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34899100/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211214094348&amp;v=2.15.0</link>
+      <description>This article is the 13th contribution in the Fungal Diversity Notes series, wherein 125 taxa from four phyla, ten classes, 31 orders, 69 families, 92 genera and three genera incertae sedis are treated, demonstrating worldwide and geographic distribution. Fungal taxa described and illustrated in the present study include three new genera, 69 new species, one new combination, one reference specimen and 51 new records on new hosts and new geographical distributions. Three new genera, Cylindrotorula...</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">Fungal Divers. 2021 Dec 7:1-335. doi: 10.1007/s13225-021-00489-3. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">This article is the 13th contribution in the Fungal Diversity Notes series, wherein 125 taxa from four phyla, ten classes, 31 orders, 69 families, 92 genera and three genera <i>incertae sedis</i> are treated, demonstrating worldwide and geographic distribution. Fungal taxa described and illustrated in the present study include three new genera, 69 new species, one new combination, one reference specimen and 51 new records on new hosts and new geographical distributions. Three new genera, <i>Cylindrotorula</i> (<i>Torulaceae</i>), <i>Scolecoleotia</i> (<i>Leotiales</i> genus <i>incertae sedis</i>) and <i>Xenovaginatispora</i> (<i>Lindomycetaceae</i>) are introduced based on distinct phylogenetic lineages and unique morphologies. Newly described species are <i>Aspergillus lannaensis</i>, <i>Cercophora dulciaquae</i>, <i>Cladophialophora aquatica</i>, <i>Coprinellus punjabensis</i>, <i>Cortinarius alutarius</i>, <i>C. mammillatus</i>, <i>C. quercoflocculosus</i>, <i>Coryneum fagi</i>, <i>Cruentomycena uttarakhandina</i>, <i>Cryptocoryneum rosae</i>, <i>Cyathus uniperidiolus</i>, <i>Cylindrotorula indica</i>, <i>Diaporthe chamaeropicola</i>, <i>Didymella azollae</i>, <i>Diplodia alanphillipsii</i>, <i>Dothiora coronicola</i>, <i>Efibula rodriguezarmasiae</i>, <i>Erysiphe salicicola</i>, <i>Fusarium queenslandicum</i>, <i>Geastrum gorgonicum</i>, <i>G. hansagiense</i>, <i>Helicosporium sexualis</i>, <i>Helminthosporium chiangraiensis</i>, <i>Hongkongmyces kokensis</i>, <i>Hydrophilomyces hydraenae</i>, <i>Hygrocybe boertmannii</i>, <i>Hyphoderma australosetigerum</i>, <i>Hyphodontia yunnanensis</i>, <i>Khaleijomyces umikazeana</i>, <i>Laboulbenia divisa</i>, <i>Laboulbenia triarthronis</i>, <i>Laccaria populina</i>, <i>Lactarius pallidozonarius</i>, <i>Lepidosphaeria strobelii</i>, <i>Longipedicellata megafusiformis</i>, <i>Lophiotrema lincangensis</i>, <i>Marasmius benghalensis</i>, <i>M. jinfoshanensis</i>, <i>M. subtropicus</i>, <i>Mariannaea camelliae</i>, <i>Melanographium smilaxii</i>, <i>Microbotryum polycnemoides</i>, <i>Mimeomyces digitatus</i>, <i>Minutisphaera thailandensis</i>, <i>Mortierella solitaria</i>, <i>Mucor harpali</i>, <i>Nigrograna jinghongensis</i>, <i>Odontia huanrenensis</i>, <i>O. parvispina</i>, <i>Paraconiothyrium ajrekarii</i>, <i>Parafuscosporella niloticus</i>, <i>Phaeocytostroma yomensis</i>, <i>Phaeoisaria synnematicus</i>, <i>Phanerochaete hainanensis</i>, <i>Pleopunctum thailandicum</i>, <i>Pleurotheciella dimorphospora</i>, <i>Pseudochaetosphaeronema chiangraiense</i>, <i>Pseudodactylaria albicolonia</i>, <i>Rhexoacrodictys nigrospora</i>, <i>Russula paravioleipes</i>, <i>Scolecoleotia eriocamporesi</i>, <i>Seriascoma honghense</i>, <i>Synandromyces makranczyi</i>, <i>Thyridaria aureobrunnea</i>, <i>Torula lancangjiangensis</i>, <i>Tubeufia longihelicospora</i>, <i>Wicklowia fusiformispora</i>, <i>Xenovaginatispora phichaiensis</i> and <i>Xylaria apiospora</i>. One new combination, <i>Pseudobactrodesmium stilboideus</i> is proposed. A reference specimen of <i>Comoclathris permunda</i> is designated. New host or distribution records are provided for <i>Acrocalymma fici</i>, <i>Aliquandostipite khaoyaiensis</i>, <i>Camarosporidiella laburni</i>, <i>Canalisporium caribense</i>, <i>Chaetoscutula juniperi</i>, <i>Chlorophyllum demangei</i>, <i>C. globosum</i>, <i>C. hortense</i>, <i>Cladophialophora abundans</i>, <i>Dendryphion hydei</i>, <i>Diaporthe foeniculina</i>, <i>D. pseudophoenicicola</i>, <i>D. pyracanthae</i>, <i>Dictyosporium pandanicola</i>, <i>Dyfrolomyces distoseptatus</i>, <i>Ernakulamia tanakae</i>, <i>Eutypa flavovirens</i>, <i>E. lata</i>, <i>Favolus septatus</i>, <i>Fusarium atrovinosum</i>, <i>F. clavum</i>, <i>Helicosporium luteosporum</i>, <i>Hermatomyces nabanheensis</i>, <i>Hermatomyces sphaericoides</i>, <i>Longipedicellata aquatica</i>, <i>Lophiostoma caudata</i>, <i>L. clematidis-vitalbae</i>, <i>Lophiotrema hydei</i>, <i>L. neoarundinaria</i>, <i>Marasmiellus palmivorus</i>, <i>Megacapitula villosa</i>, <i>Micropsalliota globocystis</i>, <i>M. gracilis</i>, <i>Montagnula thailandica</i>, <i>Neohelicosporium irregulare</i>, <i>N. parisporum</i>, <i>Paradictyoarthrinium diffractum</i>, <i>Phaeoisaria aquatica</i>, <i>Poaceascoma taiwanense</i>, <i>Saproamanita manicata</i>, <i>Spegazzinia camelliae</i>, <i>Submersispora variabilis</i>, <i>Thyronectria caudata</i>, <i>T. mackenziei</i>, <i>Tubeufia chiangmaiensis</i>, <i>T. roseohelicospora</i>, <i>Vaginatispora nypae</i>, <i>Wicklowia submersa</i>, <i>Xanthagaricus necopinatus</i> and <i>Xylaria haemorrhoidalis</i>. The data presented herein are based on morphological examination of fresh specimens, coupled with analysis of phylogenetic sequence data to better integrate taxa into appropriate taxonomic ranks and infer their evolutionary relationships.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34899100/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211214094348&v=2.15.0">34899100</a> | PMC:<a href="https://www.ncbi.nlm.nih.gov/pmc/PMC8648402/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211214094348&v=2.15.0">PMC8648402</a> | DOI:<a href=https://doi.org/10.1007/s13225-021-00489-3>10.1007/s13225-021-00489-3</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34899100</guid>
+      <pubDate>Mon, 13 Dec 2021 06:00:00 -0500</pubDate>
+      <dc:creator>Saranyaphat Boonmee</dc:creator>
+      <dc:creator>Dhanushka N Wanasinghe</dc:creator>
+      <dc:creator>Mark S Calabon</dc:creator>
+      <dc:creator>Naruemon Huanraluek</dc:creator>
+      <dc:creator>Sajini K U Chandrasiri</dc:creator>
+      <dc:creator>Gareth E B Jones</dc:creator>
+      <dc:creator>Walter Rossi</dc:creator>
+      <dc:creator>Marco Leonardi</dc:creator>
+      <dc:creator>Sanjay K Singh</dc:creator>
+      <dc:creator>Shiwali Rana</dc:creator>
+      <dc:creator>Paras N Singh</dc:creator>
+      <dc:creator>Deepak K Maurya</dc:creator>
+      <dc:creator>Ajay C Lagashetti</dc:creator>
+      <dc:creator>Deepika Choudhary</dc:creator>
+      <dc:creator>Yu-Cheng Dai</dc:creator>
+      <dc:creator>Chang-Lin Zhao</dc:creator>
+      <dc:creator>Yan-Hong Mu</dc:creator>
+      <dc:creator>Hai-Sheng Yuan</dc:creator>
+      <dc:creator>Shuang-Hui He</dc:creator>
+      <dc:creator>Rungtiwa Phookamsak</dc:creator>
+      <dc:creator>Hong-Bo Jiang</dc:creator>
+      <dc:creator>María P Martín</dc:creator>
+      <dc:creator>Margarita Dueñas</dc:creator>
+      <dc:creator>M Teresa Telleria</dc:creator>
+      <dc:creator>Izabela L Kałucka</dc:creator>
+      <dc:creator>Andrzej M Jagodziński</dc:creator>
+      <dc:creator>Kare Liimatainen</dc:creator>
+      <dc:creator>Diana S Pereira</dc:creator>
+      <dc:creator>Alan J L Phillips</dc:creator>
+      <dc:creator>Nakarin Suwannarach</dc:creator>
+      <dc:creator>Jaturong Kumla</dc:creator>
+      <dc:creator>Surapong Khuna</dc:creator>
+      <dc:creator>Saisamorn Lumyong</dc:creator>
+      <dc:creator>Tarynn B Potter</dc:creator>
+      <dc:creator>Roger G Shivas</dc:creator>
+      <dc:creator>Adam H Sparks</dc:creator>
+      <dc:creator>Niloofar Vaghefi</dc:creator>
+      <dc:creator>Mohamed A Abdel-Wahab</dc:creator>
+      <dc:creator>Faten A Abdel-Aziz</dc:creator>
+      <dc:creator>Guo-Jie Li</dc:creator>
+      <dc:creator>Wen-Fei Lin</dc:creator>
+      <dc:creator>Upendra Singh</dc:creator>
+      <dc:creator>Rajendra P Bhatt</dc:creator>
+      <dc:creator>Hyang Burm Lee</dc:creator>
+      <dc:creator>Thuong T T Nguyen</dc:creator>
+      <dc:creator>Paul M Kirk</dc:creator>
+      <dc:creator>Arun Kumar Dutta</dc:creator>
+      <dc:creator>Krishnendu Acharya</dc:creator>
+      <dc:creator>V Venkateswara Sarma</dc:creator>
+      <dc:creator>M Niranjan</dc:creator>
+      <dc:creator>Kunhiraman C Rajeshkumar</dc:creator>
+      <dc:creator>Nikhil Ashtekar</dc:creator>
+      <dc:creator>Sneha Lad</dc:creator>
+      <dc:creator>Nalin N Wijayawardene</dc:creator>
+      <dc:creator>Darbe J Bhat</dc:creator>
+      <dc:creator>Rong-Ju Xu</dc:creator>
+      <dc:creator>Subodini N Wijesinghe</dc:creator>
+      <dc:creator>Hong-Wei Shen</dc:creator>
+      <dc:creator>Zong-Long Luo</dc:creator>
+      <dc:creator>Jing-Yi Zhang</dc:creator>
+      <dc:creator>Phongeun Sysouphanthong</dc:creator>
+      <dc:creator>Naritsada Thongklang</dc:creator>
+      <dc:creator>Dan-Feng Bao</dc:creator>
+      <dc:creator>Janith V S Aluthmuhandiram</dc:creator>
+      <dc:creator>Jafar Abdollahzadeh</dc:creator>
+      <dc:creator>Alireza Javadi</dc:creator>
+      <dc:creator>Francesco Dovana</dc:creator>
+      <dc:creator>Muhammad Usman</dc:creator>
+      <dc:creator>Abdul Nasir Khalid</dc:creator>
+      <dc:creator>Asha J Dissanayake</dc:creator>
+      <dc:creator>Anusha Telagathoti</dc:creator>
+      <dc:creator>Maraike Probst</dc:creator>
+      <dc:creator>Ursula Peintner</dc:creator>
+      <dc:creator>Isaac Garrido-Benavent</dc:creator>
+      <dc:creator>Lilla Bóna</dc:creator>
+      <dc:creator>Zsolt Merényi</dc:creator>
+      <dc:creator>Lajos Boros</dc:creator>
+      <dc:creator>Bratek Zoltán</dc:creator>
+      <dc:creator>J Benjamin Stielow</dc:creator>
+      <dc:creator>Ning Jiang</dc:creator>
+      <dc:creator>Cheng-Ming Tian</dc:creator>
+      <dc:creator>Esmaeil Shams</dc:creator>
+      <dc:creator>Farzaneh Dehghanizadeh</dc:creator>
+      <dc:creator>Adel Pordel</dc:creator>
+      <dc:creator>Mohammad Javan-Nikkhah</dc:creator>
+      <dc:creator>Teodor T Denchev</dc:creator>
+      <dc:creator>Cvetomir M Denchev</dc:creator>
+      <dc:creator>Martin Kemler</dc:creator>
+      <dc:creator>Dominik Begerow</dc:creator>
+      <dc:creator>Chun-Ying Deng</dc:creator>
+      <dc:creator>Emma Harrower</dc:creator>
+      <dc:creator>Tohir Bozorov</dc:creator>
+      <dc:creator>Tutigul Kholmuradova</dc:creator>
+      <dc:creator>Yusufjon Gafforov</dc:creator>
+      <dc:creator>Aziz Abdurazakov</dc:creator>
+      <dc:creator>Jian-Chu Xu</dc:creator>
+      <dc:creator>Peter E Mortimer</dc:creator>
+      <dc:creator>Guang-Cong Ren</dc:creator>
+      <dc:creator>Rajesh Jeewon</dc:creator>
+      <dc:creator>Sajeewa S N Maharachchikumbura</dc:creator>
+      <dc:creator>Chayanard Phukhamsakda</dc:creator>
+      <dc:creator>Ausana Mapook</dc:creator>
+      <dc:creator>Kevin D Hyde</dc:creator>
+      <dc:date>2021-12-13</dc:date>
+      <dc:source>Fungal diversity</dc:source>
+      <dc:title>Fungal diversity notes 1387-1511: taxonomic and phylogenetic contributions on genera and species of fungal taxa</dc:title>
+      <dc:identifier>pmid:34899100</dc:identifier>
+      <dc:identifier>pmc:PMC8648402</dc:identifier>
+      <dc:identifier>doi:10.1007/s13225-021-00489-3</dc:identifier>
+    </item>
+    <item>
+      <title>Taxonomical study on the newly-recorded genus &lt;em&gt;Falsonnannocerus&lt;/em&gt; Pic from China (Coleoptera, Tenebrionidae, Stenochiinae)</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34899012/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211214094348&amp;v=2.15.0</link>
+      <description>BACKGROUND: The genus Falsonannocerus Pic, 1947 (Coleoptera, Tenebrionidae, Stenochiinae, Cnodalonini) includes 13 known species occurring in West Africa, South Asia and Southeast Asia. The bionomics of species in this genus are unknown.</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">Biodivers Data J. 2021 Dec 1;9:e73232. doi: 10.3897/BDJ.9.e73232. eCollection 2021.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: The genus <i>Falsonannocerus</i> Pic, 1947 (Coleoptera, Tenebrionidae, Stenochiinae, Cnodalonini) includes 13 known species occurring in West Africa, South Asia and Southeast Asia. The bionomics of species in this genus are unknown.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">NEW INFORMATION: The genus <i>Falsonnannocerus</i> Pic, 1947 is recorded for the first time from China, including two species: <i>F.thailandicus</i> Masumoto, 1986 from Yunnan and <i>F.haizhuensis</i> sp. n. from Guangdong. Morphological characters of the two species are illustrated and compared. The photographs of female reproductive system, which were never shown for this genus before, are also presented.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34899012/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211214094348&v=2.15.0">34899012</a> | PMC:<a href="https://www.ncbi.nlm.nih.gov/pmc/PMC8654814/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211214094348&v=2.15.0">PMC8654814</a> | DOI:<a href=https://doi.org/10.3897/BDJ.9.e73232>10.3897/BDJ.9.e73232</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34899012</guid>
+      <pubDate>Mon, 13 Dec 2021 06:00:00 -0500</pubDate>
+      <dc:creator>Jiang Zhu</dc:creator>
+      <dc:creator>Cheng-Bin Wang</dc:creator>
+      <dc:creator>Bao-Ying Feng</dc:creator>
+      <dc:date>2021-12-13</dc:date>
+      <dc:source>Biodiversity data journal</dc:source>
+      <dc:title>Taxonomical study on the newly-recorded genus &lt;em&gt;Falsonnannocerus&lt;/em&gt; Pic from China (Coleoptera, Tenebrionidae, Stenochiinae)</dc:title>
+      <dc:identifier>pmid:34899012</dc:identifier>
+      <dc:identifier>pmc:PMC8654814</dc:identifier>
+      <dc:identifier>doi:10.3897/BDJ.9.e73232</dc:identifier>
+    </item>
+    <item>
+      <title>Taxonomy of the Proisotoma complex. VI. Rediscovery of the genus Bagnallella Salmon, 1951 and epitoky in Bagnallelladavidi (Barra, 2001), comb. nov. from South Africa</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34899011/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211214094348&amp;v=2.15.0</link>
+      <description>The genus Bagnallella Salmon is restored and given a diagnosis. It takes an intermediate position between Proisotoma Börner and Cryptopygus Willem complexes and is characterized by the separation of the two last abdominal segments (like in Proisotoma) and 3 and 5 s-chaetae on the fourth and fifth abdominal segments (like in Cryptopygus and its allies). A list of and key to species belonging to Bagnallella is given. Bagnallellabiseta comb. nov., B.dubia comb. nov., B.sedecimoculata comb. nov.,...</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">Zookeys. 2021 Nov 23;1072:185-204. doi: 10.3897/zookeys.1072.71307. eCollection 2021.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">The genus <i>Bagnallella</i> Salmon is restored and given a diagnosis. It takes an intermediate position between <i>Proisotoma</i> Börner and <i>Cryptopygus</i> Willem complexes and is characterized by the separation of the two last abdominal segments (like in <i>Proisotoma</i>) and 3 and 5 s-chaetae on the fourth and fifth abdominal segments (like in <i>Cryptopygus</i> and its allies). A list of and key to species belonging to <i>Bagnallella</i> is given. <i>Bagnallellabiseta</i> <b>comb. nov.</b>, <i>B.dubia</i> <b>comb. nov.</b>, <i>B.sedecimoculata</i> <b>comb. nov.</b>, and <i>B.tenella</i> <b>comb. nov.</b> are commented and redescribed. Morphology of <i>Bagnallelladavidi</i> (Barra), <b>comb. nov.</b> is described from the specimens from South Africa. So far <i>B.davidi</i> appears to be a complex of forms differing in size of the furca and macrochaetae. Two types of strongly modified males were found and described. Antennae, ventral side of abdomen, posterior edge of abdominal tergites, and mandibles are affected with epitoky. The nature of the discovered strong polymorphism is unclear.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34899011/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211214094348&v=2.15.0">34899011</a> | PMC:<a href="https://www.ncbi.nlm.nih.gov/pmc/PMC8632875/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211214094348&v=2.15.0">PMC8632875</a> | DOI:<a href=https://doi.org/10.3897/zookeys.1072.71307>10.3897/zookeys.1072.71307</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34899011</guid>
+      <pubDate>Mon, 13 Dec 2021 06:00:00 -0500</pubDate>
+      <dc:creator>Mikhail Potapov</dc:creator>
+      <dc:creator>Louis Deharveng</dc:creator>
+      <dc:creator>Charlene Janion-Scheepers</dc:creator>
+      <dc:date>2021-12-13</dc:date>
+      <dc:source>ZooKeys</dc:source>
+      <dc:title>Taxonomy of the Proisotoma complex. VI. Rediscovery of the genus Bagnallella Salmon, 1951 and epitoky in Bagnallelladavidi (Barra, 2001), comb. nov. from South Africa</dc:title>
+      <dc:identifier>pmid:34899011</dc:identifier>
+      <dc:identifier>pmc:PMC8632875</dc:identifier>
+      <dc:identifier>doi:10.3897/zookeys.1072.71307</dc:identifier>
+    </item>
+    <item>
+      <title>On two new species of deep-sea carrier crabs (Crustacea, Brachyura, Homolodromiidae, Dicranodromia) from Taiwan and the Philippines, with notes on other Indo-West Pacific species</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34899010/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211214094348&amp;v=2.15.0</link>
+      <description>The systematics of four species of the homolodromiid genus Dicranodromia A. Milne-Edwards, 1880, from East Asia and the Philippines is reappraised: D.danielae Ng &amp; McLay, 2005, D.doederleini Ortmann, 1892, D.karubar Guinot, 1993, and D.martini Guinot, 1995; and key characters such as the epistome, gonopods, and spermatheca are figured in detail. Two new species, D.erinaceus sp. nov. and D.robusta sp. nov., are described from Taiwan and the Philippines, respectively. Dicranodromiaerinaceus sp....</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">Zookeys. 2021 Nov 22;1072:129-165. doi: 10.3897/zookeys.1072.72978. eCollection 2021.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">The systematics of four species of the homolodromiid genus <i>Dicranodromia</i> A. Milne-Edwards, 1880, from East Asia and the Philippines is reappraised: <i>D.danielae</i> Ng &amp; McLay, 2005, <i>D.doederleini</i> Ortmann, 1892, <i>D.karubar</i> Guinot, 1993, and <i>D.martini</i> Guinot, 1995; and key characters such as the epistome, gonopods, and spermatheca are figured in detail. Two new species, <i>D.erinaceus</i> <b>sp. nov.</b> and <i>D.robusta</i> <b>sp. nov.</b>, are described from Taiwan and the Philippines, respectively. <i>Dicranodromiaerinaceus</i> <b>sp. nov.</b> resembles <i>D.spinulata</i> Guinot, 1995, and <i>D.delli</i> Ahyong, 2008 (from New Caledonia and New Zealand) but can be separated by its distinctly spinulated carapace surfaces and proportionately shorter fifth ambulatory legs. <i>Dicranodromiarobusta</i> <b>sp. nov.</b> is superficially similar to <i>D.baffini</i> (Alcock &amp; Anderson, 1899) and <i>D.karubar</i> Guinot, 1993, but can easily be separated by possessing a broad dorsoventrally flattened infraorbital tooth. A genetic study of the species using the mitochondrial cytochrome c oxidase I gene confirms that the taxa are distinct, with <i>D.erinaceus</i> <b>sp. nov.</b> coming out in a well-supported clade from congeners. The megalopa of <i>D.doederleini</i> is also reported for the first time.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34899010/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211214094348&v=2.15.0">34899010</a> | PMC:<a href="https://www.ncbi.nlm.nih.gov/pmc/PMC8629907/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211214094348&v=2.15.0">PMC8629907</a> | DOI:<a href=https://doi.org/10.3897/zookeys.1072.72978>10.3897/zookeys.1072.72978</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34899010</guid>
+      <pubDate>Mon, 13 Dec 2021 06:00:00 -0500</pubDate>
+      <dc:creator>Peter K L Ng</dc:creator>
+      <dc:creator>Chien-Hui Yang</dc:creator>
+      <dc:date>2021-12-13</dc:date>
+      <dc:source>ZooKeys</dc:source>
+      <dc:title>On two new species of deep-sea carrier crabs (Crustacea, Brachyura, Homolodromiidae, Dicranodromia) from Taiwan and the Philippines, with notes on other Indo-West Pacific species</dc:title>
+      <dc:identifier>pmid:34899010</dc:identifier>
+      <dc:identifier>pmc:PMC8629907</dc:identifier>
+      <dc:identifier>doi:10.3897/zookeys.1072.72978</dc:identifier>
+    </item>
+    <item>
+      <title>A new species of the genus Tylototriton (Urodela, Salamandridae) from western Thailand</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34899008/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211214094348&amp;v=2.15.0</link>
+      <description>We describe a new species of the newt genus Tylototriton from Umphang Wildlife Sanctuary, Tak Province, western Thailand based on molecular and morphological evidence and named here as Tylototritonumphangensis sp. nov. The new species is assigned to the subgenus Tylototriton and differs from other species in having dark-brown to blackish-brown body and limbs, truncate snout, prominent antero-medial ends of the expansion of the dentary bones, laterally protruding quadrate regions, indistinct and...</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">Zookeys. 2021 Nov 19;1072:83-105. doi: 10.3897/zookeys.1072.75320. eCollection 2021.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">We describe a new species of the newt genus <i>Tylototriton</i> from Umphang Wildlife Sanctuary, Tak Province, western Thailand based on molecular and morphological evidence and named here as <i>Tylototritonumphangensis</i> <b>sp. nov.</b> The new species is assigned to the subgenus Tylototriton and differs from other species in having dark-brown to blackish-brown body and limbs, truncate snout, prominent antero-medial ends of the expansion of the dentary bones, laterally protruding quadrate regions, indistinct and small rib nodules, a well-segmented vertebral ridge, and rough dorsolateral bony ridges, which are steeper anterior, and curved medially at the posterior ends. The molecular data show that <i>Tylototritonumphangensis</i> <b>sp. nov.</b> differs from <i>T.uyenoi</i> sensu stricto by a 5% genetic sequence divergence of the mitochondrial NADH dehydrogenase subunit 2 region gene. The new species and <i>T.uyenoi</i> are both endemic to Thailand, distributed along the Northwest Thai (Dawna) Uplands of Indochina. To clarify the species boundary between <i>Tylototritonumphangensis</i> <b>sp. nov.</b> and <i>T.uyenoi</i>, additional field research is needed in adjacent areas. <i>Tylototritonumphangensis</i> <b>sp. nov.</b> is restricted to evergreen hill forests in Umphang Wildlife Sanctuary. We suggest that the new species should be classified as Endangered (EN) in the IUCN Red List.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34899008/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211214094348&v=2.15.0">34899008</a> | PMC:<a href="https://www.ncbi.nlm.nih.gov/pmc/PMC8626410/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211214094348&v=2.15.0">PMC8626410</a> | DOI:<a href=https://doi.org/10.3897/zookeys.1072.75320>10.3897/zookeys.1072.75320</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34899008</guid>
+      <pubDate>Mon, 13 Dec 2021 06:00:00 -0500</pubDate>
+      <dc:creator>Porrawee Pomchote</dc:creator>
+      <dc:creator>Parada Peerachidacho</dc:creator>
+      <dc:creator>Axel Hernandez</dc:creator>
+      <dc:creator>Pitak Sapewisut</dc:creator>
+      <dc:creator>Wichase Khonsue</dc:creator>
+      <dc:creator>Panupong Thammachoti</dc:creator>
+      <dc:creator>Kanto Nishikawa</dc:creator>
+      <dc:date>2021-12-13</dc:date>
+      <dc:source>ZooKeys</dc:source>
+      <dc:title>A new species of the genus Tylototriton (Urodela, Salamandridae) from western Thailand</dc:title>
+      <dc:identifier>pmid:34899008</dc:identifier>
+      <dc:identifier>pmc:PMC8626410</dc:identifier>
+      <dc:identifier>doi:10.3897/zookeys.1072.75320</dc:identifier>
+    </item>
+    <item>
+      <title>Nine new species of the spider family Araneidae (Arachnida, Araneae) from Xishuangbanna, Yunnan, China</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34899007/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211214094348&amp;v=2.15.0</link>
+      <description>Nine new species of the orb-weaver spider family Araneidae Clerck, 1757 from Menglun Town, Xishuangbanna, Yunnan, China are described: Acusilastongi sp. nov. (♂♀), Chorizopesyui sp. nov. (♂♀), Chorizopesoidesguoi sp. nov. (♂♀), Deionecheni sp. nov. (♀), D.yangi sp. nov. (♂♀), Hypsosingapulla sp. nov. (♂♀), Mangorabaii sp. nov. (♂♀), M.cephala sp. nov. (♂♀) and Miloniagemella sp. nov. (♂♀). The genus Milonia Thorell, 1890 is recorded from China for the first time. The previous description of...</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">Zookeys. 2021 Nov 19;1072:49-81. doi: 10.3897/zookeys.1072.73345. eCollection 2021.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Nine new species of the orb-weaver spider family Araneidae Clerck, 1757 from Menglun Town, Xishuangbanna, Yunnan, China are described: <i>Acusilastongi</i> <b>sp. nov.</b> (♂♀), <i>Chorizopesyui</i> <b>sp. nov.</b> (♂♀), <i>Chorizopesoidesguoi</i> <b>sp. nov.</b> (♂♀), <i>Deionecheni</i> <b>sp. nov.</b> (♀), <i>D.yangi</i> <b>sp. nov.</b> (♂♀), <i>Hypsosingapulla</i> <b>sp. nov.</b> (♂♀), <i>Mangorabaii</i> <b>sp. nov.</b> (♂♀), <i>M.cephala</i> <b>sp. nov.</b> (♂♀) and <i>Miloniagemella</i> <b>sp. nov.</b> (♂♀). The genus <i>Milonia</i> Thorell, 1890 is recorded from China for the first time. The previous description of <i>Chorizopesoideswulingensis</i> (Yin, Wang &amp; Xie, 1994) from Libo County, Guizhou by Mi and Wang (2018) refers to <i>Chorizopesoidesannasestakovae</i> <b>sp. nov.</b> (♂♀). Diagnostic photos of the habitus and copulatory organs of the new species are provided.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34899007/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211214094348&v=2.15.0">34899007</a> | PMC:<a href="https://www.ncbi.nlm.nih.gov/pmc/PMC8626412/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211214094348&v=2.15.0">PMC8626412</a> | DOI:<a href=https://doi.org/10.3897/zookeys.1072.73345>10.3897/zookeys.1072.73345</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34899007</guid>
+      <pubDate>Mon, 13 Dec 2021 06:00:00 -0500</pubDate>
+      <dc:creator>Xiaoqi Mi</dc:creator>
+      <dc:creator>Shuqiang Li</dc:creator>
+      <dc:date>2021-12-13</dc:date>
+      <dc:source>ZooKeys</dc:source>
+      <dc:title>Nine new species of the spider family Araneidae (Arachnida, Araneae) from Xishuangbanna, Yunnan, China</dc:title>
+      <dc:identifier>pmid:34899007</dc:identifier>
+      <dc:identifier>pmc:PMC8626412</dc:identifier>
+      <dc:identifier>doi:10.3897/zookeys.1072.73345</dc:identifier>
+    </item>
+    <item>
+      <title>Taxonomic study on fourteen symphytognathid species from Asia (Araneae, Symphytognathidae)</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34899006/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211214094348&amp;v=2.15.0</link>
+      <description>Fourteen symphytognathid species belonging to three genera are examined, including the descriptions of eight new species and two new genera from China, Vietnam, Thailand and Myanmar: Patu Marples, 1951: P.catba S. Li &amp; Lin, sp. nov. (♂, Vietnam), P.dakou S. Li &amp; Lin, sp. nov. (♂♀, China), P.damtao S. Li &amp; Lin, sp. nov. (♂, Vietnam), P.jiangzhou S. Li &amp; Lin, sp. nov. (♀, China), P.jidanweishi Miller, Griswold &amp; Yin, 2009 (♂♀, China), P.nagarat S. Li &amp; Lin, sp. nov. (♂♀, Thailand), P.nigeri Lin &amp;...</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">Zookeys. 2021 Nov 19;1072:1-47. doi: 10.3897/zookeys.1072.67935. eCollection 2021.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Fourteen symphytognathid species belonging to three genera are examined, including the descriptions of eight new species and two new genera from China, Vietnam, Thailand and Myanmar: <i>Patu</i> Marples, 1951: <i>P.catba</i> S. Li &amp; Lin, <b>sp. nov.</b> (♂, Vietnam), <i>P.dakou</i> S. Li &amp; Lin, <b>sp. nov.</b> (♂♀, China), <i>P.damtao</i> S. Li &amp; Lin, <b>sp. nov.</b> (♂, Vietnam), <i>P.jiangzhou</i> S. Li &amp; Lin, <b>sp. nov.</b> (♀, China), <i>P.jidanweishi</i> Miller, Griswold &amp; Yin, 2009 (♂♀, China), <i>P.nagarat</i> S. Li &amp; Lin, <b>sp. nov.</b> (♂♀, Thailand), <i>P.nigeri</i> Lin &amp; S. Li, 2009 (♀, China), <i>P.putao</i> S. Li &amp; Lin, <b>sp. nov.</b> (♀, Myanmar), <i>P.qiqi</i> Miller, Griswold &amp; Yin, 2009 (♀, China) and <i>P.xiaoxiao</i> Miller, Griswold &amp; Yin, 2009 (♂♀, China); <i>Kirinua</i> S. Li &amp; Lin, <b>gen. nov.</b>: <i>K.maguai</i> S. Li &amp; Lin, <b>sp. nov.</b> (♂♀, China) and <i>K.yangshuo</i> S. Li &amp; Lin, <b>sp. nov.</b> (♂♀, China); <i>Swilda</i> S. Li &amp; Lin, <b>gen. nov.</b>: <i>S.longtou</i> (Miller, Griswold &amp; Yin, 2009), <b>comb. nov.</b> (♂♀, China) is transferred from <i>Crassignatha</i> Wunderlich, 1995 and <i>S.spinathoraxi</i> (Lin &amp; S. Li, 2009), <b>comb. nov.</b> (♂♀, China) is transferred from <i>Patu</i>. Diagnoses, descriptions and illustrations are provided for new taxa, as well as a distribution map. The males of <i>P.xiaoxiao</i> and <i>S.longtou</i> are described for the first time. Type specimens of <i>P.jidanweishi</i>, <i>P.nigeri</i>, <i>P.qiqi</i>, <i>P.xiaoxiao</i>, <i>S.longtou</i> and <i>S.spinathoraxi</i> are re-examined and photographed. All Asian <i>Patu</i> species are revised and two species, <i>P.kishidai</i> Shinkai, 2009 and <i>P.bispina</i> Lin, Pham &amp; S. Li, 2009, are transferred to <i>Crassignatha</i> and proposed as new combinations: <i>Crassignathakishidai</i> <b>comb. nov.</b> and <i>C.bispina</i> <b>comb. nov.</b> In addition, DNA barcodes and genetic distances of ten species treated in this paper were obtained to confirm identification.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34899006/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211214094348&v=2.15.0">34899006</a> | PMC:<a href="https://www.ncbi.nlm.nih.gov/pmc/PMC8626413/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211214094348&v=2.15.0">PMC8626413</a> | DOI:<a href=https://doi.org/10.3897/zookeys.1072.67935>10.3897/zookeys.1072.67935</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34899006</guid>
+      <pubDate>Mon, 13 Dec 2021 06:00:00 -0500</pubDate>
+      <dc:creator>Ya Li</dc:creator>
+      <dc:creator>Shuqiang Li</dc:creator>
+      <dc:creator>Yucheng Lin</dc:creator>
+      <dc:date>2021-12-13</dc:date>
+      <dc:source>ZooKeys</dc:source>
+      <dc:title>Taxonomic study on fourteen symphytognathid species from Asia (Araneae, Symphytognathidae)</dc:title>
+      <dc:identifier>pmid:34899006</dc:identifier>
+      <dc:identifier>pmc:PMC8626413</dc:identifier>
+      <dc:identifier>doi:10.3897/zookeys.1072.67935</dc:identifier>
+    </item>
+    <item>
+      <title>Xenorhabdus lircayensis sp. nov., the symbiotic bacterium associated with the entomopathogenic nematode Steinernema unicornum</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34898417/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211214094348&amp;v=2.15.0</link>
+      <description>Xenorhabdus is a symbiotic group of bacteria associated with entomopathogenic nematodes of the family Steinernematidae. Although the described Steirnernema species list is extensive, not all their symbiotic bacteria have been identified. One single motile, Gram-negative and non-spore-forming rod-shaped symbiotic bacterium, strain VLS^(T), was isolated from the entomopathogenic nematode Steinernema unicornum. Analyses of the 16S rRNA gene determined that the VLS^(T) isolate belongs to the genus...</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">Int J Syst Evol Microbiol. 2021 Dec;71(12). doi: 10.1099/ijsem.0.005151.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one"><i>Xenorhabdus</i> is a symbiotic group of bacteria associated with entomopathogenic nematodes of the family Steinernematidae. Although the described <i>Steirnernema</i> species list is extensive, not all their symbiotic bacteria have been identified. One single motile, Gram-negative and non-spore-forming rod-shaped symbiotic bacterium, strain VLS<sup>T</sup>, was isolated from the entomopathogenic nematode <i>Steinernema unicornum</i>. Analyses of the 16S rRNA gene determined that the VLS<sup>T</sup> isolate belongs to the genus <i>Xenorhabdus</i>, and its closest related species is <i>Xenorhabdus szentirmaii</i> DSM 16338<sup>T</sup> (98.2 %). Deeper analyses using the whole genome for phylogenetic reconstruction indicate that VLS<sup>T</sup> exhibits a unique clade in the genus. Genomic comparisons considering digital DNA-DNA hybridization (dDDH) values confirms this result, showing that the VLS<sup>T</sup> values are distant enough from the 70 % threshold suggested for new species, sharing 30.7, 30.5 and 30.3 % dDDH with <i>Xenorhabdus khoisanae</i> MCB, <i>Xenorhabdus koppenhoeferi</i> DSM 18168<sup>T</sup> and <i>Xenorhabdus miraniensis</i> DSM 18168<sup>T</sup>, respectively, as the closest species. Detailed physiological, biochemical and chemotaxonomic tests of the VLS<sup>T</sup> isolate reveal consistent differences from previously described <i>Xenorhabdus</i> species. Phylogenetic, physiological, biochemical and chemotaxonomic approaches show that VLS<sup>T</sup> represents a new species of the genus <i>Xenorhabdus</i>, for which the name <i>Xenorhabdus lircayensis</i> sp. nov. (type strain VLS<sup>T</sup>=CCCT 20.04<sup>T</sup>=DSM 111583<sup>T</sup>) is proposed.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34898417/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211214094348&v=2.15.0">34898417</a> | DOI:<a href=https://doi.org/10.1099/ijsem.0.005151>10.1099/ijsem.0.005151</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34898417</guid>
+      <pubDate>Mon, 13 Dec 2021 06:00:00 -0500</pubDate>
+      <dc:creator>Carlos Castaneda-Alvarez</dc:creator>
+      <dc:creator>Simona Prodan</dc:creator>
+      <dc:creator>Alan Zamorano</dc:creator>
+      <dc:creator>Ernesto San-Blas</dc:creator>
+      <dc:creator>Erwin Aballay</dc:creator>
+      <dc:date>2021-12-13</dc:date>
+      <dc:source>International journal of systematic and evolutionary microbiology</dc:source>
+      <dc:title>Xenorhabdus lircayensis sp. nov., the symbiotic bacterium associated with the entomopathogenic nematode Steinernema unicornum</dc:title>
+      <dc:identifier>pmid:34898417</dc:identifier>
+      <dc:identifier>doi:10.1099/ijsem.0.005151</dc:identifier>
+    </item>
+    <item>
+      <title>Brilliantia kiribatiensis, a new genus and species of Cladophorales (Chlorophyta) from the remote coral reefs of the Southern Line Islands, Pacific Ocean</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34897676/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211214094348&amp;v=2.15.0</link>
+      <description>The marine green alga Brilliantia kiribatiensis gen. et sp. nov. is described from samples collected during two expeditions (2009, 2013) from the coral reefs of the Southern Line Islands, Republic of Kiribati, Pacific Ocean. Phylogenetic analysis of sequences of the large- and small-subunit rDNA and the rDNA internal transcribed spacer region revealed that Brilliantia is a member of the Boodleaceae (Cladophorales), containing the genera Apjohnia, Boodlea, Cladophoropsis, Chamaedoris,...</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">J Phycol. 2021 Dec 12. doi: 10.1111/jpy.13230. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">The marine green alga Brilliantia kiribatiensis gen. et sp. nov. is described from samples collected during two expeditions (2009, 2013) from the coral reefs of the Southern Line Islands, Republic of Kiribati, Pacific Ocean. Phylogenetic analysis of sequences of the large- and small-subunit rDNA and the rDNA internal transcribed spacer region revealed that Brilliantia is a member of the Boodleaceae (Cladophorales), containing the genera Apjohnia, Boodlea, Cladophoropsis, Chamaedoris, Phyllodictyon and Struvea. Within this clade it formed a distinct lineage, sister to Struvea elegans, but more distantly related to the bona-fide Struvea species (including the type S. plumosa). Brilliantia differs from the other genera by having a very simple architecture forming upright, unbranched, single-celled filaments attached to the substratum by a rhizoidal mat. Cell division occurs by segregative cell division only at the onset of reproduction. Based on current sample collection, B. kiribatiensis seems to be largely restricted to the Southern Line Islands, although it was also observed on neighboring islands, including Orona Atoll in the Phoenix Islands of Kiribati, and the Rangiroa and Takapoto Atolls in the Tuamotus of French Polynesia. This discovery highlights the likeliness that there is still much biodiversity yet to be discovered from these remote and pristine reefs of the central Pacific.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34897676/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211214094348&v=2.15.0">34897676</a> | DOI:<a href=https://doi.org/10.1111/jpy.13230>10.1111/jpy.13230</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34897676</guid>
+      <pubDate>Mon, 13 Dec 2021 06:00:00 -0500</pubDate>
+      <dc:creator>Frederik Leliaert</dc:creator>
+      <dc:creator>Emily L A Kelly</dc:creator>
+      <dc:creator>Jan Janouškovec</dc:creator>
+      <dc:creator>Michael D Fox</dc:creator>
+      <dc:creator>Maggie D Johnson</dc:creator>
+      <dc:creator>Farran M Redfern</dc:creator>
+      <dc:creator>Taati Eria</dc:creator>
+      <dc:creator>Andreas F Haas</dc:creator>
+      <dc:creator>Enric Sala</dc:creator>
+      <dc:creator>Stuart A Sandin</dc:creator>
+      <dc:creator>Jennifer E Smith</dc:creator>
+      <dc:date>2021-12-13</dc:date>
+      <dc:source>Journal of phycology</dc:source>
+      <dc:title>Brilliantia kiribatiensis, a new genus and species of Cladophorales (Chlorophyta) from the remote coral reefs of the Southern Line Islands, Pacific Ocean</dc:title>
+      <dc:identifier>pmid:34897676</dc:identifier>
+      <dc:identifier>doi:10.1111/jpy.13230</dc:identifier>
+    </item>
+    <item>
+      <title>Chemotaxonomy of Five South American Species of the Triatoma genus (Hemiptera: Reduviidae: Triatominae) Based on Their Cuticle Hydrocarbon Pattern</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34893852/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211214094348&amp;v=2.15.0</link>
+      <description>The Triatoma sordida subcomplex traditionally included four triatomine species, T. sordida, Triatoma garciabesi, Triatoma guasayana, and Triatoma patagonica, distributed in the Southern Cone of South America. These species have a large intraspecific variability together with an overall similarity, making difficult to establish their taxonomic status. Many cytogenetic, morphometric, and molecular markers have been applied to address this. Recent studies have posed concerns on the inclusion of T....</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">J Med Entomol. 2021 Dec 10:tjab199. doi: 10.1093/jme/tjab199. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">The Triatoma sordida subcomplex traditionally included four triatomine species, T. sordida, Triatoma garciabesi, Triatoma guasayana, and Triatoma patagonica, distributed in the Southern Cone of South America. These species have a large intraspecific variability together with an overall similarity, making difficult to establish their taxonomic status. Many cytogenetic, morphometric, and molecular markers have been applied to address this. Recent studies have posed concerns on the inclusion of T. guasayana and T. patagonica within the subcomplex. Also, T. sordida from Argentina has been designed as a new species, Triatoma rosai. Using the cuticular hydrocarbon pattern as chemotaxonomic marker, the relationships among several populations of these species were analyzed by capillary gas chromatography and linear discriminant analysis along 25 collection sites in Argentina, Bolivia, Brazil, and Paraguay. T. sordida and T. rosai populations were differentially clustered in two CHC-based groups: "Group 1" included T. sordida from Eastern Brazil, Eastern Paraguay, and the Bolivian populations from La Paz and Izozog G1; "Group 2" included T. rosai, and T. sordida from Izozog G2 (Bolivia), and Western Paraguay. Whereas T. garciabesi remained closely related to T. sordida and T. rosai, T. guasayana, and T. patagonica were clearly separated from the species of the T. sordida subcomplex. Our results agree with those from other several techniques suggesting that the taxonomy of the T. sordida subcomplex should be revised.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34893852/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211214094348&v=2.15.0">34893852</a> | DOI:<a href=https://doi.org/10.1093/jme/tjab199>10.1093/jme/tjab199</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34893852</guid>
+      <pubDate>Sat, 11 Dec 2021 06:00:00 -0500</pubDate>
+      <dc:creator>Débora E Moriconi</dc:creator>
+      <dc:creator>Catarina Macedo-Lopes</dc:creator>
+      <dc:creator>Adriana Sartorio</dc:creator>
+      <dc:creator>M Patricia Juárez</dc:creator>
+      <dc:creator>Juan R Girotti</dc:creator>
+      <dc:creator>Gustavo M Calderón-Fernández</dc:creator>
+      <dc:date>2021-12-11</dc:date>
+      <dc:source>Journal of medical entomology</dc:source>
+      <dc:title>Chemotaxonomy of Five South American Species of the Triatoma genus (Hemiptera: Reduviidae: Triatominae) Based on Their Cuticle Hydrocarbon Pattern</dc:title>
+      <dc:identifier>pmid:34893852</dc:identifier>
+      <dc:identifier>doi:10.1093/jme/tjab199</dc:identifier>
+    </item>
+    <item>
+      <title>Hoyosella lacisalsi sp. nov., a halotolerant actinobacterium isolated from the Lake Gudzhirganskoe</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34889730/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211214094348&amp;v=2.15.0</link>
+      <description>A Gram-stain-positive, aerobic, non-motile, non-spore-forming and coccus-shaped strain, designated strain G463^(T), was isolated from the rhizosphere soil of Salicornia europaea L. collected from Lake Gudzhirganskoe in Siberia. Based on 16S rRNA gene phylogeny, strain G463^(T) belonged to the genus Hoyosella, with the highest 16S rRNA gene sequence similarity to Hoyosella altamirensis DSM 45258^(T) (96.1%). The major fatty acids were C(17:1) ω8c, C(16:0), C(15 : 0) and C(17:0). The strain...</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">Int J Syst Evol Microbiol. 2021 Dec;71(12). doi: 10.1099/ijsem.0.005145.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">A Gram-stain-positive, aerobic, non-motile, non-spore-forming and coccus-shaped strain, designated strain G463<sup>T</sup>, was isolated from the rhizosphere soil of <i>Salicornia europaea</i> L. collected from Lake Gudzhirganskoe in Siberia. Based on 16S rRNA gene phylogeny, strain G463<sup>T</sup> belonged to the genus <i>Hoyosella</i>, with the highest 16S rRNA gene sequence similarity to <i>Hoyosella altamirensis</i> DSM 45258<sup>T</sup> (96.1%). The major fatty acids were C<sub>17:1</sub> <i>ω</i>8<i>c</i>, C<sub>16:0</sub>, C<sub>15 : 0</sub> and C<sub>17:0</sub>. The strain contained <i>meso</i>-diaminopimelic acid as the cell-wall diagnostic diamino acid and arabinose, galactose and ribose as the whole-cell sugars. MK-8 and MK-7 were the predominant menaquinones. The polar lipid profile comprised diphosphatidylglycerol, phosphatidylethanolamine, phosphatidylglycerol, phosphatidylinositol, one unidentified phosphoglycolipid, two unidentified glycolipids and several unidentified lipids. Acetyl was the muramyl residue. Mycolic acids (C<sub>28</sub>-C<sub>34</sub>) were present. The G+C content of the genomic DNA was 68.3 mol%. Based on its phylogenetic, phenotypic and chemotaxonomic features, strain G463<sup>T</sup> was considered to represent a novel species of the genus <i>Hoyosella</i>, for which the name <i>Hoyosella lacisalsi</i> sp. nov. is proposed. The type strain is G463<sup>T</sup> (=JCM 33650<sup>T</sup>=CGMCC 1.17230<sup>T</sup>).</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34889730/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211214094348&v=2.15.0">34889730</a> | DOI:<a href=https://doi.org/10.1099/ijsem.0.005145>10.1099/ijsem.0.005145</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34889730</guid>
+      <pubDate>Fri, 10 Dec 2021 06:00:00 -0500</pubDate>
+      <dc:creator>Qin Yang</dc:creator>
+      <dc:creator>Pu-Yu Guo</dc:creator>
+      <dc:creator>Elena Y Abidueva</dc:creator>
+      <dc:creator>Fei-Na Li</dc:creator>
+      <dc:creator>Chun-Mei Xue</dc:creator>
+      <dc:creator>Shao-Wei Liu</dc:creator>
+      <dc:creator>Cheng-Hang Sun</dc:creator>
+      <dc:date>2021-12-10</dc:date>
+      <dc:source>International journal of systematic and evolutionary microbiology</dc:source>
+      <dc:title>Hoyosella lacisalsi sp. nov., a halotolerant actinobacterium isolated from the Lake Gudzhirganskoe</dc:title>
+      <dc:identifier>pmid:34889730</dc:identifier>
+      <dc:identifier>doi:10.1099/ijsem.0.005145</dc:identifier>
+    </item>
+  </channel>
+</rss>

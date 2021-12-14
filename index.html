@@ -169,7 +169,7 @@ isodate_to_string = function (datestring) {
 			var html = '';
 			var n = path.length;
 			for (var i = 0; i < n - 1; i++ ) {
-				html += '<a onclick=\'set_path(' + JSON.stringify(path.slice(0,i+1)) + ');\'>' + path[i] + '</a>' + ' &gt; ';
+				html += '<a href="#0" onclick=\'set_path(' + JSON.stringify(path.slice(0,i+1)) + ');\'>' + path[i] + '</a>' + ' &gt; ';
 			}
 			html += path[n - 1];
 			
@@ -443,7 +443,7 @@ isodate_to_string = function (datestring) {
       
      
        <div id="map-breadcrumbs">
-      	<a onclick="world();">World</a>
+      	<a href="#0" onclick="world();">World</a>
       	<span id="country"></span>     	
       </div>      
       

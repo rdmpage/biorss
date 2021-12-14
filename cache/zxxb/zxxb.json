@@ -1,0 +1,509 @@
+{
+    "dataFeedElement": [
+        {
+            "url": "https://d.wanfangdata.com.cn/periodical/zxxb202101001",
+            "id": "https://d.wanfangdata.com.cn/periodical/zxxb202101001",
+            "name": "中国延斑蛛属4新种(蜘蛛目:古筛蛛科) / Four new species of the genus Ectatosticta(Araneae,Hypochilidae)from China",
+            "description": "本文报道了中国延斑蛛属(Ectatosticta Simon,1892)4新种:八戒延斑蛛,新种E.bajie sp.nov.(♂♀);大鹏延斑蛛,新种 E.dapeng sp.nov.(♂♀);如来延斑蛛,新种 E.rulai sp.nov.(♂♀);余锟延斑蛛,新种E.yukuni sp.nov.(♂♀).提供了这4种延斑蛛的描述、照片以及详细的鉴别特征. / Four new species of the spider genus Ectatosticta Simon,1892 are reported,diagnosed,described and illustrated.The new species are E.bajie sp.nov.(♂♀),E.dapeng sp.nov.(♂♀),E.rulai sp.nov.(♂♀)and E.yukuni sp.nov.(♂♀).",
+            "datePublished": "2021-01-01 00:00:00",
+            "item": {
+                "doi": "10.3969/j.issn.1005-9628.2021.01.001",
+                "id": "https://doi.org/10.3969/j.issn.1005-9628.2021.01.001",
+                "identifier": [
+                    "zxxb202101001"
+                ],
+                "name": {
+                    "zh": "中国延斑蛛属4新种(蜘蛛目:古筛蛛科)",
+                    "en": "Four new species of the genus Ectatosticta(Araneae,Hypochilidae)from China"
+                },
+                "author": [
+                    "林业杰",
+                    "李枢强"
+                ],
+                "description": {
+                    "zh": "本文报道了中国延斑蛛属(Ectatosticta Simon,1892)4新种:八戒延斑蛛,新种E.bajie sp.nov.(♂♀);大鹏延斑蛛,新种 E.dapeng sp.nov.(♂♀);如来延斑蛛,新种 E.rulai sp.nov.(♂♀);余锟延斑蛛,新种E.yukuni sp.nov.(♂♀).提供了这4种延斑蛛的描述、照片以及详细的鉴别特征.",
+                    "en": "Four new species of the spider genus Ectatosticta Simon,1892 are reported,diagnosed,described and illustrated.The new species are E.bajie sp.nov.(♂♀),E.dapeng sp.nov.(♂♀),E.rulai sp.nov.(♂♀)and E.yukuni sp.nov.(♂♀)."
+                },
+                "container": {
+                    "zh": "蛛形学报",
+                    "en": "Acta Arachnologica Sinica"
+                },
+                "datePublished": "2021-01-00",
+                "issueNumber": "1",
+                "volumeNumber": "30",
+                "pagination": "1-8",
+                "ISSN": "1005-9628"
+            }
+        },
+        {
+            "url": "https://d.wanfangdata.com.cn/periodical/zxxb202101002",
+            "id": "https://d.wanfangdata.com.cn/periodical/zxxb202101002",
+            "name": "中国南方蜘蛛2新种:Pinelema mulunensis sp.nov.和 Stedocys vittiformis sp.nov.(蛛形纲:蜘蛛目) / Pinelema mulunensis sp.nov.and Stedocys vittiformis sp.nov.,two new species from southern China(Arachnida:Araneae)",
+            "description": "依据采自中国广西壮族自治区的蜘蛛标本,本文描述了 2个新种:木论平莱蛛Pinelema mulunensis sp.nov.(泰来蛛科)和丝带斯德蛛Stedocys vittiformis sp.nov.(花皮蛛科).文中提供了 2新种的彩色外形图、生殖器鉴别特征图及模式标本分布地图.模式标本保存于湖南师范大学. / Guangxi Zhuang Autonomous Region of China has rich biological resource and many spider species have been found here.Two new species collected from Guangxi,Pinelema mulunensis Chen&Xu sp.nov.(male and female)and Stedocys vittiformis Liang&Xu sp.nov.(male)belonging to family Telemidae and Scytodidae respectively,are described and illustrated.Pinelema mulunensis sp.nov.is a member of Pinelema bailongensis species group.The updated keys to Pinelema bailongensis species group and to Stedocys species from China are also supplied.",
+            "datePublished": "2021-01-01 00:00:00",
+            "item": {
+                "doi": "10.3969/j.issn.1005-9628.2021.01.002",
+                "id": "https://doi.org/10.3969/j.issn.1005-9628.2021.01.002",
+                "identifier": [
+                    "zxxb202101002"
+                ],
+                "name": {
+                    "zh": "中国南方蜘蛛2新种:Pinelema mulunensis sp.nov.和 Stedocys vittiformis sp.nov.(蛛形纲:蜘蛛目)",
+                    "en": "Pinelema mulunensis sp.nov.and Stedocys vittiformis sp.nov.,two new species from southern China(Arachnida:Araneae)"
+                },
+                "author": [
+                    "陈卓尔",
+                    "梁云",
+                    "银海强",
+                    "徐湘",
+                    "韦晓"
+                ],
+                "description": {
+                    "zh": "依据采自中国广西壮族自治区的蜘蛛标本,本文描述了 2个新种:木论平莱蛛Pinelema mulunensis sp.nov.(泰来蛛科)和丝带斯德蛛Stedocys vittiformis sp.nov.(花皮蛛科).文中提供了 2新种的彩色外形图、生殖器鉴别特征图及模式标本分布地图.模式标本保存于湖南师范大学.",
+                    "en": "Guangxi Zhuang Autonomous Region of China has rich biological resource and many spider species have been found here.Two new species collected from Guangxi,Pinelema mulunensis Chen&Xu sp.nov.(male and female)and Stedocys vittiformis Liang&Xu sp.nov.(male)belonging to family Telemidae and Scytodidae respectively,are described and illustrated.Pinelema mulunensis sp.nov.is a member of Pinelema bailongensis species group.The updated keys to Pinelema bailongensis species group and to Stedocys species from China are also supplied."
+                },
+                "container": {
+                    "zh": "蛛形学报",
+                    "en": "Acta Arachnologica Sinica"
+                },
+                "datePublished": "2021-01-00",
+                "issueNumber": "1",
+                "volumeNumber": "30",
+                "pagination": "9-19",
+                "ISSN": "1005-9628"
+            }
+        },
+        {
+            "url": "https://d.wanfangdata.com.cn/periodical/zxxb202101003",
+            "id": "https://d.wanfangdata.com.cn/periodical/zxxb202101003",
+            "name": "狩蛛属1新种记述及蟹蛛科1已知种的转属 / A new Diaea species(Araneae,Thomisidae)from China,with the transfer of Loxobates spiniformis Yang et al.,2006",
+            "description": "本文记述了湖南省武陵山区蟹蛛科狩蛛属1新种:天平狩蛛Diaea tianpingensis sp.nov.;将刺斜蟹蛛Loxobates spiniformis 转入狩蛛属,更名为刺狩蛛,新组合 Diaea spiniformis(Yang,Zhu&Song,2006)comb.nov..",
+            "datePublished": "2021-01-01 00:00:00",
+            "item": {
+                "doi": "10.3969/j.issn.1005-9628.2021.01.003",
+                "id": "https://doi.org/10.3969/j.issn.1005-9628.2021.01.003",
+                "identifier": [
+                    "zxxb202101003"
+                ],
+                "name": {
+                    "zh": "狩蛛属1新种记述及蟹蛛科1已知种的转属",
+                    "en": "A new Diaea species(Araneae,Thomisidae)from China,with the transfer of Loxobates spiniformis Yang et al.,2006"
+                },
+                "author": [
+                    "刘丽",
+                    "张佳琛",
+                    "陈建"
+                ],
+                "description": {
+                    "zh": "本文记述了湖南省武陵山区蟹蛛科狩蛛属1新种:天平狩蛛Diaea tianpingensis sp.nov.;将刺斜蟹蛛Loxobates spiniformis 转入狩蛛属,更名为刺狩蛛,新组合 Diaea spiniformis(Yang,Zhu&Song,2006)comb.nov.."
+                },
+                "container": {
+                    "zh": "蛛形学报",
+                    "en": "Acta Arachnologica Sinica"
+                },
+                "datePublished": "2021-01-00",
+                "issueNumber": "1",
+                "volumeNumber": "30",
+                "pagination": "20-25",
+                "ISSN": "1005-9628"
+            }
+        },
+        {
+            "url": "https://d.wanfangdata.com.cn/periodical/zxxb202101004",
+            "id": "https://d.wanfangdata.com.cn/periodical/zxxb202101004",
+            "name": "吉祥华疣蛛:中国狩疣蛛科1新属新种(蜘蛛目,原蛛下目) / Chinothele jixiang gen.et sp.nov.,a new euagrid spider from China(Araneae,Euagridae)",
+            "description": "记述了采自中国云南的狩疣蛛科1新属新种,吉祥华疣蛛Chinothele jixiang gen.et sp.nov..本文对吉祥华疣蛛雌雄两性进行了形态学描述,并提供了照片.模式标本保存于河北大学博物馆.",
+            "datePublished": "2021-01-01 00:00:00",
+            "item": {
+                "doi": "10.3969/j.issn.1005-9628.2021.01.004",
+                "id": "https://doi.org/10.3969/j.issn.1005-9628.2021.01.004",
+                "identifier": [
+                    "zxxb202101004"
+                ],
+                "name": {
+                    "zh": "吉祥华疣蛛:中国狩疣蛛科1新属新种(蜘蛛目,原蛛下目)",
+                    "en": "Chinothele jixiang gen.et sp.nov.,a new euagrid spider from China(Araneae,Euagridae)"
+                },
+                "author": [
+                    "余锟",
+                    "张书源",
+                    "张锋"
+                ],
+                "description": {
+                    "zh": "记述了采自中国云南的狩疣蛛科1新属新种,吉祥华疣蛛Chinothele jixiang gen.et sp.nov..本文对吉祥华疣蛛雌雄两性进行了形态学描述,并提供了照片.模式标本保存于河北大学博物馆."
+                },
+                "container": {
+                    "zh": "蛛形学报",
+                    "en": "Acta Arachnologica Sinica"
+                },
+                "datePublished": "2021-01-00",
+                "issueNumber": "1",
+                "volumeNumber": "30",
+                "pagination": "26-30",
+                "ISSN": "1005-9628"
+            }
+        },
+        {
+            "url": "https://d.wanfangdata.com.cn/periodical/zxxb202101005",
+            "id": "https://d.wanfangdata.com.cn/periodical/zxxb202101005",
+            "name": "中国奥诺玛蛛属1新种(蜘蛛目:跳蛛科) / A new species of the spider genus Onomastus Simon,1900 from China(Araneae:Salticidae)",
+            "description": "记述了采自中国广东的奥诺玛蛛属Onomastus 1新种:近陈氏奥诺玛蛛O.subchenae sp.nov..提供了其外形与外生殖器彩色图版及地理分布图. / Onomastus subchenae sp.nov.is diagnosed and described from Guangdong,China.Photos of habitus and copulatory organs,as well as the locality map are provided.",
+            "datePublished": "2021-01-01 00:00:00",
+            "item": {
+                "doi": "10.3969/j.issn.1005-9628.2021.01.005",
+                "id": "https://doi.org/10.3969/j.issn.1005-9628.2021.01.005",
+                "identifier": [
+                    "zxxb202101005"
+                ],
+                "name": {
+                    "zh": "中国奥诺玛蛛属1新种(蜘蛛目:跳蛛科)",
+                    "en": "A new species of the spider genus Onomastus Simon,1900 from China(Araneae:Salticidae)"
+                },
+                "author": [
+                    "王成",
+                    "王苇杭",
+                    "彭贤锦"
+                ],
+                "description": {
+                    "zh": "记述了采自中国广东的奥诺玛蛛属Onomastus 1新种:近陈氏奥诺玛蛛O.subchenae sp.nov..提供了其外形与外生殖器彩色图版及地理分布图.",
+                    "en": "Onomastus subchenae sp.nov.is diagnosed and described from Guangdong,China.Photos of habitus and copulatory organs,as well as the locality map are provided."
+                },
+                "container": {
+                    "zh": "蛛形学报",
+                    "en": "Acta Arachnologica Sinica"
+                },
+                "datePublished": "2021-01-00",
+                "issueNumber": "1",
+                "volumeNumber": "30",
+                "pagination": "31-35",
+                "ISSN": "1005-9628"
+            }
+        },
+        {
+            "url": "https://d.wanfangdata.com.cn/periodical/zxxb202101006",
+            "id": "https://d.wanfangdata.com.cn/periodical/zxxb202101006",
+            "name": "中国节板蛛属1新种记述(蜘蛛目,节板蛛科) / First new species of the genus Liphistius Schi?dte,1849 from China(Araneae:Liphistiidae)",
+            "description": "记述了产于中国云南的节板蛛科1新种:那邦节板蛛Liphistius nabang sp.nov..该新种系节板蛛科节板蛛属种类在中国的首次发现,以模式产地命名.本文对那邦节板蛛雄雌标本进行了形态描述,提供了照片.模式标本保存于河北大学博物馆.",
+            "datePublished": "2021-01-01 00:00:00",
+            "item": {
+                "doi": "10.3969/j.issn.1005-9628.2021.01.006",
+                "id": "https://doi.org/10.3969/j.issn.1005-9628.2021.01.006",
+                "identifier": [
+                    "zxxb202101006"
+                ],
+                "name": {
+                    "zh": "中国节板蛛属1新种记述(蜘蛛目,节板蛛科)",
+                    "en": "First new species of the genus Liphistius Schi?dte,1849 from China(Araneae:Liphistiidae)"
+                },
+                "author": [
+                    "余锟",
+                    "张锋",
+                    "张俊霞"
+                ],
+                "description": {
+                    "zh": "记述了产于中国云南的节板蛛科1新种:那邦节板蛛Liphistius nabang sp.nov..该新种系节板蛛科节板蛛属种类在中国的首次发现,以模式产地命名.本文对那邦节板蛛雄雌标本进行了形态描述,提供了照片.模式标本保存于河北大学博物馆."
+                },
+                "container": {
+                    "zh": "蛛形学报",
+                    "en": "Acta Arachnologica Sinica"
+                },
+                "datePublished": "2021-01-00",
+                "issueNumber": "1",
+                "volumeNumber": "30",
+                "pagination": "36-40",
+                "ISSN": "1005-9628"
+            }
+        },
+        {
+            "url": "https://d.wanfangdata.com.cn/periodical/zxxb202101007",
+            "id": "https://d.wanfangdata.com.cn/periodical/zxxb202101007",
+            "name": "中国南方地区尤波蛛属1新种记述(蜘蛛目:跳蛛科) / A new Eupoa Zabka,1985 species from South China(Araneae:Salticidae)",
+            "description": "本文描述了 1种采自南方地区跳蛛科尤波蛛属1新种:彭氏尤波蛛,Eupoa pengi Liu,sp.nov.,并提供了该种形态特征图、超微结构图及地理分布图. / A new jumping spider species,Eupoa pengi Liu,sp.nov.is described from Jinggangshan County Level City,Ji'an City,Jiangxi Province.Photographs and SEM micrographs of this species are provided in the present study.",
+            "datePublished": "2021-01-01 00:00:00",
+            "item": {
+                "doi": "10.3969/j.issn.1005-9628.2021.01.007",
+                "id": "https://doi.org/10.3969/j.issn.1005-9628.2021.01.007",
+                "identifier": [
+                    "zxxb202101007"
+                ],
+                "name": {
+                    "zh": "中国南方地区尤波蛛属1新种记述(蜘蛛目:跳蛛科)",
+                    "en": "A new Eupoa Zabka,1985 species from South China(Araneae:Salticidae)"
+                },
+                "author": [
+                    "应渊浩",
+                    "袁斯亮",
+                    "孙文",
+                    "刘科科"
+                ],
+                "description": {
+                    "zh": "本文描述了 1种采自南方地区跳蛛科尤波蛛属1新种:彭氏尤波蛛,Eupoa pengi Liu,sp.nov.,并提供了该种形态特征图、超微结构图及地理分布图.",
+                    "en": "A new jumping spider species,Eupoa pengi Liu,sp.nov.is described from Jinggangshan County Level City,Ji'an City,Jiangxi Province.Photographs and SEM micrographs of this species are provided in the present study."
+                },
+                "container": {
+                    "zh": "蛛形学报",
+                    "en": "Acta Arachnologica Sinica"
+                },
+                "datePublished": "2021-01-00",
+                "issueNumber": "1",
+                "volumeNumber": "30",
+                "pagination": "41-45",
+                "ISSN": "1005-9628"
+            }
+        },
+        {
+            "url": "https://d.wanfangdata.com.cn/periodical/zxxb202101008",
+            "id": "https://d.wanfangdata.com.cn/periodical/zxxb202101008",
+            "name": "2种伪安蛛的再研究(蜘蛛目:安蛛科) / Restudy on Pseudanapis aloha and P.parocula(Araneae:Anapidae)",
+            "description": "本文在广泛搜集标本材料的基础上,对伪安蛛属Pseudanapis 2个广布种:阿罗哈伪安蛛Paloha Forster,1959和均眼伪安蛛P.parocula(Simon,1899)进行了重新研究,提供了详细描述、高清彩色照片和这2种伪安蛛的16S等5个基因片段分子数据,并提出申伯格伪安蛛P.schauenbergi Brignoli,1981为阿罗哈伪安蛛P.aloha Forster,1959的新异名(n.syn.).此外,阿罗哈伪安蛛为中国、泰国和斐济的新记录,均眼伪安蛛为泰国和新加坡的新记录.",
+            "datePublished": "2021-01-01 00:00:00",
+            "item": {
+                "doi": "10.3969/j.issn.1005-9628.2021.01.008",
+                "id": "https://doi.org/10.3969/j.issn.1005-9628.2021.01.008",
+                "identifier": [
+                    "zxxb202101008"
+                ],
+                "name": {
+                    "zh": "2种伪安蛛的再研究(蜘蛛目:安蛛科)",
+                    "en": "Restudy on Pseudanapis aloha and P.parocula(Araneae:Anapidae)"
+                },
+                "author": [
+                    "魏勉",
+                    "李亚",
+                    "林玉成"
+                ],
+                "description": {
+                    "zh": "本文在广泛搜集标本材料的基础上,对伪安蛛属Pseudanapis 2个广布种:阿罗哈伪安蛛Paloha Forster,1959和均眼伪安蛛P.parocula(Simon,1899)进行了重新研究,提供了详细描述、高清彩色照片和这2种伪安蛛的16S等5个基因片段分子数据,并提出申伯格伪安蛛P.schauenbergi Brignoli,1981为阿罗哈伪安蛛P.aloha Forster,1959的新异名(n.syn.).此外,阿罗哈伪安蛛为中国、泰国和斐济的新记录,均眼伪安蛛为泰国和新加坡的新记录."
+                },
+                "container": {
+                    "zh": "蛛形学报",
+                    "en": "Acta Arachnologica Sinica"
+                },
+                "datePublished": "2021-01-00",
+                "issueNumber": "1",
+                "volumeNumber": "30",
+                "pagination": "46-53",
+                "ISSN": "1005-9628"
+            }
+        },
+        {
+            "url": "https://d.wanfangdata.com.cn/periodical/zxxb202101009",
+            "id": "https://d.wanfangdata.com.cn/periodical/zxxb202101009",
+            "name": "地豹蛛 Pardosa agraria Tanaka,1985(狼蛛科:豹蛛属)种名的重新生效 / The Revalidation of Pardosa agraria Tanaka,1985(Lycosidae:Pardosa)",
+            "description": "通过外部形态、雄蛛触肢器结构和栖息生境观察,结合DNA条形码比较结果,本文建议恢复地豹蛛Pardosa agraria Tanaka,1985的种名和分类地位.",
+            "datePublished": "2021-01-01 00:00:00",
+            "item": {
+                "doi": "10.3969/j.issn.1005-9628.2021.01.009",
+                "id": "https://doi.org/10.3969/j.issn.1005-9628.2021.01.009",
+                "identifier": [
+                    "zxxb202101009"
+                ],
+                "name": {
+                    "zh": "地豹蛛 Pardosa agraria Tanaka,1985(狼蛛科:豹蛛属)种名的重新生效",
+                    "en": "The Revalidation of Pardosa agraria Tanaka,1985(Lycosidae:Pardosa)"
+                },
+                "author": [
+                    "陆天",
+                    "吴润标",
+                    "张志升"
+                ],
+                "description": {
+                    "zh": "通过外部形态、雄蛛触肢器结构和栖息生境观察,结合DNA条形码比较结果,本文建议恢复地豹蛛Pardosa agraria Tanaka,1985的种名和分类地位."
+                },
+                "container": {
+                    "zh": "蛛形学报",
+                    "en": "Acta Arachnologica Sinica"
+                },
+                "datePublished": "2021-01-00",
+                "issueNumber": "1",
+                "volumeNumber": "30",
+                "pagination": "54-58",
+                "ISSN": "1005-9628"
+            }
+        },
+        {
+            "url": "https://d.wanfangdata.com.cn/periodical/zxxb202101010",
+            "id": "https://d.wanfangdata.com.cn/periodical/zxxb202101010",
+            "name": "中国下盾螨属1新种及拟山下盾螨形态补充描述(蜱螨亚纲,厉螨科) / A new species of the genus Hypoaspis and supplementary description of Hypoaspis submontana Bai,Gu et Chen 1994(Acari:Laelapidae)",
+            "description": "描述宁夏下盾螨属Hypoaspis Canestrini,1885的1新种,西吉下盾螨,新种Hypoaspis xijiensis sp.nov.及对拟山下盾螨Hypoaspis submontana Bai,Gu et Chen 1994进行形态补充,标本采自宁夏西吉县大寨林场蚂蚁Myrmos sp.巢穴中,保存于军事医学科学院微生物流行病研究所医学昆虫标本馆.",
+            "datePublished": "2021-01-01 00:00:00",
+            "item": {
+                "doi": "10.3969/j.issn.1005-9628.2021.01.010",
+                "id": "https://doi.org/10.3969/j.issn.1005-9628.2021.01.010",
+                "identifier": [
+                    "zxxb202101010"
+                ],
+                "name": {
+                    "zh": "中国下盾螨属1新种及拟山下盾螨形态补充描述(蜱螨亚纲,厉螨科)",
+                    "en": "A new species of the genus Hypoaspis and supplementary description of Hypoaspis submontana Bai,Gu et Chen 1994(Acari:Laelapidae)"
+                },
+                "author": [
+                    "白学礼",
+                    "马英",
+                    "伏卫程"
+                ],
+                "description": {
+                    "zh": "描述宁夏下盾螨属Hypoaspis Canestrini,1885的1新种,西吉下盾螨,新种Hypoaspis xijiensis sp.nov.及对拟山下盾螨Hypoaspis submontana Bai,Gu et Chen 1994进行形态补充,标本采自宁夏西吉县大寨林场蚂蚁Myrmos sp.巢穴中,保存于军事医学科学院微生物流行病研究所医学昆虫标本馆."
+                },
+                "container": {
+                    "zh": "蛛形学报",
+                    "en": "Acta Arachnologica Sinica"
+                },
+                "datePublished": "2021-01-00",
+                "issueNumber": "1",
+                "volumeNumber": "30",
+                "pagination": "59-61",
+                "ISSN": "1005-9628"
+            }
+        },
+        {
+            "url": "https://d.wanfangdata.com.cn/periodical/zxxb202101011",
+            "id": "https://d.wanfangdata.com.cn/periodical/zxxb202101011",
+            "name": "马氏正钳蝎巢栖下盾螨属1新种记述(蜱螨亚纲,厉螨科) / A new species of the genus Hypoaspis(Acari:Laelapidae)in nest of Mesobuthus martensii",
+            "description": "描述宁夏下盾螨属Hypoaspis Canestrini,1885的1新种,马氏下盾螨,新种Hypoaspis mayingae Bai,Yang et Shi,sp.nov.,标本采自宁夏灵武市马氏正钳蝎(Buthus martensi)巢穴中,保存于军事医学科学院微生物流行病研究所医学昆虫标本馆.",
+            "datePublished": "2021-01-01 00:00:00",
+            "item": {
+                "doi": "10.3969/j.issn.1005-9628.2021.01.011",
+                "id": "https://doi.org/10.3969/j.issn.1005-9628.2021.01.011",
+                "identifier": [
+                    "zxxb202101011"
+                ],
+                "name": {
+                    "zh": "马氏正钳蝎巢栖下盾螨属1新种记述(蜱螨亚纲,厉螨科)",
+                    "en": "A new species of the genus Hypoaspis(Acari:Laelapidae)in nest of Mesobuthus martensii"
+                },
+                "author": [
+                    "杨鹏",
+                    "施建平",
+                    "白学礼"
+                ],
+                "description": {
+                    "zh": "描述宁夏下盾螨属Hypoaspis Canestrini,1885的1新种,马氏下盾螨,新种Hypoaspis mayingae Bai,Yang et Shi,sp.nov.,标本采自宁夏灵武市马氏正钳蝎(Buthus martensi)巢穴中,保存于军事医学科学院微生物流行病研究所医学昆虫标本馆."
+                },
+                "container": {
+                    "zh": "蛛形学报",
+                    "en": "Acta Arachnologica Sinica"
+                },
+                "datePublished": "2021-01-00",
+                "issueNumber": "1",
+                "volumeNumber": "30",
+                "pagination": "62-64",
+                "ISSN": "1005-9628"
+            }
+        },
+        {
+            "url": "https://d.wanfangdata.com.cn/periodical/zxxb202101012",
+            "id": "https://d.wanfangdata.com.cn/periodical/zxxb202101012",
+            "name": "白斑猎蛛对茶脊冠网蝽的捕食作用研究 / The predation of Evarcha albaria(Araneida:Salticidae)to Stephanitis chinensis(Hemiptera:Tingidae)",
+            "description": "茶脊冠网蝽Stephanitis chinensis是自2015年以来新爆发于湖北恩施州地区,为害茶园的刺吸式害虫.通过明确白斑猎蛛Evarchia albaria对茶脊冠网蝽的捕食效果及白斑猎蛛自身密度的干扰反应,以期寻找茶脊冠网蝽生物防治新途径.本研究利用正方形培养皿(边长25 cm)测定白斑猎蛛对茶脊冠网蝽的捕食能力,茶脊冠网蝽的密度设置5、10、15、20、25(头/皿).测定白斑猎蛛自身密度干扰反应时,每皿投入茶脊冠网蝽成虫30头,白斑猎蛛设置1、2、3、4、5(头/皿).白斑猎蛛对茶脊冠网蝽的功能反应符合Holling Ⅱ型模型.其中,雄性白斑猎蛛对茶脊冠网蝽若虫的捕食能力最强,A/Th值为125.8593,捕食上限1/Th为38.0头,雌性白斑猎蛛对若虫的捕食能力为105.4783,较低于雄性,捕食上限为43.4头.随着白斑猎蛛密度的增大,其捕食茶脊冠网蝽的能力下降,个体间干扰作用加强.白斑猎蛛对茶脊冠网蝽具有一定捕食作用,具有控制茶脊冠网蝽的潜能,所得结果可为茶园茶脊冠网蝽的生物防治提供新的思路与理论依据.",
+            "datePublished": "2021-01-01 00:00:00",
+            "item": {
+                "doi": "10.3969/j.issn.1005-9628.2021.01.012",
+                "id": "https://doi.org/10.3969/j.issn.1005-9628.2021.01.012",
+                "identifier": [
+                    "zxxb202101012"
+                ],
+                "name": {
+                    "zh": "白斑猎蛛对茶脊冠网蝽的捕食作用研究",
+                    "en": "The predation of Evarcha albaria(Araneida:Salticidae)to Stephanitis chinensis(Hemiptera:Tingidae)"
+                },
+                "author": [
+                    "王菊",
+                    "李丰羽",
+                    "王梦思",
+                    "张安明",
+                    "彭宇"
+                ],
+                "description": {
+                    "zh": "茶脊冠网蝽Stephanitis chinensis是自2015年以来新爆发于湖北恩施州地区,为害茶园的刺吸式害虫.通过明确白斑猎蛛Evarchia albaria对茶脊冠网蝽的捕食效果及白斑猎蛛自身密度的干扰反应,以期寻找茶脊冠网蝽生物防治新途径.本研究利用正方形培养皿(边长25 cm)测定白斑猎蛛对茶脊冠网蝽的捕食能力,茶脊冠网蝽的密度设置5、10、15、20、25(头/皿).测定白斑猎蛛自身密度干扰反应时,每皿投入茶脊冠网蝽成虫30头,白斑猎蛛设置1、2、3、4、5(头/皿).白斑猎蛛对茶脊冠网蝽的功能反应符合Holling Ⅱ型模型.其中,雄性白斑猎蛛对茶脊冠网蝽若虫的捕食能力最强,A/Th值为125.8593,捕食上限1/Th为38.0头,雌性白斑猎蛛对若虫的捕食能力为105.4783,较低于雄性,捕食上限为43.4头.随着白斑猎蛛密度的增大,其捕食茶脊冠网蝽的能力下降,个体间干扰作用加强.白斑猎蛛对茶脊冠网蝽具有一定捕食作用,具有控制茶脊冠网蝽的潜能,所得结果可为茶园茶脊冠网蝽的生物防治提供新的思路与理论依据."
+                },
+                "container": {
+                    "zh": "蛛形学报",
+                    "en": "Acta Arachnologica Sinica"
+                },
+                "datePublished": "2021-01-00",
+                "issueNumber": "1",
+                "volumeNumber": "30",
+                "pagination": "65-69",
+                "ISSN": "1005-9628"
+            }
+        },
+        {
+            "url": "https://d.wanfangdata.com.cn/periodical/zxxb202101013",
+            "id": "https://d.wanfangdata.com.cn/periodical/zxxb202101013",
+            "name": "大腹园蛛毒腺对Hela细胞作用的初步探究 / A preliminary study on the effect of poison gland of Araneus ventricosus on Hela cells",
+            "description": "大腹园蛛毒素具有潜在的药用价值和开发前景,但其抗肿瘤研究并不清楚.本研究以Hela细胞为材料,初步研究了大腹园蛛毒腺组织对Hela细胞的作用.结果发现,大腹园蛛毒腺能明显抑制Hela细胞的增殖和迁移能力,降低细胞的线粒体膜电位.表明大腹园蛛毒腺可通过破坏线粒体活性实现对Hela细胞的抑制作用.本研究为进一步开发大腹园蛛毒素奠定了基础.",
+            "datePublished": "2021-01-01 00:00:00",
+            "item": {
+                "doi": "10.3969/j.issn.1005-9628.2021.01.013",
+                "id": "https://doi.org/10.3969/j.issn.1005-9628.2021.01.013",
+                "identifier": [
+                    "zxxb202101013"
+                ],
+                "name": {
+                    "zh": "大腹园蛛毒腺对Hela细胞作用的初步探究",
+                    "en": "A preliminary study on the effect of poison gland of Araneus ventricosus on Hela cells"
+                },
+                "author": [
+                    "杨文卓",
+                    "叶欣鸣",
+                    "王宇鑫",
+                    "安晶",
+                    "王利圆",
+                    "李佳林",
+                    "费瑞"
+                ],
+                "description": {
+                    "zh": "大腹园蛛毒素具有潜在的药用价值和开发前景,但其抗肿瘤研究并不清楚.本研究以Hela细胞为材料,初步研究了大腹园蛛毒腺组织对Hela细胞的作用.结果发现,大腹园蛛毒腺能明显抑制Hela细胞的增殖和迁移能力,降低细胞的线粒体膜电位.表明大腹园蛛毒腺可通过破坏线粒体活性实现对Hela细胞的抑制作用.本研究为进一步开发大腹园蛛毒素奠定了基础."
+                },
+                "container": {
+                    "zh": "蛛形学报",
+                    "en": "Acta Arachnologica Sinica"
+                },
+                "datePublished": "2021-01-00",
+                "issueNumber": "1",
+                "volumeNumber": "30",
+                "pagination": "70-73",
+                "ISSN": "1005-9628"
+            }
+        },
+        {
+            "url": "https://d.wanfangdata.com.cn/periodical/zxxb202101014",
+            "id": "https://d.wanfangdata.com.cn/periodical/zxxb202101014",
+            "name": "鸟类捕食者眼中的吉蚁蛛贝氏拟态 / Betsian mimicry spider,Myrmarachne gisit in the eyes of avian predator",
+            "description": "跳蛛科蚁蛛属蜘蛛在颜色和体态上模仿蚂蚁,属于贝氏拟态.通常,动物的拟态是以人的视觉系统来评价的,但是由于蜘蛛潜在的鸟类捕食者视觉系统与人类视觉有着本质的区别,因此不能简单以人类视觉来推测蜘蛛的拟态.本文是国内首次报道通过捕食者-鸟类视觉代替人类视觉来评价吉蚁蛛的拟态特征.首先利用光谱检测系统测量吉蚁蛛(Myrmarachne gisit)与模型蚂蚁(Camponotus sp.)身体对应区域的反射光谱,然后通过蓝山雀视觉模型计算映射出吉蚁蛛和模型蚂蚁身体的颜色反差.结果表明:捕食者远距离明暗视觉能区分吉蚁蛛和模型蚂蚁的头部和胸部,但在近距离视觉时则无法区分吉蚁蛛和模型蚂蚁.研究表明吉蚁蛛拟态现象已扩展到紫外光波段,鸟类捕食者无法从体色形态上辨别吉蚁蛛和蚂蚁,可见贝氏拟态依旧是吉蚁蛛一种行之有效的防御措施.",
+            "datePublished": "2021-01-01 00:00:00",
+            "item": {
+                "doi": "10.3969/j.issn.1005-9628.2021.01.014",
+                "id": "https://doi.org/10.3969/j.issn.1005-9628.2021.01.014",
+                "identifier": [
+                    "zxxb202101014"
+                ],
+                "name": {
+                    "zh": "鸟类捕食者眼中的吉蚁蛛贝氏拟态",
+                    "en": "Betsian mimicry spider,Myrmarachne gisit in the eyes of avian predator"
+                },
+                "author": [
+                    "常海珍",
+                    "刘杰",
+                    "焦晓国",
+                    "张增焘"
+                ],
+                "description": {
+                    "zh": "跳蛛科蚁蛛属蜘蛛在颜色和体态上模仿蚂蚁,属于贝氏拟态.通常,动物的拟态是以人的视觉系统来评价的,但是由于蜘蛛潜在的鸟类捕食者视觉系统与人类视觉有着本质的区别,因此不能简单以人类视觉来推测蜘蛛的拟态.本文是国内首次报道通过捕食者-鸟类视觉代替人类视觉来评价吉蚁蛛的拟态特征.首先利用光谱检测系统测量吉蚁蛛(Myrmarachne gisit)与模型蚂蚁(Camponotus sp.)身体对应区域的反射光谱,然后通过蓝山雀视觉模型计算映射出吉蚁蛛和模型蚂蚁身体的颜色反差.结果表明:捕食者远距离明暗视觉能区分吉蚁蛛和模型蚂蚁的头部和胸部,但在近距离视觉时则无法区分吉蚁蛛和模型蚂蚁.研究表明吉蚁蛛拟态现象已扩展到紫外光波段,鸟类捕食者无法从体色形态上辨别吉蚁蛛和蚂蚁,可见贝氏拟态依旧是吉蚁蛛一种行之有效的防御措施."
+                },
+                "container": {
+                    "zh": "蛛形学报",
+                    "en": "Acta Arachnologica Sinica"
+                },
+                "datePublished": "2021-01-00",
+                "issueNumber": "1",
+                "volumeNumber": "30",
+                "pagination": "74-80",
+                "ISSN": "1005-9628"
+            }
+        }
+    ],
+    "name": "蛛形学报 / Acta Arachnologica Sinica",
+    "url": "https://www.wanfangdata.com.cn/perio/detail.do?perio_id=zxxb&perio_title=蛛形学报"
+}

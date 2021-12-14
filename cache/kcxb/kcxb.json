@@ -1,0 +1,43 @@
+{
+    "dataFeedElement": [
+        {
+            "url": "https://d.wanfangdata.com.cn/periodical/kcxb201601004",
+            "id": "https://d.wanfangdata.com.cn/periodical/kcxb201601004",
+            "name": "中华蜜蜂信息素结合蛋白OBP10的基因克隆、原核表达和配基结合特性分析 / Molecular cloning, prokaryotic expression and lignand-binding characterization of a novel pheromone binding protein OBP10 in Apis cerana cerana (Hymenoptera: Apidae)",
+            "description": "[目的]气味结合蛋白在中华蜜蜂Apis cerana cerana嗅觉系统中起到重要作用,本实验拟研究中华蜜蜂一个新的信息素结合蛋白OBP10及其与蜜蜂信息素以及蜜源开花植物挥发物的结合特性.[方法]本实验通过RT-PCR扩增获得OBP10基因全长(GenBank登录号:KP717060.1),以pET-30a构建原核表达载体,并以Ni2+琼脂糖柱进行重组蛋白表达和分离纯化,在N-苯基-1-萘胺(N-phenyl-1-naphthylamine,1-NPN)作为荧光报告子下利用荧光光谱法体外研究重组AcerOBP10与多种候选化学配基的结合特征.[结果]经多序列联配分析,发现AcerOBP10的多个同源基因均为信息素结合蛋白(pheromone binding proteins,PBPs).配基结合特性分析显示,AcerOBP10对14种候选配基中的蜂王信息素成分对羟基苯甲酸甲酯(HOB)竞争力最大,相对荧光可降至6.06％,解离常数11.04μmol/L;进一步表明AcerOBP10属于一个新的中蜂PBPs.此外,AcerOBP10也能和包括工蜂信息素(香叶醇和橙花醇)、报警信息素(2-庚酮和乙酸异戊酯)等蜜蜂信息素以及蜜源开花植物挥发物之一的β-紫罗兰酮结合,表明AcerOBP1O可能是一种以信息素结合为主的多功能结合蛋白.[结论]AcerOBP10是中蜂一个新的信息素结合蛋白,与此前我们鉴定的蜂王信息素结合蛋白AcerASP1相比,AcerOBP10对蜜蜂信息素的结合谱更为广泛,这些结果将对进一步研究中华蜜蜂信息素识别和传递提供理论基础,对于深入了解中华蜜蜂嗅觉影响生理功能的行为机制具有重要意义.",
+            "datePublished": "2016-01-01 00:00:00",
+            "item": {
+                "doi": "10.16380/j.kcxb.2016.01.004",
+                "id": "https://doi.org/10.16380/j.kcxb.2016.01.004",
+                "identifier": [
+                    "kcxb201601004"
+                ],
+                "name": {
+                    "zh": "中华蜜蜂信息素结合蛋白OBP10的基因克隆、原核表达和配基结合特性分析",
+                    "en": "Molecular cloning, prokaryotic expression and lignand-binding characterization of a novel pheromone binding protein OBP10 in Apis cerana cerana (Hymenoptera: Apidae)"
+                },
+                "author": [
+                    "吴帆",
+                    "黄君君",
+                    "谭静",
+                    "唐明珠",
+                    "李红亮"
+                ],
+                "description": {
+                    "zh": "[目的]气味结合蛋白在中华蜜蜂Apis cerana cerana嗅觉系统中起到重要作用,本实验拟研究中华蜜蜂一个新的信息素结合蛋白OBP10及其与蜜蜂信息素以及蜜源开花植物挥发物的结合特性.[方法]本实验通过RT-PCR扩增获得OBP10基因全长(GenBank登录号:KP717060.1),以pET-30a构建原核表达载体,并以Ni2+琼脂糖柱进行重组蛋白表达和分离纯化,在N-苯基-1-萘胺(N-phenyl-1-naphthylamine,1-NPN)作为荧光报告子下利用荧光光谱法体外研究重组AcerOBP10与多种候选化学配基的结合特征.[结果]经多序列联配分析,发现AcerOBP10的多个同源基因均为信息素结合蛋白(pheromone binding proteins,PBPs).配基结合特性分析显示,AcerOBP10对14种候选配基中的蜂王信息素成分对羟基苯甲酸甲酯(HOB)竞争力最大,相对荧光可降至6.06％,解离常数11.04μmol/L;进一步表明AcerOBP10属于一个新的中蜂PBPs.此外,AcerOBP10也能和包括工蜂信息素(香叶醇和橙花醇)、报警信息素(2-庚酮和乙酸异戊酯)等蜜蜂信息素以及蜜源开花植物挥发物之一的β-紫罗兰酮结合,表明AcerOBP1O可能是一种以信息素结合为主的多功能结合蛋白.[结论]AcerOBP10是中蜂一个新的信息素结合蛋白,与此前我们鉴定的蜂王信息素结合蛋白AcerASP1相比,AcerOBP10对蜜蜂信息素的结合谱更为广泛,这些结果将对进一步研究中华蜜蜂信息素识别和传递提供理论基础,对于深入了解中华蜜蜂嗅觉影响生理功能的行为机制具有重要意义."
+                },
+                "container": {
+                    "zh": "昆虫学报",
+                    "en": "Acta Entomologica Sinica"
+                },
+                "datePublished": "2016-01-00",
+                "issueNumber": "1",
+                "volumeNumber": "59",
+                "pagination": "25-32",
+                "ISSN": "0454-6296"
+            }
+        }
+    ],
+    "name": "昆虫学报 / Acta Entomologica Sinica",
+    "url": "https://www.wanfangdata.com.cn/perio/detail.do?perio_id=kcxb&perio_title=昆虫学报"
+}

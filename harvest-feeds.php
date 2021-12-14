@@ -158,12 +158,21 @@ $today = date('Y-m-d', time());
 
 $cache_dir = $config['cache'] . '/' . $today;
 
+$latest_dir = $config['cache'] . '/latest';
+
 if (!file_exists($cache_dir))
 {
 	$oldumask = umask(0); 
 	mkdir($cache_dir, 0777);
 	umask($oldumask);
 }	
+
+if (file_exists($latest_dir))
+{
+	unlink($latest_dir);
+}	
+symlink($cache_dir, $latest_dir);
+
 
 $opml_filename = 'test.opml';
 
@@ -187,7 +196,15 @@ foreach ($xpath->query('//outline/@xmlUrl') as $node)
 	
 	echo $url . "\n";
 	
-	$rss_filename = $cache_dir . '/' . md5($url) . '.xml';	
+	$clean_filename = $url;
+	$clean_filename = preg_replace('/https?:\/\/(www\.)?/', '', $clean_filename);
+	$clean_filename = preg_replace('/\//', '-', $clean_filename);
+	$clean_filename = preg_replace('/\?(.*)$/', '', $clean_filename);
+	$clean_filename = preg_replace('/\.xml$/', '', $clean_filename);
+
+	// $clean_filename = preg_replace('/[:\?#=]/', '', $clean_filename);
+	
+	$rss_filename = $cache_dir . '/' . $clean_filename . '.xml';	
 	
 	if (!file_exists($rss_filename) || $force)
 	{
@@ -204,10 +221,8 @@ foreach ($xpath->query('//outline/@xmlUrl') as $node)
 	}
 }
 
+// update feed status
 file_put_contents($feed_history_filename, json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE));
-
-
-//$url = 'https://api.ingentaconnect.com/content/aspt/sb/latest?format=rss';
 
 ?>
 

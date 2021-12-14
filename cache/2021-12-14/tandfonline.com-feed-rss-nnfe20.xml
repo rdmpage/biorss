@@ -1,0 +1,2155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns="http://purl.org/rss/1.0/"
+         xmlns:cc="http://web.resource.org/cc/"
+         xmlns:content="http://purl.org/rss/1.0/modules/content/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">
+   <channel rdf:about="https://www.tandfonline.com/loi/nnfe20?af=R">
+      <title>tandf: Studies on Neotropical Fauna and Environment: Table of Contents</title>
+      <description>Table of Contents for Studies on Neotropical Fauna and Environment. List of articles from both the latest and ahead of print issues.</description>
+      <link>https://www.tandfonline.com/loi/nnfe20?af=R</link>
+      <dc:title>tandf: Studies on Neotropical Fauna and Environment: Table of Contents</dc:title>
+      <dc:publisher>tandf</dc:publisher>
+      <dc:language>en-US</dc:language>
+      <prism:publicationName>Studies on Neotropical Fauna and Environment</prism:publicationName>
+      <items>
+         <rdf:Seq>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1783478?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1783483?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1798092?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1807671?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1804814?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1794689?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1806008?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1803716?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1786921?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1783482?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.2010975?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.2007010?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.2005393?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.2008146?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.2009269?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.2003585?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1984816?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.2005410?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.2005394?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1986339?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1994786?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1993674?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1993675?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1974709?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1994349?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1984795?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1984815?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1983353?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1944744?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1978212?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1976041?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1968755?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1967690?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1964902?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1948654?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1951639?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1948312?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1950970?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1964910?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1961472?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1914295?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1962678?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1915674?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1944758?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1867951?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1933691?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1902202?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1933701?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1933861?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1936882?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1933702?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1933699?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1915058?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1914294?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1908789?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1897379?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1895572?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1895512?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1895466?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1895511?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1897380?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1891818?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1877391?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1878765?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1870071?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1877414?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1869490?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1870033?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1870838?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1867953?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1857631?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1859874?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1861888?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1861889?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1829902?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1851345?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1815942?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1829892?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1844942?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1829901?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1844971?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1835294?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1842043?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1842083?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1829893?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1829903?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1829888?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1814619?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1809973?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1809333?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1809610?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1809611?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1817680?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1809334?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1806007?af=R"/>
+         </rdf:Seq>
+      </items>
+   </channel>
+   <image rdf:about="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/nnfe20/2021/nnfe20.v056.i03/nnfe20.v056.i03/20211108-01/nnfe20.v056.i03.cover.jpg">
+      <title>Studies on Neotropical Fauna and Environment</title>
+      <url>https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/nnfe20/2021/nnfe20.v056.i03/nnfe20.v056.i03/20211108-01/nnfe20.v056.i03.cover.jpg</url>
+      <link>https://www.tandfonline.com/loi/nnfe20?af=R</link>
+   </image>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1783478?af=R">
+      <title>Bat flies (Diptera: Streblidae) associated with phyllostomid bats (Chiroptera: Phyllostomidae) in caves in Mexico</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1783478?af=R</link>
+      <content:encoded>&lt;a href="/toc/nnfe20/56/3"&gt;Volume 56, Issue 3&lt;/a&gt;, December 2021, Page 163-175&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 56, Issue 3, December 2021, Page 163-175&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Bat flies (Diptera: Streblidae) associated with phyllostomid bats (Chiroptera: Phyllostomidae) in caves in Mexico</dc:title>
+      <dc:identifier>10.1080/01650521.2020.1783478</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2020-07-09T11:29:38Z</dc:date>
+      <dc:rights>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Ali Zeltzin Lira-Olguin</dc:creator>
+      <dc:creator>Carmen Guzmán-Cornejo</dc:creator>
+      <dc:creator>Livia León-Paniagua</dc:creator>
+      <prism:publicationName>Bat flies (Diptera: Streblidae) associated with phyllostomid bats (Chiroptera: Phyllostomidae) in caves in Mexico</prism:publicationName>
+      <prism:volume>56</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>163</prism:startingPage>
+      <prism:endingPage>175</prism:endingPage>
+      <prism:coverDate>2021-09-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-09-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/01650521.2020.1783478</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1783478?af=R</prism:url>
+      <prism:copyright>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1783483?af=R">
+      <title>On Alluaudinella Giglio-Tos (Diptera, Muscidae) with the revision of the type specimens deposited in the Museum für Naturkunde, Berlin (Berlin, Germany) and the description of a new species</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1783483?af=R</link>
+      <content:encoded>&lt;a href="/toc/nnfe20/56/3"&gt;Volume 56, Issue 3&lt;/a&gt;, December 2021, Page 176-181&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 56, Issue 3, December 2021, Page 176-181&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>On Alluaudinella Giglio-Tos (Diptera, Muscidae) with the revision of the type specimens deposited in the Museum für Naturkunde, Berlin (Berlin, Germany) and the description of a new species</dc:title>
+      <dc:identifier>10.1080/01650521.2020.1783483</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2020-07-23T04:40:21Z</dc:date>
+      <dc:rights>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Márcia S. Couri</dc:creator>
+      <dc:creator>Viviane Rodrigues de Sousa</dc:creator>
+      <prism:publicationName>On Alluaudinella Giglio-Tos (Diptera, Muscidae) with the revision of the type specimens deposited in the Museum für Naturkunde, Berlin (Berlin, Germany) and the description of a new species</prism:publicationName>
+      <prism:volume>56</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>176</prism:startingPage>
+      <prism:endingPage>181</prism:endingPage>
+      <prism:coverDate>2021-09-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-09-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/01650521.2020.1783483</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1783483?af=R</prism:url>
+      <prism:copyright>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1798092?af=R">
+      <title>A new Andean species of Aegidium Westwood (Coleoptera: Scarabaeidae: Orphninae: Aegidiini), with a key to the Colombian species of the genus</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1798092?af=R</link>
+      <content:encoded>&lt;a href="/toc/nnfe20/56/3"&gt;Volume 56, Issue 3&lt;/a&gt;, December 2021, Page 182-187&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 56, Issue 3, December 2021, Page 182-187&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>A new Andean species of Aegidium Westwood (Coleoptera: Scarabaeidae: Orphninae: Aegidiini), with a key to the Colombian species of the genus</dc:title>
+      <dc:identifier>10.1080/01650521.2020.1798092</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2020-09-07T05:43:45Z</dc:date>
+      <dc:rights>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Héctor Jaime Gasca-Álvarez</dc:creator>
+      <dc:creator>Cuauhtémoc Deloya</dc:creator>
+      <prism:publicationName>A new Andean species of Aegidium Westwood (Coleoptera: Scarabaeidae: Orphninae: Aegidiini), with a key to the Colombian species of the genus</prism:publicationName>
+      <prism:volume>56</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>182</prism:startingPage>
+      <prism:endingPage>187</prism:endingPage>
+      <prism:coverDate>2021-09-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-09-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/01650521.2020.1798092</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1798092?af=R</prism:url>
+      <prism:copyright>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1807671?af=R">
+      <title>The immatures of Peridroma saucia (Hübner, [1808]) (Lepidoptera: Noctuidae) revisited: redescription of external morphology of Neotropical populations</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1807671?af=R</link>
+      <content:encoded>&lt;a href="/toc/nnfe20/56/3"&gt;Volume 56, Issue 3&lt;/a&gt;, December 2021, Page 188-202&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 56, Issue 3, December 2021, Page 188-202&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>The immatures of Peridroma saucia (Hübner, [1808]) (Lepidoptera: Noctuidae) revisited: redescription of external morphology of Neotropical populations</dc:title>
+      <dc:identifier>10.1080/01650521.2020.1807671</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2020-08-28T08:55:03Z</dc:date>
+      <dc:rights>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Lidia Venâncio</dc:creator>
+      <dc:creator>Eduardo Carneiro</dc:creator>
+      <dc:creator>Alexandre Specht</dc:creator>
+      <dc:creator>Edegar Fronza</dc:creator>
+      <dc:creator>Mirna M. Casagrande</dc:creator>
+      <prism:publicationName>The immatures of Peridroma saucia (Hübner, [1808]) (Lepidoptera: Noctuidae) revisited: redescription of external morphology of Neotropical populations</prism:publicationName>
+      <prism:volume>56</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>188</prism:startingPage>
+      <prism:endingPage>202</prism:endingPage>
+      <prism:coverDate>2021-09-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-09-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/01650521.2020.1807671</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1807671?af=R</prism:url>
+      <prism:copyright>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1804814?af=R">
+      <title>­The tadpole of the stream treefrog Hyloscirtus antioquia (Anura: Hylidae: Cophomantini)</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1804814?af=R</link>
+      <content:encoded>&lt;a href="/toc/nnfe20/56/3"&gt;Volume 56, Issue 3&lt;/a&gt;, December 2021, Page 203-209&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 56, Issue 3, December 2021, Page 203-209&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>­The tadpole of the stream treefrog Hyloscirtus antioquia (Anura: Hylidae: Cophomantini)</dc:title>
+      <dc:identifier>10.1080/01650521.2020.1804814</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2020-08-24T10:05:54Z</dc:date>
+      <dc:rights>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Mauricio Rivera-Correa</dc:creator>
+      <dc:creator>Julián Faivovich</dc:creator>
+      <prism:publicationName>­The tadpole of the stream treefrog Hyloscirtus antioquia (Anura: Hylidae: Cophomantini)</prism:publicationName>
+      <prism:volume>56</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>203</prism:startingPage>
+      <prism:endingPage>209</prism:endingPage>
+      <prism:coverDate>2021-09-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-09-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/01650521.2020.1804814</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1804814?af=R</prism:url>
+      <prism:copyright>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1794689?af=R">
+      <title>Natural history of the ogre-faced spider Deinopis cf. cylindracea (Araneae: Deinopidae): revealing its phenology</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1794689?af=R</link>
+      <content:encoded>&lt;a href="/toc/nnfe20/56/3"&gt;Volume 56, Issue 3&lt;/a&gt;, December 2021, Page 210-219&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 56, Issue 3, December 2021, Page 210-219&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Natural history of the ogre-faced spider Deinopis cf. cylindracea (Araneae: Deinopidae): revealing its phenology</dc:title>
+      <dc:identifier>10.1080/01650521.2020.1794689</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2020-10-26T08:26:14Z</dc:date>
+      <dc:rights>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Rafael Pereira da Ponte</dc:creator>
+      <dc:creator>Vanessa Stefani</dc:creator>
+      <dc:creator>João Vasconcellos-Neto</dc:creator>
+      <prism:publicationName>Natural history of the ogre-faced spider Deinopis cf. cylindracea (Araneae: Deinopidae): revealing its phenology</prism:publicationName>
+      <prism:volume>56</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>210</prism:startingPage>
+      <prism:endingPage>219</prism:endingPage>
+      <prism:coverDate>2021-09-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-09-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/01650521.2020.1794689</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1794689?af=R</prism:url>
+      <prism:copyright>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1806008?af=R">
+      <title>Spatial and seasonal patterns of ground-dwelling spider assemblages belonging to the retrolateral tibial apophysis clade (Araneae: Araneomorphae) in two remnants of pine-oak forest from Mexico</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1806008?af=R</link>
+      <content:encoded>&lt;a href="/toc/nnfe20/56/3"&gt;Volume 56, Issue 3&lt;/a&gt;, December 2021, Page 220-233&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 56, Issue 3, December 2021, Page 220-233&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Spatial and seasonal patterns of ground-dwelling spider assemblages belonging to the retrolateral tibial apophysis clade (Araneae: Araneomorphae) in two remnants of pine-oak forest from Mexico</dc:title>
+      <dc:identifier>10.1080/01650521.2020.1806008</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2020-08-28T08:29:16Z</dc:date>
+      <dc:rights>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Emmanuel F. Campuzano</dc:creator>
+      <dc:creator>Jorge R. Padilla-Ramírez</dc:creator>
+      <prism:publicationName>Spatial and seasonal patterns of ground-dwelling spider assemblages belonging to the retrolateral tibial apophysis clade (Araneae: Araneomorphae) in two remnants of pine-oak forest from Mexico</prism:publicationName>
+      <prism:volume>56</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>220</prism:startingPage>
+      <prism:endingPage>233</prism:endingPage>
+      <prism:coverDate>2021-09-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-09-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/01650521.2020.1806008</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1806008?af=R</prism:url>
+      <prism:copyright>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1803716?af=R">
+      <title>Reproductive biology of Neotropical tetra fish Mimagoniates lateralis (Nichols, 1913) (Characiformes, Characidae), an endangered species of blackwater streams of southeastern Brazil</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1803716?af=R</link>
+      <content:encoded>&lt;a href="/toc/nnfe20/56/3"&gt;Volume 56, Issue 3&lt;/a&gt;, December 2021, Page 234-237&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 56, Issue 3, December 2021, Page 234-237&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Reproductive biology of Neotropical tetra fish Mimagoniates lateralis (Nichols, 1913) (Characiformes, Characidae), an endangered species of blackwater streams of southeastern Brazil</dc:title>
+      <dc:identifier>10.1080/01650521.2020.1803716</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2020-08-17T06:07:03Z</dc:date>
+      <dc:rights>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Mariana Bissoli de Moraes</dc:creator>
+      <dc:creator>Fabio Cop Ferreira</dc:creator>
+      <dc:creator>Ursulla Pereira Souza</dc:creator>
+      <prism:publicationName>Reproductive biology of Neotropical tetra fish Mimagoniates lateralis (Nichols, 1913) (Characiformes, Characidae), an endangered species of blackwater streams of southeastern Brazil</prism:publicationName>
+      <prism:volume>56</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>234</prism:startingPage>
+      <prism:endingPage>237</prism:endingPage>
+      <prism:coverDate>2021-09-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-09-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/01650521.2020.1803716</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1803716?af=R</prism:url>
+      <prism:copyright>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1786921?af=R">
+      <title>Using aerial fruit-baited traps with different naturally fermented baits to survey scarab beetles in the Amazon rainforest</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1786921?af=R</link>
+      <content:encoded>&lt;a href="/toc/nnfe20/56/3"&gt;Volume 56, Issue 3&lt;/a&gt;, December 2021, Page 238-243&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 56, Issue 3, December 2021, Page 238-243&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Using aerial fruit-baited traps with different naturally fermented baits to survey scarab beetles in the Amazon rainforest</dc:title>
+      <dc:identifier>10.1080/01650521.2020.1786921</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2020-07-06T10:49:19Z</dc:date>
+      <dc:rights>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Anderson Puker</dc:creator>
+      <dc:creator>César M. A. Correa</dc:creator>
+      <dc:creator>Letícia S. Butzske</dc:creator>
+      <dc:creator>Regiane A. Pacheco</dc:creator>
+      <prism:publicationName>Using aerial fruit-baited traps with different naturally fermented baits to survey scarab beetles in the Amazon rainforest</prism:publicationName>
+      <prism:volume>56</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>238</prism:startingPage>
+      <prism:endingPage>243</prism:endingPage>
+      <prism:coverDate>2021-09-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-09-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/01650521.2020.1786921</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1786921?af=R</prism:url>
+      <prism:copyright>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1783482?af=R">
+      <title>Measuring the volume of prey in anuran trophic ecology studies: accuracy of three methods</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1783482?af=R</link>
+      <content:encoded>&lt;a href="/toc/nnfe20/56/3"&gt;Volume 56, Issue 3&lt;/a&gt;, December 2021, Page 244-247&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 56, Issue 3, December 2021, Page 244-247&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Measuring the volume of prey in anuran trophic ecology studies: accuracy of three methods</dc:title>
+      <dc:identifier>10.1080/01650521.2020.1783482</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2020-06-24T06:02:26Z</dc:date>
+      <dc:rights>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Camila Fernanda Moser</dc:creator>
+      <dc:creator>Mateus de Oliveira</dc:creator>
+      <dc:creator>Alexandro Marques Tozetti</dc:creator>
+      <prism:publicationName>Measuring the volume of prey in anuran trophic ecology studies: accuracy of three methods</prism:publicationName>
+      <prism:volume>56</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>244</prism:startingPage>
+      <prism:endingPage>247</prism:endingPage>
+      <prism:coverDate>2021-09-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-09-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/01650521.2020.1783482</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1783482?af=R</prism:url>
+      <prism:copyright>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.2010975?af=R">
+      <title>Coarazuphium auleri sp. n. (Carabidae: Zuphiini), a new troglobitic ground-beetle in Central-Western Brazil</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.2010975?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Coarazuphium auleri sp. n. (Carabidae: Zuphiini), a new troglobitic ground-beetle in Central-Western Brazil</dc:title>
+      <dc:identifier>10.1080/01650521.2021.2010975</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-12-13T06:40:08Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Thais Giovannini Pellegrini</dc:creator>
+      <dc:creator>Maria Elina Bichuette</dc:creator>
+      <dc:creator>Letícia Vieira</dc:creator>
+      <prism:publicationName>Coarazuphium auleri sp. n. (Carabidae: Zuphiini), a new troglobitic ground-beetle in Central-Western Brazil</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>10</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.2010975</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.2010975?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.2007010?af=R">
+      <title>Atopsyche Banks (Trichoptera: Hydrobiosidae) from Mexico: new species, redescription, and identification key</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.2007010?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Atopsyche Banks (Trichoptera: Hydrobiosidae) from Mexico: new species, redescription, and identification key</dc:title>
+      <dc:identifier>10.1080/01650521.2021.2007010</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-12-08T03:38:14Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>María Razo–González</dc:creator>
+      <dc:creator>Rodolfo Novelo-Gutiérrez</dc:creator>
+      <dc:creator>Gabriela Castaño-Meneses</dc:creator>
+      <dc:creator>Juan Márquez</dc:creator>
+      <prism:publicationName>Atopsyche Banks (Trichoptera: Hydrobiosidae) from Mexico: new species, redescription, and identification key</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>11</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.2007010</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.2007010?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.2005393?af=R">
+      <title>The spatial and trophic ecology of culpeo foxes (Lycalopex culpaeus) in the high Andes of northern Chile</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.2005393?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>The spatial and trophic ecology of culpeo foxes (Lycalopex culpaeus) in the high Andes of northern Chile</dc:title>
+      <dc:identifier>10.1080/01650521.2021.2005393</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-12-06T06:32:26Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Nicolás Lagos</dc:creator>
+      <dc:creator>Rodrigo Villalobos</dc:creator>
+      <dc:creator>Juliana A. Vianna</dc:creator>
+      <dc:creator>Cayetano Espinosa-Miranda</dc:creator>
+      <dc:creator>Jaime R. Rau</dc:creator>
+      <dc:creator>Agustín Iriarte</dc:creator>
+      <prism:publicationName>The spatial and trophic ecology of culpeo foxes (Lycalopex culpaeus) in the high Andes of northern Chile</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>10</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.2005393</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.2005393?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.2008146?af=R">
+      <title>Living on the edge: density and activity patterns of the ocelot, Leopardus pardalis, in the austral limit of the Atlantic Forest</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.2008146?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Living on the edge: density and activity patterns of the ocelot, Leopardus pardalis, in the austral limit of the Atlantic Forest</dc:title>
+      <dc:identifier>10.1080/01650521.2021.2008146</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-12-06T07:07:58Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Gisele Jardim Bolze</dc:creator>
+      <dc:creator>Flávia Pereira Tirelli</dc:creator>
+      <dc:creator>Diego Queirolo</dc:creator>
+      <dc:creator>Maria João Ramos Pereira</dc:creator>
+      <prism:publicationName>Living on the edge: density and activity patterns of the ocelot, Leopardus pardalis, in the austral limit of the Atlantic Forest</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>14</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.2008146</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.2008146?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.2009269?af=R">
+      <title>The rare robber fly genus Pronomopsis Hermann (Diptera: Asilidae: Dasypogoninae) in Argentina</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.2009269?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>The rare robber fly genus Pronomopsis Hermann (Diptera: Asilidae: Dasypogoninae) in Argentina</dc:title>
+      <dc:identifier>10.1080/01650521.2021.2009269</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-12-06T07:24:47Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Leopoldo J. Álvarez</dc:creator>
+      <dc:creator>Alexssandro Camargo</dc:creator>
+      <dc:creator>Mariano Lucia</dc:creator>
+      <dc:creator>Carlos J. E. Lamas</dc:creator>
+      <dc:creator>Juan P. Torretta</dc:creator>
+      <prism:publicationName>The rare robber fly genus Pronomopsis Hermann (Diptera: Asilidae: Dasypogoninae) in Argentina</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>9</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.2009269</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.2009269?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.2003585?af=R">
+      <title>Biological and morphological aspects of Drepatelodes Draudt, 1929, the genus sister to all other Apatelodidae (Lepidoptera: Bombycoidea)</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.2003585?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Biological and morphological aspects of Drepatelodes Draudt, 1929, the genus sister to all other Apatelodidae (Lepidoptera: Bombycoidea)</dc:title>
+      <dc:identifier>10.1080/01650521.2021.2003585</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-12-03T03:41:15Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Elton Orlandin</dc:creator>
+      <dc:creator>Mônica Piovesan</dc:creator>
+      <dc:creator>Eduardo Carneiro</dc:creator>
+      <prism:publicationName>Biological and morphological aspects of Drepatelodes Draudt, 1929, the genus sister to all other Apatelodidae (Lepidoptera: Bombycoidea)</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>14</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.2003585</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.2003585?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1984816?af=R">
+      <title>A new species of Bruggmannia Tavares, 1906 (Diptera, Cecidomyiidae) on Neea theifera (Nyctaginaceae), a native plant to Brazil</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1984816?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>A new species of Bruggmannia Tavares, 1906 (Diptera, Cecidomyiidae) on Neea theifera (Nyctaginaceae), a native plant to Brazil</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1984816</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-12-02T05:18:37Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Valéria Cid Maia</dc:creator>
+      <dc:creator>Lázaro Araújo de Oliveira</dc:creator>
+      <prism:publicationName>A new species of Bruggmannia Tavares, 1906 (Diptera, Cecidomyiidae) on Neea theifera (Nyctaginaceae), a native plant to Brazil</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>10</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1984816</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1984816?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.2005410?af=R">
+      <title>Diversity and activity of bird fauna in ephemeral river-created habitats in Amazonia</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.2005410?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Diversity and activity of bird fauna in ephemeral river-created habitats in Amazonia</dc:title>
+      <dc:identifier>10.1080/01650521.2021.2005410</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-12-01T06:00:58Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Cassiano Bueno Martins</dc:creator>
+      <dc:creator>Darren Norris</dc:creator>
+      <dc:creator>Fernanda Michalski</dc:creator>
+      <prism:publicationName>Diversity and activity of bird fauna in ephemeral river-created habitats in Amazonia</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>12</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.2005410</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.2005410?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.2005394?af=R">
+      <title>Natural history traits of the terrestrial breeding frog Batrachyla taeniata (Anura: Batrachylidae) in wet meadows of Patagonia</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.2005394?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Natural history traits of the terrestrial breeding frog Batrachyla taeniata (Anura: Batrachylidae) in wet meadows of Patagonia</dc:title>
+      <dc:identifier>10.1080/01650521.2021.2005394</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-11-30T07:04:30Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Fabián Gastón Jara</dc:creator>
+      <dc:creator>Carmen Úbeda</dc:creator>
+      <dc:creator>Marisol Moncada</dc:creator>
+      <dc:creator>María Gabriela Perotti</dc:creator>
+      <prism:publicationName>Natural history traits of the terrestrial breeding frog Batrachyla taeniata (Anura: Batrachylidae) in wet meadows of Patagonia</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>13</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.2005394</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.2005394?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1986339?af=R">
+      <title>A new Mexican species of the genus Onthophagus Latreille, 1802 (Coleoptera: Scarabaeidae)</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1986339?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>A new Mexican species of the genus Onthophagus Latreille, 1802 (Coleoptera: Scarabaeidae)</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1986339</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-11-15T05:47:13Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Victor Moctezuma</dc:creator>
+      <dc:creator>José Luis Sánchez-Huerta</dc:creator>
+      <dc:creator>Benjamín Hernández</dc:creator>
+      <prism:publicationName>A new Mexican species of the genus Onthophagus Latreille, 1802 (Coleoptera: Scarabaeidae)</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>8</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1986339</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1986339?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1994786?af=R">
+      <title>Take a good catch at the scat: carboxylic and sulfonic acid profiles as a non-invasive tool for species identification and sex determination in neotropical carnivores</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1994786?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Take a good catch at the scat: carboxylic and sulfonic acid profiles as a non-invasive tool for species identification and sex determination in neotropical carnivores</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1994786</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-11-11T03:35:30Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Ana Maria Obino Mastella</dc:creator>
+      <dc:creator>Carlos Eduardo Rodrigues</dc:creator>
+      <dc:creator>Tarso B. Ledur Kist</dc:creator>
+      <dc:creator>Maria João Ramos Pereira</dc:creator>
+      <prism:publicationName>Take a good catch at the scat: carboxylic and sulfonic acid profiles as a non-invasive tool for species identification and sex determination in neotropical carnivores</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>10</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1994786</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1994786?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1993674?af=R">
+      <title>Diversity and composition of the spider fauna in a semideciduous Atlantic forest area in Rio de Janeiro state, Brazil</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1993674?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Diversity and composition of the spider fauna in a semideciduous Atlantic forest area in Rio de Janeiro state, Brazil</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1993674</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-11-09T03:41:28Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>André W. do Prado</dc:creator>
+      <dc:creator>Renner L. C. Baptista</dc:creator>
+      <prism:publicationName>Diversity and composition of the spider fauna in a semideciduous Atlantic forest area in Rio de Janeiro state, Brazil</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>22</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1993674</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1993674?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1993675?af=R">
+      <title>Description of the unknown female of Cosmosoma papalo (Laguerre, 2010) (Lepidoptera: Erebidae, Arctiinae) with a new state record from Mexico</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1993675?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Description of the unknown female of Cosmosoma papalo (Laguerre, 2010) (Lepidoptera: Erebidae, Arctiinae) with a new state record from Mexico</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1993675</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-11-08T06:15:35Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Luis Alberto Lara-Pérez</dc:creator>
+      <dc:creator>Eder F. Mora-Aguilar</dc:creator>
+      <prism:publicationName>Description of the unknown female of Cosmosoma papalo (Laguerre, 2010) (Lepidoptera: Erebidae, Arctiinae) with a new state record from Mexico</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>5</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1993675</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1993675?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1974709?af=R">
+      <title>Urbanization is associated to a loss of phylogenetic diversity of birds in a medium size city on the Andes of Colombia, South America</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1974709?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Urbanization is associated to a loss of phylogenetic diversity of birds in a medium size city on the Andes of Colombia, South America</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1974709</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-11-02T02:42:27Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Juan D. Carvajal-Castro</dc:creator>
+      <dc:creator>Ana María Ospina-L</dc:creator>
+      <dc:creator>Yemay Toro-López</dc:creator>
+      <dc:creator>Anny Pulido-G</dc:creator>
+      <dc:creator>Laura Ximena Cabrera-Casas</dc:creator>
+      <dc:creator>Sebastián Guerrero-Peláez</dc:creator>
+      <dc:creator>Víctor Hugo García-Merchán</dc:creator>
+      <dc:creator>Fernando Vargas-Salinas</dc:creator>
+      <prism:publicationName>Urbanization is associated to a loss of phylogenetic diversity of birds in a medium size city on the Andes of Colombia, South America</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>13</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1974709</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1974709?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1994349?af=R">
+      <title>Influences of Small Hydroelectric Plants on the genetic differentiation of Neotropical freshwater fish populations: a case study</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1994349?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Influences of Small Hydroelectric Plants on the genetic differentiation of Neotropical freshwater fish populations: a case study</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1994349</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-11-02T03:37:21Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Dhiego G. Ferreira</dc:creator>
+      <dc:creator>Bruno A. Galindo</dc:creator>
+      <dc:creator>Caroline Apolinário-Silva</dc:creator>
+      <dc:creator>Raul H. C. Nascimento</dc:creator>
+      <dc:creator>Wilson Frantine-Silva</dc:creator>
+      <dc:creator>Analiza F. Cavenagh</dc:creator>
+      <dc:creator>Matheus M. Silva</dc:creator>
+      <dc:creator>Daniele C. Feliciano</dc:creator>
+      <dc:creator>Carlos E. G. Aggio</dc:creator>
+      <dc:creator>Augusto S. Zanatta</dc:creator>
+      <dc:creator>Sandremir Carvalho</dc:creator>
+      <dc:creator>Silvia H. Sofia</dc:creator>
+      <prism:publicationName>Influences of Small Hydroelectric Plants on the genetic differentiation of Neotropical freshwater fish populations: a case study</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>13</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1994349</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1994349?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1984795?af=R">
+      <title>On the vocal repertoire of the monkey frog Phyllomedusa venusta: distress call and the presumed non-existing advertisement call</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1984795?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>On the vocal repertoire of the monkey frog Phyllomedusa venusta: distress call and the presumed non-existing advertisement call</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1984795</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-11-01T04:38:06Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Andressa M. Bezerra</dc:creator>
+      <dc:creator>Juan S. Mendoza-Roldan</dc:creator>
+      <dc:creator>Fábio Hepp</dc:creator>
+      <prism:publicationName>On the vocal repertoire of the monkey frog Phyllomedusa venusta: distress call and the presumed non-existing advertisement call</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>15</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1984795</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1984795?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1984815?af=R">
+      <title>A new species of Sumampattus Galiano, 1983 from Brazil (Araneae: Salticidae: Freyina)</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1984815?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>A new species of Sumampattus Galiano, 1983 from Brazil (Araneae: Salticidae: Freyina)</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1984815</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-11-01T04:44:02Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Kimberly S. Marta</dc:creator>
+      <dc:creator>Cassiano P. Figueiredo</dc:creator>
+      <dc:creator>Everton Nei Lopes Rodrigues</dc:creator>
+      <prism:publicationName>A new species of Sumampattus Galiano, 1983 from Brazil (Araneae: Salticidae: Freyina)</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>10</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1984815</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1984815?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1983353?af=R">
+      <title>Smicridea McLachlan (Trichoptera: Hydropsychidae) from mountain ranges in Bahia state, Brazil: new species and male-female associations</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1983353?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Smicridea McLachlan (Trichoptera: Hydropsychidae) from mountain ranges in Bahia state, Brazil: new species and male-female associations</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1983353</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-10-27T06:11:47Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Larissa L. Queiroz</dc:creator>
+      <dc:creator>Gleison R. Desiderio</dc:creator>
+      <dc:creator>Adolfo R. Calor</dc:creator>
+      <prism:publicationName>Smicridea McLachlan (Trichoptera: Hydropsychidae) from mountain ranges in Bahia state, Brazil: new species and male-female associations</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>12</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1983353</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1983353?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1944744?af=R">
+      <title>A taxonomic review of the endemic Neotropical genus Pilispina Albuquerque (Diptera: Muscidae)</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1944744?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>A taxonomic review of the endemic Neotropical genus Pilispina Albuquerque (Diptera: Muscidae)</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1944744</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-09-27T04:09:29Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>João Manuel Fogaça</dc:creator>
+      <dc:creator>Márcia Souto Couri</dc:creator>
+      <dc:creator>Claudio José Barros de Carvalho</dc:creator>
+      <prism:publicationName>A taxonomic review of the endemic Neotropical genus Pilispina Albuquerque (Diptera: Muscidae)</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>14</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1944744</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1944744?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1978212?af=R">
+      <title>Intraspecific advertisement call variation of Scinax fuscomarginatus (Lutz, 1925) from Central Brazil</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1978212?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Intraspecific advertisement call variation of Scinax fuscomarginatus (Lutz, 1925) from Central Brazil</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1978212</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-09-27T04:13:45Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Antonio Olímpio de Souza</dc:creator>
+      <dc:creator>Seixas Rezende Oliveira</dc:creator>
+      <dc:creator>Rogério Pereira Bastos</dc:creator>
+      <dc:creator>Alessandro Ribeiro Morais</dc:creator>
+      <prism:publicationName>Intraspecific advertisement call variation of Scinax fuscomarginatus (Lutz, 1925) from Central Brazil</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>9</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1978212</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1978212?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1976041?af=R">
+      <title>Influence of human activities, social and environmental variables on the behavior of guanacos in Southern Andean Precordillera (Argentina)</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1976041?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Influence of human activities, social and environmental variables on the behavior of guanacos in Southern Andean Precordillera (Argentina)</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1976041</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-09-24T02:51:43Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Silvia Puig</dc:creator>
+      <dc:creator>Fernando Videla</dc:creator>
+      <dc:creator>Maria Irene Rosi</dc:creator>
+      <prism:publicationName>Influence of human activities, social and environmental variables on the behavior of guanacos in Southern Andean Precordillera (Argentina)</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>14</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1976041</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1976041?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1968755?af=R">
+      <title>Jurasai ypauoca sp. nov., the sixth species of Jurasaidae, with a key to species of the genus (Coleoptera: Elateroidea)</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1968755?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Jurasai ypauoca sp. nov., the sixth species of Jurasaidae, with a key to species of the genus (Coleoptera: Elateroidea)</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1968755</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-09-06T04:28:16Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>André Silva Roza</dc:creator>
+      <prism:publicationName>Jurasai ypauoca sp. nov., the sixth species of Jurasaidae, with a key to species of the genus (Coleoptera: Elateroidea)</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>6</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1968755</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1968755?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1967690?af=R">
+      <title>Ichthyofauna of the Água das Araras stream, Paranapanema River basin, upper Paraná River system, Southern Brazil</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1967690?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Ichthyofauna of the Água das Araras stream, Paranapanema River basin, upper Paraná River system, Southern Brazil</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1967690</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-08-31T05:31:56Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Bruno A. Galindo</dc:creator>
+      <dc:creator>Alexandro D. A. Costa</dc:creator>
+      <dc:creator>Dhiego G. Ferreira</dc:creator>
+      <dc:creator>Thiago D. Garcia</dc:creator>
+      <dc:creator>Augusto Frota</dc:creator>
+      <dc:creator>Wilson Frantine-Silva</dc:creator>
+      <dc:creator>Rafaela G. Rauber</dc:creator>
+      <dc:creator>Raul H. C. Nascimento</dc:creator>
+      <dc:creator>Augusto S. Zanatta</dc:creator>
+      <dc:creator>Oscar A. Shibatta</dc:creator>
+      <dc:creator>José L. O. Birindelli</dc:creator>
+      <prism:publicationName>Ichthyofauna of the Água das Araras stream, Paranapanema River basin, upper Paraná River system, Southern Brazil</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>15</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1967690</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1967690?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1964902?af=R">
+      <title>Diversity and distribution of the genus Hyalella (Crustacea: Amphipoda: Hyalellidae) in temporary wetlands from the southern Brazilian Coastal Plain, with a taxonomic key to the species in the region</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1964902?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Diversity and distribution of the genus Hyalella (Crustacea: Amphipoda: Hyalellidae) in temporary wetlands from the southern Brazilian Coastal Plain, with a taxonomic key to the species in the region</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1964902</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-08-26T03:11:49Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Jordan Tuparai Talhaferro</dc:creator>
+      <dc:creator>Mateus Marques Pires</dc:creator>
+      <dc:creator>Cristina Stenert</dc:creator>
+      <dc:creator>Leonardo Maltchik</dc:creator>
+      <dc:creator>Alessandra Angélica de Pádua Bueno</dc:creator>
+      <dc:creator>Carla Bender Kotzian</dc:creator>
+      <prism:publicationName>Diversity and distribution of the genus Hyalella (Crustacea: Amphipoda: Hyalellidae) in temporary wetlands from the southern Brazilian Coastal Plain, with a taxonomic key to the species in the region</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>17</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1964902</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1964902?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1948654?af=R">
+      <title>Exploring the effects of the quaternary glacial–interglacial cycles on the geographic distributions of tropical Andean rodents: species in the genus Aepeomys Thomas, 1898 (Thomasomyini: Sigmodontinae: Cricetidae) as a case study</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1948654?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Exploring the effects of the quaternary glacial–interglacial cycles on the geographic distributions of tropical Andean rodents: species in the genus Aepeomys Thomas, 1898 (Thomasomyini: Sigmodontinae: Cricetidae) as a case study</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1948654</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-08-19T03:12:57Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Marcial Quiroga-Carmona</dc:creator>
+      <prism:publicationName>Exploring the effects of the quaternary glacial–interglacial cycles on the geographic distributions of tropical Andean rodents: species in the genus Aepeomys Thomas, 1898 (Thomasomyini: Sigmodontinae: Cricetidae) as a case study</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>17</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1948654</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1948654?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1951639?af=R">
+      <title>Life history traits of Praina temperata (Lepidoptera, Noctuidae): a widely distributed and neglected cutworm of the Neotropics</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1951639?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Life history traits of Praina temperata (Lepidoptera, Noctuidae): a widely distributed and neglected cutworm of the Neotropics</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1951639</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-08-19T03:19:25Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Alexandre Specht</dc:creator>
+      <dc:creator>Eduardo Carneiro</dc:creator>
+      <dc:creator>Vânia F. Roque-Specht</dc:creator>
+      <dc:creator>Mirna M. Casagrande</dc:creator>
+      <dc:creator>Lidia Venâncio</dc:creator>
+      <dc:creator>Juaci V. Malaquias</dc:creator>
+      <dc:creator>Felipe A. D. Bonfin</dc:creator>
+      <dc:creator>Paulo V. M. Vieira</dc:creator>
+      <prism:publicationName>Life history traits of Praina temperata (Lepidoptera, Noctuidae): a widely distributed and neglected cutworm of the Neotropics</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>17</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1951639</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1951639?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1948312?af=R">
+      <title>A new cave-dwelling Maxchernes Feio, 1960 (Pseudoscorpiones: Chernetidae) from Brazil</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1948312?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>A new cave-dwelling Maxchernes Feio, 1960 (Pseudoscorpiones: Chernetidae) from Brazil</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1948312</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-08-18T03:37:37Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Edwin Bedoya-Roqueme</dc:creator>
+      <dc:creator>Everton Tizo-Pedroso</dc:creator>
+      <dc:creator>Eder Barbier</dc:creator>
+      <dc:creator>André Felipe de Araujo Lira</dc:creator>
+      <prism:publicationName>A new cave-dwelling Maxchernes Feio, 1960 (Pseudoscorpiones: Chernetidae) from Brazil</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>11</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1948312</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1948312?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1950970?af=R">
+      <title>Composition and distribution of the fish fauna in the Rio Jacuípe, northernmost tributary of the Rio Paraguaçu basin, Bahia, Brazil</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1950970?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Composition and distribution of the fish fauna in the Rio Jacuípe, northernmost tributary of the Rio Paraguaçu basin, Bahia, Brazil</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1950970</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-08-18T03:43:29Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Thaís Nascimento da Silva</dc:creator>
+      <dc:creator>Luisa Maria Sarmento-Soares</dc:creator>
+      <dc:creator>Ronaldo Fernando Martins-Pinheiro</dc:creator>
+      <dc:creator>Alexandre Clistenes de Alcântara Santos</dc:creator>
+      <prism:publicationName>Composition and distribution of the fish fauna in the Rio Jacuípe, northernmost tributary of the Rio Paraguaçu basin, Bahia, Brazil</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>17</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1950970</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1950970?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1964910?af=R">
+      <title>Mobility of bats between caves: ecological aspects and implications for conservation and environmental licensing activities in Brazil</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1964910?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Mobility of bats between caves: ecological aspects and implications for conservation and environmental licensing activities in Brazil</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1964910</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-08-18T03:45:25Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Edson Silva Barbosa Leal</dc:creator>
+      <dc:creator>Enrico Bernard</dc:creator>
+      <prism:publicationName>Mobility of bats between caves: ecological aspects and implications for conservation and environmental licensing activities in Brazil</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>11</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1964910</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1964910?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1961472?af=R">
+      <title>Modeling ocelot (Leopardus pardalis) distribution in the southern limits in Brazil</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1961472?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Modeling ocelot (Leopardus pardalis) distribution in the southern limits in Brazil</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1961472</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-08-09T04:06:50Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Leonardo D. Araújo</dc:creator>
+      <dc:creator>Felipe B. Peters</dc:creator>
+      <dc:creator>Fábio D. Mazim</dc:creator>
+      <dc:creator>Marina O. Favarini</dc:creator>
+      <dc:creator>Luiz L. C. Corrêa</dc:creator>
+      <dc:creator>Flávia P. Tirelli</dc:creator>
+      <prism:publicationName>Modeling ocelot (Leopardus pardalis) distribution in the southern limits in Brazil</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>10</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1961472</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1961472?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1914295?af=R">
+      <title>Bird diversity in ‘paricá’ (Schizolobium amazonicum Huber ex Ducke) plantations and forest fragments in Eastern Amazon: taxonomic diversity, ecological guilds, and functional trait composition</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1914295?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Bird diversity in ‘paricá’ (Schizolobium amazonicum Huber ex Ducke) plantations and forest fragments in Eastern Amazon: taxonomic diversity, ecological guilds, and functional trait composition</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1914295</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-08-04T07:22:00Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Fernanda de Carvalho Barros</dc:creator>
+      <dc:creator>Sara Miranda Almeida</dc:creator>
+      <dc:creator>Pablo Vieira Cerqueira</dc:creator>
+      <dc:creator>Larissa Cardoso Silva</dc:creator>
+      <dc:creator>Marcos Pérsio Dantas Santos</dc:creator>
+      <prism:publicationName>Bird diversity in ‘paricá’ (Schizolobium amazonicum Huber ex Ducke) plantations and forest fragments in Eastern Amazon: taxonomic diversity, ecological guilds, and functional trait composition</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>12</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1914295</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1914295?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1962678?af=R">
+      <title>Distribution, habitat suitability, and revised morphological diagnosis confirm that the fruit bat Platyrrhinus recifinus is an Atlantic Forest endemic</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1962678?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Distribution, habitat suitability, and revised morphological diagnosis confirm that the fruit bat Platyrrhinus recifinus is an Atlantic Forest endemic</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1962678</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-08-04T09:04:31Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Guilherme S. T. Garbino</dc:creator>
+      <dc:creator>Felipe Pessoa da Silva</dc:creator>
+      <dc:creator>Lucas Gonçalves da Silva</dc:creator>
+      <prism:publicationName>Distribution, habitat suitability, and revised morphological diagnosis confirm that the fruit bat Platyrrhinus recifinus is an Atlantic Forest endemic</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>12</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1962678</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1962678?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1915674?af=R">
+      <title>Cryptic diversity in a neotropical avian species complex untangled by neglected genetic evidence</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1915674?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Cryptic diversity in a neotropical avian species complex untangled by neglected genetic evidence</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1915674</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-07-13T01:38:25Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Giovanni Forcina</dc:creator>
+      <dc:creator>Peter Boesman</dc:creator>
+      <dc:creator>Michael J. Jowers</dc:creator>
+      <prism:publicationName>Cryptic diversity in a neotropical avian species complex untangled by neglected genetic evidence</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>8</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1915674</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1915674?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1944758?af=R">
+      <title>Acoustic segregation of five sympatric and syntopic species of genus Pristimantis (Anura: Strabomantidae) from Western Colombia</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1944758?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Acoustic segregation of five sympatric and syntopic species of genus Pristimantis (Anura: Strabomantidae) from Western Colombia</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1944758</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-07-13T06:11:23Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Fray Geovanny Arriaga-Jaramillo</dc:creator>
+      <dc:creator>Oscar Mauricio Cuellar-Valencia</dc:creator>
+      <dc:creator>Isabella García-Gómez</dc:creator>
+      <dc:creator>Irene Ceballos-Castro</dc:creator>
+      <dc:creator>Wilmar Bolívar-García</dc:creator>
+      <dc:creator>David Andrés Velásquez-Trujillo</dc:creator>
+      <dc:creator>Ayda Susana Ortiz-Baez</dc:creator>
+      <dc:creator>Jhon Jairo Ospina-Sarria</dc:creator>
+      <prism:publicationName>Acoustic segregation of five sympatric and syntopic species of genus Pristimantis (Anura: Strabomantidae) from Western Colombia</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>8</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1944758</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1944758?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1867951?af=R">
+      <title>Studies on Neotropical Phasmatodea XXIII: Bostriana n. gen., a new genus of Diapheromerinae from Bolivia (Phasmatodea: Occidophasmata: Diapheromeridae)</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1867951?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Studies on Neotropical Phasmatodea XXIII: Bostriana n. gen., a new genus of Diapheromerinae from Bolivia (Phasmatodea: Occidophasmata: Diapheromeridae)</dc:title>
+      <dc:identifier>10.1080/01650521.2020.1867951</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-07-09T02:34:23Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Frank H. Hennemann</dc:creator>
+      <dc:creator>Oskar V. Conle</dc:creator>
+      <dc:creator>Pablo Valero</dc:creator>
+      <prism:publicationName>Studies on Neotropical Phasmatodea XXIII: Bostriana n. gen., a new genus of Diapheromerinae from Bolivia (Phasmatodea: Occidophasmata: Diapheromeridae)</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>10</prism:endingPage>
+      <prism:doi>10.1080/01650521.2020.1867951</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1867951?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1933691?af=R">
+      <title>Ravines as conservation strongholds for small wildcats under pressure from free-ranging dogs and cats in Mediterranean landscapes of Chile</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1933691?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Ravines as conservation strongholds for small wildcats under pressure from free-ranging dogs and cats in Mediterranean landscapes of Chile</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1933691</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-06-28T07:23:39Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Esperanza Beltrami</dc:creator>
+      <dc:creator>Nicolás Gálvez</dc:creator>
+      <dc:creator>Christian Osorio</dc:creator>
+      <dc:creator>Marcella J. Kelly</dc:creator>
+      <dc:creator>David Morales-Moraga</dc:creator>
+      <dc:creator>Cristian Bonacic</dc:creator>
+      <prism:publicationName>Ravines as conservation strongholds for small wildcats under pressure from free-ranging dogs and cats in Mediterranean landscapes of Chile</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>17</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1933691</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1933691?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1902202?af=R">
+      <title>Small prey for small cats: the importance of prey-size in the diet of southern tiger cat Leopardus guttulus in a competitor-free environment</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1902202?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Small prey for small cats: the importance of prey-size in the diet of southern tiger cat Leopardus guttulus in a competitor-free environment</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1902202</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-06-21T04:31:04Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Marcos Adriano Tortato</dc:creator>
+      <dc:creator>Luiz Gustavo Rodrigues Oliveira-Santos</dc:creator>
+      <dc:creator>Maurício Osvaldo Moura</dc:creator>
+      <dc:creator>Tadeu Gomes de Oliveira</dc:creator>
+      <prism:publicationName>Small prey for small cats: the importance of prey-size in the diet of southern tiger cat Leopardus guttulus in a competitor-free environment</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>12</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1902202</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1902202?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1933701?af=R">
+      <title>On jumping spider genera Rudra and Anokopsis (Araneae, Salticidae, Dendryphantina)</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1933701?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>On jumping spider genera Rudra and Anokopsis (Araneae, Salticidae, Dendryphantina)</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1933701</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-06-21T04:56:59Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Kimberly Da Silva Marta</dc:creator>
+      <dc:creator>Diana J. K. Almeida</dc:creator>
+      <dc:creator>Ricardo Ott</dc:creator>
+      <dc:creator>Everton N. L. Rodrigues</dc:creator>
+      <prism:publicationName>On jumping spider genera Rudra and Anokopsis (Araneae, Salticidae, Dendryphantina)</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>5</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1933701</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1933701?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1933861?af=R">
+      <title>The Amazonian shredder caddisfly Phylloicus elektoros Prather, 2003 (Trichoptera: Calamoceratidae): description of the larva and pupa</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1933861?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>The Amazonian shredder caddisfly Phylloicus elektoros Prather, 2003 (Trichoptera: Calamoceratidae): description of the larva and pupa</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1933861</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-06-21T05:45:19Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>C. M. Campos</dc:creator>
+      <dc:creator>G. R. Desiderio</dc:creator>
+      <dc:creator>R. T. Martins</dc:creator>
+      <dc:creator>N. Hamada</dc:creator>
+      <prism:publicationName>The Amazonian shredder caddisfly Phylloicus elektoros Prather, 2003 (Trichoptera: Calamoceratidae): description of the larva and pupa</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>12</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1933861</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1933861?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1936882?af=R">
+      <title>Morphometric changes in wings of bess beetles (Coleoptera: Passalidae) related to elevation: a case of study in the Colombian Andes</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1936882?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Morphometric changes in wings of bess beetles (Coleoptera: Passalidae) related to elevation: a case of study in the Colombian Andes</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1936882</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-06-21T05:47:11Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Edwin Rafael Ariza-Marín</dc:creator>
+      <dc:creator>Germán Amat-García</dc:creator>
+      <prism:publicationName>Morphometric changes in wings of bess beetles (Coleoptera: Passalidae) related to elevation: a case of study in the Colombian Andes</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>11</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1936882</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1936882?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1933702?af=R">
+      <title>Alpha and beta diversity of planktonic microcrustaceans are associated with environmental heterogeneity in the Frades River Basin, Brazil</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1933702?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Alpha and beta diversity of planktonic microcrustaceans are associated with environmental heterogeneity in the Frades River Basin, Brazil</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1933702</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-06-09T04:02:51Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Escarlett de Arruda Ramos</dc:creator>
+      <dc:creator>Adriana Tiemi Ramos Okumura</dc:creator>
+      <dc:creator>Allison Gonçalves Silva</dc:creator>
+      <dc:creator>Tiago Leão Pereira</dc:creator>
+      <dc:creator>Nadson Ressyé Simões</dc:creator>
+      <prism:publicationName>Alpha and beta diversity of planktonic microcrustaceans are associated with environmental heterogeneity in the Frades River Basin, Brazil</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>12</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1933702</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1933702?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1933699?af=R">
+      <title>Passive acoustic monitoring of the Ferruginous Pygmy-Owl (Glaucidium brasilianum) over a complete annual cycle: seasonality and monitoring recommendations</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1933699?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Passive acoustic monitoring of the Ferruginous Pygmy-Owl (Glaucidium brasilianum) over a complete annual cycle: seasonality and monitoring recommendations</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1933699</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-06-01T05:56:15Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Cristian Pérez-Granados</dc:creator>
+      <dc:creator>Karl-L. Schuchmann</dc:creator>
+      <dc:creator>Marinez I. Marques</dc:creator>
+      <prism:publicationName>Passive acoustic monitoring of the Ferruginous Pygmy-Owl (Glaucidium brasilianum) over a complete annual cycle: seasonality and monitoring recommendations</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>8</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1933699</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1933699?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1915058?af=R">
+      <title>Metacercariae of Clinostomum Leidy, 1856 (Digenea: Clinostomidae) infecting freshwater fishes throughout Brazil: infection patterns, parasite–host interactions, and geographic distribution</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1915058?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Metacercariae of Clinostomum Leidy, 1856 (Digenea: Clinostomidae) infecting freshwater fishes throughout Brazil: infection patterns, parasite–host interactions, and geographic distribution</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1915058</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-05-19T07:52:04Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Marcos Tavares-Dias</dc:creator>
+      <dc:creator>Luís Mauricio Abdon Silva</dc:creator>
+      <dc:creator>Alexandro Cezar Florentino</dc:creator>
+      <prism:publicationName>Metacercariae of Clinostomum Leidy, 1856 (Digenea: Clinostomidae) infecting freshwater fishes throughout Brazil: infection patterns, parasite–host interactions, and geographic distribution</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>14</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1915058</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1915058?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1914294?af=R">
+      <title>Assessing patterns of genetic diversity and connectivity among guanacos (Lama guanicoe) in the Bolivian Chaco: implications for designing management strategies</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1914294?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Assessing patterns of genetic diversity and connectivity among guanacos (Lama guanicoe) in the Bolivian Chaco: implications for designing management strategies</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1914294</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-04-28T05:19:48Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Andrés Mesas</dc:creator>
+      <dc:creator>Erika Cuéllar-Soto</dc:creator>
+      <dc:creator>Karina Romero</dc:creator>
+      <dc:creator>Trinidad Zegers</dc:creator>
+      <dc:creator>Valeria Varas</dc:creator>
+      <dc:creator>Benito A. González</dc:creator>
+      <dc:creator>Warren E. Johnson</dc:creator>
+      <dc:creator>Juan C. Marín</dc:creator>
+      <prism:publicationName>Assessing patterns of genetic diversity and connectivity among guanacos (Lama guanicoe) in the Bolivian Chaco: implications for designing management strategies</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>10</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1914294</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1914294?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1908789?af=R">
+      <title>A new species of Heterosternus Dupont (Coleoptera: Scarabaeidae) from Mexico</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1908789?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>A new species of Heterosternus Dupont (Coleoptera: Scarabaeidae) from Mexico</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1908789</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-04-21T03:36:09Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Andrés Ramírez-Ponce</dc:creator>
+      <dc:creator>Oscar Galindo</dc:creator>
+      <prism:publicationName>A new species of Heterosternus Dupont (Coleoptera: Scarabaeidae) from Mexico</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>7</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1908789</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1908789?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1897379?af=R">
+      <title>Scavenging behavior of the Short-eared Dog (Atelocynus microtis) in Ecuadorian lowland rainforest</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1897379?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Scavenging behavior of the Short-eared Dog (Atelocynus microtis) in Ecuadorian lowland rainforest</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1897379</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-03-24T04:43:52Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Victor Lizana</dc:creator>
+      <dc:creator>Carlos Martínez-Carrasco</dc:creator>
+      <dc:creator>Diego Mosquera</dc:creator>
+      <dc:creator>Gabriela Vinueza H.</dc:creator>
+      <dc:creator>David Romo</dc:creator>
+      <dc:creator>Kelly Swing</dc:creator>
+      <dc:creator>Jesús Cardells</dc:creator>
+      <dc:creator>Eduardo A. Díaz</dc:creator>
+      <prism:publicationName>Scavenging behavior of the Short-eared Dog (Atelocynus microtis) in Ecuadorian lowland rainforest</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>7</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1897379</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1897379?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1895572?af=R">
+      <title>Jaguar (Panthera onca) density in the Sierra Madre del Sur; the last wilderness area in the central-western slope in Mexico</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1895572?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Jaguar (Panthera onca) density in the Sierra Madre del Sur; the last wilderness area in the central-western slope in Mexico</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1895572</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-03-23T02:43:34Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Juan F. Charre-Medellín</dc:creator>
+      <dc:creator>Tiberio C. Monterrubio-Rico</dc:creator>
+      <dc:creator>Pelayo Acevedo</dc:creator>
+      <dc:creator>Esmar O. Guzmán-Díaz</dc:creator>
+      <dc:creator>José Jiménez</dc:creator>
+      <prism:publicationName>Jaguar (Panthera onca) density in the Sierra Madre del Sur; the last wilderness area in the central-western slope in Mexico</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>14</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1895572</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1895572?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1895512?af=R">
+      <title>Effect of eucalyptus plantations on the taxonomic and functional structure of aquatic insect assemblages in Neotropical springs</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1895512?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Effect of eucalyptus plantations on the taxonomic and functional structure of aquatic insect assemblages in Neotropical springs</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1895512</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-03-15T06:10:16Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Pedro Henrique Monteiro do Amaral</dc:creator>
+      <dc:creator>Cézar Henrique Barra Rocha</dc:creator>
+      <dc:creator>Roberto da Gama Alves</dc:creator>
+      <prism:publicationName>Effect of eucalyptus plantations on the taxonomic and functional structure of aquatic insect assemblages in Neotropical springs</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>12</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1895512</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1895512?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1895466?af=R">
+      <title>Preliminary study and first evidence of presence of microplastics in terrestrial herpetofauna from Southwestern Paraguay</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1895466?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Preliminary study and first evidence of presence of microplastics in terrestrial herpetofauna from Southwestern Paraguay</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1895466</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-03-11T04:04:22Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Cullen Micheal Mackenzie</dc:creator>
+      <dc:creator>Varvara Vladimirova</dc:creator>
+      <prism:publicationName>Preliminary study and first evidence of presence of microplastics in terrestrial herpetofauna from Southwestern Paraguay</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>9</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1895466</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1895466?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1895511?af=R">
+      <title>Subtle life cycle differences between two sympatric Mesosemia (Lepidoptera: Riodinidae) butterflies</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1895511?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Subtle life cycle differences between two sympatric Mesosemia (Lepidoptera: Riodinidae) butterflies</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1895511</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-03-11T04:34:01Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Gregory J. Nielsen</dc:creator>
+      <dc:creator>Lucas A. Kaminski</dc:creator>
+      <prism:publicationName>Subtle life cycle differences between two sympatric Mesosemia (Lepidoptera: Riodinidae) butterflies</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>10</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1895511</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1895511?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1897380?af=R">
+      <title>First record of eugregarines (Apicomplexa: Eugregarinorida) parasitizing the neotropical social wasp Polistes versicolor (Vespidae: Polistinae) in Brazil</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1897380?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>First record of eugregarines (Apicomplexa: Eugregarinorida) parasitizing the neotropical social wasp Polistes versicolor (Vespidae: Polistinae) in Brazil</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1897380</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-03-10T05:00:13Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Samuel Júlio Lima dos Santos</dc:creator>
+      <dc:creator>Bruno Corrêa Barbosa</dc:creator>
+      <dc:creator>Mateus Detoni</dc:creator>
+      <dc:creator>Roberto Júnio Pedroso Dias</dc:creator>
+      <dc:creator>Fabio Prezoto</dc:creator>
+      <prism:publicationName>First record of eugregarines (Apicomplexa: Eugregarinorida) parasitizing the neotropical social wasp Polistes versicolor (Vespidae: Polistinae) in Brazil</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>6</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1897380</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1897380?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1891818?af=R">
+      <title>Sampling biases of small non-volant mammals (Mammalia: Rodentia and Didelphimorphia) surveys in Paraná state, Brazil</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1891818?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Sampling biases of small non-volant mammals (Mammalia: Rodentia and Didelphimorphia) surveys in Paraná state, Brazil</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1891818</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-03-05T02:13:32Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Alan Deivid Pereira</dc:creator>
+      <dc:creator>Juliano André Bogoni</dc:creator>
+      <dc:creator>Micaela Heloise Siqueira</dc:creator>
+      <dc:creator>Ricardo Siqueira Bovendorp</dc:creator>
+      <dc:creator>Ana Paula Vidotto-Magnoni</dc:creator>
+      <dc:creator>Mário Luís Orsi</dc:creator>
+      <prism:publicationName>Sampling biases of small non-volant mammals (Mammalia: Rodentia and Didelphimorphia) surveys in Paraná state, Brazil</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>15</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1891818</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1891818?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1877391?af=R">
+      <title>Spatial patterns of shark-inflicted injuries on coastal bottlenose dolphins in the Mesoamerican Reef System</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1877391?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Spatial patterns of shark-inflicted injuries on coastal bottlenose dolphins in the Mesoamerican Reef System</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1877391</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-02-17T05:27:04Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>D. N. Castelblanco-Martínez</dc:creator>
+      <dc:creator>E. A. Ramos</dc:creator>
+      <dc:creator>J. J. Kiszka</dc:creator>
+      <dc:creator>M. P. Blanco-Parra</dc:creator>
+      <dc:creator>J. A. Padilla-Saldívar</dc:creator>
+      <dc:creator>J. García</dc:creator>
+      <dc:creator>C. A. Niño-Torres</dc:creator>
+      <prism:publicationName>Spatial patterns of shark-inflicted injuries on coastal bottlenose dolphins in the Mesoamerican Reef System</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>7</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1877391</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1877391?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1878765?af=R">
+      <title>Levels of genetic differentiation and gene flow between four populations of the Scaly-naped Pigeon, Patagioenas squamosa: implications for conservation</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1878765?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Levels of genetic differentiation and gene flow between four populations of the Scaly-naped Pigeon, Patagioenas squamosa: implications for conservation</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1878765</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-02-15T06:56:22Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Christopher Cambrone</dc:creator>
+      <dc:creator>Frank Cézilly</dc:creator>
+      <dc:creator>Rémi Wattier</dc:creator>
+      <dc:creator>Cyril Eraud</dc:creator>
+      <dc:creator>Etienne Bezault</dc:creator>
+      <prism:publicationName>Levels of genetic differentiation and gene flow between four populations of the Scaly-naped Pigeon, Patagioenas squamosa: implications for conservation</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>13</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1878765</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1878765?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1870071?af=R">
+      <title>A comparison of fruit removal in Ficus colubrinae between birds and Ectophylla alba (Chiroptera: Phyllostomidae) in a Costa Rican rain forest</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1870071?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>A comparison of fruit removal in Ficus colubrinae between birds and Ectophylla alba (Chiroptera: Phyllostomidae) in a Costa Rican rain forest</dc:title>
+      <dc:identifier>10.1080/01650521.2020.1870071</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-02-03T06:09:54Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Edna De la Llata Quiroga</dc:creator>
+      <dc:creator>Luis A. Ruedas</dc:creator>
+      <dc:creator>José Manuel Mora</dc:creator>
+      <prism:publicationName>A comparison of fruit removal in Ficus colubrinae between birds and Ectophylla alba (Chiroptera: Phyllostomidae) in a Costa Rican rain forest</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>8</prism:endingPage>
+      <prism:doi>10.1080/01650521.2020.1870071</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1870071?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1877414?af=R">
+      <title>Eat on the beach: diet composition of an endemic miniature frog from sandy coastal environments of southeastern Brazil</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1877414?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Eat on the beach: diet composition of an endemic miniature frog from sandy coastal environments of southeastern Brazil</dc:title>
+      <dc:identifier>10.1080/01650521.2021.1877414</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-02-03T06:44:55Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Luiz Fernando Carmo</dc:creator>
+      <dc:creator>André Almeida Alves</dc:creator>
+      <dc:creator>Manoela Woitovicz-Cardoso</dc:creator>
+      <dc:creator>Leandro Talione Sabagh</dc:creator>
+      <prism:publicationName>Eat on the beach: diet composition of an endemic miniature frog from sandy coastal environments of southeastern Brazil</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>10</prism:endingPage>
+      <prism:doi>10.1080/01650521.2021.1877414</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2021.1877414?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1869490?af=R">
+      <title>Parasitic interactions between bats (Mammalia: Chiroptera) and flies (Insecta: Diptera) in the intersection area of temperate and tropical climates in Brazil</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1869490?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Parasitic interactions between bats (Mammalia: Chiroptera) and flies (Insecta: Diptera) in the intersection area of temperate and tropical climates in Brazil</dc:title>
+      <dc:identifier>10.1080/01650521.2020.1869490</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-02-01T07:00:29Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Luana da Silva Biz</dc:creator>
+      <dc:creator>Mainara Figueiredo Cascaes</dc:creator>
+      <dc:creator>Beatriz Fernandes Lima Luciano</dc:creator>
+      <dc:creator>Gabriel Preuss</dc:creator>
+      <dc:creator>Daniela Aparecida Savariz Bôlla</dc:creator>
+      <dc:creator>Gustavo Graciolli</dc:creator>
+      <dc:creator>Fernando Carvalho</dc:creator>
+      <prism:publicationName>Parasitic interactions between bats (Mammalia: Chiroptera) and flies (Insecta: Diptera) in the intersection area of temperate and tropical climates in Brazil</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>10</prism:endingPage>
+      <prism:doi>10.1080/01650521.2020.1869490</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1869490?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1870033?af=R">
+      <title>Diversity, similarity, and host–parasite relationships in parasitic infracommunities of Hypostomus spp. from the Tietê-Batalha river basin, southeastern Brazil</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1870033?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Diversity, similarity, and host–parasite relationships in parasitic infracommunities of Hypostomus spp. from the Tietê-Batalha river basin, southeastern Brazil</dc:title>
+      <dc:identifier>10.1080/01650521.2020.1870033</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-01-22T03:54:22Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Larissa S. Pelegrini</dc:creator>
+      <dc:creator>Lucas A. R. Leite</dc:creator>
+      <dc:creator>Thayana Gião</dc:creator>
+      <dc:creator>Regiane M. R. Bueno</dc:creator>
+      <dc:creator>Thaissa D. Serrano</dc:creator>
+      <dc:creator>Reinaldo J. da Silva</dc:creator>
+      <dc:creator>Rodney K. da Azevedo</dc:creator>
+      <dc:creator>Vanessa D. Abdallah</dc:creator>
+      <prism:publicationName>Diversity, similarity, and host–parasite relationships in parasitic infracommunities of Hypostomus spp. from the Tietê-Batalha river basin, southeastern Brazil</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>13</prism:endingPage>
+      <prism:doi>10.1080/01650521.2020.1870033</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1870033?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1870838?af=R">
+      <title>Testing the Wallace’s riverine barrier hypothesis based on frog and Squamata reptile assemblages from a tributary of the lower Amazon River</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1870838?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Testing the Wallace’s riverine barrier hypothesis based on frog and Squamata reptile assemblages from a tributary of the lower Amazon River</dc:title>
+      <dc:identifier>10.1080/01650521.2020.1870838</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-01-18T06:12:33Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Rafael de Fraga</dc:creator>
+      <dc:creator>Vinícius Tadeu de Carvalho</dc:creator>
+      <prism:publicationName>Testing the Wallace’s riverine barrier hypothesis based on frog and Squamata reptile assemblages from a tributary of the lower Amazon River</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>10</prism:endingPage>
+      <prism:doi>10.1080/01650521.2020.1870838</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1870838?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1867953?af=R">
+      <title>Prey ecology of the burrowing owl Athene cunicularia cunicularia (Molina, 1782) on the northern coast of Santa Catarina, Brazil</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1867953?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Prey ecology of the burrowing owl Athene cunicularia cunicularia (Molina, 1782) on the northern coast of Santa Catarina, Brazil</dc:title>
+      <dc:identifier>10.1080/01650521.2020.1867953</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-01-14T05:53:03Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Alana Drielle Rocha</dc:creator>
+      <dc:creator>J. O. Branco</dc:creator>
+      <dc:creator>G. H. C. Barrilli</dc:creator>
+      <prism:publicationName>Prey ecology of the burrowing owl Athene cunicularia cunicularia (Molina, 1782) on the northern coast of Santa Catarina, Brazil</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>8</prism:endingPage>
+      <prism:doi>10.1080/01650521.2020.1867953</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1867953?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1857631?af=R">
+      <title>A new species of gall midge (Diptera, Cecidomyiidae) associated with Ocotea pulchella (Nees &amp; Mart.) Mez (Lauraceae) from Brazil</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1857631?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>A new species of gall midge (Diptera, Cecidomyiidae) associated with Ocotea pulchella (Nees &amp; Mart.) Mez (Lauraceae) from Brazil</dc:title>
+      <dc:identifier>10.1080/01650521.2020.1857631</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-01-04T09:12:22Z</dc:date>
+      <dc:rights>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Valéria Cid Maia</dc:creator>
+      <dc:creator>Marcelo Guerra Santos</dc:creator>
+      <prism:publicationName>A new species of gall midge (Diptera, Cecidomyiidae) associated with Ocotea pulchella (Nees &amp; Mart.) Mez (Lauraceae) from Brazil</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>14</prism:endingPage>
+      <prism:doi>10.1080/01650521.2020.1857631</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1857631?af=R</prism:url>
+      <prism:copyright>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1859874?af=R">
+      <title>A new species of Epectinaspis Blanchard (Coleoptera: Scarabaeidae: Rutelinae) from Guatemala and rediscovery of Balanogonia constricta Paucar-Cabrera</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1859874?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>A new species of Epectinaspis Blanchard (Coleoptera: Scarabaeidae: Rutelinae) from Guatemala and rediscovery of Balanogonia constricta Paucar-Cabrera</dc:title>
+      <dc:identifier>10.1080/01650521.2020.1859874</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2021-01-02T03:31:30Z</dc:date>
+      <dc:rights>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Andrés Ramírez Ponce</dc:creator>
+      <dc:creator>Leonardo Delgado</dc:creator>
+      <dc:creator>Yoshua Soto</dc:creator>
+      <prism:publicationName>A new species of Epectinaspis Blanchard (Coleoptera: Scarabaeidae: Rutelinae) from Guatemala and rediscovery of Balanogonia constricta Paucar-Cabrera</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>8</prism:endingPage>
+      <prism:doi>10.1080/01650521.2020.1859874</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1859874?af=R</prism:url>
+      <prism:copyright>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1861888?af=R">
+      <title>The diet of Macrogenioglottus alipioi Carvalho, 1946 (Anura: Odontophrynidae) tadpoles in Atlantic Forest of southern Bahia, Brazil</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1861888?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>The diet of Macrogenioglottus alipioi Carvalho, 1946 (Anura: Odontophrynidae) tadpoles in Atlantic Forest of southern Bahia, Brazil</dc:title>
+      <dc:identifier>10.1080/01650521.2020.1861888</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2020-12-26T05:51:18Z</dc:date>
+      <dc:rights>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Caio Vinícius de Mira-Mendes</dc:creator>
+      <dc:creator>Carolina Santos Silva de Almeida</dc:creator>
+      <dc:creator>Rubens Alves Junqueira</dc:creator>
+      <dc:creator>Kaoli Pereira Cavalcante</dc:creator>
+      <dc:creator>Sylvia Maria Moreira Susini Ribeiro</dc:creator>
+      <dc:creator>Rodolfo Mariano</dc:creator>
+      <dc:creator>Iuri Ribeiro Dias</dc:creator>
+      <dc:creator>Mirco Solé</dc:creator>
+      <dc:creator>Yvonnick Le Pendu</dc:creator>
+      <prism:publicationName>The diet of Macrogenioglottus alipioi Carvalho, 1946 (Anura: Odontophrynidae) tadpoles in Atlantic Forest of southern Bahia, Brazil</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>5</prism:endingPage>
+      <prism:doi>10.1080/01650521.2020.1861888</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1861888?af=R</prism:url>
+      <prism:copyright>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1861889?af=R">
+      <title>New record of Phrikoceros inca (Polycladida, Cotylea) from the central coast of Peru, with a review of polyclads known from Peruvian waters</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1861889?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>New record of Phrikoceros inca (Polycladida, Cotylea) from the central coast of Peru, with a review of polyclads known from Peruvian waters</dc:title>
+      <dc:identifier>10.1080/01650521.2020.1861889</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2020-12-26T06:01:24Z</dc:date>
+      <dc:rights>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Jhoe Reyes</dc:creator>
+      <dc:creator>Karen Velásquez-Rodriguez</dc:creator>
+      <dc:creator>Ruperto Severino</dc:creator>
+      <dc:creator>Francisco Brusa</dc:creator>
+      <prism:publicationName>New record of Phrikoceros inca (Polycladida, Cotylea) from the central coast of Peru, with a review of polyclads known from Peruvian waters</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>6</prism:endingPage>
+      <prism:doi>10.1080/01650521.2020.1861889</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1861889?af=R</prism:url>
+      <prism:copyright>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1829902?af=R">
+      <title>A new species of Macrostemum Kolenati (Trichoptera: Hydropsychidae), with updated key to Neotropical species of the genus and new caddisfly records from Northeastern Brazil</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1829902?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>A new species of Macrostemum Kolenati (Trichoptera: Hydropsychidae), with updated key to Neotropical species of the genus and new caddisfly records from Northeastern Brazil</dc:title>
+      <dc:identifier>10.1080/01650521.2020.1829902</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2020-12-16T06:27:20Z</dc:date>
+      <dc:rights>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Rafael Pereira-Silva</dc:creator>
+      <dc:creator>Gilberto G. Rodrigues</dc:creator>
+      <dc:creator>Simão D. Vasconcelos</dc:creator>
+      <dc:creator>Adolfo R. Calor</dc:creator>
+      <prism:publicationName>A new species of Macrostemum Kolenati (Trichoptera: Hydropsychidae), with updated key to Neotropical species of the genus and new caddisfly records from Northeastern Brazil</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>12</prism:endingPage>
+      <prism:doi>10.1080/01650521.2020.1829902</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1829902?af=R</prism:url>
+      <prism:copyright>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1851345?af=R">
+      <title>Mountains and traits: environmental heterogeneity and mammal assemblages along an elevational gradient in the Northern Andes</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1851345?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Mountains and traits: environmental heterogeneity and mammal assemblages along an elevational gradient in the Northern Andes</dc:title>
+      <dc:identifier>10.1080/01650521.2020.1851345</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2020-12-11T05:20:48Z</dc:date>
+      <dc:rights>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>José L. Mena</dc:creator>
+      <dc:creator>Víctor Pacheco</dc:creator>
+      <prism:publicationName>Mountains and traits: environmental heterogeneity and mammal assemblages along an elevational gradient in the Northern Andes</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>13</prism:endingPage>
+      <prism:doi>10.1080/01650521.2020.1851345</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1851345?af=R</prism:url>
+      <prism:copyright>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1815942?af=R">
+      <title>Reproductive biology and sexual dimorphism of the poorly known frog Chiasmocleis alagoana (Microhylidae, Gastrophryninae), with an updated diagnosis for the species</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1815942?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Reproductive biology and sexual dimorphism of the poorly known frog Chiasmocleis alagoana (Microhylidae, Gastrophryninae), with an updated diagnosis for the species</dc:title>
+      <dc:identifier>10.1080/01650521.2020.1815942</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2020-12-03T05:53:32Z</dc:date>
+      <dc:rights>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Filipe Augusto Cavalcanti do Nascimento</dc:creator>
+      <dc:creator>Bruno Vilela</dc:creator>
+      <dc:creator>Marcos Jorge Matias Dubeux</dc:creator>
+      <dc:creator>Jéssica Yara Araujo Galdino</dc:creator>
+      <dc:creator>José Vieira de Araújo-Neto</dc:creator>
+      <dc:creator>Fernando Leal</dc:creator>
+      <dc:creator>Rafael de Sá</dc:creator>
+      <prism:publicationName>Reproductive biology and sexual dimorphism of the poorly known frog Chiasmocleis alagoana (Microhylidae, Gastrophryninae), with an updated diagnosis for the species</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>15</prism:endingPage>
+      <prism:doi>10.1080/01650521.2020.1815942</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1815942?af=R</prism:url>
+      <prism:copyright>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1829892?af=R">
+      <title>Seasonal and spatial patterns of mammalian road kill in northeastern Cordoba Province, Argentina</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1829892?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Seasonal and spatial patterns of mammalian road kill in northeastern Cordoba Province, Argentina</dc:title>
+      <dc:identifier>10.1080/01650521.2020.1829892</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2020-11-30T05:25:22Z</dc:date>
+      <dc:rights>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Alvaro González-Calderón</dc:creator>
+      <prism:publicationName>Seasonal and spatial patterns of mammalian road kill in northeastern Cordoba Province, Argentina</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>9</prism:endingPage>
+      <prism:doi>10.1080/01650521.2020.1829892</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1829892?af=R</prism:url>
+      <prism:copyright>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1844942?af=R">
+      <title>Snakes roadkill on highways in the Cerrado biome: an intentional conduct?</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1844942?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Snakes roadkill on highways in the Cerrado biome: an intentional conduct?</dc:title>
+      <dc:identifier>10.1080/01650521.2020.1844942</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2020-11-24T05:29:16Z</dc:date>
+      <dc:rights>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Jasmine de Resende Assis</dc:creator>
+      <dc:creator>Carine Firmino Carvalho-Roel</dc:creator>
+      <dc:creator>Ana Elizabeth Iannini-Custódio</dc:creator>
+      <dc:creator>Wanessa Gomes Pereira</dc:creator>
+      <dc:creator>Aline Carneiro Veloso</dc:creator>
+      <prism:publicationName>Snakes roadkill on highways in the Cerrado biome: an intentional conduct?</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>8</prism:endingPage>
+      <prism:doi>10.1080/01650521.2020.1844942</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1844942?af=R</prism:url>
+      <prism:copyright>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1829901?af=R">
+      <title>Enhancing the still scattered knowledge on the taxonomic diversity of freshwater triclads (Platyhelminthes: Dugesiidae) in caves from two Brazilian Biomes</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1829901?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Enhancing the still scattered knowledge on the taxonomic diversity of freshwater triclads (Platyhelminthes: Dugesiidae) in caves from two Brazilian Biomes</dc:title>
+      <dc:identifier>10.1080/01650521.2020.1829901</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2020-11-19T04:59:25Z</dc:date>
+      <dc:rights>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Lindsey Hellmann</dc:creator>
+      <dc:creator>Rodrigo Lopes Ferreira</dc:creator>
+      <dc:creator>Lucas Rabelo</dc:creator>
+      <dc:creator>Ana Maria Leal-Zanchet</dc:creator>
+      <prism:publicationName>Enhancing the still scattered knowledge on the taxonomic diversity of freshwater triclads (Platyhelminthes: Dugesiidae) in caves from two Brazilian Biomes</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>16</prism:endingPage>
+      <prism:doi>10.1080/01650521.2020.1829901</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1829901?af=R</prism:url>
+      <prism:copyright>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1844971?af=R">
+      <title>Population genetics of the common opossum, Didelphis marsupialis (Marsupialia: Didelphimorphia: Didelphidae), in southeastern Mexico</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1844971?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Population genetics of the common opossum, Didelphis marsupialis (Marsupialia: Didelphimorphia: Didelphidae), in southeastern Mexico</dc:title>
+      <dc:identifier>10.1080/01650521.2020.1844971</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2020-11-18T06:40:06Z</dc:date>
+      <dc:rights>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Bárbara Cruz-Salazar</dc:creator>
+      <dc:creator>Lorena Ruiz-Montoya</dc:creator>
+      <prism:publicationName>Population genetics of the common opossum, Didelphis marsupialis (Marsupialia: Didelphimorphia: Didelphidae), in southeastern Mexico</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>9</prism:endingPage>
+      <prism:doi>10.1080/01650521.2020.1844971</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1844971?af=R</prism:url>
+      <prism:copyright>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1835294?af=R">
+      <title>Life history of the freshwater microturbellarian Macrostomum velastylum (Macrostomorpha) in the Neotropical region</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1835294?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Life history of the freshwater microturbellarian Macrostomum velastylum (Macrostomorpha) in the Neotropical region</dc:title>
+      <dc:identifier>10.1080/01650521.2020.1835294</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2020-11-16T08:51:34Z</dc:date>
+      <dc:rights>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Mariana Adami</dc:creator>
+      <dc:creator>Cristina Damborenea</dc:creator>
+      <prism:publicationName>Life history of the freshwater microturbellarian Macrostomum velastylum (Macrostomorpha) in the Neotropical region</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>6</prism:endingPage>
+      <prism:doi>10.1080/01650521.2020.1835294</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1835294?af=R</prism:url>
+      <prism:copyright>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1842043?af=R">
+      <title>Seasonality in the Brazilian Pantanal influences avian functional diversity</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1842043?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Seasonality in the Brazilian Pantanal influences avian functional diversity</dc:title>
+      <dc:identifier>10.1080/01650521.2020.1842043</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2020-11-10T06:30:24Z</dc:date>
+      <dc:rights>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Filipe Ferreira de Deus</dc:creator>
+      <dc:creator>Karl-L. Schuchmann</dc:creator>
+      <dc:creator>Marinêz Isaac Marques</dc:creator>
+      <prism:publicationName>Seasonality in the Brazilian Pantanal influences avian functional diversity</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>11</prism:endingPage>
+      <prism:doi>10.1080/01650521.2020.1842043</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1842043?af=R</prism:url>
+      <prism:copyright>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1842083?af=R">
+      <title>Floral visiting bees of Humiria balsamifera var. floribunda (Humiriaceae) and its pollen transport network, in a restinga environment</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1842083?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Floral visiting bees of Humiria balsamifera var. floribunda (Humiriaceae) and its pollen transport network, in a restinga environment</dc:title>
+      <dc:identifier>10.1080/01650521.2020.1842083</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2020-11-10T06:38:36Z</dc:date>
+      <dc:rights>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Rafael Sousa Pinto</dc:creator>
+      <dc:creator>Albeane Guimarães Silva</dc:creator>
+      <dc:creator>Patrícia Maia Correia de Albuquerque</dc:creator>
+      <prism:publicationName>Floral visiting bees of Humiria balsamifera var. floribunda (Humiriaceae) and its pollen transport network, in a restinga environment</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>12</prism:endingPage>
+      <prism:doi>10.1080/01650521.2020.1842083</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1842083?af=R</prism:url>
+      <prism:copyright>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1829893?af=R">
+      <title>Description and phylogenetic positioning of a new species of Heteropachylus Roewer, 1913 (Opiliones, Gonyleptidae, Heteropachylinae)</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1829893?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Description and phylogenetic positioning of a new species of Heteropachylus Roewer, 1913 (Opiliones, Gonyleptidae, Heteropachylinae)</dc:title>
+      <dc:identifier>10.1080/01650521.2020.1829893</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2020-11-02T04:47:18Z</dc:date>
+      <dc:rights>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Lucas Lima de Abreu</dc:creator>
+      <dc:creator>Amanda Cruz Mendes</dc:creator>
+      <prism:publicationName>Description and phylogenetic positioning of a new species of Heteropachylus Roewer, 1913 (Opiliones, Gonyleptidae, Heteropachylinae)</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>13</prism:endingPage>
+      <prism:doi>10.1080/01650521.2020.1829893</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1829893?af=R</prism:url>
+      <prism:copyright>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1829903?af=R">
+      <title>Frisia gen. nov., a new Cerviniinae Sars (Copepoda: Harpacticoida: Aegisthidae Giesbrecht) from Tierra del Fuego (Chile), with description of a new species</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1829903?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Frisia gen. nov., a new Cerviniinae Sars (Copepoda: Harpacticoida: Aegisthidae Giesbrecht) from Tierra del Fuego (Chile), with description of a new species</dc:title>
+      <dc:identifier>10.1080/01650521.2020.1829903</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2020-10-13T05:35:50Z</dc:date>
+      <dc:rights>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Kai Horst George</dc:creator>
+      <dc:creator>Lennard Viertel</dc:creator>
+      <prism:publicationName>Frisia gen. nov., a new Cerviniinae Sars (Copepoda: Harpacticoida: Aegisthidae Giesbrecht) from Tierra del Fuego (Chile), with description of a new species</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>15</prism:endingPage>
+      <prism:doi>10.1080/01650521.2020.1829903</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1829903?af=R</prism:url>
+      <prism:copyright>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1829888?af=R">
+      <title>High levels of natal philopatry and no difference in reproductive success between philopatric and non-philopatric songbirds breeding in a native forests of east-central Argentina</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1829888?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>High levels of natal philopatry and no difference in reproductive success between philopatric and non-philopatric songbirds breeding in a native forests of east-central Argentina</dc:title>
+      <dc:identifier>10.1080/01650521.2020.1829888</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2020-10-07T06:02:00Z</dc:date>
+      <dc:rights>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Mauro G. Rozas Sia</dc:creator>
+      <dc:creator>Exequiel Gonzalez</dc:creator>
+      <dc:creator>Luciano N. Segura</dc:creator>
+      <prism:publicationName>High levels of natal philopatry and no difference in reproductive success between philopatric and non-philopatric songbirds breeding in a native forests of east-central Argentina</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>7</prism:endingPage>
+      <prism:doi>10.1080/01650521.2020.1829888</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1829888?af=R</prism:url>
+      <prism:copyright>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1814619?af=R">
+      <title>Geographic distributions of Pseudopaludicola boliviana and congeneric long-legged species (Anura: Leiuperinae)</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1814619?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Geographic distributions of Pseudopaludicola boliviana and congeneric long-legged species (Anura: Leiuperinae)</dc:title>
+      <dc:identifier>10.1080/01650521.2020.1814619</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2020-09-10T01:47:16Z</dc:date>
+      <dc:rights>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Felipe Silva de Andrade</dc:creator>
+      <dc:creator>Isabelle Aquemi Haga</dc:creator>
+      <dc:creator>Mariana Lúcio Lyra</dc:creator>
+      <dc:creator>Thiago Gazoni</dc:creator>
+      <dc:creator>Victor Zaracho</dc:creator>
+      <dc:creator>Célio Fernando Baptista Haddad</dc:creator>
+      <dc:creator>Luís Felipe Toledo</dc:creator>
+      <dc:creator>Ariovaldo Antonio Giaretta</dc:creator>
+      <prism:publicationName>Geographic distributions of Pseudopaludicola boliviana and congeneric long-legged species (Anura: Leiuperinae)</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>17</prism:endingPage>
+      <prism:doi>10.1080/01650521.2020.1814619</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1814619?af=R</prism:url>
+      <prism:copyright>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1809973?af=R">
+      <title>Highest bush dog (Speothos venaticus) record for Ecuador with a potential association to a palm tree (Socratea rostrata)</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1809973?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Highest bush dog (Speothos venaticus) record for Ecuador with a potential association to a palm tree (Socratea rostrata)</dc:title>
+      <dc:identifier>10.1080/01650521.2020.1809973</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2020-09-02T05:50:00Z</dc:date>
+      <dc:rights>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Sara Álvarez-Solas</dc:creator>
+      <dc:creator>Lucas Ramis</dc:creator>
+      <dc:creator>María Cristina Peñuela</dc:creator>
+      <prism:publicationName>Highest bush dog (Speothos venaticus) record for Ecuador with a potential association to a palm tree (Socratea rostrata)</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>10</prism:endingPage>
+      <prism:doi>10.1080/01650521.2020.1809973</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1809973?af=R</prism:url>
+      <prism:copyright>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1809333?af=R">
+      <title>Morphological and molecular data reveal new country records and distribution extensions of some glassfrogs (Anura: Centrolenidae) for Colombia</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1809333?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Morphological and molecular data reveal new country records and distribution extensions of some glassfrogs (Anura: Centrolenidae) for Colombia</dc:title>
+      <dc:identifier>10.1080/01650521.2020.1809333</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2020-08-26T05:08:19Z</dc:date>
+      <dc:rights>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Juan C. Díaz-Ricaurte</dc:creator>
+      <dc:creator>Estefany Caroline Guevara-Molina</dc:creator>
+      <prism:publicationName>Morphological and molecular data reveal new country records and distribution extensions of some glassfrogs (Anura: Centrolenidae) for Colombia</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>15</prism:endingPage>
+      <prism:doi>10.1080/01650521.2020.1809333</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1809333?af=R</prism:url>
+      <prism:copyright>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1809610?af=R">
+      <title>Trophic structure of ichthyofauna in streams of the Contas River basin, Brazil</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1809610?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Trophic structure of ichthyofauna in streams of the Contas River basin, Brazil</dc:title>
+      <dc:identifier>10.1080/01650521.2020.1809610</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2020-08-21T03:05:15Z</dc:date>
+      <dc:rights>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Fabiane Barreto Souza</dc:creator>
+      <dc:creator>Alexandre Clistenes de Alcantara Santos</dc:creator>
+      <dc:creator>André Teixeira da Silva</dc:creator>
+      <prism:publicationName>Trophic structure of ichthyofauna in streams of the Contas River basin, Brazil</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>14</prism:endingPage>
+      <prism:doi>10.1080/01650521.2020.1809610</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1809610?af=R</prism:url>
+      <prism:copyright>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1809611?af=R">
+      <title>Early detection of an invasive harvestman in an oceanic island? Remarkable findings of Parabalta reedii (Opiliones, Gonyleptidae) in the Juan Fernández archipelago, Chile</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1809611?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Early detection of an invasive harvestman in an oceanic island? Remarkable findings of Parabalta reedii (Opiliones, Gonyleptidae) in the Juan Fernández archipelago, Chile</dc:title>
+      <dc:identifier>10.1080/01650521.2020.1809611</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2020-08-21T03:13:21Z</dc:date>
+      <dc:rights>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Abel Pérez-González</dc:creator>
+      <dc:creator>Darko D. Cotoras</dc:creator>
+      <dc:creator>Luis E. Acosta</dc:creator>
+      <prism:publicationName>Early detection of an invasive harvestman in an oceanic island? Remarkable findings of Parabalta reedii (Opiliones, Gonyleptidae) in the Juan Fernández archipelago, Chile</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>8</prism:endingPage>
+      <prism:doi>10.1080/01650521.2020.1809611</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1809611?af=R</prism:url>
+      <prism:copyright>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1817680?af=R">
+      <title>Geographical ecology of Tantilla melanocephala (Squamata: Serpentes: Colubridae) in a Neotropical region: a comparison of northeastern Atlantic Forest and Caatinga populations</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1817680?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Geographical ecology of Tantilla melanocephala (Squamata: Serpentes: Colubridae) in a Neotropical region: a comparison of northeastern Atlantic Forest and Caatinga populations</dc:title>
+      <dc:identifier>10.1080/01650521.2020.1817680</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2020-10-16T04:19:05Z</dc:date>
+      <dc:rights>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Felipe Araújo de Oliveira</dc:creator>
+      <dc:creator>Rafaela Cândido de França</dc:creator>
+      <dc:creator>Frederico Gustavo Rodrigues França</dc:creator>
+      <prism:publicationName>Geographical ecology of Tantilla melanocephala (Squamata: Serpentes: Colubridae) in a Neotropical region: a comparison of northeastern Atlantic Forest and Caatinga populations</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>10</prism:endingPage>
+      <prism:doi>10.1080/01650521.2020.1817680</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1817680?af=R</prism:url>
+      <prism:copyright>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1809334?af=R">
+      <title>Effects of agricultural systems on the anuran diversity in the Colombian Amazon</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1809334?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Effects of agricultural systems on the anuran diversity in the Colombian Amazon</dc:title>
+      <dc:identifier>10.1080/01650521.2020.1809334</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2020-08-27T02:10:03Z</dc:date>
+      <dc:rights>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Juan C. Díaz-Ricaurte</dc:creator>
+      <dc:creator>Nayra Camila Arriaga Villegas</dc:creator>
+      <dc:creator>Juan David López Coronado</dc:creator>
+      <dc:creator>Gina Ximena Macias Garzón</dc:creator>
+      <dc:creator>Bruno F. Fiorillo</dc:creator>
+      <prism:publicationName>Effects of agricultural systems on the anuran diversity in the Colombian Amazon</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>11</prism:endingPage>
+      <prism:doi>10.1080/01650521.2020.1809334</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1809334?af=R</prism:url>
+      <prism:copyright>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1806007?af=R">
+      <title>Influence of ontogenetic stages and seasonality on the diet of the longtail knifefish Sternopygus macrurus (Gymnotiformes, Sternopygidae) in a large Neotropical river</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1806007?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Influence of ontogenetic stages and seasonality on the diet of the longtail knifefish Sternopygus macrurus (Gymnotiformes, Sternopygidae) in a large Neotropical river</dc:title>
+      <dc:identifier>10.1080/01650521.2020.1806007</dc:identifier>
+      <dc:source>Studies on Neotropical Fauna and Environment</dc:source>
+      <dc:date>2020-08-19T05:17:19Z</dc:date>
+      <dc:rights>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Milena Gonçalves-Silva</dc:creator>
+      <dc:creator>Jefferson S. V. Luduvice</dc:creator>
+      <dc:creator>Marcos Vinícius T. Gomes</dc:creator>
+      <dc:creator>Daniela C. O. Rosa</dc:creator>
+      <dc:creator>Marcelo F. G. Brito</dc:creator>
+      <prism:publicationName>Influence of ontogenetic stages and seasonality on the diet of the longtail knifefish Sternopygus macrurus (Gymnotiformes, Sternopygidae) in a large Neotropical river</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>7</prism:endingPage>
+      <prism:doi>10.1080/01650521.2020.1806007</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/01650521.2020.1806007?af=R</prism:url>
+      <prism:copyright>© 2020 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+</rdf:RDF>

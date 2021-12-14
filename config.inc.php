@@ -48,12 +48,27 @@ switch ($config['site'])
 
 // CouchDB--------------------------------------------------------------------------------
 		
-$config['couchdb_options'] = array(
+if ($config['platform'] == 'local')
+{
+	$config['couchdb_options'] = array(
+		'database' 	=> 'biorss',
+		'host' 		=> '127.0.0.1',
+		'port' 		=> 5984,
+		'prefix' 	=> 'http://'
+		);	
+
+}
+
+if ($config['platform'] == 'cloud')
+{
+	$config['couchdb_options'] = array(
 		'database' 	=> 'biorss',
 		'host' 		=> getenv('COUCHDB_HOST'),
 		'port' 		=> getenv('COUCHDB_PORT'),
 		'prefix' 	=> getenv('COUCHDB_PROTOCOL')
-		);		
+		);	
+}
+
 
 $config['stale'] = false;
 

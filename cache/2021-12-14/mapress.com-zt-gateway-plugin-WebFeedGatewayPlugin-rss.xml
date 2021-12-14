@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+	xmlns:cc="http://web.resource.org/cc/">
+
+	<channel rdf:about="https://www.mapress.com/zt">
+				<title>Zootaxa</title>
+		<link>https://www.mapress.com/zt</link>
+
+							
+		<description>&lt;p&gt;&lt;strong&gt;Zootaxa&lt;/strong&gt; is a mega-journal for zoological taxonomists in the world&lt;/p&gt;</description>
+
+									<dc:publisher>Mangolia Press</dc:publisher>
+		
+					<dc:language>en-US</dc:language>
+		
+		<prism:publicationName>Zootaxa</prism:publicationName>
+
+							
+					<prism:issn>1175-5326</prism:issn>
+		
+		
+		<items>
+			<rdf:Seq>
+												<rdf:li rdf:resource="https://www.mapress.com/zt/article/view/zootaxa.5081.4.1"/>
+									<rdf:li rdf:resource="https://www.mapress.com/zt/article/view/zootaxa.5081.4.2"/>
+									<rdf:li rdf:resource="https://www.mapress.com/zt/article/view/zootaxa.5081.4.3"/>
+									<rdf:li rdf:resource="https://www.mapress.com/zt/article/view/zootaxa.5081.4.4"/>
+									<rdf:li rdf:resource="https://www.mapress.com/zt/article/view/zootaxa.5081.4.5"/>
+									<rdf:li rdf:resource="https://www.mapress.com/zt/article/view/zootaxa.5081.4.6"/>
+									<rdf:li rdf:resource="https://www.mapress.com/zt/article/view/zootaxa.5081.4.7"/>
+									<rdf:li rdf:resource="https://www.mapress.com/zt/article/view/zootaxa.5081.4.8"/>
+									<rdf:li rdf:resource="https://www.mapress.com/zt/article/view/zootaxa.5081.4.9"/>
+									<rdf:li rdf:resource="https://www.mapress.com/zt/article/view/zootaxa.5081.4.10"/>
+										</rdf:Seq>
+		</items>
+	</channel>
+
+					<item rdf:about="https://www.mapress.com/zt/article/view/zootaxa.5081.4.1">
+
+						<title>&lt;p&gt;&lt;strong&gt;Longhorned beetles (Coleoptera: Cerambycidae) of southeastern Mongolia with particular emphasis on the genus &lt;em&gt;Anoplistes&lt;/em&gt; Audinet-Serville, 1833 (Cerambycinae: Trachyderini)&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.mapress.com/zt/article/view/zootaxa.5081.4.1</link>
+
+										<description>&lt;p&gt;New data on the distribution, bionomy, and taxonomy of the longhorned beetles that occur in the poorly studied region of southeastern Mongolia (Ömnögovi, Dornogovi, and Sükhbaatar aimags) are presented together with a list of all taxa that are known from this area. The literature records for all known species from this area were summarized, verified, and mapped. &lt;em&gt;Chlorophorus caragana&lt;/em&gt; Xie &amp;amp; Wang, 2012 is recorded from Mongolia for the first time. New localities of some little-known taxa that are endemic to Mongolia and adjacent territories, such as &lt;em&gt;Anoplistes halodendri minutus&lt;/em&gt; Hammarström, 1892, &lt;em&gt;Anoplistes&lt;/em&gt; &lt;em&gt;kaszabi&lt;/em&gt; Karpiński, 2020, and &lt;em&gt;Eodorcadion&lt;/em&gt; &lt;em&gt;gorbunovi&lt;/em&gt; Danilevsky, 2004 are given. High-quality stacked images of several unique species, e.g., &lt;em&gt;Anoplistes gobiensis&lt;/em&gt; (Namkhaidorzh, 1973), &lt;em&gt;Ch. caragana&lt;/em&gt;, and &lt;em&gt;Chlorophorus obliteratus&lt;/em&gt; (Ganglbauer, 1889) are presented for the first time along with photographs of their habitats. New remarks on highly complex taxonomic issues concerning some species in the genera &lt;em&gt;Anoplistes&lt;/em&gt;, &lt;em&gt;Chlorophorus&lt;/em&gt;, and &lt;em&gt;Eodorcadion&lt;/em&gt; are also provided.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			
+							<dc:creator>LECH KARPIŃSKI</dc:creator>
+							<dc:creator>DAVAADORJ ENKHNASAN</dc:creator>
+							<dc:creator>BAZARTSEREN BOLDGIV</dc:creator>
+							<dc:creator>LECH KRUSZELNICKI</dc:creator>
+							<dc:creator>BADAMNYAMBUU IDERZORIG</dc:creator>
+							<dc:creator>TEMERLEN GANTULGA</dc:creator>
+							<dc:creator>ALTANCHIMEG DORJSUREN</dc:creator>
+							<dc:creator>WOJCIECH T. SZCZEPAŃSKI</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-12-14</dc:date>
+				<prism:publicationDate>2021-12-14</prism:publicationDate>
+						<prism:volume>5081</prism:volume>			<prism:number>4</prism:number>
+												<prism:startingPage>451</prism:startingPage>
+													<prism:endingPage>482</prism:endingPage>
+							
+							<prism:doi>10.11646/zootaxa.5081.4.1</prism:doi>
+					</item>
+					<item rdf:about="https://www.mapress.com/zt/article/view/zootaxa.5081.4.2">
+
+						<title>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Neopedies&lt;/em&gt; &lt;em&gt;taimensis&lt;/em&gt; n. sp. of Brazilian Dichroplini (Orthoptera: Acrididae, Melanoplinae) from Rio Grande do Sul, Brazil&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.mapress.com/zt/article/view/zootaxa.5081.4.2</link>
+
+										<description>&lt;p&gt;&lt;em&gt;Neopedies taimensis&lt;/em&gt; &lt;strong&gt;n. sp.&lt;/strong&gt; is described as a new species of grasshopper from the genus &lt;em&gt;Neopedies&lt;/em&gt; Hebard, 1931 collected in Taim Ecological Station, State of Rio Grande do Sul, Brazil. This description is supported with photographs that detail the male and female external and internal morphological characteristics. The new species differs from the other species known by furculae developed and sclerotized, epiproct with two protuberances, cerci quadrangular indented and sclerotized, ancorae developed and lophi with posterior projections divergent. In addition, we present habitat notes, geographic distribution, key to the species of genus and chromosome complement. Chromosome analyses were performed using standard staining procedures, showing diploid number of 2n = 23, X0♂/24, XX♀ and the karyotype made up of exclusively acrocentric chromosomes.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			
+							<dc:creator>MARIA KÁTIA MATIOTTI DA COSTA</dc:creator>
+							<dc:creator>RIULER CORRÊA ACOSTA</dc:creator>
+							<dc:creator>VÍTOR FALCHI TIMM</dc:creator>
+							<dc:creator>EDISON ZEFA</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-12-14</dc:date>
+				<prism:publicationDate>2021-12-14</prism:publicationDate>
+						<prism:volume>5081</prism:volume>			<prism:number>4</prism:number>
+												<prism:startingPage>483</prism:startingPage>
+													<prism:endingPage>504</prism:endingPage>
+							
+							<prism:doi>10.11646/zootaxa.5081.4.2</prism:doi>
+					</item>
+					<item rdf:about="https://www.mapress.com/zt/article/view/zootaxa.5081.4.3">
+
+						<title>&lt;p&gt;&lt;strong&gt;First records of Trichoptera from Timor-Leste, including seven newly described species &lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.mapress.com/zt/article/view/zootaxa.5081.4.3</link>
+
+										<description>&lt;p&gt;Several collections of adults of the caddisfly order Trichoptera were studied from Timor-Leste, the nation-state comprising the eastern region of the island of Timor. The specimens represent ten families: Hydrobiosidae (2 species), Glossosomatidae (1 species), Hydroptilidae (3 species), Philopotamidae (5 species), Hydropsychidae (3 species), Polycentropodidae (1 species), Psychomyiidae (3 species), Xiphocentronidae (1 species&lt;strong&gt;), &lt;/strong&gt;Lepidostomatidae (1 species), Leptoceridae (3 species). Among the 24 species listed, 16 were identified as established Southeast Asian species. Among these are two very widespread species, one extending further east to New Guinea, northern Australia, and New Caledonia and another that was described from Fiji. An additional seven species are newly described here: &lt;em&gt;Ulmerochorema&lt;/em&gt; &lt;em&gt;hatubuilico&lt;/em&gt; &lt;strong&gt;sp. nov.&lt;/strong&gt;, &lt;em&gt;Hydroptila bellisi&lt;/em&gt; &lt;strong&gt;sp. nov.&lt;/strong&gt; and &lt;em&gt;H. aileuensis&lt;/em&gt; &lt;strong&gt;sp. nov.&lt;/strong&gt;, &lt;em&gt;Chimarra lawaliu&lt;/em&gt; &lt;strong&gt;sp. nov.&lt;/strong&gt;, &lt;em&gt;C. multidentata&lt;/em&gt; &lt;strong&gt;sp. nov.&lt;/strong&gt;, &lt;em&gt;C.&lt;/em&gt; &lt;em&gt;sameana&lt;/em&gt; &lt;strong&gt;sp. nov.&lt;/strong&gt; and C. &lt;em&gt;timorensis&lt;/em&gt; &lt;strong&gt;sp. nov.&lt;/strong&gt; Hitherto, the genus &lt;em&gt;Ulmerochorema&lt;/em&gt; Mosely was believed to be an Australian endemic. A xiphocentronid specimen could be identified to genus &lt;em&gt;Drepanocentron&lt;/em&gt; only.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			
+							<dc:creator>ALICE WELLS</dc:creator>
+							<dc:creator>DAVID CARTWRIGHT</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-12-14</dc:date>
+				<prism:publicationDate>2021-12-14</prism:publicationDate>
+						<prism:volume>5081</prism:volume>			<prism:number>4</prism:number>
+												<prism:startingPage>505</prism:startingPage>
+													<prism:endingPage>523</prism:endingPage>
+							
+							<prism:doi>10.11646/zootaxa.5081.4.3</prism:doi>
+					</item>
+					<item rdf:about="https://www.mapress.com/zt/article/view/zootaxa.5081.4.4">
+
+						<title>&lt;p&gt;&lt;strong&gt;New or rare Madagascar tiger beetles—24. &lt;em&gt;Pogonostoma&lt;/em&gt; (&lt;em&gt;Microgeniatum&lt;/em&gt;) &lt;/strong&gt;&lt;strong&gt;&lt;em&gt;signifemorale&lt;/em&gt; sp. nov. with revised key to species of the subgenus &lt;/strong&gt;&lt;strong&gt;&lt;em&gt;Microgeniatum&lt;/em&gt; Rivalier (Coleoptera: Cicindelidae)&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.mapress.com/zt/article/view/zootaxa.5081.4.4</link>
+
+										<description>&lt;p&gt;&lt;em&gt;Pogonostoma&lt;/em&gt; (&lt;em&gt;Microgeniatum&lt;/em&gt;) &lt;em&gt;signifemorale &lt;/em&gt;&lt;strong&gt;sp. nov.&lt;/strong&gt;, based on a male holotype caught recently in the Ankarafantsika National Park (northwestern Madagascar), is described as new to science. The new species is immediately distinguished from other three hitherto known species of the subgenus &lt;em&gt;Microgeniatum&lt;/em&gt; Rivalier, 1970, including a somewhat similar &lt;em&gt;P&lt;/em&gt;. (&lt;em&gt;Microgeniatum&lt;/em&gt;) &lt;em&gt;infimum&lt;/em&gt; Rivalier, 1970. Consequently, a revised differential diagnosis and a revised key to species of the subgenus are presented in order to supplement the key and diagnosis in the monograph of the genus &lt;em&gt;Pogonostoma&lt;/em&gt; Klug, 1835 by Moravec (2007). The male holotype is illustrated in colour photographs of its habitus and diagnostic characters with references to the illustrations of the other three species of the subgenus in the monograph of the genus (Moravec 2007). The habitat and ecology of the new species, as well as essential maps of known distribution of the subgenus, are also presented.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			
+							<dc:creator>JIŘÍ MORAVEC</dc:creator>
+							<dc:creator>MILOŠ TRÝZNA</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-12-14</dc:date>
+				<prism:publicationDate>2021-12-14</prism:publicationDate>
+						<prism:volume>5081</prism:volume>			<prism:number>4</prism:number>
+												<prism:startingPage>524</prism:startingPage>
+													<prism:endingPage>534</prism:endingPage>
+							
+							<prism:doi>10.11646/zootaxa.5081.4.4</prism:doi>
+					</item>
+					<item rdf:about="https://www.mapress.com/zt/article/view/zootaxa.5081.4.5">
+
+						<title>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Urocleidoides&lt;/em&gt; spp. (Monogenea: Dactylogyridae) from the gills of &lt;em&gt;Parodon&lt;/em&gt; &lt;em&gt;nasus&lt;/em&gt; (Characiformes: Parodontidae) from a Brazilian stream with descriptions of two new species&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.mapress.com/zt/article/view/zootaxa.5081.4.5</link>
+
+										<description>&lt;p&gt;&lt;em&gt;Urocleidoides&lt;/em&gt; spp. are reported from the gills of 20 specimens of &lt;em&gt;Parodon nasus &lt;/em&gt;(standard length 8.5–12 cm), from the Indiana stream, Tietê River, Upper Paraná River basin, municipality of Botucatu, São Paulo State, Brazil. &lt;em&gt;Urocleoidoides tenuis &lt;/em&gt;and two new species were found. &lt;em&gt;Urocleidoides indianensis &lt;/em&gt;&lt;strong&gt;n. sp. &lt;/strong&gt;differs from its congeners mainly by the morphology of the vaginal sclerite that is robust, sickle-shaped, and forked at the distal end; and by the bulbous-shaped accessory piece of the male copulatory complex. &lt;em&gt;Urocleidoides parodoni&lt;/em&gt; &lt;strong&gt;n. sp. &lt;/strong&gt;resembles &lt;em&gt;U&lt;/em&gt;.&lt;em&gt; tenuis&lt;/em&gt; by presenting male copulatory organ with approximately 7 ½ counterclockwise rings, but differs by the morphology of the accessory piece (lobate with a small hook-like projection &lt;em&gt;versus&lt;/em&gt; pincer-shaped), vaginal sclerite (thumb-like subterminal projection &lt;em&gt;vs&lt;/em&gt;. presence of a distal hook), vaginal tube (conspicuously sclerotized &lt;em&gt;vs&lt;/em&gt;. slightly sclerotized), shape of the ventral bar (bowed &lt;em&gt;vs.&lt;/em&gt; wide V-shaped), ventral and dorsal anchors (robust base and short shaft &lt;em&gt;vs.&lt;/em&gt; considerably less robust base and long shaft), and hooks (slender shank with a weakly sclerotized subunit at base &lt;em&gt;vs. &lt;/em&gt;dilated shank). Sequences of the partial 28S rDNA gene of the dactylogyrids found in this study are provided. Phylogenetic analyses showed &lt;em&gt;Urocledoides &lt;/em&gt;spp. from Parodontidae clustering together with strong support values. This study increases the number of valid &lt;em&gt;Urocleidoides &lt;/em&gt;species to 39, and the number of species described from parodontid hosts to four.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			
+							<dc:creator>GLAUCYA SILVA DE OLIVEIRA</dc:creator>
+							<dc:creator>REINALDO JOSÉ DA SILVA</dc:creator>
+							<dc:creator>FERNANDO EMMANUEL GONÇALVES VIEIRA</dc:creator>
+							<dc:creator>ALINE ANGELINA ACOSTA</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-12-14</dc:date>
+				<prism:publicationDate>2021-12-14</prism:publicationDate>
+						<prism:volume>5081</prism:volume>			<prism:number>4</prism:number>
+												<prism:startingPage>535</prism:startingPage>
+													<prism:endingPage>550</prism:endingPage>
+							
+							<prism:doi>10.11646/zootaxa.5081.4.5</prism:doi>
+					</item>
+					<item rdf:about="https://www.mapress.com/zt/article/view/zootaxa.5081.4.6">
+
+						<title>&lt;p&gt;&lt;strong&gt;A new species of stone loach of the genus &lt;em&gt;Mustura&lt;/em&gt; (Teleostei: Nemacheilidae) from Chindwin River drainage, Manipur, north-eastern India&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.mapress.com/zt/article/view/zootaxa.5081.4.6</link>
+
+										<description>&lt;p&gt;&lt;em&gt;Mustura taretensis&lt;/em&gt;, a new nemacheilid loach, is described from the Taret River, a tributary of the Yu River, Chindwin River drainage, Manipur, India. The new species is distinguished from all its congeners by a unique combination of the following characters: body with 12–13 irregular dark-brown blotches or bars on flank, alternating with 11–16 irregular dark-brown saddles on the back; dorsum of head with a distinctly visible rhomboid dark-brown mark encircling a pale oval area on the nape; dorsal fin with 9½­ or 10½ branched rays; lateral line complete; a well-developed free posterior chamber of air bladder, the halves of air bladder capsules connected by a manubrium; poorly developed processus dentiformis; suborbital flap present in males; and body depth 12.8–16.0 % SL. The generic status of &lt;em&gt;Mustura chindwinensis&lt;/em&gt;,&lt;em&gt; M. dikrongensis&lt;/em&gt;, &lt;em&gt;M. tigrina &lt;/em&gt;and&lt;em&gt; M. tuivaiensis &lt;/em&gt;are also discussed in the paper.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			
+							<dc:creator>YENGKHOM CHINGLEMBA</dc:creator>
+							<dc:creator>YUMNAM RAMESHORI</dc:creator>
+							<dc:creator>WAIKHOM VISHWANATH</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-12-14</dc:date>
+				<prism:publicationDate>2021-12-14</prism:publicationDate>
+						<prism:volume>5081</prism:volume>			<prism:number>4</prism:number>
+												<prism:startingPage>551</prism:startingPage>
+													<prism:endingPage>565</prism:endingPage>
+							
+							<prism:doi>10.11646/zootaxa.5081.4.6</prism:doi>
+					</item>
+					<item rdf:about="https://www.mapress.com/zt/article/view/zootaxa.5081.4.7">
+
+						<title>&lt;p&gt;&lt;strong&gt;Redescription and new record of the spongobiotic shrimp &lt;em&gt;Periclimenaeus&lt;/em&gt; &lt;em&gt;rastrifer&lt;/em&gt; Bruce, 1980 (Crustacea: Decapoda: Palaemonidae) from Taiwan&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.mapress.com/zt/article/view/zootaxa.5081.4.7</link>
+
+										<description>&lt;p&gt;The palaemonid shrimp&lt;em&gt; Periclimenaeus rastrifer&lt;/em&gt; is here reported from Taiwan based on three specimens. It bears a feeble but distinct anterodorsal lobe on the first pleonite (not reported before). The mouthparts, not previously described, are also remarkable by a multidentate apex of the mandibular incisor, asymmetric distal endite of the second maxilla, and expanded dorsal lobe on the second maxilliped merus. The species is thus redescribed here. One of the examined specimens possesses an unusual rostrum, and malformed telson and uropodal spinulation; the latter specimen is described and illustrated in detail, including the mouthparts. Previously, the only species in the genus published in faunistic repors from Taiwan were &lt;em&gt;P&lt;/em&gt;. &lt;em&gt;wolffi &lt;/em&gt;Bruce 1993 and &lt;em&gt;P. gorgonidarum&lt;/em&gt; (Balss, 1913) recorded from the Taiwan Strait, and the Green Island, respectively; &lt;em&gt;P. rastrifer&lt;/em&gt; is reported here as the first of the genus from Taiwan mainland&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			
+							<dc:creator>ZDENĚK ĎURIŠ</dc:creator>
+							<dc:creator>ANNA ŠOBÁŇOVÁ</dc:creator>
+							<dc:creator>CHIA-WEI LIN</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-12-14</dc:date>
+				<prism:publicationDate>2021-12-14</prism:publicationDate>
+						<prism:volume>5081</prism:volume>			<prism:number>4</prism:number>
+												<prism:startingPage>566</prism:startingPage>
+													<prism:endingPage>578</prism:endingPage>
+							
+							<prism:doi>10.11646/zootaxa.5081.4.7</prism:doi>
+					</item>
+					<item rdf:about="https://www.mapress.com/zt/article/view/zootaxa.5081.4.8">
+
+						<title>&lt;p&gt;&lt;strong&gt;A review of the fossil taxa originally assigned to Pyrrhocoridae (Hemiptera: Heteroptera)&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.mapress.com/zt/article/view/zootaxa.5081.4.8</link>
+
+										<description>&lt;p&gt;The four described fossil taxa originally assigned to Pyrrhocoridae (Hemiptera: Heteroptera) are reviewed. &lt;em&gt;Mesopyrrhocoris fasciatus&lt;/em&gt; Hong &amp;amp; Wang, 1990 (correction of gender agreement) from the Lower Cretaceous of Laiyang Basin, Shandong, China, was reclassified as Cimicomorpha &lt;em&gt;incertae sedis&lt;/em&gt; by Shcherbakov (2008), an opinion confirmed here. The status of ‘&lt;em&gt;Dysdercus&lt;/em&gt;’&lt;em&gt; cinctus&lt;/em&gt; Scudder, 1890 and ‘&lt;em&gt;Dysdercus&lt;/em&gt;’&lt;em&gt; unicolor&lt;/em&gt; Scudder, 1890 from the Eocene of Florissant, Colorado, USA, and their placement in Pyrrhocoridae, are doubtful. ‘&lt;em&gt;Pyrrhocoris&lt;/em&gt;’&lt;em&gt; rottensis &lt;/em&gt;&lt;strong&gt;nom nov.&lt;/strong&gt; (= &lt;em&gt;Pyrrhocoris tibialis &lt;/em&gt;Statz &amp;amp; Wagner, 1950) from the Upper Oligocene of Rott, Germany, is reclassified here as Lygaeoidea &lt;em&gt;incertae sedis&lt;/em&gt; due to the presence of ocelli in the fossil. As a result, currently there is no fossil taxon which can be placed in Pyrrhocoroidea with certainty. The extant &lt;em&gt;Pyrrhocoris tibialis &lt;/em&gt;Stål, 1874 is confirmed as junior subjective synonym of &lt;em&gt;P. sibiricus&lt;/em&gt; Kuschakewitsch, 1866.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			
+							<dc:creator>PETR KMENT</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-12-14</dc:date>
+				<prism:publicationDate>2021-12-14</prism:publicationDate>
+						<prism:volume>5081</prism:volume>			<prism:number>4</prism:number>
+												<prism:startingPage>579</prism:startingPage>
+													<prism:endingPage>586</prism:endingPage>
+							
+							<prism:doi>10.11646/zootaxa.5081.4.8</prism:doi>
+					</item>
+					<item rdf:about="https://www.mapress.com/zt/article/view/zootaxa.5081.4.9">
+
+						<title>&lt;p&gt;&lt;strong&gt;Two new species of &lt;em&gt;Anaglyptus&lt;/em&gt; Mulsant from China (Coleoptera: Cerambycidae: Cerambycinae: Anaglyptini)&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.mapress.com/zt/article/view/zootaxa.5081.4.9</link>
+
+										<description>&lt;p&gt;Two new &lt;em&gt;Anaglyptus&lt;/em&gt; species, &lt;em&gt;Anaglyptus mucheni&lt;/em&gt; &lt;strong&gt;sp. nov.&lt;/strong&gt; and &lt;em&gt;Anaglyptus zhangjunqii&lt;/em&gt; &lt;strong&gt;sp. nov.&lt;/strong&gt;, are described and illustrated from China.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			
+							<dc:creator>YINGQI WANG</dc:creator>
+							<dc:creator>WEIWEI ZHAO</dc:creator>
+							<dc:creator>GUANGLIN XIE</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-12-14</dc:date>
+				<prism:publicationDate>2021-12-14</prism:publicationDate>
+						<prism:volume>5081</prism:volume>			<prism:number>4</prism:number>
+												<prism:startingPage>587</prism:startingPage>
+													<prism:endingPage>593</prism:endingPage>
+							
+							<prism:doi>10.11646/zootaxa.5081.4.9</prism:doi>
+					</item>
+					<item rdf:about="https://www.mapress.com/zt/article/view/zootaxa.5081.4.10">
+
+						<title>&lt;p&gt;&lt;strong&gt;New species and records of Sericini of India (Coleoptera: Scarabaeidae: Melolonthinae) II.&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.mapress.com/zt/article/view/zootaxa.5081.4.10</link>
+
+										<description>&lt;p&gt;Here we present a new record of &lt;em&gt;Microserica nicobarensis&lt;/em&gt; (Redtenbacher, 1868) and describe further two new species from India: &lt;em&gt;Nepaloserica cheemaensis&lt;/em&gt; Bhunia, Gupta, Chandra &amp;amp; Ahrens &lt;strong&gt;new species&lt;/strong&gt;, and &lt;em&gt;Maladera reyaensis &lt;/em&gt;Bhunia, Gupta, Chandra &amp;amp; Ahrens,&lt;strong&gt; new species&lt;/strong&gt;. Species morphology is described and illustrated, and their distribution is shown on a map.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			
+							<dc:creator>DEBIKA BHUNIA</dc:creator>
+							<dc:creator>DEVANSHU GUPTA</dc:creator>
+							<dc:creator>KAILASH CHANDRA</dc:creator>
+							<dc:creator>DIRK AHRENS</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-12-14</dc:date>
+				<prism:publicationDate>2021-12-14</prism:publicationDate>
+						<prism:volume>5081</prism:volume>			<prism:number>4</prism:number>
+												<prism:startingPage>594</prism:startingPage>
+													<prism:endingPage>600</prism:endingPage>
+							
+							<prism:doi>10.11646/zootaxa.5081.4.10</prism:doi>
+					</item>
+	</rdf:RDF>

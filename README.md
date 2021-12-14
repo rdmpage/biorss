@@ -8,6 +8,17 @@ Take RSS feeds from journals and databases, creating them if needed, then index 
 
 Original goal was to rely on RSS feeds, or generate my own RSS from various sources. Now seems better to use RSS if available, but otherwise generate schema.org-style JSON and use that directly for other, potentially richer sources.
 
+### Approach
+
+1. RSS feeds from journals regularly polled and added. RSS converted to “internal” format, then augmented by adding DOIs, geography and taxa. Store the status of each feed in `feed status.json`. Sadly many RSS feeds don’t support conditional GET.
+
+2. Some sources (e.g., Google Scholar, ZooBank) will be converted directly to “internal” format, then augmented.
+
+3. Feed item is modelled as a schema.org `DataFeedItem` with the publication as an `item`.
+
+Need to set up the harvesting to be automatic. Would be nice to cache things for reanalysis if needed.
+
+
 
 ## Feeds
 
@@ -63,6 +74,10 @@ Structured data using schema.org | https://validator.schema.org
 ## Visualisation
 
 Feed is a list in descending time order, taxon facet is a treemap, geography facet is a map.
+
+## Search
+
+Experimenting with simple full text search based on [Inside Wade](https://blog.kabir.sh/inside-wade), source code on [GitHub](https://github.com/kbrsh/wade). Uses a CouchDB view to convert text to list of terms then query that view to return a list of documents sorted by how well they match the query.
 
 ## References
 

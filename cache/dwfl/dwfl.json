@@ -1,0 +1,40 @@
+{
+    "dataFeedElement": [
+        {
+            "url": "https://d.wanfangdata.com.cn/periodical/dwfl202102003",
+            "id": "https://d.wanfangdata.com.cn/periodical/dwfl202102003",
+            "name": "A genus and three species of Anthomyzidae newly recorded from China(Diptera)",
+            "description": "The genus Stiphrosoma Czerny,1928 with S.humerale Rohá?ek&Barber,2005 and two species,Anthomyza elbergi Andersson,1976 and A.pallida(Zetterstedt,1838),are newly recorded from China.A key to all genera and species of the family in China is provided.",
+            "datePublished": "2021-01-01 00:00:00",
+            "item": {
+                "doi": "10.11865/zs.2021105",
+                "id": "https://doi.org/10.11865/zs.2021105",
+                "identifier": [
+                    "dwfl202102003"
+                ],
+                "name": {
+                    "en": "A genus and three species of Anthomyzidae newly recorded from China(Diptera)"
+                },
+                "author": [
+                    "Qian Wang",
+                    "Donghui Wang",
+                    "Li Shi"
+                ],
+                "description": {
+                    "en": "The genus Stiphrosoma Czerny,1928 with S.humerale Rohá?ek&Barber,2005 and two species,Anthomyza elbergi Andersson,1976 and A.pallida(Zetterstedt,1838),are newly recorded from China.A key to all genera and species of the family in China is provided."
+                },
+                "container": {
+                    "zh": "动物分类学报",
+                    "en": "Acta Zootaxonomica Sinica"
+                },
+                "datePublished": "2021-01-00",
+                "issueNumber": "2",
+                "volumeNumber": "46",
+                "pagination": "163-175",
+                "ISSN": "2095-6827"
+            }
+        }
+    ],
+    "name": "动物分类学报 / Acta Zootaxonomica Sinica",
+    "url": "https://www.wanfangdata.com.cn/perio/detail.do?perio_id=dwfl&perio_title=动物分类学报"
+}

@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+	xmlns:cc="http://web.resource.org/cc/">
+
+	<channel rdf:about="https://www.biotaxa.org/Phytotaxa">
+				<title>Phytotaxa</title>
+		<link>https://www.biotaxa.org/Phytotaxa</link>
+
+							
+		<description>&lt;div style=&quot;margin-bottom: 0cm;&quot;&gt;&lt;span style=&quot;color: #5c8526;&quot;&gt;&lt;span&gt;&lt;strong&gt;&lt;span style=&quot;color: #5c8526;&quot;&gt;World&#039;s foremost journal of botanical systematics and biodiversity (plants, algae and fungi)&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/div&gt;</description>
+
+									<dc:publisher>Magnolia Press</dc:publisher>
+		
+					<dc:language>en-US</dc:language>
+		
+		<prism:publicationName>Phytotaxa</prism:publicationName>
+
+							
+					<prism:issn>1179-3155</prism:issn>
+		
+					<prism:copyright>&lt;span lang=&quot;EN-GB&quot;&gt;Authors need to complete and return an &lt;/span&gt;&lt;span lang=&quot;EN-GB&quot;&gt;&lt;a href=&quot;http://www.mapress.com/phytotaxa/images/copyright.rtf&quot;&gt;Assignment of Copyright&lt;/a&gt; &lt;/span&gt;&lt;span lang=&quot;EN-GB&quot;&gt;form when a paper is accepted for publication. Authors from institutions that do not allow transfer of copyrights to publishers (e.g. government institutions such as USDA, CSIRO) should attach a copyright waiver or similar document.&lt;/span&gt;</prism:copyright>
+		
+		<items>
+			<rdf:Seq>
+												<rdf:li rdf:resource="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.2.1"/>
+									<rdf:li rdf:resource="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.2.2"/>
+									<rdf:li rdf:resource="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.2.3"/>
+									<rdf:li rdf:resource="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.2.4"/>
+									<rdf:li rdf:resource="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.2.5"/>
+									<rdf:li rdf:resource="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.2.6"/>
+																<rdf:li rdf:resource="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.2.7"/>
+									<rdf:li rdf:resource="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.2.8"/>
+										</rdf:Seq>
+		</items>
+	</channel>
+
+					<item rdf:about="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.2.1">
+
+						<title>&lt;p&gt;&lt;strong&gt;The Kiandra leek orchid is the previously presumed extinct mignonette leek orchid (Orchidaceae; Orchidoideae): evidence from morphological comparisons&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.2.1</link>
+
+										<description>&lt;p&gt;&lt;em&gt;Prasophyllum morganii &lt;/em&gt;(Orchidaceae), the mignonette leek orchid, was first collected from a single population in the subalps of Victoria, Australia, in 1929 but has not been collected since 1933. A morphologically similar leek orchid, &lt;em&gt;P. retroflexum&lt;/em&gt;, was described in 2000 from Kosciuszko National Park, New South Wales, Australia. We measured 51 morphological traits on 14 field collected and 13 herbarium specimens of &lt;em&gt;P. retroflexum&lt;/em&gt;, and six historical herbarium collections of &lt;em&gt;P. morganii&lt;/em&gt;. In addition, we conducted a comparison of the types of both species with the field and herbarium specimens. Multivariate analyses were undertaken using 35 characters, and an ordination performed on range-standardised data. Results show no morphological differences between specimens identified as &lt;em&gt;P. morganii&lt;/em&gt; and &lt;em&gt;P. retroflexum&lt;/em&gt;, and we conclude they are conspecific.&lt;/p&gt;</description>
+			
+							<dc:creator>BRONWYN M. AYRE</dc:creator>
+							<dc:creator>TOBIAS HAYASHI</dc:creator>
+							<dc:creator>RYAN D. PHILLIPS</dc:creator>
+							<dc:creator>NOUSHKA REITER</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Phytotaxa
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-12-14</dc:date>
+				<prism:publicationDate>2021-12-14</prism:publicationDate>
+						<prism:volume>528</prism:volume>			<prism:number>2</prism:number>
+												<prism:startingPage>71</prism:startingPage>
+													<prism:endingPage>83</prism:endingPage>
+							
+							<prism:doi>10.11646/phytotaxa.528.2.1</prism:doi>
+					</item>
+					<item rdf:about="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.2.2">
+
+						<title>&lt;p&gt;&lt;strong&gt;A new species in the genus &lt;em&gt;Chroogomphus&lt;/em&gt; (Gomphidiaceae) from India&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.2.2</link>
+
+										<description>&lt;p&gt;&lt;em&gt;Chroogomphus himalayanus&lt;/em&gt; &lt;em&gt;sp. nov.&lt;/em&gt; is described from the subalpine Himalaya region of India. It is presented herein with morphological descriptions, illustrations and nrITS-based phylogenetic inferences as well as comparisons with similar species.&lt;/p&gt;</description>
+			
+							<dc:creator>KANAD DAS</dc:creator>
+							<dc:creator>ALFREDO VIZZINI</dc:creator>
+							<dc:creator>ARVIND PARIHAR</dc:creator>
+							<dc:creator>MANOJ E. HEMBROM</dc:creator>
+							<dc:creator>ANIKET GHOSH</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Phytotaxa
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-12-14</dc:date>
+				<prism:publicationDate>2021-12-14</prism:publicationDate>
+						<prism:volume>528</prism:volume>			<prism:number>2</prism:number>
+												<prism:startingPage>84</prism:startingPage>
+													<prism:endingPage>92</prism:endingPage>
+							
+							<prism:doi>10.11646/phytotaxa.528.2.2</prism:doi>
+					</item>
+					<item rdf:about="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.2.3">
+
+						<title>&lt;p&gt;&lt;strong&gt;A reassessment of &lt;em&gt;Dioon merolae&lt;/em&gt; (Zamiaceae) leads to the description of &lt;em&gt;Dioon salas-moralesae&lt;/em&gt;, a new cycad species from Southeastern Oaxaca, Mexico&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.2.3</link>
+
+										<description>&lt;p&gt;The cycad genus &lt;em&gt;Dioon&lt;/em&gt; comprises 17 species from Mexico and Honduras, all of them delimited based on their morphological variation and geographic distribution. A recent evaluation of the biological variation among &lt;em&gt;Dioon&lt;/em&gt; populations from Oaxaca and Chiapas, Mexico, demonstrated that the concept of the species &lt;em&gt;Dioon merolae&lt;/em&gt; actually consists of three lineages that should be recognized as different taxa. One lineage was already described as &lt;em&gt;Dioon oaxacensis&lt;/em&gt;, leaving the concept of &lt;em&gt;Dioon merolae &lt;/em&gt;comprising two lineages distributed on both sides of the Isthmus of Tehuantepec. However, there are conspicuous morphological differences between these two lineages. Here, we tested whether such a differentiation within the concept of &lt;em&gt;Dioon merolae &lt;/em&gt;merits the differentiation of two different taxa. We evaluated the qualitative and morphometric variation among populations belonging to the &lt;em&gt;Dioon merolae&lt;/em&gt; lineages, and compared it with the closely related species &lt;em&gt;Dioon oaxacensis&lt;/em&gt;. Morphological observations and statistical tests demonstrated that the populations of southeastern Oaxaca, traditionally considered as part of &lt;em&gt;Dioon merolae&lt;/em&gt;, represent a distinct species that we described as &lt;em&gt;Dioon salas-moralesae&lt;/em&gt;. Identifying the diagnostic characters of this new species helps enable an understanding of the criteria that should be considered to delineate the boundaries between other cycad species.&lt;/p&gt;</description>
+			
+							<dc:creator>JOSÉ SAID GUTIÉRREZ-ORTEGA</dc:creator>
+							<dc:creator>MIGUEL ANGEL PÉREZ-FARRERA</dc:creator>
+							<dc:creator>JEFFREY CHEMNICK</dc:creator>
+							<dc:creator>TIMOTHY J. GREGORY</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Phytotaxa
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-12-14</dc:date>
+				<prism:publicationDate>2021-12-14</prism:publicationDate>
+						<prism:volume>528</prism:volume>			<prism:number>2</prism:number>
+												<prism:startingPage>93</prism:startingPage>
+													<prism:endingPage>110</prism:endingPage>
+							
+							<prism:doi>10.11646/phytotaxa.528.2.3</prism:doi>
+					</item>
+					<item rdf:about="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.2.4">
+
+						<title>&lt;p&gt;&lt;strong&gt;Taxonomic and phylogenic appraisal of a novel species and a new record of Stictidaceae from coffee in Yunnan Province, China&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.2.4</link>
+
+										<description>&lt;p&gt;Coffee, an important economic crop, is often threatened by fungal infections. During a survey of coffee fungi in Yunnan Province, China, two saprobic Stictidaceae species were collected. Maximum likelihood (ML) and Bayesian posterior probability of combined LSU, ITS and mtSSU genes supported the placement of our fungal collections within &lt;em&gt;Fitzroyomyces&lt;/em&gt; and &lt;em&gt;Ostropomyces&lt;/em&gt; with high statistical support. A new species, &lt;em&gt;Fitzroyomyces yunnanensis&lt;/em&gt; &lt;em&gt;sp. nov.&lt;/em&gt; and a new record, &lt;em&gt;Ostropomyces pruinosellus&lt;/em&gt; are introduced. These two species were recorded on coffee wood in sexual and asexual states, respectively. Their taxonomic placements were further supported by detailed morphological and phylogenetic comparisons of allied taxa.&lt;/p&gt;</description>
+			
+							<dc:creator>LI LU</dc:creator>
+							<dc:creator>SAOWALUCK TIBPROMMA</dc:creator>
+							<dc:creator>SAMANTHA KARUNARATHNA</dc:creator>
+							<dc:creator>VINODHINI THIYAGARAJA</dc:creator>
+							<dc:creator>JIANCHU XU</dc:creator>
+							<dc:creator>RUVISHIKA S. JAYAWARDENA</dc:creator>
+							<dc:creator>SAISAMORN LUMYONG</dc:creator>
+							<dc:creator>KEVIN D. HYDE</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Phytotaxa
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-12-14</dc:date>
+				<prism:publicationDate>2021-12-14</prism:publicationDate>
+						<prism:volume>528</prism:volume>			<prism:number>2</prism:number>
+												<prism:startingPage>111</prism:startingPage>
+													<prism:endingPage>124</prism:endingPage>
+							
+							<prism:doi>10.11646/phytotaxa.528.2.4</prism:doi>
+					</item>
+					<item rdf:about="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.2.5">
+
+						<title>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Perenniporia subrhizomorpha sp. nov.&lt;/em&gt; (&lt;em&gt;Polyporales&lt;/em&gt;, &lt;em&gt;Basidiomycota&lt;/em&gt;) from North China&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.2.5</link>
+
+										<description>&lt;p&gt;&lt;em&gt;Perenniporia subrhizomorpha&lt;/em&gt; is introduced as a new species from North China on the basis of morphological and molecular evidence. Phylogenetically, based on ITS and nLSU regions,&lt;em&gt; P. subrhizomorpha&lt;/em&gt; nested with two species belong to &lt;em&gt;Perenniporia&lt;/em&gt; s.s. as a distinct lineage. &lt;em&gt;Perenniporia subrhizomorpha&lt;/em&gt; is characterized by having an annual habit, resupinate and papery basidiomes, a dimitic hyphal system with crystal-covered generative hyphae in context, ellipsoid, truncated, dextrinoid basidiospores (5.7–6.5 × 4.3–5.5 μm), and absence of cystidia and cystidioles. Morphologically similar and phylogenetically related species to the new species are discussed.&lt;/p&gt;</description>
+			
+							<dc:creator>XUE-MEI TIAN</dc:creator>
+							<dc:creator>SHI-LIANG LIU</dc:creator>
+							<dc:creator>LIN-JIANG ZHOU</dc:creator>
+							<dc:creator>XUE-WEI WANG</dc:creator>
+							<dc:creator>LI-WEI ZHOU</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Phytotaxa
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-12-14</dc:date>
+				<prism:publicationDate>2021-12-14</prism:publicationDate>
+						<prism:volume>528</prism:volume>			<prism:number>2</prism:number>
+												<prism:startingPage>125</prism:startingPage>
+													<prism:endingPage>132</prism:endingPage>
+							
+							<prism:doi>10.11646/phytotaxa.528.2.5</prism:doi>
+					</item>
+					<item rdf:about="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.2.6">
+
+						<title>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Diospyros xylocarpa&lt;/em&gt;, a New Species of Ebenaceae from China and Vietnam&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.2.6</link>
+
+										<description>&lt;p&gt;A new species of Ebenaceae, &lt;em&gt;Diospyros xylocarpa&lt;/em&gt; Y. M. Shui, W. H. Chen &amp;amp; Sima, from China and Vietnam, is described and illustrated. The new species is similar to &lt;em&gt;D. phuketensis &lt;/em&gt;Phengklai, but differs in its bigger and densely ochre brown villous leaves, more pairs of lateral veins, shorter petioles, 8-locular ovaries, xyloid fruits with nearly square fruiting calyx and much shorter fruiting peduncle and eight seeds. The new species is also similar to&lt;em&gt; D. dasyphylla &lt;/em&gt;Kurz, but differs in its leaf blades with a cuneate to round base, eight stamens and bigger and xyloid fruits.&lt;/p&gt;</description>
+			
+							<dc:creator>YONG-KANG SIMA</dc:creator>
+							<dc:creator>WEN-HONG CHEN</dc:creator>
+							<dc:creator>JIAN-YONG WU</dc:creator>
+							<dc:creator>YU-MIN SHUI</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Phytotaxa
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-12-14</dc:date>
+				<prism:publicationDate>2021-12-14</prism:publicationDate>
+						<prism:volume>528</prism:volume>			<prism:number>2</prism:number>
+												<prism:startingPage>133</prism:startingPage>
+													<prism:endingPage>138</prism:endingPage>
+							
+							<prism:doi>10.11646/phytotaxa.528.2.6</prism:doi>
+					</item>
+						<item rdf:about="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.2.7">
+
+						<title>&lt;p&gt;&lt;strong&gt;Rediscovery and supplemental description of &lt;em&gt;Begonia hymenophylloides&lt;/em&gt; (Begoniaceae) as new record in China&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.2.7</link>
+
+										<description>&lt;p&gt;N/A&lt;/p&gt;</description>
+			
+							<dc:creator>JING TIAN</dc:creator>
+							<dc:creator>YAN WANG</dc:creator>
+							<dc:creator>JING REN</dc:creator>
+							<dc:creator>SHUAI PENG</dc:creator>
+							<dc:creator>JUN-JIE WANG</dc:creator>
+							<dc:creator>CAI-FEI ZHANG</dc:creator>
+							<dc:creator>GUANG-WAN HU</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Phytotaxa
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-12-14</dc:date>
+				<prism:publicationDate>2021-12-14</prism:publicationDate>
+						<prism:volume>528</prism:volume>			<prism:number>2</prism:number>
+												<prism:startingPage>139</prism:startingPage>
+													<prism:endingPage>143</prism:endingPage>
+							
+							<prism:doi>10.11646/phytotaxa.528.2.7</prism:doi>
+					</item>
+					<item rdf:about="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.2.8">
+
+						<title>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Disporum dushanense&lt;/em&gt; (Colchicaceae), a new species from Guizhou, China&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.2.8</link>
+
+										<description>&lt;p&gt;N/A&lt;/p&gt;</description>
+			
+							<dc:creator>BO WANG</dc:creator>
+							<dc:creator>ZE-HUAN WANG</dc:creator>
+							<dc:creator>CHUN-LING CHEN</dc:creator>
+							<dc:creator>WEN-FEN XU</dc:creator>
+							<dc:creator>QING-WEN SUN</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Phytotaxa
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-12-14</dc:date>
+				<prism:publicationDate>2021-12-14</prism:publicationDate>
+						<prism:volume>528</prism:volume>			<prism:number>2</prism:number>
+												<prism:startingPage>144</prism:startingPage>
+													<prism:endingPage>148</prism:endingPage>
+							
+							<prism:doi>10.11646/phytotaxa.528.2.8</prism:doi>
+					</item>
+	</rdf:RDF>

@@ -1,0 +1,312 @@
+{
+    "name": "ZooBank",
+    "url": "http://zoobank.org",
+    "dataFeedElement": [
+        {
+            "id": "http://zoobank.org/References/d00dc6e3-80b6-4fe8-8d0d-e2dee2670130",
+            "url": "http://zoobank.org/References/d00dc6e3-80b6-4fe8-8d0d-e2dee2670130",
+            "name": "A new species of Melanocryptus Cameron, 1902 (Hymenoptera, Ichneumonidae: Cryptinae) from the Brazilian Atlantic Forest",
+            "item": {
+                "identifier": [
+                    "d00dc6e3-80b6-4fe8-8d0d-e2dee2670130",
+                    "urn:lsid:zoobank.org:pub:D00DC6E3-80B6-4FE8-8D0D-E2DEE2670130"
+                ],
+                "datePublished": "2021-05-00",
+                "name": "A new species of Melanocryptus Cameron, 1902 (Hymenoptera, Ichneumonidae: Cryptinae) from the Brazilian Atlantic Forest",
+                "volumeNumber": "4974",
+                "issueNumber": "3",
+                "pageStart": "596",
+                "pageEnd": "599",
+                "container": "Zootaxa",
+                "author": [
+                    "Thalita Da Silva Lima",
+                    "Angélica Maria Penteado-Dias"
+                ],
+                "doi": "10.11646/zootaxa.4974.3.8"
+            },
+            "datePublished": "2021-05-00"
+        },
+        {
+            "id": "http://zoobank.org/References/dcdfc3e7-5821-4839-80f5-f5ff7b180cad",
+            "url": "http://zoobank.org/References/dcdfc3e7-5821-4839-80f5-f5ff7b180cad",
+            "name": "Erratum: M. CARMEN COBO & KEVIN M. KOCOT (2021) On the diversity of abyssal Dondersiidae (Mollusca: Aplacophora) with the description of a new genus, six new species, and a review of the family. Zootaxa, 4933: 063–097.",
+            "item": {
+                "identifier": [
+                    "dcdfc3e7-5821-4839-80f5-f5ff7b180cad",
+                    "urn:lsid:zoobank.org:pub:DCDFC3E7-5821-4839-80F5-F5FF7B180CAD"
+                ],
+                "datePublished": "2021-05-00",
+                "name": "Erratum: M. CARMEN COBO & KEVIN M. KOCOT (2021) On the diversity of abyssal Dondersiidae (Mollusca: Aplacophora) with the description of a new genus, six new species, and a review of the family. Zootaxa, 4933: 063–097.",
+                "volumeNumber": "4974",
+                "issueNumber": "3",
+                "pageStart": "600",
+                "pageEnd": "600",
+                "container": "Zootaxa",
+                "author": [
+                    "M. Carmen Cobo",
+                    "Kevin Michael Kocot"
+                ],
+                "doi": "10.11646/zootaxa.4974.3.9"
+            },
+            "datePublished": "2021-05-00"
+        },
+        {
+            "id": "http://zoobank.org/References/1bd6220b-7540-4a12-b3d2-5edc1a3b7dd8",
+            "url": "http://zoobank.org/References/1bd6220b-7540-4a12-b3d2-5edc1a3b7dd8",
+            "name": "Taxonomy of Central American water beetles in the genus Hydrochus Leach, 1817 (Coleoptera: Hydrochidae)",
+            "item": {
+                "identifier": [
+                    "1bd6220b-7540-4a12-b3d2-5edc1a3b7dd8",
+                    "urn:lsid:zoobank.org:pub:1BD6220B-7540-4A12-B3D2-5EDC1A3B7DD8"
+                ],
+                "datePublished": "2021-05-00",
+                "name": "Taxonomy of Central American water beetles in the genus Hydrochus Leach, 1817 (Coleoptera: Hydrochidae)",
+                "volumeNumber": "4974",
+                "issueNumber": "3",
+                "pageStart": "459",
+                "pageEnd": "503",
+                "container": "Zootaxa",
+                "author": [
+                    "Philip D. Perkins"
+                ],
+                "doi": "10.11646/zootaxa.4974.3.2"
+            },
+            "datePublished": "2021-05-00"
+        },
+        {
+            "id": "http://zoobank.org/References/e0baa274-37cb-407b-849a-fd284bbe954b",
+            "url": "http://zoobank.org/References/e0baa274-37cb-407b-849a-fd284bbe954b",
+            "name": "The lizard (Reptilia, Squamata) assemblage from the Paleocene of Montchenot (Paris Basin, MP6)",
+            "item": {
+                "identifier": [
+                    "e0baa274-37cb-407b-849a-fd284bbe954b",
+                    "urn:lsid:zoobank.org:pub:E0BAA274-37CB-407B-849A-FD284BBE954B"
+                ],
+                "datePublished": "2021-09-00",
+                "name": "The lizard (Reptilia, Squamata) assemblage from the Paleocene of Montchenot (Paris Basin, MP6)",
+                "volumeNumber": "43",
+                "issueNumber": "17",
+                "pageStart": "645",
+                "pageEnd": "661",
+                "container": "Geodiversitas",
+                "author": [
+                    "Marc Louis Augé",
+                    "Michaël Dion",
+                    "Alain Phélizon"
+                ],
+                "doi": "10.5252/geodiversitas2021v43a17"
+            },
+            "datePublished": "2021-09-00"
+        },
+        {
+            "id": "http://zoobank.org/References/344ca83a-6c54-4425-8a1f-1ba540611214",
+            "url": "http://zoobank.org/References/344ca83a-6c54-4425-8a1f-1ba540611214",
+            "name": "Taxonomic review of the subfamily Lohmannellinae (Acari: Trombidiformes: Halacaridae) with morphological comparisons among genera",
+            "item": {
+                "identifier": [
+                    "344ca83a-6c54-4425-8a1f-1ba540611214",
+                    "urn:lsid:zoobank.org:pub:344CA83A-6C54-4425-8A1F-1BA540611214"
+                ],
+                "datePublished": "2021-06-00",
+                "name": "Taxonomic review of the subfamily Lohmannellinae (Acari: Trombidiformes: Halacaridae) with morphological comparisons among genera",
+                "volumeNumber": "4980",
+                "issueNumber": "2",
+                "pageStart": "201",
+                "pageEnd": "255",
+                "container": "Zootaxa",
+                "author": [
+                    "Hiroshi Abé"
+                ],
+                "doi": "10.11646/zootaxa.4980.2.1"
+            },
+            "datePublished": "2021-06-00"
+        },
+        {
+            "id": "http://zoobank.org/References/0e077f1c-c4fe-492e-8b87-3bc66e53561d",
+            "url": "http://zoobank.org/References/0e077f1c-c4fe-492e-8b87-3bc66e53561d",
+            "name": "First record of the genus Phoxoserphus Lin, 1988 (Hymenoptera: Proctotrupidae) from Japan",
+            "item": {
+                "identifier": [
+                    "0e077f1c-c4fe-492e-8b87-3bc66e53561d",
+                    "urn:lsid:zoobank.org:pub:0E077F1C-C4FE-492E-8B87-3BC66E53561D"
+                ],
+                "datePublished": "2021-10-00",
+                "name": "First record of the genus Phoxoserphus Lin, 1988 (Hymenoptera: Proctotrupidae) from Japan",
+                "volumeNumber": "5057",
+                "issueNumber": "4",
+                "pageStart": "597",
+                "pageEnd": "600",
+                "container": "Zootaxa",
+                "author": [
+                    "Junta Abe",
+                    "Victor Kolyada"
+                ],
+                "doi": "10.11646/zootaxa.5057.4.10"
+            },
+            "datePublished": "2021-10-00"
+        },
+        {
+            "id": "http://zoobank.org/References/2fdf3098-684a-4503-85d8-e0c05233d67f",
+            "url": "http://zoobank.org/References/2fdf3098-684a-4503-85d8-e0c05233d67f",
+            "name": "The arboreal tiger beetles (Coleoptera: Cicindelidae) of Sri Lanka recorded from recent investigations",
+            "item": {
+                "identifier": [
+                    "2fdf3098-684a-4503-85d8-e0c05233d67f",
+                    "urn:lsid:zoobank.org:pub:2FDF3098-684A-4503-85D8-E0C05233D67F"
+                ],
+                "datePublished": "2021-11-00",
+                "name": "The arboreal tiger beetles (Coleoptera: Cicindelidae) of Sri Lanka recorded from recent investigations",
+                "volumeNumber": "5068",
+                "issueNumber": "3",
+                "pageStart": "378",
+                "pageEnd": "398",
+                "container": "Zootaxa",
+                "author": [
+                    "Lakmini Abeywardhana",
+                    "Yashas Mallawarachchi",
+                    "Chandima Dangalle"
+                ],
+                "doi": "10.11646/zootaxa.5068.3.3"
+            },
+            "datePublished": "2021-11-00"
+        },
+        {
+            "id": "http://zoobank.org/References/73f7417b-1e34-48e4-8a91-7aaad4ec5fa7",
+            "url": "http://zoobank.org/References/73f7417b-1e34-48e4-8a91-7aaad4ec5fa7",
+            "name": "A new owlfly species of Iranoidricerus (Neuroptera: Myrmeleontidae) from Jordan",
+            "item": {
+                "identifier": [
+                    "73f7417b-1e34-48e4-8a91-7aaad4ec5fa7",
+                    "urn:lsid:zoobank.org:pub:73F7417B-1E34-48E4-8A91-7AAAD4EC5FA7"
+                ],
+                "datePublished": "2021-03-00",
+                "name": "A new owlfly species of Iranoidricerus (Neuroptera: Myrmeleontidae) from Jordan",
+                "volumeNumber": "67",
+                "issueNumber": "1",
+                "pageStart": "57",
+                "pageEnd": "64",
+                "container": "Zoology in the Middle East",
+                "author": [
+                    "Levente Ábrahám",
+                    "Christian Monnerat"
+                ],
+                "doi": "10.1080/09397140.2021.1883603"
+            },
+            "datePublished": "2021-03-00"
+        },
+        {
+            "id": "http://zoobank.org/References/c3373c04-b4e8-4146-8dd1-0185c3823f2e",
+            "url": "http://zoobank.org/References/c3373c04-b4e8-4146-8dd1-0185c3823f2e",
+            "name": "An annotated checklist of the insectivores (Mammalia, Eulipotyphla) of Laos",
+            "item": {
+                "identifier": [
+                    "c3373c04-b4e8-4146-8dd1-0185c3823f2e",
+                    "urn:lsid:zoobank.org:pub:C3373C04-B4E8-4146-8DD1-0185C3823F2E"
+                ],
+                "datePublished": "2021-07-00",
+                "name": "An annotated checklist of the insectivores (Mammalia, Eulipotyphla) of Laos",
+                "volumeNumber": "5006",
+                "issueNumber": "1",
+                "pageStart": "13",
+                "pageEnd": "25",
+                "container": "Zootaxa",
+                "author": [
+                    "Alexei V. Abramov"
+                ],
+                "doi": "10.11646/zootaxa.5006.1.5"
+            },
+            "datePublished": "2021-07-00"
+        },
+        {
+            "id": "http://zoobank.org/References/390fea39-deba-4406-b99f-bc6625821960",
+            "url": "http://zoobank.org/References/390fea39-deba-4406-b99f-bc6625821960",
+            "name": "Tiger beetles (Coleoptera, Cicindelidae) of Northern Mindanao region (Philippines): checklist, distributional maps, and habitats",
+            "item": {
+                "identifier": [
+                    "390fea39-deba-4406-b99f-bc6625821960",
+                    "urn:lsid:zoobank.org:pub:390FEA39-DEBA-4406-B99F-BC6625821960"
+                ],
+                "datePublished": "2021-02-00",
+                "name": "Tiger beetles (Coleoptera, Cicindelidae) of Northern Mindanao region (Philippines): checklist, distributional maps, and habitats",
+                "volumeNumber": "1017",
+                "pageStart": "37",
+                "pageEnd": "75",
+                "container": "ZooKeys",
+                "author": [
+                    "Dale Ann P. Acal",
+                    "Jürgen Wiesner",
+                    "Olga M. Nuñeza",
+                    "Radomir Jaskuła"
+                ],
+                "doi": "10.3897/zookeys.1017.34500"
+            },
+            "datePublished": "2021-02-00"
+        },
+        {
+            "id": "http://zoobank.org/References/0670ac22-7b43-4eda-ba29-7fac9951b48a",
+            "url": "http://zoobank.org/References/0670ac22-7b43-4eda-ba29-7fac9951b48a",
+            "name": "Taxonomic revision of Eunota togata (LaFerté-Sénectère, 1841) (Coleoptera: Cicindelidae) in North America with a new subspecies from western Texas and New Mexico, United States.",
+            "item": {
+                "identifier": [
+                    "0670ac22-7b43-4eda-ba29-7fac9951b48a",
+                    "urn:lsid:zoobank.org:pub:0670AC22-7B43-4EDA-BA29-7FAC9951B48A"
+                ],
+                "datePublished": "2021-01-00",
+                "name": "Taxonomic revision of Eunota togata (LaFerté-Sénectère, 1841) (Coleoptera: Cicindelidae) in North America with a new subspecies from western Texas and New Mexico, United States.",
+                "issueNumber": "0848",
+                "pageStart": "1",
+                "pageEnd": "32",
+                "container": "Insecta Mundi",
+                "author": [
+                    "Robert E. Acciavatti"
+                ]
+            },
+            "datePublished": "2021-01-00"
+        },
+        {
+            "id": "http://zoobank.org/References/0362ddf4-d56e-4431-9639-3dbf772e221c",
+            "url": "http://zoobank.org/References/0362ddf4-d56e-4431-9639-3dbf772e221c",
+            "name": "Flatfoot in Africa The cirripede Chthamalus in the west Indian Ocean",
+            "item": {
+                "identifier": [
+                    "0362ddf4-d56e-4431-9639-3dbf772e221c",
+                    "urn:lsid:zoobank.org:pub:0362DDF4-D56E-4431-9639-3DBF772E221C"
+                ],
+                "datePublished": "2021-07-00",
+                "name": "Flatfoot in Africa The cirripede Chthamalus in the west Indian Ocean",
+                "volumeNumber": "9",
+                "issueNumber": "e11710",
+                "pageStart": "1",
+                "pageEnd": "30",
+                "container": "PeerJ",
+                "author": [
+                    "Yair Achituv"
+                ],
+                "doi": "10.7717/peerj.11710"
+            },
+            "datePublished": "2021-07-00"
+        },
+        {
+            "id": "http://zoobank.org/References/d0be7479-6c9c-417b-bc69-fdad60d38bbd",
+            "url": "http://zoobank.org/References/d0be7479-6c9c-417b-bc69-fdad60d38bbd",
+            "name": "The tribe Phanerotomini (Hymenoptera, Braconidae, Cheloninae) of the Arabian Peninsula, with special reference to the United Arab Emirates and Yemen",
+            "item": {
+                "identifier": [
+                    "d0be7479-6c9c-417b-bc69-fdad60d38bbd",
+                    "urn:lsid:zoobank.org:pub:D0BE7479-6C9C-417B-BC69-FDAD60D38BBD"
+                ],
+                "datePublished": "2021-12-20",
+                "name": "The tribe Phanerotomini (Hymenoptera, Braconidae, Cheloninae) of the Arabian Peninsula, with special reference to the United Arab Emirates and Yemen",
+                "volumeNumber": "1014",
+                "pageStart": "1",
+                "pageEnd": "118",
+                "container": "ZooKeys",
+                "author": [
+                    "Cornelis Van Achterberg"
+                ],
+                "doi": "10.3897/zookeys.1014.60426"
+            },
+            "datePublished": "2021-12-20"
+        }
+    ]
+}

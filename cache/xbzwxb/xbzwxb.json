@@ -1,0 +1,44 @@
+{
+    "dataFeedElement": [
+        {
+            "url": "https://d.wanfangdata.com.cn/periodical/xbzwxb201601006",
+            "id": "https://d.wanfangdata.com.cn/periodical/xbzwxb201601006",
+            "name": "冬季低温条件下香石竹小孢子败育的细胞学研究 / Cytological Research on Microspore Abortion of Dianthus caryophyllus under Low Temperature Environment in Winter",
+            "description": "利用压片法及石蜡切片法观察冬季低温下香石竹小孢子发育过程,以明确低温导致香石竹小孢子败育的因素,为杂交育种奠定基础.结果表明:(1)冬季低温下香石竹只有部分小孢子发育正常,经过小孢子母细胞、减数分裂和四分体等时期,最后发育成花粉.(2)石蜡切片法观察到冬季低温下香石竹1.5～1.6 cm长花蕾中有61％的花粉母细胞发生败育,1.7～1.8 cm长花蕾中有71％的花粉母细胞发生败育.(3)部分已经进入四分体时期的小孢子胼胝质未能及时溶解,妨碍了小孢子释放而导致败育.研究认为,花粉母细胞和四分体的发育异常是冬季低温下香石竹小孢子败育的主要原因.",
+            "datePublished": "2016-01-01 00:00:00",
+            "item": {
+                "doi": "10.7606/j.issn.1000-4025.2016.01.0037",
+                "id": "https://doi.org/10.7606/j.issn.1000-4025.2016.01.0037",
+                "identifier": [
+                    "xbzwxb201601006"
+                ],
+                "name": {
+                    "zh": "冬季低温条件下香石竹小孢子败育的细胞学研究",
+                    "en": "Cytological Research on Microspore Abortion of Dianthus caryophyllus under Low Temperature Environment in Winter"
+                },
+                "author": [
+                    "周旭红",
+                    "蒋亚莲",
+                    "李姝影",
+                    "苏艳",
+                    "莫锡君",
+                    "桂敏"
+                ],
+                "description": {
+                    "zh": "利用压片法及石蜡切片法观察冬季低温下香石竹小孢子发育过程,以明确低温导致香石竹小孢子败育的因素,为杂交育种奠定基础.结果表明:(1)冬季低温下香石竹只有部分小孢子发育正常,经过小孢子母细胞、减数分裂和四分体等时期,最后发育成花粉.(2)石蜡切片法观察到冬季低温下香石竹1.5～1.6 cm长花蕾中有61％的花粉母细胞发生败育,1.7～1.8 cm长花蕾中有71％的花粉母细胞发生败育.(3)部分已经进入四分体时期的小孢子胼胝质未能及时溶解,妨碍了小孢子释放而导致败育.研究认为,花粉母细胞和四分体的发育异常是冬季低温下香石竹小孢子败育的主要原因."
+                },
+                "container": {
+                    "zh": "西北植物学报",
+                    "en": "Acta Botanica Boreali-Occidentalia Sinica"
+                },
+                "datePublished": "2016-01-00",
+                "issueNumber": "1",
+                "volumeNumber": "36",
+                "pagination": "37-42",
+                "ISSN": "1000-4025"
+            }
+        }
+    ],
+    "name": "西北植物学报 / Acta Botanica Boreali-Occidentalia Sinica",
+    "url": "https://www.wanfangdata.com.cn/perio/detail.do?perio_id=xbzwxb&perio_title=西北植物学报"
+}
