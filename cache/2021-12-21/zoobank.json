@@ -1,0 +1,28 @@
+{
+    "name": "ZooBank",
+    "url": "http://zoobank.org",
+    "dataFeedElement": [
+        {
+            "id": "http://zoobank.org/References/ac1f993d-1705-47fe-b8f3-1d4d254b5a46",
+            "url": "http://zoobank.org/References/ac1f993d-1705-47fe-b8f3-1d4d254b5a46",
+            "name": "Una nueva especie del género Serixia Pascoe (Coleoptera, Cerambycidae) de Sulawesi",
+            "item": {
+                "identifier": [
+                    "ac1f993d-1705-47fe-b8f3-1d4d254b5a46",
+                    "urn:lsid:zoobank.org:pub:AC1F993D-1705-47FE-B8F3-1D4D254B5A46"
+                ],
+                "datePublished": "2021-11-00",
+                "name": "Una nueva especie del género Serixia Pascoe (Coleoptera, Cerambycidae) de Sulawesi",
+                "volumeNumber": "9",
+                "issueNumber": "39",
+                "pageStart": "1",
+                "pageEnd": "3",
+                "container": "Faunitaxys",
+                "author": [
+                    "S. Trócoli"
+                ]
+            },
+            "datePublished": "2021-11-00"
+        }
+    ]
+}

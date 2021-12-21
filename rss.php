@@ -902,4 +902,34 @@ if (0)
 
 }
 
+
+//----------------------------------------------------------------------------------------
+// Parse RSS feed in RSS1, RSS2, or ATOM and return item links
+// Useful if we are going to ignore the RSS and process the links (e.g., ZooBank)
+function rss_to_links($xml)
+{
+	$links = array();
+	
+	$dom = new DOMDocument;
+	$dom->loadXML($xml, LIBXML_NOCDATA); // Elsevier wraps text in <![CDATA[ ... ]]>
+	$xpath = new DOMXPath($dom);
+
+	// namespaces we are likely to encounter
+	$xpath->registerNamespace('atom',  				'http://www.w3.org/2005/Atom');
+	$xpath->registerNamespace('rdf',   				'http://www.w3.org/1999/02/22-rdf-syntax-ns#');
+	$xpath->registerNamespace('rss',   				'http://purl.org/rss/1.0/');
+
+	$itemCollection = $xpath->query ('//rss:item | //item | //atom:entry');
+	foreach ($itemCollection as $item)
+	{
+		foreach ($xpath->query('rss:link | link | atom:link[@rel="alternate" and @type="text/html"]/@href', $item) as $node)
+		{
+			$links[] = $node->firstChild->nodeValue;
+		}			
+	}
+
+	return $links;
+
+}
+
 ?>

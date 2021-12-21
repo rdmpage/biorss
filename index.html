@@ -133,7 +133,7 @@ isodate_to_string = function (datestring) {
 	if (!m) {	
 		m = datestring.match(/^([0-9]{4})-([0-9]{2})-([0-9]{2})/);
 		if (m) {
-			// we have yea, month, and day
+			// we have year, month, and day
 			options.month = 'short';
 			options.day = 'numeric';
 		}
@@ -145,6 +145,53 @@ isodate_to_string = function (datestring) {
 	return datestring;		
 }
 
+//----------------------------------------------------------------------------------------
+// Convert ISO data to a timestamp
+// My databases use -00 to indicate no month or no day, and this confuses Javascript
+// Date so we need to set the options appropriately
+isodate_to_timestamp = function (datestring) {
+
+	if (Array.isArray(datestring)) {
+		datestring = datestring[0];
+	}
+
+
+	// Test for valid month, then day (because we use -00 to indicate no data)
+	var m = null;
+
+	if (!m) {	
+		m = datestring.match(/^([0-9]{4})$/);
+		if (m) {
+			// year only
+			datestring = m[1]; 
+		}
+	}
+
+	if (!m) {		
+		m = datestring.match(/^([0-9]{4})-([0-9]{2})-00/);
+		if (m) {
+		
+			if (m[2] == '00') {
+				// Javascript can't handle -00-00 date string so set to January 1st 
+				// which won't be output as we're only outputting the year
+				datestring = m[1] + '-01-01';
+			} else {
+				// We have a month but no day
+				datestring = m[1] + '-' + m[2] + '-01';
+			}		
+		}
+	}
+
+	if (!m) {	
+		m = datestring.match(/^([0-9]{4})-([0-9]{2})-([0-9]{2})/);
+	}
+
+	var d = new Date(datestring);
+	return d;		
+}
+
+//----------------------------------------------------------------------------------------
+// https://gomakethings.com/how-to-get-the-relative-time-between-two-dates-with-vanilla-js/
 var getHumanTime = function (timestamp) {
 
 	// Convert to a positive integer
@@ -228,10 +275,10 @@ var getHumanTime = function (timestamp) {
 			}
 			html += path[n - 1];
 			
-			document.getElementById("treemap-breadcrumbs").innerHTML = html;		
+			document.getElementById("treemap-breadcrumbs").innerHTML = html;	
 			
+			document.getElementById("feed").innerHTML = "<progress></progress>";	
 			
-
 			var url = 'api.php?country=' + country + '&path=' + encodeURIComponent(JSON.stringify(path));
 		
 			 $.getJSON(url + '&callback=?', function(data) {
@@ -253,7 +300,7 @@ var getHumanTime = function (timestamp) {
 						var recent = false;
 						var how_long_ago = '';
 						if (data.dataFeedElement[i].datePublished) {
-							var d = new Date(data.dataFeedElement[i].datePublished);
+							var d = isodate_to_timestamp(data.dataFeedElement[i].datePublished);
 							how_long_ago = getHumanTime(now - d.getTime());						
 						}
 						
