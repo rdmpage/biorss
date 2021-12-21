@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+	xmlns:cc="http://web.resource.org/cc/">
+
+	<channel rdf:about="https://threatenedtaxa.org/index.php/JoTT">
+				<title>Journal of Threatened Taxa</title>
+		<link>https://threatenedtaxa.org/index.php/JoTT</link>
+
+							
+		<description>&lt;p&gt;The&lt;em&gt;&lt;strong&gt; Journal of Threatened Taxa&lt;/strong&gt;&lt;/em&gt; is a monthly, peer-reviewed, scientific, open access, international journal on conservation and all associated fields. The aim is to make research results, data, scientific information available free and wide. The motto is to build evidence for conservation globally!&lt;/p&gt;</description>
+
+									<dc:publisher>Wildlife Information Liaison Development (WILD) Society</dc:publisher>
+		
+					<dc:language>en-US</dc:language>
+		
+		<prism:publicationName>Journal of Threatened Taxa</prism:publicationName>
+
+							
+					<prism:issn>0974-7893</prism:issn>
+		
+					<prism:copyright>&lt;p&gt;Authors own the copyright to the articles published in &lt;strong&gt;&lt;em&gt;JoTT&lt;/em&gt;&lt;/strong&gt;. This is indicated explicitly in each publication. The authors grant permission to the publisher Wildlife Information Liaison Development (WILD) Society to publish the article in the &lt;strong&gt;&lt;em&gt;Journal of Threatened Taxa&lt;/em&gt;&lt;/strong&gt;. The authors recognize WILD as the original publisher, and to sell hard copies of the Journal and article to any buyer. &lt;strong&gt;&lt;em&gt;JoTT&lt;/em&gt;&lt;/strong&gt; is registered under the Creative Commons Attribution 4.0 International License (CC BY), which allows authors to retain copyright ownership. Under this license the authors allow anyone to download, cite, use the data, modify, reprint, copy and distribute provided the authors and source of publication are credited through appropriate citations (e.g., Son et al. (2016). Bats (Mammalia: Chiroptera) of the southeastern Truong Son Mountains, Quang Ngai Province, Vietnam. Journal of Threatened Taxa 8(7): 8953–8969. &lt;a href=&quot;https://dx.doi.org/10.11609/jott.2785.8.7.8953-8969&quot;&gt;https://doi.org/10.11609/jott.2785.8.7.8953-8969&lt;/a&gt;). Users of the data do not require specific permission from the authors or the publisher.&lt;/p&gt;</prism:copyright>
+		
+		<items>
+			<rdf:Seq>
+												<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/6679"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/6937"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/6839"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/7465"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/6434"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/7040"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/6967"/>
+																<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/6901"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/7595"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/7086"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/6237"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/7446"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/6257"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/7414"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/6367"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/6340"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/5458"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/6904"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/7239"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/6741"/>
+																<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/7105"/>
+																<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/6674"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/7394"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/7642"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/6707"/>
+									<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/6728"/>
+																<rdf:li rdf:resource="https://threatenedtaxa.org/index.php/JoTT/article/view/7673"/>
+										</rdf:Seq>
+		</items>
+	</channel>
+
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/6679">
+
+						<title>Successful rescue, medical management, rehabilitation, and translocation of a Red Panda Ailurus fulgens (Mammalia: Carnivora: Ailuridae) in Arunachal Pradesh, India</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/6679</link>
+
+										<description>&lt;p&gt;We document the rescue of a Red Panda from Yachuli circle, Lower Subansiri district and successful translocation to Eaglenest Wildlife Sanctuary, West Kameng district of Arunachal Pradesh, India. The head injury was surgically managed under the anaesthetic combination of ketamine and xylazine, and reversed with yohimbine. The animal was successfully rehabilitated and translocated in the Eaglenest Wildlife Sanctuary.&lt;/p&gt;</description>
+			
+							<dc:creator>Jahan Ahmed</dc:creator>
+							<dc:creator>Sorang Tadap</dc:creator>
+							<dc:creator>Millo Tasser</dc:creator>
+							<dc:creator>Koj Rinya</dc:creator>
+							<dc:creator>Nekibuddin Ahmed</dc:creator>
+							<dc:creator>Sunil Kyarong</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Jahan Ahmed, Sorang Tadap, Millo Tasser, Koj Rinya, Nekibuddin Ahmed, Sunil Kyarong
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-11-27</dc:date>
+				<prism:publicationDate>2021-11-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>13</prism:number>
+												<prism:startingPage>20066</prism:startingPage>
+													<prism:endingPage>20071</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.6679.13.13.20066-20071</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/6937">
+
+						<title>A rare photographic record of Eurasian Otter Lutra lutra with a note on its habitat from the Bhagirathi Basin, western Himalaya, India</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/6937</link>
+
+										<description>&lt;p&gt;The Eurasian Otter Lutra lutra is an elusive, solitary animal that has one of the widest distributions of all palearctic mammals. Once widely distributed in Asia, the Eurasian Otter population is now vulnerable to urbanization, pollution, poaching, and dam construction. Eurasian Otter distribution in the Indian Himalayan rivers is little explored, and information from this high-altitude riverine ecosystem is sparse. This publication reports a rare photographic record of the Eurasian Otter which confirms its presence in the high-altitude temperate forest of the Upper Bhagirathi Basin, western Himalayan region. The otter was recorded during investigations of terrestrial and aquatic fauna in the Bhagirathi Basin (7,586 km2, 500–5,000 m) of Uttarakhand State, India from October 2015 to May 2019. Among aquatic fauna, Brown Trout were found to be abundant in high altitude river stretches, with a catch per unit effort of 1.02 kg h–1. Additionally, 26 families of freshwater macroinvertebrates underscored a rich diet available for the Brown Trout, which in turn is a potential food source for the otters. The riverine ecosystem is undergoing dramatic changes because of the increasing demand for hydropower plants in the Bhagirathi Basin. Although mitigation measures are currently in place for fish, the presence of otters further necessitates the need for targeted management for high-altitude Himalayan rivers. There is an imperative need for intensive otter surveys using methods such as camera traps in riparian habitats along the Bhagirathi River and its tributaries.&lt;/p&gt;</description>
+			
+							<dc:creator>Ranjana Pal</dc:creator>
+							<dc:creator>Aashna Sharma</dc:creator>
+							<dc:creator>Vineet Kumar Dubey</dc:creator>
+							<dc:creator>Tapajit Bhattacharya</dc:creator>
+							<dc:creator>Jeyaraj Antony Johnson</dc:creator>
+							<dc:creator>Kuppusamy Sivakumar</dc:creator>
+							<dc:creator>Sambandam Sathyakumar</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Ranjana Pal, Aashna Sharma, Vineet Kumar Dubey, Tapajit Bhattacharya, Jeyaraj Antony Johnson, Kuppusamy Sivakumar, Sambandam Sathyakumar
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-11-27</dc:date>
+				<prism:publicationDate>2021-11-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>13</prism:number>
+												<prism:startingPage>20072</prism:startingPage>
+													<prism:endingPage>20077</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.6937.13.13.20072-20077</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/6839">
+
+						<title>The first record of Medog Gliding Frog Rhacophorus translineatus Wu, 1977 (Anura: Rhacophoridae) from Chhukha District, Bhutan</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/6839</link>
+
+										<description>&lt;p&gt;Rhacophorus is a genus of tree frogs in the family Rhacophoridae commonly referred to as parachuting or gliding frogs, distinguished by extensive digital webbing. A rare species, Rhacophorus translineatus Wu, 1977, was recorded for the first time in Bhutan. Information on morphological characters, geographical distribution, habitat and natural history notes is provided.&lt;/p&gt;</description>
+			
+							<dc:creator>Sonam Lhendup</dc:creator>
+							<dc:creator>Bal Krishna Koirala</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Sonam Lhendup, Bal Krishna Koirala
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-11-27</dc:date>
+				<prism:publicationDate>2021-11-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>13</prism:number>
+												<prism:startingPage>20078</prism:startingPage>
+													<prism:endingPage>20083</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.6839.13.13.20078-20083</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/7465">
+
+						<title>First record of a freshwater crab, Maydelliathelphusa masoniana (Henderson, 1893) (Decapoda: Brachyura: Gecarcinucidae) from West Bengal, India</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/7465</link>
+
+										<description>&lt;p&gt;The genus Maydelliathelphusa Bott, 1969 includes five species, M. masoniana (Henderson, 1893), M. edentula (Alcock, 1909), M. falcidigitis (Alcock, 1910), M. harpax (Alcock, 1909), and M. lugubris (Wood-Mason, 1871), and is endemic to India. Out of the five species, only Maydelliathelphusa lugubris (Wood-Mason, 1871) was reported from West Bengal previously. Present study reports the second species, M. masoniana (Henderson, 1893), from West Bengal, India for the first time.&lt;/p&gt;</description>
+			
+							<dc:creator>Ram Krishna Das</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Ram Krishna Das
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-11-27</dc:date>
+				<prism:publicationDate>2021-11-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>13</prism:number>
+												<prism:startingPage>20084</prism:startingPage>
+													<prism:endingPage>20089</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.7465.13.13.20084-20089</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/6434">
+
+						<title>Butterflies of Amrabad Tiger Reserve, Telangana, India</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/6434</link>
+
+										<description>&lt;p&gt;The butterfly diversity of Amrabad Tiger Reserve was assessed from March 2018 to February 2021. A total of 106 species belonging to the families Nymphalidae (36 species), Lycaenidae (30 species), Pieridae (18 species), Hesperiidae (14 species), and Papilionidae (8 species) were recorded. Of these, 12 species belonged to the Schedules I, II &amp;amp; IV of the Indian Wildlife Protection Act, and four were common in this region.&lt;/p&gt;</description>
+			
+							<dc:creator>Deepa Jaiswal</dc:creator>
+							<dc:creator>B. Bharath</dc:creator>
+							<dc:creator>M. Karuthapandi</dc:creator>
+							<dc:creator>Shrikant Jadhav</dc:creator>
+							<dc:creator>S. Prabakaran</dc:creator>
+							<dc:creator>S. Rehanuma Sulthana</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Deepa Jaiswal, B. Bharath, M. Karuthapandi, Shrikant Jadhav, S. Prabakaran, S. Rehanuma Sulthana
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-11-27</dc:date>
+				<prism:publicationDate>2021-11-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>13</prism:number>
+												<prism:startingPage>20090</prism:startingPage>
+													<prism:endingPage>20097</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.6434.13.13.20090-20097</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/7040">
+
+						<title>An enumeration of the flowering plants of Kyongnosla Alpine Sanctuary in eastern Sikkim, India</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/7040</link>
+
+										<description>&lt;p&gt;The present paper is the outcome of an extensive floristic survey conducted in two phases by the authors in Kyongnosla Alpine Sanctuary, East Sikkim, India. During the study 411 taxa (400 species, 04 subspecies and 07 varieties) belonging to 173 genera and 54 families were recorded. The most dominating family was Asteraceae with 44 species followed by Ericaceae 28 species, Ranunculaceae 26 species, Polygonaceae 24 species and Rosaceae 20 species. These five families represent 34.13% of the total taxa recorded from the sanctuary. About 12 families were represented by only one species each. The most dominating genus was Rhododendron (18 species) followed by Primula (16 species), Pedicularis (15 species), Gentiana (11 species), and Impatiens (10 species). Among the different growth forms, herbs contributed the maximum (86.61 %) followed by shrubs (7.79%), trees (4.87%), climbers 0.49%, and epiphyte (0.24%).&lt;/p&gt;</description>
+			
+							<dc:creator>Sudhansu Sekhar Dash</dc:creator>
+							<dc:creator>Subhajit Lahiri</dc:creator>
+							<dc:creator>Ashiho Asoshii Mao</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Sudhansu Sekhar Dash, Subhajit Lahiri, Ashiho Asoshii Mao
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-11-27</dc:date>
+				<prism:publicationDate>2021-11-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>13</prism:number>
+												<prism:startingPage>20098</prism:startingPage>
+													<prism:endingPage>20117</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.7040.13.13.20098-20117</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/6967">
+
+						<title>A new record of psychrotrophic Paecilomyces formosus (Eurotiales: Ascomycota) from India: morphological and molecular characterization</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/6967</link>
+
+										<description>&lt;p&gt;A filamentous fungus Paecilomyces formosus (Eurotiales, Ascomycota) was detected for the first time from the region while surveying fungal diversity of a cold arid high-altitude pass (4,000 msl) located in Kargil district (Ladakh), India. The fungal isolate was characterized morphologically with camera lucida drawings and microphotographs, and identified using internal transcribed spacer (ITS) ribosomal DNA sequences. P. formosus has not been reported from India, or from arid/semi-arid/cold regions before, thus this represents a new record of Indian hot/cold desert mycoflora that is psychrotrophic in contrast to the more common thermophilic fungi.&lt;/p&gt;</description>
+			
+							<dc:creator>Skarma Nonzom</dc:creator>
+							<dc:creator>Geeta Sumbali</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Skarma Nonzom, Geeta Sumbali
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-11-27</dc:date>
+				<prism:publicationDate>2021-11-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>13</prism:number>
+												<prism:startingPage>20118</prism:startingPage>
+													<prism:endingPage>20123</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.6967.13.13.20118-20123</prism:doi>
+					</item>
+						<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/6901">
+
+						<title> Roadkills of Lowland Tapir Tapirus terrestris (Mammalia: Perissodactyla: Tapiridae) in one of its last refuges in the Atlantic Forest</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/6901</link>
+
+										<description>&lt;p&gt;Highways limit the movement and dispersion of wild animals and contribute to their loss due to roadkills, leading to the isolation and decline of populations, increasing the risk of local extinction. The Lowland Tapir &lt;em&gt;Tapirus terrestris&lt;/em&gt; is the largest neotropical herbivore-frugivore, and despite its wide distribution in South America it is threatened with extinction. In this study we report six roadkill events of tapirs between 2014 and 2019 in a section of a federal highway crossing the mosaic of Atlantic Forest reserves called Sooretama, one of the last tapir refuges in southeastern Brazil. The traffic in this area is heavy with inadequate speed control, while exotic fruit trees growing along the highway attract wild animals. Water drainage tunnels serve as passageways for some species, including tapirs. However, the tunnels located under the highway are not continuously maintained, reducing its effectiveness. The loss of at least one tapir per year can have serious long-term consequences for one of the last viable lowland tapir populations in the entire Atlantic Forest. Emergency measures are required to avoid vehicle-tapir collisions.&lt;/p&gt;</description>
+			
+							<dc:creator>Lucas Damásio</dc:creator>
+							<dc:creator>Ana Carolina Srbek-Araujo</dc:creator>
+							<dc:creator>Danielle de Oliveira Moreira</dc:creator>
+							<dc:creator>Athelson Stefanon Bittencourt</dc:creator>
+							<dc:creator>Marcos Vinicius Freitas Silva</dc:creator>
+							<dc:creator>Helena Godoy Bergallo</dc:creator>
+							<dc:creator>Renata Valls</dc:creator>
+							<dc:creator>Vitor Roberto Schettino</dc:creator>
+							<dc:creator>Tomas Lima Rocha</dc:creator>
+							<dc:creator>Aureo Banhos dos Santos</dc:creator>
+							<dc:creator>Lucas Mendes Barreto</dc:creator>
+							<dc:creator>Luis Francisco Oliveira Pereira Gonzaga</dc:creator>
+							<dc:creator>Natália Carneiro Ardente</dc:creator>
+							<dc:creator>Ilka Westermeyer</dc:creator>
+							<dc:creator>Leonardo Merçon</dc:creator>
+							<dc:creator>Marcelo Renan de Deus Santos</dc:creator>
+							<dc:creator>Andressa Gatti</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Aureo Banhos, Andressa Gatti, Marcelo Renan de Deus Santos, Leonardo Merçon,  Ilka Westermeyer, Natália Carneiro Ardente, Luis Francisco Oliveira Pereira Gonzaga, Lucas Mendes Barreto, Lucas Damásio, Tomas Lima Rocha, Vitor Roberto Schettino, Renata Valls, Helena Godoy Bergallo, Marcos Vinicius Freitas Silva, Athelson Stefanon Bittencourt,  Danielle de Oliveira Moreira, Ana Carolina Srbek-Araujo
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-11-27</dc:date>
+				<prism:publicationDate>2021-11-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>13</prism:number>
+												<prism:startingPage>19921</prism:startingPage>
+													<prism:endingPage>19929</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.6901.13.13.19921-19929</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/7595">
+
+						<title>Scientific contributions and learning experiences of citizen volunteers with a small cat project in Sanjay Gandhi National Park, Mumbai, India</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/7595</link>
+
+										<description>&lt;p&gt;We conducted a project on small wild cats in Sanjay Gandhi National Park near Mumbai during 2017–2019 with the participation of 35 citizen volunteers. Volunteers underwent a training period after which they collected scat samples, placed camera traps and participated in data analysis. Volunteers answered a questionnaire to gauge the impact the program had in furthering their interests and knowledge. Nineteen participants responded to the feedback survey. Most indicated an increase in their knowledge of wildlife research, conservation issues and small wild cats. We discuss the value of research projects where citizens can actively participate and learn semi-technical skills.&lt;/p&gt;</description>
+			
+							<dc:creator>Shomita Mukherjee</dc:creator>
+							<dc:creator>R. Nandini</dc:creator>
+							<dc:creator>P.V. Karunakaran</dc:creator>
+							<dc:creator>Nayan Khanolkar</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Shomita Mukherjee, R. Nandini, P.V. Karunakaran, Nayan Khanolkar
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-11-27</dc:date>
+				<prism:publicationDate>2021-11-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>13</prism:number>
+												<prism:startingPage>19930</prism:startingPage>
+													<prism:endingPage>19936</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.7595.13.13.19930-19936</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/7086">
+
+						<title>Seasonal food preferences and group activity pattern of Blackbuck Antilope cervicapra (L., 1758) (Mammalia: Cetartiodactyla: Bovidae) in a semi-arid region of western Haryana, India</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/7086</link>
+
+										<description>&lt;p&gt;To evaluate food preferences and group activity patterns, a fragmented population of Blackbuck &lt;em&gt;Antilope cervicapra&lt;/em&gt; was selected for observation in a semi-arid ecosystem of western Haryana. A field survey was conducted fortnightly, from dawn to dusk, between September 2019 and August 2020, covering every season. Scan sampling and quadrat methods were used to record data on group size and vegetation. Group sizes ranged from 3 to 72 individuals. Based on visual observation, blackbuck seasonally consumed 26 species belonging to 25 families with varied preferences, out of a total of 53 plant species documented from the study site. Some plant species with high medicinal and therapeutic values were preferred, including&lt;em&gt; Artemisia scoparia, Cucumis callous, Ziziphus jujuba&lt;/em&gt;, and&lt;em&gt; Ziziphus nummularia&lt;/em&gt;. Unlike most herbivores, Blackbuck also consumed the toxic and medicinally rich &lt;em&gt;Calotropis procera&lt;/em&gt;. We suggest that zoos which house blackbuck include these preferred wild plant species in their diet. Observations on group activity were analyzed on hourly, monthly and seasonal bases, and converted into time percentages. Group foraging activity was at a maximum in the monsoon (62%) and minimum in winter (50%), followed by resting: maximum in winter (21%) and minimum (12%) in monsoon, largely influenced by food availability. Foraging/walking ratio was at a maximum (5.2) in monsoon and minimum (3.1) in winter, and was correlated with the number of group sightings (maximum in winter and minimum in monsoon) in nearby farmland, when the animals faced food scarcity in their natural habitat and fed on crops.&lt;span class=&quot;Apple-converted-space&quot;&gt; &lt;/span&gt;&lt;/p&gt;</description>
+			
+							<dc:creator>Vikram Delu</dc:creator>
+							<dc:creator>Dharambir Singh</dc:creator>
+							<dc:creator>Sumit Dookia</dc:creator>
+							<dc:creator>Priya</dc:creator>
+							<dc:creator>Kiran</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Vikram Delu, Dharambir Singh, Sumit Dookia, Priya, Kiran
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-11-27</dc:date>
+				<prism:publicationDate>2021-11-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>13</prism:number>
+												<prism:startingPage>19937</prism:startingPage>
+													<prism:endingPage>19947</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.7086.13.13.19937-19947</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/6237">
+
+						<title>Studies on the habitats of Grey Francolin Francolinus pondicerianus (J.F. Gmelin, 1789) (Galliformes: Phasianidae) in northern districts of Tamil Nadu, India</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/6237</link>
+
+										<description>&lt;p&gt;This paper pertains to the habitats of the Grey Francolin &lt;em&gt;Francolinus pondicerianus&lt;/em&gt; with specific reference to populations, habitat type, vegetation, foraging, impact of human dwellings, and probable threats to&lt;span class=&quot;Apple-converted-space&quot;&gt; &lt;/span&gt;populations in 20 villages covering four northern districts of Tamil Nadu, India. A total of 252 individuals were enumerated. During the non-breeding season, birds move in small groups of 2–6. Of four habitats identified, the maximum number of 143 birds was observed foraging in grasslands, while 61 were seen in dry fallow agricultural lands, 37 in dry lakes/canals, and 11 in harvested fields. No significant association was observed between habitat type and bird behaviour. They feed on termites and spilled paddy grains. Males have repeated loud calls and fight with each other. Four species of tall grasses, six of stunted trees and two shrubs were identified to provide bird habitat. Birds preferred to live away from human dwellings, with 193 found 1,000 m away from settlements. The study area continues to be a suitable habitat for Grey Francolin populations, hence this habitat needs protection.&lt;/p&gt;</description>
+			
+							<dc:creator>M. Pandian</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 M. Pandian
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-11-27</dc:date>
+				<prism:publicationDate>2021-11-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>13</prism:number>
+												<prism:startingPage>19948</prism:startingPage>
+													<prism:endingPage>19955</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.6237.13.13.19948-19955</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/7446">
+
+						<title>Recovery of vulture population in roosting and scavenging areas of Bastar and Bijapur, Chhattisgarh, India</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/7446</link>
+
+										<description>&lt;p&gt;Chhattisgarh is home to seven of the nine vulture species in India. One reason for this high vulture diversity is the presence of large herds of bovines numbering over 11 million individuals (ratio of human to bovine population is approximately 0.38), from which carcasses are disposed off in the open for scavengers. The late 1990s saw large scale decimation of vulture population, and since then there have been few studies with no sighting estimates available.&lt;span class=&quot;Apple-converted-space&quot;&gt; &lt;/span&gt;In this study, concurrent sighting records were collected from different locations of southern Chhattisgarh and corroborated to develop conservative sighting estimates for sympatric populations of &lt;em&gt;Gyps bengalensis&lt;/em&gt; and &lt;em&gt;Gyps indicus&lt;/em&gt;. We present the first report on population recovery, with an estimated 30–35 &lt;em&gt;Gyps&lt;/em&gt; &lt;em&gt;bengalensis&lt;/em&gt; &amp;amp; 20–25 &lt;em&gt;Gyps&lt;/em&gt; &lt;em&gt;indicus&lt;/em&gt; in/ around Rudraram of Bijapur and 18 &lt;em&gt;Gyps bengalensis&lt;/em&gt; &amp;amp; five &lt;em&gt;Gyps indicus&lt;/em&gt; at Jamguda village of Bastar. Krishna Swami Gutta hill is identified as a nesting-roosting habitat for both species, for which six scavenging areas were identified in Bastar and Bijapur districts. The human/bovine population ratio for Bastar is 0.4, similar to the state ratio, while in Bijapur the ratio is 1.07, which justifies considering Bijapur as a conservation refuge. The few vultures that survived the diclofenac catastrophe in wild habitats most likely consumed wildlife carcasses that sustained a residual population. In these areas, the age-old practise of disposing off dead domesticated bovines away from settlements near reserve forests may also have supported the recovery of vulture population.&lt;/p&gt;</description>
+			
+							<dc:creator>Sushil Kumar Dutta</dc:creator>
+							<dc:creator>Muntaz Khan</dc:creator>
+							<dc:creator>P.R.S. Nagi</dc:creator>
+							<dc:creator>Santosh Durgam</dc:creator>
+							<dc:creator>Surabhi Dutta</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Sushil Kumar Dutta, Muntaz Khan, P.R.S. Nagi, Santosh Durgam, Surabhi Dutta
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-11-27</dc:date>
+				<prism:publicationDate>2021-11-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>13</prism:number>
+												<prism:startingPage>19956</prism:startingPage>
+													<prism:endingPage>19963</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.7446.13.13.19956-19963</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/6257">
+
+						<title>A geographical assessment of Chariganga and Arpara Beel (wetlands) of Nadia, West Bengal as a habitat of wetland birds</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/6257</link>
+
+										<description>&lt;p&gt;The present study attempts to assess the impact of human intervention on the population, distribution, and habitat perspectives of the water birds found in and around Chariganga and Arpara ‘Beel’ wetlands, leftover channels of the River Bhagirathi. The point count method was adopted during field surveys conducted from April 2019 to March 2020. These wetlands are the natural habitats for 37 species of wetland birds belonging to 18 families and 11 orders, of which 26 species are residents, three are summer migrants, and eight are winter immigrants. The wetlands also harbour 10 bird species whose population is globally declining over the last few decades. Relative Diversity index unveils that among waterfowls Ardeidae is the dominant family. Species richness reaches its peak in winter, and is least during the monsoon. Empirical observation documented one Vulnerable (Greater Adjutant) and one Near Threatened (Black-Headed Ibis) species residing on the banks and adjoining paddy fields. Indiscriminate extraction of wetland products by local people, along with agricultural expansion towards the waterfront of the wetlands, has deteriorated the health of those wetlands and threatened the existence of waterbirds, especially shorebirds. Populations of 22 species living in water edge areas has changed conspicuously owing to cultural and economic activities of neighboring human groups. We suggest improving the ecological balance of the wetlands and restraining further degradation through proper management to preserve avian diversity.&lt;span class=&quot;Apple-converted-space&quot;&gt; &lt;/span&gt;&lt;/p&gt;</description>
+			
+							<dc:creator>Mehedi Hasan Mandal</dc:creator>
+							<dc:creator>Arindam Roy</dc:creator>
+							<dc:creator>Giyasuddin Siddique</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Mehedi Hasan Mandal, Arindam Roy, Giyasuddin Siddique
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-11-27</dc:date>
+				<prism:publicationDate>2021-11-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>13</prism:number>
+												<prism:startingPage>19964</prism:startingPage>
+													<prism:endingPage>19975</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.6257.13.13.19964-19975</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/7414">
+
+						<title>Phenotypic plasticity in Barilius vagra (Hamilton, 1822) (Teleostei: Danionidae) from two geographically distinct river basins of Indian Himalaya</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/7414</link>
+
+										<description>&lt;p&gt;Truss-based morphometric analysis was used to examine phenotypic plasticity of &lt;em&gt;Barilius vagra&lt;/em&gt; (Hamilton, 1822) inhabiting the tributaries of the Alaknanda (Ganga River basin) and Chenab (Indus River basin), two geographically distinct river basins in the Indian Himalaya. Fourteen landmarks were connected to generate a truss network of 90 parameters on the body of fish. Eighty morphometric traits out of ninety morphometric measurements explained statistically significant difference among six sampling locations of &lt;em&gt;Barilius vagra&lt;/em&gt; from streams in the Alaknanda and Chenab basins. Discriminant function analysis revealed 82% of &lt;em&gt;Barilius vagra&lt;/em&gt; specimens originally classified into their own groups. 95% of the variance was explained by 13 principal components. Morphometric characters (1–6, 1–13, 2–5, 2–6, 2–14, 3–6, 4–6, 4–14, 6–12, 7–8, 7–9, 10–11, and 13–14) contributed greatly in differentiation of &lt;em&gt;B. vagra&lt;/em&gt; populations from different river basins. The Alaknanda basin reflected some mixing within populations, which may be due to common environmental conditions and fish migration in these streams. This study will be helpful in framing site-specific conservation and management strategies, such as net mesh size selection, avoiding overexploitation, stock augmentation and food availability for different fish populations.&lt;/p&gt;</description>
+			
+							<dc:creator>Sumit Kumar</dc:creator>
+							<dc:creator>Sharali Sharma</dc:creator>
+							<dc:creator>Deepak Singh</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Sumit Kumar, Sharali Sharma, Deepak Singh
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-11-27</dc:date>
+				<prism:publicationDate>2021-11-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>13</prism:number>
+												<prism:startingPage>19976</prism:startingPage>
+													<prism:endingPage>19984</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.7414.13.13.19976-19984</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/6367">
+
+						<title>Taxonomic notes, a new species, and a key to Indian species of the click beetle genus Cryptalaus Ȏhira, 1967 (Coleoptera: Elateridae: Agrypninae)</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/6367</link>
+
+										<description>&lt;p&gt;&lt;em&gt;Cryptalaus alveolatus&lt;/em&gt; sp. nov. is described and illustrated from India. The species has unique morphological characters: conspicuous longitudinal median ridge on pronotum, elytral interstria II more depressed than interstriae I and III. The Indian fauna of the genus &lt;em&gt;Cryptalaus&lt;/em&gt; Ȏhira, 1967 is updated and represented by seven species: &lt;em&gt;C. alveolatus&lt;/em&gt; sp. nov., &lt;em&gt;C. assamensis&lt;/em&gt; (Schwarz, 1902) comb. nov., &lt;em&gt;C. eryx&lt;/em&gt; (Candèze, 1874), &lt;em&gt;C. lynceus&lt;/em&gt; (Candèze, 1874), &lt;em&gt;C. nodulosus&lt;/em&gt; (Waterhouse, 1877) comb. nov., &lt;em&gt;C. sculptus&lt;/em&gt; (Westwood, 1848) and &lt;em&gt;C. sordidus&lt;/em&gt; (Westwood, 1848). Genitalia and terminalia of male and female &lt;em&gt;C. sordidus&lt;/em&gt; are also illustrated. A key to the Indian species of &lt;em&gt;Cryptalaus&lt;/em&gt; is given.&lt;/p&gt;</description>
+			
+							<dc:creator>Harshad Parekar</dc:creator>
+							<dc:creator>Amol Patwardhan</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Harshad Parekar, Amol Patwardhan
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-11-27</dc:date>
+				<prism:publicationDate>2021-11-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>13</prism:number>
+												<prism:startingPage>19985</prism:startingPage>
+													<prism:endingPage>19999</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.6367.13.13.19985-19999</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/6340">
+
+						<title>Niche overlap of benthic macrofauna in a tropical estuary: diurnal variation</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/6340</link>
+
+										<description>&lt;p&gt;The complexity of estuaries allows for the establishment of diverse communities composed of species with different survival strategies. The vertical migration of animals in the sediment is linked to competition, escape from predators and adaptations to diurnal physio-chemical changes related to variations in water levels. The present study aimed to evaluate niche overlap and amplitude, as well as the composition and structure, of communities of polychaetes and molluscs between sediment aliquots during the day and at night. Data sampling was performed in the Tubarão River estuary. The highest individual occurrence was registered during the diurnal period. Communities of polychaetes varied significantly between sediment aliquots during the day and at night, while molluscs did not show diurnal variation. Niche overlap results for polychaetes showed higher values between aliquots during the night, while molluscs showed greater overlap during the day. This indicates that polychaetes and molluscs have different mechanisms of coexistence. This may be related to different attributes of species allowing for the division of resources among individuals. Examination of niche overlap provides insights into coexistence of mechanisms within benthic macroinvertebrate communities.&lt;/p&gt;</description>
+			
+							<dc:creator>Mário Herculano de Oliveira</dc:creator>
+							<dc:creator>Lidiane Gomes de Lima</dc:creator>
+							<dc:creator>Caroline Stefani da Silva Lima</dc:creator>
+							<dc:creator>Jéssica de Oliveira Lima Gomes</dc:creator>
+							<dc:creator>Franciely Ferreira Paiva</dc:creator>
+							<dc:creator>Graciele de Barros</dc:creator>
+							<dc:creator>Carlinda Railly Medeiros</dc:creator>
+							<dc:creator>Joseline Molozzi</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Mário Herculano de Oliveira, Lidiane Gomes de Lima, Caroline Stefani da Silva Lima, Jéssica de Oliveira Lima Gomes, Franciely Ferreira Paiva, Graciele de Barros, Carlinda Railly Medeiros, Joseline Molozzi
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-11-27</dc:date>
+				<prism:publicationDate>2021-11-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>13</prism:number>
+												<prism:startingPage>20000</prism:startingPage>
+													<prism:endingPage>20010</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.6340.13.13.20000-20010</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/5458">
+
+						<title>Diversity of aquatic insects and biomonitoring of water quality in the upper Ganga River, a Ramsar site: a preliminary assessment</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/5458</link>
+
+										<description>&lt;p&gt;Monitoring of freshwater habitats through aquatic insects is widely used. A study was carried out in March, 2019 at 14 sites in the Upper Ganga River between Brijghat and Narora, a riverine Ramsar site in India, to document the diversity of three major aquatic predatory insect groups—Odonata, Coleoptera, and Hemiptera—and determine their biomonitoring potential. The study recorded three species of Coleoptera, four Hemiptera, 14 dragonflies, and eight damselflies. The Shannon diversity index (H′) ranged from 2.465 to 2.782, Pielou’s Evenness index (J′) from 0.841 to 0.894, and Berger–Parker index of dominance (d) from 0.122 to 0.243. Families Libellulidae (Odonata), Coenagrionidae (Odonata) and Gerridae (Hemiptera) had high relative abundance and dominant status. The stream invertebrate grade number-average level (SIGNAL2) score (for family) ranged from 2.316 to 3.174, lying within quadrant 2 of the SIGNAL2 (family) quadrant diagram. This suggested that the water in the area is likely to have high levels of turbidity, salinity, or nutrients, caused&lt;span class=&quot;Apple-converted-space&quot;&gt; &lt;/span&gt;naturally or by anthropogenic activities, and the water has low levels of most toxic chemicals.&lt;/p&gt;</description>
+			
+							<dc:creator>Kritish De</dc:creator>
+							<dc:creator>Arkojyoti Sarkar</dc:creator>
+							<dc:creator>Kritika Singh</dc:creator>
+							<dc:creator>Virendra Prasad Uniyal</dc:creator>
+							<dc:creator>Jeyaraj Antony Johnson</dc:creator>
+							<dc:creator>Syed Ainul Hussain</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Kritish De, Arkojyoti Sarkar, Kritika Singh, Virendra Prasad Uniyal, Jeyaraj Antony Johnson, Syed Ainul Hussain
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-11-27</dc:date>
+				<prism:publicationDate>2021-11-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>13</prism:number>
+												<prism:startingPage>20011</prism:startingPage>
+													<prism:endingPage>20018</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.5458.13.13.20011-20018</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/6904">
+
+						<title>Patterns of forest cover loss in the terrestrial Key Biodiversity Areas in the Philippines: critical habitat conservation priorities</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/6904</link>
+
+										<description>&lt;p&gt;The Philippines, home to over 20,000 endemic species of plants and animals, is facing a biodiversity crisis due to the constant decrease of forest cover. The Key Biodiversity Area (KBA) approach was developed to conserve species threatened with extinction using a site-based conservation strategy to select globally important sites using threshold-based criteria for species irreplaceability and vulnerability. This study investigates the applicability of remotely sensed data through geospatial analysis to quantify forest cover loss of the 101 terrestrial KBAs in the country between 2001 and 2019. Results showed that the study sites had 4.5 million hectares (ha) of forest in the year 2000. However, these sites have lost about 270,000 ha of forest in nearly two decades, marking a steady decline with an annual deforestation rate of 14,213 ha per year in these terrestrial KBAs. The majority of the study sites (58) had a high percentage of forest loss (&amp;gt;3.13%), and these should be prioritized for conservation. By the year 2030, it is forecast that a total of 331 thousand ha of forest will be lost unless there is a transformational change in the country’s approach to dealing with deforestation. The results of this study provide relevant data and information in forest habitat in near real-time monitoring to assess the impact and effectiveness of forest governance and approaches within these critical habitats.&lt;/p&gt;</description>
+			
+							<dc:creator>Bernard Peter Daipan</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Bernard Peter Daipan
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-11-27</dc:date>
+				<prism:publicationDate>2021-11-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>13</prism:number>
+												<prism:startingPage>20019</prism:startingPage>
+													<prism:endingPage>20032</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.6904.13.13.20019-20032</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/7239">
+
+						<title>The woody flora of Shettihalli Wildlife Sanctuary, central Western Ghats of Karnataka, India - A checklist</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/7239</link>
+
+										<description>&lt;p&gt;Documenting the biodiversity of protected areas and reserve forests is important to researchers, academicians and forest departments in their efforts to establish policies to protect regional biodiversity. Shettihalli Wildlife Sanctuary (SWS) is an important protected area located in the central Western Ghats of Karnataka state known for its diverse flora and fauna with distinct ecological features. For the last four decades the sanctuary has witnessed the loss of forest cover, yet the vegetation in few locations is relatively undisturbed. The current inventory was undertaken during 2019–2020 to provide a checklist of woody species from SWS under-researched earlier. The list comprises 269 species of trees, lianas and shrubs distributed in 207 genera and 68 families. The most diverse families are Fabaceae, Moraceae, Rubiaceae, Rutaceae, Lauraceae, Apocynaceae, Meliaceae, Malvaceae, Phyllanthaceae, and Anacardiaceae, representing 48% of total woody flora. The sanctuary shelters 263 native and six exotic plant species. Thirty-nine species were endemic to the Western Ghats, five species to peninsular India and one species to the Western Ghats and Andaman &amp;amp; Nicobar Islands. Four forest types, i.e., dry deciduous, moist deciduous, semi-evergreen, and evergreen forests, are represented in the sanctuary. Of the total species, only seven occurred in all forest types, while 111 species are exclusive to a single forest type. One-hundred-and-four taxa were assessed for the International Union for Conservation of Nature &amp;amp; Natural Resources (IUCN) Red List. Ten species that fall under Near Threatened, Vulnerable, and Endangered categories were encountered occasionally. The baseline data generated on plant diversity will be useful in highlighting the importance of these forests for species conservation and forest management. Such data form a cornerstone for further research. For instance, to understand the effect of invasive species and human impacts on the diversity of the region.&lt;span class=&quot;Apple-converted-space&quot;&gt; &lt;/span&gt;&lt;/p&gt;</description>
+			
+							<dc:creator>Naveen Babu Kanda</dc:creator>
+							<dc:creator>Kurian Ayushi</dc:creator>
+							<dc:creator>Vincy K. Wilson</dc:creator>
+							<dc:creator>Narayanan Ayyappan</dc:creator>
+							<dc:creator>Narayanaswamy Parthasarathy</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Kanda Naveen Babu, Kurian Ayushi, Vincy K. Wilson, Narayanan Ayyappan, Narayanaswamy Parthasarathy
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-11-27</dc:date>
+				<prism:publicationDate>2021-11-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>13</prism:number>
+												<prism:startingPage>20033</prism:startingPage>
+													<prism:endingPage>20055</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.7239.13.13.20033-20055</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/6741">
+
+						<title>Reproductive biology of Ophiorrhiza caudata C.E.C.Fisch. (Rubiaceae), an endemic and endangered creeping perennial herb of the Western Ghats, India</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/6741</link>
+
+										<description>&lt;p&gt;&lt;em&gt;Ophiorrhiza caudata&lt;/em&gt; is a creeping, perennial herb distributed along wet and shady areas. The species is distylous with two distinct floral morphs: pin and thrum. Flowering usually occurs during the monsoon season. No particular difference was noticed in the flowering phenology of the two morphs. Presently the species is self-incompatible, however, it shows a tendency towards intramorph compatibility. Fruit set is above 60% in open pollination and intermorph pollination. Bees and butterflies are the major pollinators. The pollen flow between the two floral morphs varies depending upon floral morphology and pollinators. Fruit is a bi-valved capsule which dehisces by a splashing drop mechanism. The seeds are very minute. The rate of seed germination and seedling establishment in the wild condition is very poor due to adverse climatic factors. &lt;em&gt;Ophiorrhiza caudata&lt;/em&gt; is struggling for survival in its natural habitat, where habitat fragmentation, climatic factors and poor seedling establishment could account for its narrow distribution.&lt;/p&gt;</description>
+			
+							<dc:creator>Maria Theresa</dc:creator>
+							<dc:creator>Appukuttan Kamalabai Sreekala</dc:creator>
+							<dc:creator>Jayalakshmi Mohanlal</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Maria Theresa, Appukuttan Kamalabai Sreekala, Jayalakshmi Mohanlal
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-11-27</dc:date>
+				<prism:publicationDate>2021-11-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>13</prism:number>
+												<prism:startingPage>20056</prism:startingPage>
+													<prism:endingPage>20065</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.6741.13.13.20056-20065</prism:doi>
+					</item>
+						<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/7105">
+
+						<title>An inventory of geometrid moths (Lepidoptera: Geometroidea: Geometridae) of Kalakad-Mundanthurai Tiger Reserve, India</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/7105</link>
+
+										<description>&lt;p&gt;The geometrid moths of Kalakad-Mundanthurai Tiger reserve were studied during the years 2012 to 2016. Since collection of specimens was not permitted, only field notes, accompanied by photo documentation was undertaken. Two-hundred-and-sixty geometrid moths identified to various hierarchical levels of taxa and one new genus for southern India, are reported.&lt;/p&gt;</description>
+			
+							<dc:creator>Geetha Iyer</dc:creator>
+							<dc:creator>Dieter Stüning</dc:creator>
+							<dc:creator>Sanjay Sondhi</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Geetha Iyer, Dieter Stüning, Sanjay Sondhi
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-11-27</dc:date>
+				<prism:publicationDate>2021-11-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>13</prism:number>
+												<prism:startingPage>19887</prism:startingPage>
+													<prism:endingPage>19920</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.7105.13.13.19887-19920</prism:doi>
+					</item>
+						<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/6674">
+
+						<title>Study on incidence and pathology of gastrointestinal parasitic infections in Nilgai Boselaphus tragocamelus in Hisar, Haryana, India</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/6674</link>
+
+										<description>&lt;p&gt;The present study was conducted on 20 dead carcasses of Nilgai Boselaphus tragocamelus brought to the Department of Veterinary Pathology, Lala Lajpat Rai University of Veterinary and Animal Sciences (LUVAS), Hisar for post mortem examination. Thorough necropsy examinations were conducted and the representative samples for parasitic examination were collected. Most of the carcasses showed varying degrees of traumatic injuries (9), external wounds and haemorrhages (5) along with putrefactive changes (6). Intestinal contents and faecal samples were collected and screened for the presence of any parasite by sedimentation and flotation techniques. Out of 20 faecal samples, overall incidence of parasitic gastrointestinal tract infection was 40% (8/20). Out of 20, eight cases revealed presence of coccidian oocysts, however, among the eight cases, one case also revealed mixed infection of Moneizia andStrongylespp.,andanother case with Strongyle and Trichuris spp. Gross pathology of the intestines revealed varying degrees of vascular changes like petechial haemorrhages and the presence of catarrhal exudate. Histopathological examination revealed mild to moderate congestion, fused villi, desquamated mucosal epithelium in focal areas, and infiltration of mononuclear cells mainly lymphocytes. The different developmental stages of coccidian spp.were also observed in the intestinal mucosa. In conclusion, the preliminary study reported the parasitic load and pathological changes in the intestinal tract which further indicated the parasitism of these wild animals which is of immense signiﬁcance from the epidemiological point of view.&lt;/p&gt;</description>
+			
+							<dc:creator>Maneesh Sharma</dc:creator>
+							<dc:creator>B.L. Jangir</dc:creator>
+							<dc:creator>D. Lather</dc:creator>
+							<dc:creator>G.A. Chandratre</dc:creator>
+							<dc:creator>V. Nehra</dc:creator>
+							<dc:creator>K.K. Jakhar</dc:creator>
+							<dc:creator>G. Narang</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Maneesh Sharma, B.L. Jangir, D. Lather, G.A. Chandratre, V. Nehra, K.K. Jakhar, G. Narang
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-11-27</dc:date>
+				<prism:publicationDate>2021-11-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>13</prism:number>
+												<prism:startingPage>20124</prism:startingPage>
+													<prism:endingPage>20127</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.6674.13.13.20124-20127</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/7394">
+
+						<title>An unusual vocalization of Brown Hawk-Owl Ninox scutulata (Raffles, 1822) (Aves: Strigiformes: Strigidae) recorded from Kerala, India</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/7394</link>
+
+										<description>&lt;p&gt;An unusual vocalisation of Brown Hawk-Owl was recorded from Thrissur. It was distinctive continuous calls of the species heard frequently during 2315 to 2345 h. The bird was photographed; spectrogram was prepared from the call. It is a new addition to the existing recorded vocalisation of the species.­­&lt;/p&gt;</description>
+			
+							<dc:creator>Riju P Nair</dc:creator>
+							<dc:creator>Shine Raj Tholkudiyil</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Riju P. Nair, Shine Raj Tholkudiyil
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-11-27</dc:date>
+				<prism:publicationDate>2021-11-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>13</prism:number>
+												<prism:startingPage>20128</prism:startingPage>
+													<prism:endingPage>20129</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.7394.13.13.20128-20129</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/7642">
+
+						<title>New distribution data on the genus Maripanthus Maddison, 2020 (Araneae: Salticidae) from southern India</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/7642</link>
+
+										<description>&lt;p&gt;New distributional records of Maripanthus gloria Caleb, 2021 and Maripanthus jubatus Maddison, 2020 from southern India are reported. Diagnosis and images of both the species are provided and the updated distributional records are also mapped.&lt;/p&gt;</description>
+			
+							<dc:creator>A. Asima</dc:creator>
+							<dc:creator> John T.D. Caleb</dc:creator>
+							<dc:creator>Dhruv A. Prajapati</dc:creator>
+							<dc:creator>G. Prasad</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 A. Asima, John T.D. Caleb, Dhruv A. Prajapati, G. Prasad
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-11-27</dc:date>
+				<prism:publicationDate>2021-11-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>13</prism:number>
+												<prism:startingPage>20130</prism:startingPage>
+													<prism:endingPage>20132</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.7642.13.13.20130-20132</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/6707">
+
+						<title>On the IUCN status of Boesenbergia albolutea and B. rubrolutea (Zingiberaceae) and typification of B. rubrolutea</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/6707</link>
+
+										<description>&lt;p&gt;The present study comments on the conservation status of two species of the genus Boesenbergia, viz., B. albolutea and B. rubrolutea. The study also identified and designated the lectotype for B. rubrolutea.&lt;/p&gt;</description>
+			
+							<dc:creator>K. Aishwarya</dc:creator>
+							<dc:creator>M. Sabu</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 K. Aishwarya, M. Sabu
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-11-27</dc:date>
+				<prism:publicationDate>2021-11-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>13</prism:number>
+												<prism:startingPage>20133</prism:startingPage>
+													<prism:endingPage>20135</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.6707.13.13.20133-20135</prism:doi>
+					</item>
+					<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/6728">
+
+						<title>New records of mass seeding Cephalostachyum latifolium Munro (Poaceae) along the mid-elevation broadleaved forest of Sarpang district, Bhutan</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/6728</link>
+
+										<description>&lt;p&gt;Mass seeding of Cephalostachyum latifolium under Sarpang district, Bhutan. However, Bhutan till dates has recorded only two Cephalostachyum species (C.Meanwhile, Meanwhile, recent record of gregarious and mass seeding of Cephalostachyum latifolium bamboo species from the mid-elevation broadleaved forest of Sarpang district in Bhutan has added another new records to bamboo science in 2017.C. In Bhutan, gregarious flowering of C. Therefore, gregarious and mass seeding has immense social, economic and ecological implications to the communities.&lt;/p&gt;</description>
+			
+							<dc:creator>Jigme Tenzin</dc:creator>
+							<dc:creator>Sangay Nidup</dc:creator>
+							<dc:creator>Dago Dorji</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Jigme Tenzin, Sangay Nidup, Dago Dorji
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-11-27</dc:date>
+				<prism:publicationDate>2021-11-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>13</prism:number>
+												<prism:startingPage>20136</prism:startingPage>
+													<prism:endingPage>20139</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.6728.13.13.20136-20139</prism:doi>
+					</item>
+						<item rdf:about="https://threatenedtaxa.org/index.php/JoTT/article/view/7673">
+
+						<title>If habitat heterogeneity is effective for conservation of butterflies in urban landscapes of Delhi, India?’ Unethical publication based on data manipulation</title>
+			<link>https://threatenedtaxa.org/index.php/JoTT/article/view/7673</link>
+
+										<description>&lt;p&gt;NA&lt;/p&gt;</description>
+			
+							<dc:creator>Sanjay Keshari Das</dc:creator>
+							<dc:creator>Rita Singh</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Sanjay Keshari Das, Rita Singh
+				https://creativecommons.org/licenses/by/4.0
+			</dc:rights>
+							<cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0" />
+			
+							<dc:date>2021-11-27</dc:date>
+				<prism:publicationDate>2021-11-27</prism:publicationDate>
+						<prism:volume>13</prism:volume>			<prism:number>13</prism:number>
+												<prism:startingPage>20140</prism:startingPage>
+													<prism:endingPage>20142</prism:endingPage>
+							
+							<prism:doi>10.11609/jott.7673.13.13.20140-20142</prism:doi>
+					</item>
+	</rdf:RDF>

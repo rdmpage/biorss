@@ -28,7 +28,7 @@ $config['platform'] = 'local';
 $config['platform'] = 'cloud';
 
 $config['site']		= 'local';
-$config['site']		= 'heroku';
+//$config['site']		= 'heroku';
 
 switch ($config['site'])
 {

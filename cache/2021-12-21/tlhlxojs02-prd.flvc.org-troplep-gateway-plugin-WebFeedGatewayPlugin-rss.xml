@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+	xmlns:cc="http://web.resource.org/cc/">
+
+	<channel rdf:about="https://tlhlxojs02-prd.flvc.org/troplep">
+				<title>Tropical Lepidoptera Research</title>
+		<link>https://tlhlxojs02-prd.flvc.org/troplep</link>
+
+							
+		<description>&lt;p&gt;The scientific journal &lt;em&gt;TROPICAL LEPIDOPTERA &lt;/em&gt;&lt;em&gt;RESEARCH &lt;/em&gt;is published by the Association for Tropical Lepidoptera twice a year. The journal commenced publication in 1990 as &lt;em&gt;Tropical Lepidoptera&lt;/em&gt;. Major abstracting services cover the journal, including &lt;em&gt;Abstracts of Entomology&lt;/em&gt; (BIOSIS) and &lt;em&gt;Zoological Record&lt;/em&gt;. While the journal still comes out in print (ISSN 1941-7659), past and current issues are also archived here, and certain supplements may only be available electronically or through a limited number of major libraries.&lt;/p&gt;</description>
+
+									<dc:publisher>Association for Tropical Lepidoptera</dc:publisher>
+		
+					<dc:language>en-US</dc:language>
+		
+		<prism:publicationName>Tropical Lepidoptera Research</prism:publicationName>
+
+							
+					<prism:issn>1941-7659</prism:issn>
+		
+		
+		<items>
+			<rdf:Seq>
+												<rdf:li rdf:resource="https://tlhlxojs02-prd.flvc.org/troplep/article/view/130134"/>
+									<rdf:li rdf:resource="https://tlhlxojs02-prd.flvc.org/troplep/article/view/130135"/>
+									<rdf:li rdf:resource="https://tlhlxojs02-prd.flvc.org/troplep/article/view/130137"/>
+									<rdf:li rdf:resource="https://tlhlxojs02-prd.flvc.org/troplep/article/view/130138"/>
+									<rdf:li rdf:resource="https://tlhlxojs02-prd.flvc.org/troplep/article/view/130139"/>
+									<rdf:li rdf:resource="https://tlhlxojs02-prd.flvc.org/troplep/article/view/130140"/>
+										</rdf:Seq>
+		</items>
+	</channel>
+
+					<item rdf:about="https://tlhlxojs02-prd.flvc.org/troplep/article/view/130134">
+
+						<title>Description of a new species of Yphthimoides Forster, 1964 from Peru (Lepidoptera: Nymphalidae: Satyrinae)</title>
+			<link>https://tlhlxojs02-prd.flvc.org/troplep/article/view/130134</link>
+
+										<description>&lt;p&gt;We here describe and name a new nymphalid butterfly species in the subtribe Euptychiina, &lt;em&gt;Yphthimoides kinyoni&lt;/em&gt; Lamas, Nakahara &amp;amp; Barbosa, &lt;strong&gt;n. sp.&lt;/strong&gt;, based on an integrative taxonomic approach. &lt;em&gt;Yphthimoides kinyoni&lt;/em&gt; &lt;strong&gt;n. sp.&lt;/strong&gt; is currently known solely from the Cosñipata valley (Cuzco, Peru) where it is apparently confined to a narrow elevational zone. We inferred the most comprehensive molecular phylogeny for &lt;em&gt;Yphthimoides&lt;/em&gt; utilizing a maximum likelihood approach to assess its systematic placement and to support our taxonomy, and further highlight the importance and benefits of a multi-collaborative effort in unravelling the systematics of a problematic group.&lt;/p&gt;</description>
+			
+							<dc:creator>Shinichi Nakahara</dc:creator>
+							<dc:creator>Eduardo P. Barbosa</dc:creator>
+							<dc:creator>Ichiro Nakamura</dc:creator>
+							<dc:creator>Gerardo Lamas</dc:creator>
+							<dc:creator>André V. L. Freitas</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Shinichi Nakahara, Eduardo P. Barbosa, Ichiro Nakamura, Gerardo Lamas, André V. L. Freitas
+				http://creativecommons.org/licenses/by-nc/4.0
+			</dc:rights>
+							<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc/4.0" />
+			
+							<dc:date>2021-12-17</dc:date>
+				<prism:publicationDate>2021-12-17</prism:publicationDate>
+									
+												<prism:startingPage>138</prism:startingPage>
+													<prism:endingPage>144</prism:endingPage>
+							
+					</item>
+					<item rdf:about="https://tlhlxojs02-prd.flvc.org/troplep/article/view/130135">
+
+						<title>Description of an enigmatic new species of Chloreuptychia Forster, 1964 from Panama (Lepidoptera: Nymphalidae: Satyrinae)</title>
+			<link>https://tlhlxojs02-prd.flvc.org/troplep/article/view/130135</link>
+
+										<description>&lt;p&gt;We here describe a new satyrine species in the genus &lt;em&gt;Chloreuptychia&lt;/em&gt; Forster, 1964, &lt;em&gt;C. gordonsmalli&lt;/em&gt; Thurman, MacDonald &amp;amp; Nakahara, &lt;strong&gt;n. sp.&lt;/strong&gt;, based on four historical specimens all originating from central Panama. Despite the lack of genetic data for this new taxon and the polyphyletic nature of &lt;em&gt;Chloreuptychia&lt;/em&gt;, some genitalic characters suggest that this new species might be a member of true &lt;em&gt;Chloreuptychia&lt;/em&gt;, and if so would represent the first known species of the genus outside of the Amazon basin. We provide illustrations of the adults and genitalia, as well as images of the habitat of the type locality visited by the pioneering and imaginative lepidopterist, Gordon B. Small, who collected the entire type series of &lt;em&gt;C. gordonsmalli&lt;/em&gt; &lt;strong&gt;n. sp.&lt;/strong&gt; about 45-50 years ago. &lt;em&gt;Chloreuptychia gordonsmalli&lt;/em&gt; &lt;strong&gt;n. sp.&lt;/strong&gt; has not been observed subsequently, despite extensive field work in Panama by a number of butterfly researchers.&lt;/p&gt;</description>
+			
+							<dc:creator>Shinichi Nakahara</dc:creator>
+							<dc:creator>Keith R. Willmott</dc:creator>
+							<dc:creator>John R. MacDonald</dc:creator>
+							<dc:creator>Albert Thurman</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				http://creativecommons.org/licenses/by-nc/4.0
+			</dc:rights>
+							<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc/4.0" />
+			
+							<dc:date>2021-12-17</dc:date>
+				<prism:publicationDate>2021-12-17</prism:publicationDate>
+									
+												<prism:startingPage>145</prism:startingPage>
+													<prism:endingPage>150</prism:endingPage>
+							
+					</item>
+					<item rdf:about="https://tlhlxojs02-prd.flvc.org/troplep/article/view/130137">
+
+						<title>Life history, taxonomy and ecology of the Faithful Beauty Moth Composia fidelissima vagrans (Lepidoptera, Erebidae, Pericopina) in the Pine Rocklands of South Florida</title>
+			<link>https://tlhlxojs02-prd.flvc.org/troplep/article/view/130137</link>
+
+										<description>&lt;p&gt;We describe the life history of the faithful beauty moth, &lt;em&gt;Composia fidelissima vagrans&lt;/em&gt; Bates (Erebidae: Arctiini), based on individuals from the Richmond pine rocklands, Miami, Florida (Miami-Dade County, USA). We describe the life stages descriptively and quantitatively, and characterize larval development, growth, and duration based on a series of growth trials in an ambient laboratory. Using specimens in natural history collections, we provide comparative images of all three species in the genus &lt;em&gt;Composia&lt;/em&gt; Hübner for the first time, which may help with systematic efforts to delineate species and subspecies in the genus. In addition, we provide images of the egg, larval instars and pupa of &lt;em&gt;Composia&lt;/em&gt; &lt;em&gt;fidelissima vagrans&lt;/em&gt;. We also provide comments on the ecology of the species, including seasonal patterns of appearance. Finally, while &lt;em&gt;Echites umbellatus&lt;/em&gt; Jacquin (Apocynaceae) has been described previously as the only native host plant, we report four additional genera within the Apocynaceae.&lt;/p&gt;</description>
+			
+							<dc:creator>Tiffany Moore</dc:creator>
+							<dc:creator>Frank Ridgley</dc:creator>
+							<dc:creator>Steven Whitfield</dc:creator>
+							<dc:creator>Summer Sayre</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				http://creativecommons.org/licenses/by-nc/4.0
+			</dc:rights>
+							<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc/4.0" />
+			
+							<dc:date>2021-12-17</dc:date>
+				<prism:publicationDate>2021-12-17</prism:publicationDate>
+									
+												<prism:startingPage>151</prism:startingPage>
+													<prism:endingPage>157</prism:endingPage>
+							
+					</item>
+					<item rdf:about="https://tlhlxojs02-prd.flvc.org/troplep/article/view/130138">
+
+						<title>Immature stages and new host plant record for Leucochimona hyphea (Cramer, 1776) (Lepidoptera: Riodinidae: Riodininae) in the southern Peruvian Amazon</title>
+			<link>https://tlhlxojs02-prd.flvc.org/troplep/article/view/130138</link>
+
+										<description>&lt;p&gt;We report for the first time the complete immature stages of the Neotropical riodinid butterfly &lt;em&gt;Leucochimona hyphea&lt;/em&gt; (Cramer, 1776), based on individuals reared in Madre de Dios, Peru. We illustrate all five larval instars, in addition to the pupa and the egg, and provide the duration of each stage. We also provide evidence for the presence of ant organs on A8 of the larvae and pupa of &lt;em&gt;L. hyphea&lt;/em&gt;, and report its natural host plant at the study site, &lt;em&gt;Spermacoce latifolia&lt;/em&gt; Aubl. (Rubioideae: Rubiaceae), which represents a new host record for this species.&lt;/p&gt; &lt;p&gt;Reportamos por primera vez todos los estadios inmaduros de la mariposa riodínida neotropical &lt;em&gt;Leucochimona hyphea&lt;/em&gt; (Cramer, 1776), basados en individuos criados en la estación de campo Finca Las Piedras en Madre de Dios, Perú. Se ilustran los cinco estadios larvarios, además de la pupa y el huevo, y se proporciona la duración de cada etapa. También reportamos la presencia de órganos asociados a hormigas en el A8 de las larvas y pupa de&lt;em&gt; L. hyphea&lt;/em&gt;, así como su planta hospedera nativa en Finca Las Piedras, &lt;em&gt;Spermacoce latifolia&lt;/em&gt; Aubl. (Rubioideae: Rubiaceae), el cual constituye un nuevo registro de planta hospedera para esta especie.&lt;/p&gt;</description>
+			
+							<dc:creator>Rodrigo Ccahuana</dc:creator>
+							<dc:creator>Thalia Corahua-Espinoza</dc:creator>
+							<dc:creator>Shinichi Nakahara</dc:creator>
+							<dc:creator>Rafael Tejeira</dc:creator>
+							<dc:creator>Maryzender Rodríguez-Melgarejo</dc:creator>
+							<dc:creator>Geoffrey Gallice</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				http://creativecommons.org/licenses/by-nc/4.0
+			</dc:rights>
+							<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc/4.0" />
+			
+							<dc:date>2021-12-17</dc:date>
+				<prism:publicationDate>2021-12-17</prism:publicationDate>
+									
+												<prism:startingPage>158</prism:startingPage>
+													<prism:endingPage>165</prism:endingPage>
+							
+					</item>
+					<item rdf:about="https://tlhlxojs02-prd.flvc.org/troplep/article/view/130139">
+
+						<title>Moth diversity (Lepidoptera) of Shendurney and Ponmudi in Agastyamalai Biosphere Reserve, Kerala, India: an update</title>
+			<link>https://tlhlxojs02-prd.flvc.org/troplep/article/view/130139</link>
+
+										<description>&lt;p&gt;In 2018, we published a checklist of 282 moths from Shendurney Wildlife Sanctuary and Ponmudi, located in Agastyamalai Biosphere Reserve, Kerala, India (Sondhi et al., 2018). In the 2018 paper, 244 moth species were identified to species level and another 38 to generic level, while 130-140 specimens remained unidentified. In this paper, we identify and add another 79 species to the checklist of Shendurney and Ponmudi. Of these new additions, &lt;em&gt;Xanthanomis vomeroi&lt;/em&gt; Holloway &amp;amp; Zilli, 2005, is a new genus and species, hitherto unreported from mainland India.&lt;em&gt; Adrapsa geometroides&lt;/em&gt; (Walker, [1858]) and &lt;em&gt;Pterocyclophora pictimargo&lt;/em&gt; Hampson, 1893 are recorded from India for the first time. We confirm the validity of a record of &lt;em&gt;Biston strigaria&lt;/em&gt; (Moore, 1879), by comparing male genitalia with &lt;em&gt;Biston suppressaria&lt;/em&gt; (Guenée, [1858]). Updates in taxonomy and corrections in identifications of the 2018 paper are also listed. An updated checklist of moths of Shendurney and Ponmudi, listing 353 species, along with museum specimen information is provided as supplementary data.&lt;/p&gt;</description>
+			
+							<dc:creator>Sanjay Sondhi</dc:creator>
+							<dc:creator>Yash Sondhi</dc:creator>
+							<dc:creator>Tarun Karmakar</dc:creator>
+							<dc:creator>Krushnamegh Kunte</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				http://creativecommons.org/licenses/by-nc/4.0
+			</dc:rights>
+							<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc/4.0" />
+			
+							<dc:date>2021-12-17</dc:date>
+				<prism:publicationDate>2021-12-17</prism:publicationDate>
+									
+												<prism:startingPage>166</prism:startingPage>
+													<prism:endingPage>178</prism:endingPage>
+							
+					</item>
+					<item rdf:about="https://tlhlxojs02-prd.flvc.org/troplep/article/view/130140">
+
+						<title>Complete immature stages of the euptychiine butterfly Taygetis cleopatra (C. Felder &amp; R. Felder, 1862) (Lepidoptera: Nymphalidae: Satyrinae) in southeastern Peru</title>
+			<link>https://tlhlxojs02-prd.flvc.org/troplep/article/view/130140</link>
+
+										<description>&lt;p&gt;Here we document the complete life cycle of the Neotropical nymphalid butterfly &lt;em&gt;Taygetis cleopatra&lt;/em&gt; (C. Felder &amp;amp; R. Felder, 1862) based on two individuals collected and reared in Madre de Dios, Peru, including the morphology and duration of each life stage. We also report this species’ natural hostplant at the study site, a species of herbaceous bamboo, &lt;em&gt;Olyra latifolia&lt;/em&gt; L. (Poaceae: Bambusoideae: Olyreae). Our study confirms existing information regarding the partial life history of this species in Ecuador, as well as its use of &lt;em&gt;O. latifolia&lt;/em&gt; as a hostplant in southeastern Peru, while adding new information regarding its immature biology.&lt;/p&gt; &lt;p&gt;Documentamos aquí el ciclo de vida completo de la mariposa ninfálida Neotropical &lt;em&gt;Taygetis cleopatra&lt;/em&gt; (C. Felder &amp;amp; R. Felder, 1862) con base en dos individuos recolectados y criados en Madre de Dios, Perú, incluyendo la morfología y duración de cada etapa del ciclo de vida. También se reporta su planta hospedera en el sitio de estudio, una especie de bambú herbáceo, &lt;em&gt;Olyra latifolia&lt;/em&gt; L. (Poaceae: Bambusoideae: Olyreae). Nuestro estudio confirma la información existente sobre el ciclo de vida parcial de esta especie en Ecuador, así como el uso de &lt;em&gt;O. latifolia&lt;/em&gt; como planta hospedera en el sureste de Perú, y se agrega nueva información sobre la biología de los estadios inmaduros de &lt;em&gt;T. cleopatra&lt;/em&gt;.&lt;/p&gt;</description>
+			
+							<dc:creator>Thalia Hurtado</dc:creator>
+							<dc:creator>Shinichi Nakahara</dc:creator>
+							<dc:creator>Maryzender Rodríguez-Melgarejo</dc:creator>
+							<dc:creator>Rafael Tejeira</dc:creator>
+							<dc:creator>Joseph See</dc:creator>
+							<dc:creator>Rodrigo Ccahuana</dc:creator>
+							<dc:creator>Geoffrey Gallice</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				http://creativecommons.org/licenses/by-nc/4.0
+			</dc:rights>
+							<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc/4.0" />
+			
+							<dc:date>2021-12-17</dc:date>
+				<prism:publicationDate>2021-12-17</prism:publicationDate>
+									
+												<prism:startingPage>179</prism:startingPage>
+													<prism:endingPage>185</prism:endingPage>
+							
+					</item>
+	</rdf:RDF>

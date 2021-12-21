@@ -247,7 +247,14 @@
 		htmlUrl="https://onlinelibrary.wiley.com/journal/19968175" 
 		xmlUrl="https://onlinelibrary.wiley.com/feed/19968175/most-recent"/>
 
-
+	<outline 
+		text="Tropical Lepidoptera Research" 
+		title="Tropical Lepidoptera Research" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://tlhlxojs02-prd.flvc.org/troplep/index" 
+		xmlUrl="https://tlhlxojs02-prd.flvc.org/troplep/gateway/plugin/WebFeedGatewayPlugin/rss"/>
 
 
 <!-- Z -->		
@@ -299,6 +306,8 @@
 		
 <!-- Z -->		
 
+	<!-- We will treat ZooBank separately as the RSS is limited -->
+	
 	<!--
 		<outline 
 			text="Latest ZooBank Registration Activity" 

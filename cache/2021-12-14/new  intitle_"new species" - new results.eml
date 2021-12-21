@@ -1,0 +1,631 @@
+Delivered-To: rdmpage@gmail.com
+Received: by 2002:a05:6520:3348:b0:150:7385:796a with SMTP id r8csp4727993lkc;
+        Mon, 20 Dec 2021 16:04:05 -0800 (PST)
+X-Received: by 2002:ac5:ca0c:: with SMTP id c12mr281628vkm.34.1640045045503;
+        Mon, 20 Dec 2021 16:04:05 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1640045045; cv=none;
+        d=google.com; s=arc-20160816;
+        b=NjQfma+rAQVv18unYg2NqzjPOoPZ4QUUwVjO2b6E6OhGXz+n5cIB1P9YlfsN3bTE7l
+         e1mvaLQk+FcoZY8hElLi96BhbOhgKCHT6PNvDD8HUlRJn0a79MOOycWWG8GQMKPrZ5bC
+         Odg5yCjTOQDpW8qY+2IwiT29+pMDQ0sy+r88VhNaTZaviWGlOMEOmWKemXrZ8Kxn3rkA
+         9OPoBgpbNNlv69AUiXi/flOQXqCASeAde8lLnDRkeJ3cnh+IrvbCiM01RYVE9vJFD5BN
+         JuMpmU2BtK8+XT3wpwYHav4g4X+a8ReoG4z1YBHuioJLHsdmRX2Jd++3K285K9g6Y810
+         qB9w==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=content-transfer-encoding:to:from:subject:message-id:date
+         :mime-version:dkim-signature;
+        bh=p7wWuHMXTP52HBNyhK7+/ufwSOaMMHDeycN6C5ZC8X0=;
+        b=hi5VZoM6HuzfL3NlPnGxCtkdXhMV+hwBPb4lTUokppqDdOM1qT+QIOSdPfQvCgvlSg
+         kB3xouTy40ohXEtfgPS028UG/1djY49gT8iPFynDTnDMZYDZBunFc8VDlUOVf5FbopDc
+         4tcgavi+l6JvK7Pe7T4lxnBCAPhe5hGTWBd28p5on9gE2dCSepwc8BnvKk1+NPhcztAp
+         Qol2sr0InGQI+CLbReln2X4VFRiA1SfHy7+pcvzKgOnTRlvsEGluhROAjBx6fIBry6nD
+         g1HsTuYH6MUWiRXBIrYv51/Ekrp8mVLbNJnWfEEqZohpWTCK8OjW2b58Y6GPPcsbN3a7
+         Z+uQ==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@google.com header.s=20210112 header.b=RU6HWucX;
+       spf=pass (google.com: domain of 39rnbyrukb0iwglspevepivxw-rsvitp2ksskpi.gsqvhqtekikqemp.gsq@scholar-alerts.bounces.google.com designates 209.85.220.73 as permitted sender) smtp.mailfrom=39RnBYRUKB0Iwglspevepivxw-rsvitp2ksskpi.gsqvhqtekikqemp.gsq@scholar-alerts.bounces.google.com;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=google.com
+Return-Path: <39RnBYRUKB0Iwglspevepivxw-rsvitp2ksskpi.gsqvhqtekikqemp.gsq@scholar-alerts.bounces.google.com>
+Received: from mail-sor-f73.google.com (mail-sor-f73.google.com. [209.85.220.73])
+        by mx.google.com with SMTPS id g7sor4916055vkb.59.2021.12.20.16.04.05
+        for <rdmpage@gmail.com>
+        (Google Transport Security);
+        Mon, 20 Dec 2021 16:04:05 -0800 (PST)
+Received-SPF: pass (google.com: domain of 39rnbyrukb0iwglspevepivxw-rsvitp2ksskpi.gsqvhqtekikqemp.gsq@scholar-alerts.bounces.google.com designates 209.85.220.73 as permitted sender) client-ip=209.85.220.73;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@google.com header.s=20210112 header.b=RU6HWucX;
+       spf=pass (google.com: domain of 39rnbyrukb0iwglspevepivxw-rsvitp2ksskpi.gsqvhqtekikqemp.gsq@scholar-alerts.bounces.google.com designates 209.85.220.73 as permitted sender) smtp.mailfrom=39RnBYRUKB0Iwglspevepivxw-rsvitp2ksskpi.gsqvhqtekikqemp.gsq@scholar-alerts.bounces.google.com;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=google.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20210112;
+        h=mime-version:date:message-id:subject:from:to
+         :content-transfer-encoding;
+        bh=p7wWuHMXTP52HBNyhK7+/ufwSOaMMHDeycN6C5ZC8X0=;
+        b=RU6HWucXit2bjKV3Qjce2ObKCnhXllYvGAoRcJ2WEU/zsH9h5vfBErjElEXqg4p6tR
+         rRtZgP7V4AOxmFk82nu1UQyKd7PBrca4kJ6w7fKF8MzI5c8K+98IEZ1ZC5BS6aE+RRIC
+         DQXacivFMGLkQSHNz0JLmcRVEIB3G4nU7lVE65l5+zcyGcy+nkBOSr/ugFERVxV9g/UO
+         kz+Q7+xq4qQ4W4tc+SPrYP2oH42rk/FRCJFla+iZvpqpuIWJn0CUksvsH4/R/wNdYP41
+         +kUhdomM1F6B9GmLVjGNBUde3tJXtTvqdGcPsXTNpsUzd/7BIlkaHli4dWI1L6faSjFc
+         SGJA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:mime-version:date:message-id:subject:from:to
+         :content-transfer-encoding;
+        bh=p7wWuHMXTP52HBNyhK7+/ufwSOaMMHDeycN6C5ZC8X0=;
+        b=PEhjqJ2ZnXl5oUiHVnI5pYmC28tdWq9aE0z/iNTg7cGNLiSHuVUbF2HAfAeAOpScuE
+         4XnV3VYK58F4oRRadf21Wr9AubdTBXgfOAkQ/x38VcAW0QUDjQVVGZ1Ygn/jnByDtYOS
+         1MnCogtm+gMgVCKdBFpm5aS+NPUCAs8HWQB0ix5ep0RHi6oTq78i7+7Tq334MHq9Xdus
+         R7hL11wyunNhQ1MssqPLf8VzUmn26PX/Kyapsm3oJaJl32XmJjia7DpY4sftX0xMkedw
+         z0Iezht6pOg7CFjB8IxiV2ILObAtrQ2EMuN9wyW7aF+Mh4uRqfiJh9+xx9v971QaGIjw
+         bR5w==
+X-Gm-Message-State: AOAM531vfapWAcMwU47iE5q3soODcdcfvRWmEXCw7yJOebho+jkUHHIW
+	wiChRB3Ev8/tddi4bxeDKQ==
+X-Google-Smtp-Source: ABdhPJzuyTW6GlbEQWifv/CZ3Zxvy2/NY3Weq9gsYI9G2ouwRV3gGTNYoqNZ7Qdxvm95BYpl72bvNt1AfZA7aQ==
+MIME-Version: 1.0
+X-Received: by 2002:a1f:7348:: with SMTP id o69mr302020vkc.2.1640045045109;
+ Mon, 20 Dec 2021 16:04:05 -0800 (PST)
+Date: Mon, 20 Dec 2021 16:04:05 -0800
+Message-ID: <00000000000054523105d39cbeb2@google.com>
+Subject: new  intitle:"new species" - new results
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: rdmpage@gmail.com
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html><html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:o=3D"urn:=
+schemas-microsoft-com:office:office"><head><!--[if gte mso 9]><xml><o:Offic=
+eDocumentSettings><o:AllowPNG/><o:PixelsPerInch>96</o:PixelsPerInch></o:Off=
+iceDocumentSettings></xml><![endif]--><style>body{background-color:#fff}.gs=
+e_alrt_title{text-decoration:none}.gse_alrt_title:hover{text-decoration:und=
+erline} @media screen and (max-width: 599px) {.gse_alrt_sni br{display:none=
+;}}</style></head><body><!--[if gte mso 9]><table cellpadding=3D"0" cellspa=
+cing=3D"0" border=3D"0"><tr><td style=3D"width:600px"><![endif]--><div styl=
+e=3D"font-family:arial,sans-serif;font-size:13px;line-height:16px;color:#22=
+2;width:100%;max-width:600px"><h3 style=3D"font-weight:normal;margin:0;font=
+-size:17px;line-height:20px;"><span style=3D"font-size:11px;font-weight:bol=
+d;color:#1a0dab;vertical-align:2px">[PDF]</span> <a href=3D"https://scholar=
+.google.ca/scholar_url?url=3Dhttps://mycokeys.pensoft.net/article/75309/dow=
+nload/pdf/&amp;hl=3Den&amp;sa=3DX&amp;d=3D12518667908403956808&amp;ei=3D9Bn=
+BYe-FOo-Ty9YPrsKZaA&amp;scisig=3DAAGBfm3cYYWf01hOLi2z6AjLA8vwJRwrKw&amp;oi=
+=3Dscholaralrt&amp;hist=3D4Z5WABAAAAAJ:10723257300403118941:AAGBfm1inOhnN8a=
+L2qOe-0quNlsVtMjmhA&amp;html=3D&amp;folt=3Dkw" class=3D"gse_alrt_title" sty=
+le=3D"font-size:17px;color:#1a0dab">=EF=BB=BF Two <b>new species </b>of Pha=
+llus (Phallaceae) with a white indusium from China</a></h3><div style=3D"co=
+lor:#006621">T Li, WQ Deng, B Song, M Zhang, M Wang, TH Li=C2=A0- MycoKeys,=
+ 2021</div><div class=3D"gse_alrt_sni">Two <b>new </b>Phallus species, P. c=
+remeo-ochraceus and P. rigidiindusiatus were <br>discovered in southwestern=
+ and southern China, respectively. Phallus cremeo-<br>ochraceus is morpholo=
+gically characterized by its cream to ochraceous receptacle=C2=A0=E2=80=A6<=
+/div><div style=3D"width:auto"><table cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0"><tbody><tr><td style=3D"padding-right:4px;mso-padding-alt:4px 1=
+6px 0 0;"><a href=3D"https://scholar.google.ca/citations?hl=3Den&amp;update=
+_op=3Demail_library_add&amp;info=3DSAyAzSI-u60J&amp;citsig=3DAMD79ooAAAAAY6=
+JNdSKjDXX2UhtQtak96fZ5Cjb9rI_Q" style=3D"text-decoration:none;display:inlin=
+e-block;padding:4px 8px 4px 0;mso-padding-alt:0;"><img alt=3D"Save" src=3D"=
+https://scholar.google.ca/intl/en/scholar/images/1x/save-32.png" border=3D"=
+0" height=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td><td sty=
+le=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://s=
+cholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dtw&amp=
+;url=3Dhttps://mycokeys.pensoft.net/article/75309/download/pdf/&amp;rt=3D%E=
+F%BB%BF+Two+new+species+of+Phallus+(Phallaceae)+with+a+white+indusium+from+=
+China&amp;scisig=3DAAGBfm0nMJnpLHAm46ciMcgHWFm-vs1GEw" style=3D"text-decora=
+tion:none;display:inline-block;padding:4px 8px;mso-padding-alt:0;"><img alt=
+=3D"Twitter" src=3D"https://scholar.google.ca/intl/en/scholar/images/1x/tw-=
+32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:top=
+"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a=
+ href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholaral=
+rt&amp;ss=3Din&amp;url=3Dhttps://mycokeys.pensoft.net/article/75309/downloa=
+d/pdf/&amp;rt=3D%EF%BB%BF+Two+new+species+of+Phallus+(Phallaceae)+with+a+wh=
+ite+indusium+from+China&amp;scisig=3DAAGBfm0nMJnpLHAm46ciMcgHWFm-vs1GEw" st=
+yle=3D"text-decoration:none;display:inline-block;padding:4px 8px;mso-paddin=
+g-alt:0;"><img alt=3D"LinkedIn" src=3D"https://scholar.google.ca/intl/en/sc=
+holar/images/1x/in-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D=
+"vertical-align:top"></a></td><td style=3D"padding-right:4px;mso-padding-al=
+t:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den=
+&amp;oi=3Dscholaralrt&amp;ss=3Dfb&amp;url=3Dhttps://mycokeys.pensoft.net/ar=
+ticle/75309/download/pdf/&amp;rt=3D%EF%BB%BF+Two+new+species+of+Phallus+(Ph=
+allaceae)+with+a+white+indusium+from+China&amp;scisig=3DAAGBfm0nMJnpLHAm46c=
+iMcgHWFm-vs1GEw" style=3D"text-decoration:none;display:inline-block;padding=
+:4px 8px;mso-padding-alt:0;"><img alt=3D"Facebook" src=3D"https://scholar.g=
+oogle.ca/intl/en/scholar/images/1x/fb-32.png" border=3D"0" height=3D"16" wi=
+dth=3D"16" style=3D"vertical-align:top"></a></td></tr></tbody></table></div=
+><br><h3 style=3D"font-weight:normal;margin:0;font-size:17px;line-height:20=
+px;"><a href=3D"https://scholar.google.ca/scholar_url?url=3Dhttps://www.sci=
+encedirect.com/science/article/pii/S0967063721002211&amp;hl=3Den&amp;sa=3DX=
+&amp;d=3D14514936373453539566&amp;ei=3D9BnBYe-FOo-Ty9YPrsKZaA&amp;scisig=3D=
+AAGBfm1BolWmxazvKGDlniaDTZ5ZtdNIeA&amp;oi=3Dscholaralrt&amp;hist=3D4Z5WABAA=
+AAAJ:10723257300403118941:AAGBfm1inOhnN8aL2qOe-0quNlsVtMjmhA&amp;html=3D&am=
+p;folt=3Dkw" class=3D"gse_alrt_title" style=3D"font-size:17px;color:#1a0dab=
+">A <b>new species </b>of the rare deep-sea genus Sciadonus Garman, 1899 (T=
+eleostei, Bythitidae) from off Brazil, with a discussion of the evolution o=
+f troglomorphism and=C2=A0=E2=80=A6</a></h3><div style=3D"color:#006621">MR=
+S de Melo, AA Gomes, PR M=C3=B8ller, JG Nielsen=C2=A0- Deep Sea Research Pa=
+rt I=C2=A0=E2=80=A6, 2021</div><div class=3D"gse_alrt_sni">A <b>new species=
+ </b>of the rare, deep-sea genus Sciadonus Garman, 1899 (Bythitidae) is <br=
+>described based on two specimens obtained by the Brazilian R/V Alpha Cruci=
+s on <br>the continental slope off S=C3=A3o Paulo State, Southeastern Brazi=
+l, western South=C2=A0=E2=80=A6</div><div style=3D"width:auto"><table cellp=
+adding=3D"0" cellspacing=3D"0" border=3D"0"><tbody><tr><td style=3D"padding=
+-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google=
+.ca/citations?hl=3Den&amp;update_op=3Demail_library_add&amp;info=3D7kgYbbpp=
+b8kJ&amp;citsig=3DAMD79ooAAAAAY6JNdZm1oZBTCguBSypqnuSmraxoQdnm" style=3D"te=
+xt-decoration:none;display:inline-block;padding:4px 8px 4px 0;mso-padding-a=
+lt:0;"><img alt=3D"Save" src=3D"https://scholar.google.ca/intl/en/scholar/i=
+mages/1x/save-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vert=
+ical-align:top"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px=
+ 16px 0 0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;=
+oi=3Dscholaralrt&amp;ss=3Dtw&amp;url=3Dhttps://www.sciencedirect.com/scienc=
+e/article/pii/S0967063721002211&amp;rt=3DA+new+species+of+the+rare+deep-sea=
++genus+Sciadonus+Garman,+1899+(Teleostei,+Bythitidae)+from+off+Brazil,+with=
++a+discussion+of+the+evolution+of+troglomorphism+and+miniaturization+in+the=
++aphyonid+clade&amp;scisig=3DAAGBfm2BMyeFpKuK46_zYDOAM6TuFwmK3g" style=3D"t=
+ext-decoration:none;display:inline-block;padding:4px 8px;mso-padding-alt:0;=
+"><img alt=3D"Twitter" src=3D"https://scholar.google.ca/intl/en/scholar/ima=
+ges/1x/tw-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical=
+-align:top"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16p=
+x 0 0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=
+=3Dscholaralrt&amp;ss=3Din&amp;url=3Dhttps://www.sciencedirect.com/science/=
+article/pii/S0967063721002211&amp;rt=3DA+new+species+of+the+rare+deep-sea+g=
+enus+Sciadonus+Garman,+1899+(Teleostei,+Bythitidae)+from+off+Brazil,+with+a=
++discussion+of+the+evolution+of+troglomorphism+and+miniaturization+in+the+a=
+phyonid+clade&amp;scisig=3DAAGBfm2BMyeFpKuK46_zYDOAM6TuFwmK3g" style=3D"tex=
+t-decoration:none;display:inline-block;padding:4px 8px;mso-padding-alt:0;">=
+<img alt=3D"LinkedIn" src=3D"https://scholar.google.ca/intl/en/scholar/imag=
+es/1x/in-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-=
+align:top"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px=
+ 0 0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3D=
+scholaralrt&amp;ss=3Dfb&amp;url=3Dhttps://www.sciencedirect.com/science/art=
+icle/pii/S0967063721002211&amp;rt=3DA+new+species+of+the+rare+deep-sea+genu=
+s+Sciadonus+Garman,+1899+(Teleostei,+Bythitidae)+from+off+Brazil,+with+a+di=
+scussion+of+the+evolution+of+troglomorphism+and+miniaturization+in+the+aphy=
+onid+clade&amp;scisig=3DAAGBfm2BMyeFpKuK46_zYDOAM6TuFwmK3g" style=3D"text-d=
+ecoration:none;display:inline-block;padding:4px 8px;mso-padding-alt:0;"><im=
+g alt=3D"Facebook" src=3D"https://scholar.google.ca/intl/en/scholar/images/=
+1x/fb-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-ali=
+gn:top"></a></td></tr></tbody></table></div><br><h3 style=3D"font-weight:no=
+rmal;margin:0;font-size:17px;line-height:20px;"><span style=3D"font-size:11=
+px;font-weight:bold;color:#1a0dab;vertical-align:2px">[HTML]</span> <a href=
+=3D"https://scholar.google.ca/scholar_url?url=3Dhttps://www.scielo.br/j/ni/=
+a/ypZcYFCpg67YGz75f9HPyFn/abstract/%3Flang%3Den&amp;hl=3Den&amp;sa=3DX&amp;=
+d=3D12846323613280278286&amp;ei=3D9BnBYe-FOo-Ty9YPrsKZaA&amp;scisig=3DAAGBf=
+m3xOPIOpNUJIqmsHPUQvWKjqu5UTw&amp;oi=3Dscholaralrt&amp;hist=3D4Z5WABAAAAAJ:=
+10723257300403118941:AAGBfm1inOhnN8aL2qOe-0quNlsVtMjmhA&amp;html=3D&amp;fol=
+t=3Dkw" class=3D"gse_alrt_title" style=3D"font-size:17px;color:#1a0dab">A <=
+b>new species </b>of Satanoperca (Teleostei: Cichlidae) from the Rio Tocant=
+ins basin, Brazil</a></h3><div style=3D"color:#006621">RR Ota, GC Depr=C3=
+=A1, S Kullander, WJ Gra=C3=A7a=E2=80=A6=C2=A0- Neotropical Ichthyology, 20=
+21</div><div class=3D"gse_alrt_sni">A <b>new species </b>of Satanoperca is =
+described from the Rio Araguaia, Rio Tocantins <br>basin, Brazil, and non-n=
+ative records are available in the upper Rio Paran=C3=A1 basin. It <br>diff=
+ers from congeneric species by color pattern characters, such as head and f=
+lank=C2=A0=E2=80=A6</div><div style=3D"width:auto"><table cellpadding=3D"0"=
+ cellspacing=3D"0" border=3D"0"><tbody><tr><td style=3D"padding-right:4px;m=
+so-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/citation=
+s?hl=3Den&amp;update_op=3Demail_library_add&amp;info=3DDpdId0NPR7IJ&amp;cit=
+sig=3DAMD79ooAAAAAY6JNdYkAivuTsg-Bx_VkT_x9ZmDUFYXv" style=3D"text-decoratio=
+n:none;display:inline-block;padding:4px 8px 4px 0;mso-padding-alt:0;"><img =
+alt=3D"Save" src=3D"https://scholar.google.ca/intl/en/scholar/images/1x/sav=
+e-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:t=
+op"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;">=
+<a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholar=
+alrt&amp;ss=3Dtw&amp;url=3Dhttps://www.scielo.br/j/ni/a/ypZcYFCpg67YGz75f9H=
+PyFn/abstract/%3Flang%3Den&amp;rt=3DA+new+species+of+Satanoperca+(Teleostei=
+:+Cichlidae)+from+the+Rio+Tocantins+basin,+Brazil&amp;scisig=3DAAGBfm3XHf8j=
+PDPczFQLofKdVHEcdznYug" style=3D"text-decoration:none;display:inline-block;=
+padding:4px 8px;mso-padding-alt:0;"><img alt=3D"Twitter" src=3D"https://sch=
+olar.google.ca/intl/en/scholar/images/1x/tw-32.png" border=3D"0" height=3D"=
+16" width=3D"16" style=3D"vertical-align:top"></a></td><td style=3D"padding=
+-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google=
+.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Din&amp;url=3Dhttps:=
+//www.scielo.br/j/ni/a/ypZcYFCpg67YGz75f9HPyFn/abstract/%3Flang%3Den&amp;rt=
+=3DA+new+species+of+Satanoperca+(Teleostei:+Cichlidae)+from+the+Rio+Tocanti=
+ns+basin,+Brazil&amp;scisig=3DAAGBfm3XHf8jPDPczFQLofKdVHEcdznYug" style=3D"=
+text-decoration:none;display:inline-block;padding:4px 8px;mso-padding-alt:0=
+;"><img alt=3D"LinkedIn" src=3D"https://scholar.google.ca/intl/en/scholar/i=
+mages/1x/in-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertic=
+al-align:top"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 1=
+6px 0 0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=
+=3Dscholaralrt&amp;ss=3Dfb&amp;url=3Dhttps://www.scielo.br/j/ni/a/ypZcYFCpg=
+67YGz75f9HPyFn/abstract/%3Flang%3Den&amp;rt=3DA+new+species+of+Satanoperca+=
+(Teleostei:+Cichlidae)+from+the+Rio+Tocantins+basin,+Brazil&amp;scisig=3DAA=
+GBfm3XHf8jPDPczFQLofKdVHEcdznYug" style=3D"text-decoration:none;display:inl=
+ine-block;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"Facebook" src=3D"=
+https://scholar.google.ca/intl/en/scholar/images/1x/fb-32.png" border=3D"0"=
+ height=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td></tr></tb=
+ody></table></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:17=
+px;line-height:20px;"><a href=3D"https://scholar.google.ca/scholar_url?url=
+=3Dhttps://academic.oup.com/zoolinnean/advance-article-abstract/doi/10.1093=
+/zoolinnean/zlab093/6463679&amp;hl=3Den&amp;sa=3DX&amp;d=3D1636518058096788=
+5510&amp;ei=3D9BnBYe-FOo-Ty9YPrsKZaA&amp;scisig=3DAAGBfm0HzUTWuZ_dGjAWKED9w=
+1wZfZd72w&amp;oi=3Dscholaralrt&amp;hist=3D4Z5WABAAAAAJ:10723257300403118941=
+:AAGBfm1inOhnN8aL2qOe-0quNlsVtMjmhA&amp;html=3D&amp;folt=3Dkw" class=3D"gse=
+_alrt_title" style=3D"font-size:17px;color:#1a0dab">=E2=80=A6=C2=A0the exis=
+tence of a species complex in the Atlanto-Mediterranean transition zone, re=
+sulting in the resurrection of D. curvimanus and the description of a <b>ne=
+w species</b></a></h3><div style=3D"color:#006621">B Alm=C3=B3n, JA Cuesta,=
+ CD Schubart, L Armenia=E2=80=A6=C2=A0- Zoological Journal of the=C2=A0=E2=
+=80=A6, 2021</div><div class=3D"gse_alrt_sni">Examination of material from =
+the coasts of the Iberian Peninsula and nearby areas <br>has revealed that =
+more than one species is mixed under the name for the common <br>diogenid h=
+ermit crab, Diogenes pugilator. In this study, three species are recognized=
+=C2=A0=E2=80=A6</div><div style=3D"width:auto"><table cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0"><tbody><tr><td style=3D"padding-right:4px;mso-p=
+adding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/citations?hl=
+=3Den&amp;update_op=3Demail_library_add&amp;info=3Dxiq2LQjNHOMJ&amp;citsig=
+=3DAMD79ooAAAAAY6JNdR9xiu5Uik4XIyvscu0bsFrTpyHn" style=3D"text-decoration:n=
+one;display:inline-block;padding:4px 8px 4px 0;mso-padding-alt:0;"><img alt=
+=3D"Save" src=3D"https://scholar.google.ca/intl/en/scholar/images/1x/save-3=
+2.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:top"=
+></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a =
+href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralr=
+t&amp;ss=3Dtw&amp;url=3Dhttps://academic.oup.com/zoolinnean/advance-article=
+-abstract/doi/10.1093/zoolinnean/zlab093/6463679&amp;rt=3DRedescription+of+=
+the+hermit+crab+Diogenes+pugilator+(Decapoda:+Anomura)+reveals+the+existenc=
+e+of+a+species+complex+in+the+Atlanto-Mediterranean+transition+zone,+result=
+ing+in+the+resurrection+of+D%C2%A0%E2%80%A6&amp;scisig=3DAAGBfm0z3QbRR7lxtg=
+TyF18porZ8BYhV0w" style=3D"text-decoration:none;display:inline-block;paddin=
+g:4px 8px;mso-padding-alt:0;"><img alt=3D"Twitter" src=3D"https://scholar.g=
+oogle.ca/intl/en/scholar/images/1x/tw-32.png" border=3D"0" height=3D"16" wi=
+dth=3D"16" style=3D"vertical-align:top"></a></td><td style=3D"padding-right=
+:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/sc=
+holar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Din&amp;url=3Dhttps://acad=
+emic.oup.com/zoolinnean/advance-article-abstract/doi/10.1093/zoolinnean/zla=
+b093/6463679&amp;rt=3DRedescription+of+the+hermit+crab+Diogenes+pugilator+(=
+Decapoda:+Anomura)+reveals+the+existence+of+a+species+complex+in+the+Atlant=
+o-Mediterranean+transition+zone,+resulting+in+the+resurrection+of+D%C2%A0%E=
+2%80%A6&amp;scisig=3DAAGBfm0z3QbRR7lxtgTyF18porZ8BYhV0w" style=3D"text-deco=
+ration:none;display:inline-block;padding:4px 8px;mso-padding-alt:0;"><img a=
+lt=3D"LinkedIn" src=3D"https://scholar.google.ca/intl/en/scholar/images/1x/=
+in-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:=
+top"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"=
+><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dschola=
+ralrt&amp;ss=3Dfb&amp;url=3Dhttps://academic.oup.com/zoolinnean/advance-art=
+icle-abstract/doi/10.1093/zoolinnean/zlab093/6463679&amp;rt=3DRedescription=
++of+the+hermit+crab+Diogenes+pugilator+(Decapoda:+Anomura)+reveals+the+exis=
+tence+of+a+species+complex+in+the+Atlanto-Mediterranean+transition+zone,+re=
+sulting+in+the+resurrection+of+D%C2%A0%E2%80%A6&amp;scisig=3DAAGBfm0z3QbRR7=
+lxtgTyF18porZ8BYhV0w" style=3D"text-decoration:none;display:inline-block;pa=
+dding:4px 8px;mso-padding-alt:0;"><img alt=3D"Facebook" src=3D"https://scho=
+lar.google.ca/intl/en/scholar/images/1x/fb-32.png" border=3D"0" height=3D"1=
+6" width=3D"16" style=3D"vertical-align:top"></a></td></tr></tbody></table>=
+</div><br><h3 style=3D"font-weight:normal;margin:0;font-size:17px;line-heig=
+ht:20px;"><span style=3D"font-size:11px;font-weight:bold;color:#1a0dab;vert=
+ical-align:2px">[HTML]</span> <a href=3D"https://scholar.google.ca/scholar_=
+url?url=3Dhttps://www.mdpi.com/1424-2818/13/12/676/htm&amp;hl=3Den&amp;sa=
+=3DX&amp;d=3D13512295125352187126&amp;ei=3D9BnBYe-FOo-Ty9YPrsKZaA&amp;scisi=
+g=3DAAGBfm3iII-cTc6JbgsDwK-WMSW9IGnY4Q&amp;oi=3Dscholaralrt&amp;hist=3D4Z5W=
+ABAAAAAJ:10723257300403118941:AAGBfm1inOhnN8aL2qOe-0quNlsVtMjmhA&amp;html=
+=3D&amp;folt=3Dkw" class=3D"gse_alrt_title" style=3D"font-size:17px;color:#=
+1a0dab">Uncovering Hidden Diversity: Three <b>New Species </b>of the Kerate=
+lla Genus (Rotifera, Monogononta, Brachionidae) of High Altitude Water Syst=
+ems from Central Mexico</a></h3><div style=3D"color:#006621">AE Garc=C3=ADa=
+-Morales, O Dom=C3=ADnguez-Dom=C3=ADnguez=E2=80=A6=C2=A0- Diversity, 2021</=
+div><div class=3D"gse_alrt_sni">The correct identification of species is an=
+ essential step before any study on <br>biodiversity, ecology or genetics. =
+Keratella is a genus with a predominantly <br>temperate distribution and wi=
+th several species being endemics or restricted=C2=A0=E2=80=A6</div><div st=
+yle=3D"width:auto"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">=
+<tbody><tr><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a=
+ href=3D"https://scholar.google.ca/citations?hl=3Den&amp;update_op=3Demail_=
+library_add&amp;info=3D9gTcRtNQhbsJ&amp;citsig=3DAMD79ooAAAAAY6JNda4kj6S7Nv=
+QXgUTVb0R7bu2HIMM5" style=3D"text-decoration:none;display:inline-block;padd=
+ing:4px 8px 4px 0;mso-padding-alt:0;"><img alt=3D"Save" src=3D"https://scho=
+lar.google.ca/intl/en/scholar/images/1x/save-32.png" border=3D"0" height=3D=
+"16" width=3D"16" style=3D"vertical-align:top"></a></td><td style=3D"paddin=
+g-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.googl=
+e.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dtw&amp;url=3Dhttps=
+://www.mdpi.com/1424-2818/13/12/676/htm&amp;rt=3DUncovering+Hidden+Diversit=
+y:+Three+New+Species+of+the+Keratella+Genus+(Rotifera,+Monogononta,+Brachio=
+nidae)+of+High+Altitude+Water+Systems+from+Central+Mexico&amp;scisig=3DAAGB=
+fm3R30MSp0PCUAZChbnpXFzhY9sh9g" style=3D"text-decoration:none;display:inlin=
+e-block;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"Twitter" src=3D"htt=
+ps://scholar.google.ca/intl/en/scholar/images/1x/tw-32.png" border=3D"0" he=
+ight=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td><td style=3D=
+"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://schola=
+r.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Din&amp;url=
+=3Dhttps://www.mdpi.com/1424-2818/13/12/676/htm&amp;rt=3DUncovering+Hidden+=
+Diversity:+Three+New+Species+of+the+Keratella+Genus+(Rotifera,+Monogononta,=
++Brachionidae)+of+High+Altitude+Water+Systems+from+Central+Mexico&amp;scisi=
+g=3DAAGBfm3R30MSp0PCUAZChbnpXFzhY9sh9g" style=3D"text-decoration:none;displ=
+ay:inline-block;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"LinkedIn" s=
+rc=3D"https://scholar.google.ca/intl/en/scholar/images/1x/in-32.png" border=
+=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td><td=
+ style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https=
+://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dfb=
+&amp;url=3Dhttps://www.mdpi.com/1424-2818/13/12/676/htm&amp;rt=3DUncovering=
++Hidden+Diversity:+Three+New+Species+of+the+Keratella+Genus+(Rotifera,+Mono=
+gononta,+Brachionidae)+of+High+Altitude+Water+Systems+from+Central+Mexico&a=
+mp;scisig=3DAAGBfm3R30MSp0PCUAZChbnpXFzhY9sh9g" style=3D"text-decoration:no=
+ne;display:inline-block;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"Fac=
+ebook" src=3D"https://scholar.google.ca/intl/en/scholar/images/1x/fb-32.png=
+" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:top"></a>=
+</td></tr></tbody></table></div><br><h3 style=3D"font-weight:normal;margin:=
+0;font-size:17px;line-height:20px;"><a href=3D"https://scholar.google.ca/sc=
+holar_url?url=3Dhttps://www.sciencedirect.com/science/article/pii/S1871174X=
+21000937&amp;hl=3Den&amp;sa=3DX&amp;d=3D9283120401674787251&amp;ei=3D9BnBYe=
+-FOo-Ty9YPrsKZaA&amp;scisig=3DAAGBfm0DH7lyVAme3WOZRPOkphiBfL9R1Q&amp;oi=3Ds=
+cholaralrt&amp;hist=3D4Z5WABAAAAAJ:10723257300403118941:AAGBfm1inOhnN8aL2qO=
+e-0quNlsVtMjmhA&amp;html=3D&amp;folt=3Dkw" class=3D"gse_alrt_title" style=
+=3D"font-size:17px;color:#1a0dab">A <b>new species </b>of Eretmophyllum (Gi=
+nkgoales) from the Middle Jurassic of Turpan-Hami Basin, Xinjiang, China</a=
+></h3><div style=3D"color:#006621">DL Tang, ZE Wang, YT Huang, H Ding, ST D=
+ing, JY Wu=C2=A0- Palaeoworld, 2021</div><div class=3D"gse_alrt_sni">A few =
+specimens previously assigned to Eretmophyllum, based on the gross leaf <br=
+>morphology, lack cuticular structures. In this paper, we describe a <b>new=
+ species </b>of <br>Eretmophyllum from the Middle Jurassic Xishanyao Format=
+ion in the Turpan-Hami=C2=A0=E2=80=A6</div><div style=3D"width:auto"><table=
+ cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tbody><tr><td style=3D"p=
+adding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.=
+google.ca/citations?hl=3Den&amp;update_op=3Demail_library_add&amp;info=3Ds9=
+kBPdJE1IAJ&amp;citsig=3DAMD79ooAAAAAY6JNdX1biSnSxttCkMG5DR9TOBx8KdNM" style=
+=3D"text-decoration:none;display:inline-block;padding:4px 8px 4px 0;mso-pad=
+ding-alt:0;"><img alt=3D"Save" src=3D"https://scholar.google.ca/intl/en/sch=
+olar/images/1x/save-32.png" border=3D"0" height=3D"16" width=3D"16" style=
+=3D"vertical-align:top"></a></td><td style=3D"padding-right:4px;mso-padding=
+-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=
+=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dtw&amp;url=3Dhttps://www.sciencedirect.=
+com/science/article/pii/S1871174X21000937&amp;rt=3DA+new+species+of+Eretmop=
+hyllum+(Ginkgoales)+from+the+Middle+Jurassic+of+Turpan-Hami+Basin,+Xinjiang=
+,+China&amp;scisig=3DAAGBfm2tq6IjPsIBXwlmzpbAtPswxdwdEg" style=3D"text-deco=
+ration:none;display:inline-block;padding:4px 8px;mso-padding-alt:0;"><img a=
+lt=3D"Twitter" src=3D"https://scholar.google.ca/intl/en/scholar/images/1x/t=
+w-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:t=
+op"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;">=
+<a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholar=
+alrt&amp;ss=3Din&amp;url=3Dhttps://www.sciencedirect.com/science/article/pi=
+i/S1871174X21000937&amp;rt=3DA+new+species+of+Eretmophyllum+(Ginkgoales)+fr=
+om+the+Middle+Jurassic+of+Turpan-Hami+Basin,+Xinjiang,+China&amp;scisig=3DA=
+AGBfm2tq6IjPsIBXwlmzpbAtPswxdwdEg" style=3D"text-decoration:none;display:in=
+line-block;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"LinkedIn" src=3D=
+"https://scholar.google.ca/intl/en/scholar/images/1x/in-32.png" border=3D"0=
+" height=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td><td styl=
+e=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://sc=
+holar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dfb&amp;=
+url=3Dhttps://www.sciencedirect.com/science/article/pii/S1871174X21000937&a=
+mp;rt=3DA+new+species+of+Eretmophyllum+(Ginkgoales)+from+the+Middle+Jurassi=
+c+of+Turpan-Hami+Basin,+Xinjiang,+China&amp;scisig=3DAAGBfm2tq6IjPsIBXwlmzp=
+bAtPswxdwdEg" style=3D"text-decoration:none;display:inline-block;padding:4p=
+x 8px;mso-padding-alt:0;"><img alt=3D"Facebook" src=3D"https://scholar.goog=
+le.ca/intl/en/scholar/images/1x/fb-32.png" border=3D"0" height=3D"16" width=
+=3D"16" style=3D"vertical-align:top"></a></td></tr></tbody></table></div><b=
+r><h3 style=3D"font-weight:normal;margin:0;font-size:17px;line-height:20px;=
+"><span style=3D"font-size:11px;font-weight:bold;color:#1a0dab;vertical-ali=
+gn:2px">[HTML]</span> <a href=3D"https://scholar.google.ca/scholar_url?url=
+=3Dhttps://www.mdpi.com/2075-4450/12/12/1126/htm&amp;hl=3Den&amp;sa=3DX&amp=
+;d=3D1378437668784980152&amp;ei=3D9BnBYe-FOo-Ty9YPrsKZaA&amp;scisig=3DAAGBf=
+m14gNt-dBD5r39SM8lnjgw0FLcRNw&amp;oi=3Dscholaralrt&amp;hist=3D4Z5WABAAAAAJ:=
+10723257300403118941:AAGBfm1inOhnN8aL2qOe-0quNlsVtMjmhA&amp;html=3D&amp;fol=
+t=3Dkw" class=3D"gse_alrt_title" style=3D"font-size:17px;color:#1a0dab">Rec=
+lassification of Gall Midges (Diptera: Cecidomyiidae: Cecidomyiini) from Am=
+aranthaceae, with Description of Ten <b>New Species </b>Based on an Integra=
+tive Taxonomic=C2=A0=E2=80=A6</a></h3><div style=3D"color:#006621">N Dorchi=
+n, E Shachar, ALL Friedman, O Bronstein=C2=A0- Insects, 2021</div><div clas=
+s=3D"gse_alrt_sni">Simple Summary Plants of the family Amarantaceae are hos=
+ts to hundreds of gall-<br>midge taxa (Diptera: Cecidomyiidae), one of whic=
+h is the genus Halodiplosis, which <br>has been known so far from 99 specie=
+s, almost all of which are from Central Asia=C2=A0=E2=80=A6</div><div style=
+=3D"width:auto"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tb=
+ody><tr><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a hr=
+ef=3D"https://scholar.google.ca/citations?hl=3Den&amp;update_op=3Demail_lib=
+rary_add&amp;info=3DuEDyqMExIRMJ&amp;citsig=3DAMD79ooAAAAAY6JNdclqzctsER3JG=
+bD84i54kJnMvRY2" style=3D"text-decoration:none;display:inline-block;padding=
+:4px 8px 4px 0;mso-padding-alt:0;"><img alt=3D"Save" src=3D"https://scholar=
+.google.ca/intl/en/scholar/images/1x/save-32.png" border=3D"0" height=3D"16=
+" width=3D"16" style=3D"vertical-align:top"></a></td><td style=3D"padding-r=
+ight:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.c=
+a/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dtw&amp;url=3Dhttps://=
+www.mdpi.com/2075-4450/12/12/1126/htm&amp;rt=3DReclassification+of+Gall+Mid=
+ges+(Diptera:+Cecidomyiidae:+Cecidomyiini)+from+Amaranthaceae,+with+Descrip=
+tion+of+Ten+New+Species+Based+on+an+Integrative+Taxonomic+Study&amp;scisig=
+=3DAAGBfm1Zdgcpz-MUFHmgLFuTGnY2OOK8KA" style=3D"text-decoration:none;displa=
+y:inline-block;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"Twitter" src=
+=3D"https://scholar.google.ca/intl/en/scholar/images/1x/tw-32.png" border=
+=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td><td=
+ style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https=
+://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Din=
+&amp;url=3Dhttps://www.mdpi.com/2075-4450/12/12/1126/htm&amp;rt=3DReclassif=
+ication+of+Gall+Midges+(Diptera:+Cecidomyiidae:+Cecidomyiini)+from+Amaranth=
+aceae,+with+Description+of+Ten+New+Species+Based+on+an+Integrative+Taxonomi=
+c+Study&amp;scisig=3DAAGBfm1Zdgcpz-MUFHmgLFuTGnY2OOK8KA" style=3D"text-deco=
+ration:none;display:inline-block;padding:4px 8px;mso-padding-alt:0;"><img a=
+lt=3D"LinkedIn" src=3D"https://scholar.google.ca/intl/en/scholar/images/1x/=
+in-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:=
+top"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"=
+><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dschola=
+ralrt&amp;ss=3Dfb&amp;url=3Dhttps://www.mdpi.com/2075-4450/12/12/1126/htm&a=
+mp;rt=3DReclassification+of+Gall+Midges+(Diptera:+Cecidomyiidae:+Cecidomyii=
+ni)+from+Amaranthaceae,+with+Description+of+Ten+New+Species+Based+on+an+Int=
+egrative+Taxonomic+Study&amp;scisig=3DAAGBfm1Zdgcpz-MUFHmgLFuTGnY2OOK8KA" s=
+tyle=3D"text-decoration:none;display:inline-block;padding:4px 8px;mso-paddi=
+ng-alt:0;"><img alt=3D"Facebook" src=3D"https://scholar.google.ca/intl/en/s=
+cholar/images/1x/fb-32.png" border=3D"0" height=3D"16" width=3D"16" style=
+=3D"vertical-align:top"></a></td></tr></tbody></table></div><br><h3 style=
+=3D"font-weight:normal;margin:0;font-size:17px;line-height:20px;"><span sty=
+le=3D"font-size:11px;font-weight:bold;color:#1a0dab;vertical-align:2px">[PD=
+F]</span> <a href=3D"https://scholar.google.ca/scholar_url?url=3Dhttps://ww=
+w.jstage.jst.go.jp/article/mycosci/advpub/0/advpub_MYC555/_pdf&amp;hl=3Den&=
+amp;sa=3DX&amp;d=3D10067832747767281865&amp;ei=3D9BnBYe-FOo-Ty9YPrsKZaA&amp=
+;scisig=3DAAGBfm3kAbL2tAyvYYDZNz9M_lmVEZ44Xw&amp;oi=3Dscholaralrt&amp;hist=
+=3D4Z5WABAAAAAJ:10723257300403118941:AAGBfm1inOhnN8aL2qOe-0quNlsVtMjmhA&amp=
+;html=3D&amp;folt=3Dkw" class=3D"gse_alrt_title" style=3D"font-size:17px;co=
+lor:#1a0dab">Description of a <b>new species </b>of Gerhardtia (Lyophyllace=
+ae, Agaricales) from Japan based on morphological and molecular phylogeneti=
+c analyses and live culture=C2=A0=E2=80=A6</a></h3><div style=3D"color:#006=
+621">N Endo, M Takahashi, K Nagamune, K Oguchi=E2=80=A6=C2=A0- Mycoscience,=
+ 2021</div><div class=3D"gse_alrt_sni">We describe a <b>new species </b>of =
+Gerhardtia from Japan based on basidiomata <br>morphology, live culture cha=
+racteristics, and molecular phylogenetic analyses. <br>Gerhardtia venosolam=
+ellata is found on broad-leaf litter, and is characterized by=C2=A0=E2=80=
+=A6</div><div style=3D"width:auto"><table cellpadding=3D"0" cellspacing=3D"=
+0" border=3D"0"><tbody><tr><td style=3D"padding-right:4px;mso-padding-alt:4=
+px 16px 0 0;"><a href=3D"https://scholar.google.ca/citations?hl=3Den&amp;up=
+date_op=3Demail_library_add&amp;info=3Dybi23IoguIsJ&amp;citsig=3DAMD79ooAAA=
+AAY6JNdVjm70nbtmTEZOGzOCLirYeqydOp" style=3D"text-decoration:none;display:i=
+nline-block;padding:4px 8px 4px 0;mso-padding-alt:0;"><img alt=3D"Save" src=
+=3D"https://scholar.google.ca/intl/en/scholar/images/1x/save-32.png" border=
+=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td><td=
+ style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https=
+://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dtw=
+&amp;url=3Dhttps://www.jstage.jst.go.jp/article/mycosci/advpub/0/advpub_MYC=
+555/_pdf&amp;rt=3DDescription+of+a+new+species+of+Gerhardtia+(Lyophyllaceae=
+,+Agaricales)+from+Japan+based+on+morphological+and+molecular+phylogenetic+=
+analyses+and+live+culture+characteristics&amp;scisig=3DAAGBfm2WC45T23N7ZQ1_=
+-AtIppICa9nxRQ" style=3D"text-decoration:none;display:inline-block;padding:=
+4px 8px;mso-padding-alt:0;"><img alt=3D"Twitter" src=3D"https://scholar.goo=
+gle.ca/intl/en/scholar/images/1x/tw-32.png" border=3D"0" height=3D"16" widt=
+h=3D"16" style=3D"vertical-align:top"></a></td><td style=3D"padding-right:4=
+px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/scho=
+lar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Din&amp;url=3Dhttps://www.js=
+tage.jst.go.jp/article/mycosci/advpub/0/advpub_MYC555/_pdf&amp;rt=3DDescrip=
+tion+of+a+new+species+of+Gerhardtia+(Lyophyllaceae,+Agaricales)+from+Japan+=
+based+on+morphological+and+molecular+phylogenetic+analyses+and+live+culture=
++characteristics&amp;scisig=3DAAGBfm2WC45T23N7ZQ1_-AtIppICa9nxRQ" style=3D"=
+text-decoration:none;display:inline-block;padding:4px 8px;mso-padding-alt:0=
+;"><img alt=3D"LinkedIn" src=3D"https://scholar.google.ca/intl/en/scholar/i=
+mages/1x/in-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertic=
+al-align:top"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 1=
+6px 0 0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=
+=3Dscholaralrt&amp;ss=3Dfb&amp;url=3Dhttps://www.jstage.jst.go.jp/article/m=
+ycosci/advpub/0/advpub_MYC555/_pdf&amp;rt=3DDescription+of+a+new+species+of=
++Gerhardtia+(Lyophyllaceae,+Agaricales)+from+Japan+based+on+morphological+a=
+nd+molecular+phylogenetic+analyses+and+live+culture+characteristics&amp;sci=
+sig=3DAAGBfm2WC45T23N7ZQ1_-AtIppICa9nxRQ" style=3D"text-decoration:none;dis=
+play:inline-block;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"Facebook"=
+ src=3D"https://scholar.google.ca/intl/en/scholar/images/1x/fb-32.png" bord=
+er=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td><=
+/tr></tbody></table></div><br><h3 style=3D"font-weight:normal;margin:0;font=
+-size:17px;line-height:20px;"><span style=3D"font-size:11px;font-weight:bol=
+d;color:#1a0dab;vertical-align:2px">[PDF]</span> <a href=3D"https://scholar=
+.google.ca/scholar_url?url=3Dhttps://zookeys.pensoft.net/article/73458/down=
+load/pdf/&amp;hl=3Den&amp;sa=3DX&amp;d=3D11890788308468542305&amp;ei=3D9BnB=
+Ye-FOo-Ty9YPrsKZaA&amp;scisig=3DAAGBfm0g1ssW__-8InH1q7ydCNOwp3s0Rg&amp;oi=
+=3Dscholaralrt&amp;hist=3D4Z5WABAAAAAJ:10723257300403118941:AAGBfm1inOhnN8a=
+L2qOe-0quNlsVtMjmhA&amp;html=3D&amp;folt=3Dkw" class=3D"gse_alrt_title" sty=
+le=3D"font-size:17px;color:#1a0dab">=EF=BB=BF Two <b>new species </b>of Hel=
+ochares, with additional faunistic records from China (Coleoptera, Hydrophi=
+lidae, Acidocerinae)</a></h3><div style=3D"color:#006621">Z Yang, F Jia, Y =
+Tang, L Jiang=C2=A0- ZooKeys, 2021</div><div class=3D"gse_alrt_sni">Two <b>=
+new species</b>, Helochares guoi Yang &amp; Jia, sp. nov. and Helochares di=
+stinctus <br>Jia &amp; Tang, sp. nov., are described. Two species are recor=
+ded for the first time from <br>China: Helochares negatus Hebauer, 1995 fro=
+m Yunnan, and Helochares=C2=A0=E2=80=A6</div><div style=3D"width:auto"><tab=
+le cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tbody><tr><td style=3D=
+"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://schola=
+r.google.ca/citations?hl=3Den&amp;update_op=3Demail_library_add&amp;info=3D=
+YauiafeQBKUJ&amp;citsig=3DAMD79ooAAAAAY6JNdVAY4GHIHQ38PKBPfE3-Sf5Iabb0" sty=
+le=3D"text-decoration:none;display:inline-block;padding:4px 8px 4px 0;mso-p=
+adding-alt:0;"><img alt=3D"Save" src=3D"https://scholar.google.ca/intl/en/s=
+cholar/images/1x/save-32.png" border=3D"0" height=3D"16" width=3D"16" style=
+=3D"vertical-align:top"></a></td><td style=3D"padding-right:4px;mso-padding=
+-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=
+=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dtw&amp;url=3Dhttps://zookeys.pensoft.ne=
+t/article/73458/download/pdf/&amp;rt=3D%EF%BB%BF+Two+new+species+of+Helocha=
+res,+with+additional+faunistic+records+from+China+(Coleoptera,+Hydrophilida=
+e,+Acidocerinae)&amp;scisig=3DAAGBfm0GRCHxVT5oCupxiOtJqt2mh0RVQQ" style=3D"=
+text-decoration:none;display:inline-block;padding:4px 8px;mso-padding-alt:0=
+;"><img alt=3D"Twitter" src=3D"https://scholar.google.ca/intl/en/scholar/im=
+ages/1x/tw-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertica=
+l-align:top"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16=
+px 0 0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=
+=3Dscholaralrt&amp;ss=3Din&amp;url=3Dhttps://zookeys.pensoft.net/article/73=
+458/download/pdf/&amp;rt=3D%EF%BB%BF+Two+new+species+of+Helochares,+with+ad=
+ditional+faunistic+records+from+China+(Coleoptera,+Hydrophilidae,+Acidoceri=
+nae)&amp;scisig=3DAAGBfm0GRCHxVT5oCupxiOtJqt2mh0RVQQ" style=3D"text-decorat=
+ion:none;display:inline-block;padding:4px 8px;mso-padding-alt:0;"><img alt=
+=3D"LinkedIn" src=3D"https://scholar.google.ca/intl/en/scholar/images/1x/in=
+-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:to=
+p"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><=
+a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholara=
+lrt&amp;ss=3Dfb&amp;url=3Dhttps://zookeys.pensoft.net/article/73458/downloa=
+d/pdf/&amp;rt=3D%EF%BB%BF+Two+new+species+of+Helochares,+with+additional+fa=
+unistic+records+from+China+(Coleoptera,+Hydrophilidae,+Acidocerinae)&amp;sc=
+isig=3DAAGBfm0GRCHxVT5oCupxiOtJqt2mh0RVQQ" style=3D"text-decoration:none;di=
+splay:inline-block;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"Facebook=
+" src=3D"https://scholar.google.ca/intl/en/scholar/images/1x/fb-32.png" bor=
+der=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td>=
+</tr></tbody></table></div><br><h3 style=3D"font-weight:normal;margin:0;fon=
+t-size:17px;line-height:20px;"><span style=3D"font-size:11px;font-weight:bo=
+ld;color:#1a0dab;vertical-align:2px">[PDF]</span> <a href=3D"https://schola=
+r.google.ca/scholar_url?url=3Dhttps://tlhlxojs02-prd.flvc.org/troplep/artic=
+le/view/130134/132646&amp;hl=3Den&amp;sa=3DX&amp;d=3D10095120863857172180&a=
+mp;ei=3D9BnBYe-FOo-Ty9YPrsKZaA&amp;scisig=3DAAGBfm0Hid7rlTb0ZE_AI7j0Kp7_7fU=
+_RA&amp;oi=3Dscholaralrt&amp;hist=3D4Z5WABAAAAAJ:10723257300403118941:AAGBf=
+m1inOhnN8aL2qOe-0quNlsVtMjmhA&amp;html=3D&amp;folt=3Dkw" class=3D"gse_alrt_=
+title" style=3D"font-size:17px;color:#1a0dab">Description of a <b>new speci=
+es </b>of Yphthimoides Forster, 1964 from Peru (Lepidoptera: Nymphalidae: S=
+atyrinae)</a></h3><div style=3D"color:#006621">S Nakahara, EP Barbosa, I Na=
+kamura, G Lamas=E2=80=A6=C2=A0- Tropical Lepidoptera=C2=A0=E2=80=A6, 2021</=
+div><div class=3D"gse_alrt_sni">We here describe and name a <b>new </b>nymp=
+halid butterfly species in the subtribe <br>Euptychiina, Yphthimoides kinyo=
+ni Lamas, Nakahara &amp; Barbosa, n. sp., based on an <br>integrative taxon=
+omic approach. Yphthimoides kinyoni n. sp. is currently known=C2=A0=E2=80=
+=A6</div><div style=3D"width:auto"><table cellpadding=3D"0" cellspacing=3D"=
+0" border=3D"0"><tbody><tr><td style=3D"padding-right:4px;mso-padding-alt:4=
+px 16px 0 0;"><a href=3D"https://scholar.google.ca/citations?hl=3Den&amp;up=
+date_op=3Demail_library_add&amp;info=3D1F7XfvASGYwJ&amp;citsig=3DAMD79ooAAA=
+AAY6JNdYReCeZDr_avGSuX6qbuFnyOPKLg" style=3D"text-decoration:none;display:i=
+nline-block;padding:4px 8px 4px 0;mso-padding-alt:0;"><img alt=3D"Save" src=
+=3D"https://scholar.google.ca/intl/en/scholar/images/1x/save-32.png" border=
+=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td><td=
+ style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https=
+://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dtw=
+&amp;url=3Dhttps://tlhlxojs02-prd.flvc.org/troplep/article/view/130134/1326=
+46&amp;rt=3DDescription+of+a+new+species+of+Yphthimoides+Forster,+1964+from=
++Peru+(Lepidoptera:+Nymphalidae:+Satyrinae)&amp;scisig=3DAAGBfm0tCMNlvKVao-=
+QEyqTI_e6pnX1bnA" style=3D"text-decoration:none;display:inline-block;paddin=
+g:4px 8px;mso-padding-alt:0;"><img alt=3D"Twitter" src=3D"https://scholar.g=
+oogle.ca/intl/en/scholar/images/1x/tw-32.png" border=3D"0" height=3D"16" wi=
+dth=3D"16" style=3D"vertical-align:top"></a></td><td style=3D"padding-right=
+:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/sc=
+holar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Din&amp;url=3Dhttps://tlhl=
+xojs02-prd.flvc.org/troplep/article/view/130134/132646&amp;rt=3DDescription=
++of+a+new+species+of+Yphthimoides+Forster,+1964+from+Peru+(Lepidoptera:+Nym=
+phalidae:+Satyrinae)&amp;scisig=3DAAGBfm0tCMNlvKVao-QEyqTI_e6pnX1bnA" style=
+=3D"text-decoration:none;display:inline-block;padding:4px 8px;mso-padding-a=
+lt:0;"><img alt=3D"LinkedIn" src=3D"https://scholar.google.ca/intl/en/schol=
+ar/images/1x/in-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"ve=
+rtical-align:top"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4=
+px 16px 0 0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&am=
+p;oi=3Dscholaralrt&amp;ss=3Dfb&amp;url=3Dhttps://tlhlxojs02-prd.flvc.org/tr=
+oplep/article/view/130134/132646&amp;rt=3DDescription+of+a+new+species+of+Y=
+phthimoides+Forster,+1964+from+Peru+(Lepidoptera:+Nymphalidae:+Satyrinae)&a=
+mp;scisig=3DAAGBfm0tCMNlvKVao-QEyqTI_e6pnX1bnA" style=3D"text-decoration:no=
+ne;display:inline-block;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"Fac=
+ebook" src=3D"https://scholar.google.ca/intl/en/scholar/images/1x/fb-32.png=
+" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:top"></a>=
+</td></tr></tbody></table></div><br><div style=3D"line-height:16px;mso-line=
+-height-rule:exactly;border-top:1px solid #bdbdbd">&nbsp;</div><p style=3D"=
+margin:8px 0 16px 0;color:#666">This message was sent by Google Scholar bec=
+ause you're following new results for <a href=3D"https://scholar.google.ca/=
+scholar?q=3Dnew++intitle:%22new+species%22&amp;as_sdt=3D0,5&amp;scisbd=3D1&=
+amp;hl=3Den" style=3D"color:#1a0dab;">[new  intitle:&quot;new species&quot;=
+]</a>.<img src=3D"https://scholar.google.ca/scholar_url?url=3Dhttps://schol=
+ar.google.ca/scholar/images/cleardot.gif&amp;hl=3Den&amp;sa=3DX&amp;ei=3D9B=
+nBYe-FOo-Ty9YPrsKZaA&amp;scisig=3DAAGBfm0MgrS2nIxD34QSOqYL9V-_gIvqdA&amp;hi=
+st=3D4Z5WABAAAAAJ:10723257300403118941:AAGBfm1inOhnN8aL2qOe-0quNlsVtMjmhA&a=
+mp;html=3D&amp;folt=3Dkw" height=3D1 width=3D1 alt=3D""></p><div style=3D"m=
+argin-bottom:8px;"><div><!--[if gte mso 9]><table border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0"><tr><td style=3D"mso-line-height-rule:exactly;line=
+-height:27px;border-top:1px solid #fff;border-bottom:1px solid #fff;mso-tex=
+t-raise:-1px;"><![endif]--><a href=3D"https://scholar.google.ca/scholar_ale=
+rts?view_op=3Dlist_alerts&amp;email_for_op=3Drdmpage%40gmail.com&amp;alert_=
+id=3DXWOkUbOp0JQJ&amp;hl=3Den" style=3D"display:inline-block;text-decoratio=
+n:none;font-family:arial,sans-serif;font-size:13px;font-size:11px;text-tran=
+sform:uppercase;font-size:13px;line-height:21px;padding:3px 0;color:#1a0dab=
+;border-top:1px solid transparent;border-bottom:1px solid transparent;borde=
+r-radius:3px;mso-padding-alt:0;mso-border-alt:none;"><span style=3D"mso-tex=
+t-raise:5px">List alerts</span></a><!--[if gte mso 9]></td></tr></table><![=
+endif]--></div><div><!--[if gte mso 9]><table border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0"><tr><td style=3D"mso-line-height-rule:exactly;line-heig=
+ht:27px;border-top:1px solid #fff;border-bottom:1px solid #fff;mso-text-rai=
+se:-1px;"><![endif]--><a href=3D"https://scholar.google.ca/scholar_alerts?v=
+iew_op=3Dcancel_alert_options&amp;email_for_op=3Drdmpage%40gmail.com&amp;al=
+ert_id=3DXWOkUbOp0JQJ&amp;hl=3Den&amp;citsig=3DAMD79ooAAAAAYdOO9V-8QcvKluzB=
+bTX__hY9P1xw3Qy0" style=3D"display:inline-block;text-decoration:none;font-f=
+amily:arial,sans-serif;font-size:13px;font-size:11px;text-transform:upperca=
+se;font-size:13px;line-height:21px;padding:3px 0;color:#1a0dab;border-top:1=
+px solid transparent;border-bottom:1px solid transparent;border-radius:3px;=
+mso-padding-alt:0;mso-border-alt:none;"><span style=3D"mso-text-raise:5px">=
+Cancel alert</span></a><!--[if gte mso 9]></td></tr></table><![endif]--></d=
+iv></div></div><!--[if gte mso 9]></td></tr></table><![endif]--></body></ht=
+ml>

@@ -144,6 +144,61 @@ isodate_to_string = function (datestring) {
 	
 	return datestring;		
 }
+
+var getHumanTime = function (timestamp) {
+
+	// Convert to a positive integer
+	var time = Math.abs(timestamp);
+
+	// Define humanTime and units
+	var humanTime, units;
+
+	// If there are years
+	if (time > (1000 * 60 * 60 * 24 * 365)) {
+		humanTime = parseInt(time / (1000 * 60 * 60 * 24 * 365), 10);
+		units = 'years';
+	}
+
+	// If there are months
+	else if (time > (1000 * 60 * 60 * 24 * 30)) {
+		humanTime = parseInt(time / (1000 * 60 * 60 * 24 * 30), 10);
+		units = 'months';
+	}
+
+	// If there are weeks
+	else if (time > (1000 * 60 * 60 * 24 * 7)) {
+		humanTime = parseInt(time / (1000 * 60 * 60 * 24 * 7), 10);
+		units = 'weeks';
+	}
+
+	// If there are days
+	else if (time > (1000 * 60 * 60 * 24)) {
+		humanTime = parseInt(time / (1000 * 60 * 60 * 24), 10);
+		units = 'days';
+	}
+
+	// If there are hours
+	else if (time > (1000 * 60 * 60)) {
+		humanTime = parseInt(time / (1000 * 60 * 60), 10);
+		units = 'hours';
+	}
+
+	// If there are minutes
+	else if (time > (1000 * 60)) {
+		humanTime = parseInt(time / (1000 * 60), 10);
+		units = 'minutes';
+	}
+
+	// Otherwise, use seconds
+	else {
+		humanTime = parseInt(time / (1000), 10);
+		units = 'seconds';
+	}
+
+	return humanTime + ' ' + units;
+
+};
+
 </script>		
 
 
@@ -181,6 +236,9 @@ isodate_to_string = function (datestring) {
 		
 			 $.getJSON(url + '&callback=?', function(data) {
 				if (data) {
+					var now = new Date().getTime();
+				
+				
 					var html = '';
 					
 					html += '<div class="row">';
@@ -191,7 +249,16 @@ isodate_to_string = function (datestring) {
 					
 					
 					for (var i in data.dataFeedElement) {
-						html += '<div class="card" >';
+					
+						var recent = false;
+						var how_long_ago = '';
+						if (data.dataFeedElement[i].datePublished) {
+							var d = new Date(data.dataFeedElement[i].datePublished);
+							how_long_ago = getHumanTime(now - d.getTime());						
+						}
+						
+					
+						html += '<div class="card">';
 						html += '<div class="row">';
 						html += '<div class="card-content">';
 						// image
@@ -223,7 +290,12 @@ isodate_to_string = function (datestring) {
 						html += '<div>';
 						
 						if (data.dataFeedElement[i].datePublished) {
-							html += '<i class="tiny material-icons">date_range</i>&nbsp;' + isodate_to_string(data.dataFeedElement[i].datePublished);
+							html += '<i class="tiny material-icons">date_range</i>';
+							html += '&nbsp;' + isodate_to_string(data.dataFeedElement[i].datePublished);
+							
+							if (how_long_ago != '') {
+								html += ' (' + how_long_ago + ' ago)';
+							}
 						}
 												
 						// source of link

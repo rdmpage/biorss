@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+	xmlns:cc="http://web.resource.org/cc/">
+
+	<channel rdf:about="https://www.biotaxa.org/Phytotaxa">
+				<title>Phytotaxa</title>
+		<link>https://www.biotaxa.org/Phytotaxa</link>
+
+							
+		<description>&lt;div style=&quot;margin-bottom: 0cm;&quot;&gt;&lt;span style=&quot;color: #5c8526;&quot;&gt;&lt;span&gt;&lt;strong&gt;&lt;span style=&quot;color: #5c8526;&quot;&gt;World&#039;s foremost journal of botanical systematics and biodiversity (plants, algae and fungi)&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/div&gt;</description>
+
+									<dc:publisher>Magnolia Press</dc:publisher>
+		
+					<dc:language>en-US</dc:language>
+		
+		<prism:publicationName>Phytotaxa</prism:publicationName>
+
+							
+					<prism:issn>1179-3155</prism:issn>
+		
+					<prism:copyright>&lt;span lang=&quot;EN-GB&quot;&gt;Authors need to complete and return an &lt;/span&gt;&lt;span lang=&quot;EN-GB&quot;&gt;&lt;a href=&quot;http://www.mapress.com/phytotaxa/images/copyright.rtf&quot;&gt;Assignment of Copyright&lt;/a&gt; &lt;/span&gt;&lt;span lang=&quot;EN-GB&quot;&gt;form when a paper is accepted for publication. Authors from institutions that do not allow transfer of copyrights to publishers (e.g. government institutions such as USDA, CSIRO) should attach a copyright waiver or similar document.&lt;/span&gt;</prism:copyright>
+		
+		<items>
+			<rdf:Seq>
+												<rdf:li rdf:resource="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.4.1"/>
+									<rdf:li rdf:resource="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.4.2"/>
+									<rdf:li rdf:resource="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.4.3"/>
+									<rdf:li rdf:resource="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.4.4"/>
+																<rdf:li rdf:resource="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.4.5"/>
+									<rdf:li rdf:resource="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.4.6"/>
+										</rdf:Seq>
+		</items>
+	</channel>
+
+					<item rdf:about="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.4.1">
+
+						<title>&lt;p&gt;&lt;strong&gt;Seed Micromorphology of Eleven Species of &lt;em&gt;Pleione&lt;/em&gt; (Orchidaceae)&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.4.1</link>
+
+										<description>&lt;p&gt;The micromorphological characteristics of the seeds of 11 species of &lt;em&gt;Pleione&lt;/em&gt; have been studied, both qualitatively and quantitatively, to establish whether they are useful for systematic studies of the genus. The quantitative characteristics include seed length (0.237–0.626 μm), seed width (0.053–0.133 μm), seed length/width ratio (2.631–7.279), seed ridge thickness (1.4 E&lt;sup&gt;-3&lt;/sup&gt;–4 E&lt;sup&gt;-3&lt;/sup&gt;μm) and seed volume (1.88 E&lt;sup&gt;-4&lt;/sup&gt;–3.06 E&lt;sup&gt;-3&lt;/sup&gt; μm&lt;sup&gt;3&lt;/sup&gt;). The cluster analysis result agrees well with the results of previous systematic studies. The cluster analysis shows that: &lt;em&gt;P&lt;/em&gt;. &lt;em&gt;coronaria&lt;/em&gt;, &lt;em&gt;P&lt;/em&gt;. &lt;em&gt;forrestii &lt;/em&gt;and &lt;em&gt;P&lt;/em&gt;. &lt;em&gt;yunnanensis&lt;/em&gt; form a group, while the remaining eight species form a second group, with three subgroups, namely: &lt;em&gt;P&lt;/em&gt;. &lt;em&gt;limprichtii&lt;/em&gt;,&lt;em&gt; P&lt;/em&gt;. &lt;em&gt;pleionoides&lt;/em&gt;, &lt;em&gt;P&lt;/em&gt;. &lt;em&gt;formosana&lt;/em&gt; as group I; &lt;em&gt;P&lt;/em&gt;. &lt;em&gt;hookeriana&lt;/em&gt; and &lt;em&gt;P&lt;/em&gt;. &lt;em&gt;bulbocodioides&lt;/em&gt; as group II; and &lt;em&gt;P&lt;/em&gt;. &lt;em&gt;praecox&lt;/em&gt;, &lt;em&gt;P&lt;/em&gt;. &lt;em&gt;scopulorum&lt;/em&gt; and &lt;em&gt;P&lt;/em&gt;. &lt;em&gt;maculata&lt;/em&gt; for group III. All the &lt;em&gt;Pleione&lt;/em&gt; species of Sect. &lt;em&gt;Pleione&lt;/em&gt; and Sect. &lt;em&gt;Humiles&lt;/em&gt; show the fusion of adjacent seed coat cells into a network. The shape of the seeds of &lt;em&gt;P. praecox&lt;/em&gt; and&lt;em&gt; P. maculata&lt;/em&gt; are very similar--being oval, and the mesh walls of their adjacent seed coat cells are not fused. Within these sections no clear pattern can be seen between the species, but the addition of further species might clarify the differences between Sect. &lt;em&gt;Pleione&lt;/em&gt; and Sect. &lt;em&gt;Humiles&lt;/em&gt;.&lt;/p&gt;</description>
+			
+							<dc:creator>ZHONGXUAN WANG</dc:creator>
+							<dc:creator>HAO ZHANG</dc:creator>
+							<dc:creator>SI QIN</dc:creator>
+							<dc:creator>LE YOU</dc:creator>
+							<dc:creator>JUNWEN ZHAI</dc:creator>
+							<dc:creator>ZHUANG ZHOU</dc:creator>
+							<dc:creator>SHIPIN CHEN</dc:creator>
+							<dc:creator>PHILLIP CRIBB</dc:creator>
+							<dc:creator>FIONA PAGE</dc:creator>
+							<dc:creator>SHASHA WU</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Phytotaxa
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-12-21</dc:date>
+				<prism:publicationDate>2021-12-21</prism:publicationDate>
+						<prism:volume>528</prism:volume>			<prism:number>4</prism:number>
+												<prism:startingPage>229</prism:startingPage>
+													<prism:endingPage>239</prism:endingPage>
+							
+							<prism:doi>10.11646/phytotaxa.528.4.1</prism:doi>
+					</item>
+					<item rdf:about="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.4.2">
+
+						<title>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Croton bacupariensis&lt;/em&gt; (Euphorbiaceae), a new species from the Coastal Plain of Rio Grande do Sul, Brazil&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.4.2</link>
+
+										<description>&lt;p&gt;&lt;em&gt;Croton bacupariensis&lt;/em&gt;, an endemic species from the coastal plain of the State of Rio Grande do Sul, southern Brazil, is described and illustrated. The new species shares morphological features with &lt;em&gt;Croton gnaphalii&lt;/em&gt;, but differs mainly by the habit, indumentum of leaves and morphology of pistillate flowers. In addition; &lt;em&gt;C. gnaphalii&lt;/em&gt; occurs all over the Pampa’s grasslands of Argentina, Uruguay and Rio Grande do Sul.&lt;/p&gt;</description>
+			
+							<dc:creator>EDUARDO VALDUGA</dc:creator>
+							<dc:creator>INÊS CORDEIRO</dc:creator>
+							<dc:creator>JOÃO RICARDO VIEIRA IGANCI</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Phytotaxa
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-12-21</dc:date>
+				<prism:publicationDate>2021-12-21</prism:publicationDate>
+						<prism:volume>528</prism:volume>			<prism:number>4</prism:number>
+												<prism:startingPage>240</prism:startingPage>
+													<prism:endingPage>246</prism:endingPage>
+							
+							<prism:doi>10.11646/phytotaxa.528.4.2</prism:doi>
+					</item>
+					<item rdf:about="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.4.3">
+
+						<title>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Bulbophyllum versicolor&lt;/em&gt; (Orchidaceae, Malaxideae), a new species from Yunnan, China: evidence from morphology and molecular analyses &lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.4.3</link>
+
+										<description>&lt;p&gt;A new orchid species, &lt;em&gt;Bulbophyllum versicolor &lt;/em&gt;(Malaxideae, Epidendroideae, Orchidaceae), from Malipo, Yunnan, China, is described and illustrated here. Detailed morphological study indicates that &lt;em&gt;B. versicolor&lt;/em&gt; is similar to &lt;em&gt;B. japonicum&lt;/em&gt;, but it differs in the shape and size of leaf and flower and flower colour. Molecular analyses based on the nuclear ribosomal DNA (nrITS) and plastid DNA (&lt;em&gt;matK&lt;/em&gt;,&lt;em&gt; atpI-atpH &lt;/em&gt;and&lt;em&gt; trnL-F&lt;/em&gt;) reveal that &lt;em&gt;B. versicolor&lt;/em&gt; is a new species and genetically similar to &lt;em&gt;B. japonicum.&lt;/em&gt;&lt;/p&gt;</description>
+			
+							<dc:creator>ZHUANG ZHOU</dc:creator>
+							<dc:creator>PENG-YU WU</dc:creator>
+							<dc:creator>YA-JUN LIN</dc:creator>
+							<dc:creator>ZHUANG ZHAO</dc:creator>
+							<dc:creator>XIONG-DE TU</dc:creator>
+							<dc:creator>SHUANG-BIN FU</dc:creator>
+							<dc:creator>ZHEN YING</dc:creator>
+							<dc:creator>ZHONG-JIAN LIU</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Phytotaxa
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-12-21</dc:date>
+				<prism:publicationDate>2021-12-21</prism:publicationDate>
+						<prism:volume>528</prism:volume>			<prism:number>4</prism:number>
+												<prism:startingPage>247</prism:startingPage>
+													<prism:endingPage>254</prism:endingPage>
+							
+							<prism:doi>10.11646/phytotaxa.528.4.3</prism:doi>
+					</item>
+					<item rdf:about="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.4.4">
+
+						<title>&lt;p&gt;&lt;strong&gt;Three new chrysophycean stomatocysts with long spines from the Gulf of Finland, Baltic Sea&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.4.4</link>
+
+										<description>&lt;p&gt;Three new morphotypes of chrysophycean stomatocysts with long spines are described following International Statospore Working Group (ISWG) guidelines and illustrated by SEM micrographs. Differences of our new morphotypes from known stomatocysts are discussed. Their biological affinity is currently unknown.&lt;/p&gt;</description>
+			
+							<dc:creator>SVETLANA N. SHADRINA</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Phytotaxa
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-12-21</dc:date>
+				<prism:publicationDate>2021-12-21</prism:publicationDate>
+						<prism:volume>528</prism:volume>			<prism:number>4</prism:number>
+												<prism:startingPage>255</prism:startingPage>
+													<prism:endingPage>260</prism:endingPage>
+							
+							<prism:doi>10.11646/phytotaxa.528.4.4</prism:doi>
+					</item>
+						<item rdf:about="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.4.5">
+
+						<title>&lt;p&gt;&lt;strong&gt;Notes on the typification of the name &lt;em&gt;Clematis jinzhaiensis&lt;/em&gt; (Ranunculaceae)&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.4.5</link>
+
+										<description>&lt;p&gt;N/A&lt;/p&gt;</description>
+			
+							<dc:creator>YUNFEI DENG</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Phytotaxa
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-12-21</dc:date>
+				<prism:publicationDate>2021-12-21</prism:publicationDate>
+						<prism:volume>528</prism:volume>			<prism:number>4</prism:number>
+												<prism:startingPage>261</prism:startingPage>
+													<prism:endingPage>262</prism:endingPage>
+							
+							<prism:doi>10.11646/phytotaxa.528.4.5</prism:doi>
+					</item>
+					<item rdf:about="https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.4.6">
+
+						<title>&lt;p&gt;&lt;strong&gt;Bringing &lt;em&gt;Capparis zeylanica&lt;/em&gt; (Capparaceae) out of chaos: nomenclatural updates and amended description&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.528.4.6</link>
+
+										<description>&lt;p&gt;N/A&lt;/p&gt;</description>
+			
+							<dc:creator>SATISH MAURYA</dc:creator>
+							<dc:creator>RITESH KUMAR CHOUDHARY</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 Phytotaxa
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-12-21</dc:date>
+				<prism:publicationDate>2021-12-21</prism:publicationDate>
+						<prism:volume>528</prism:volume>			<prism:number>4</prism:number>
+												<prism:startingPage>263</prism:startingPage>
+													<prism:endingPage>268</prism:endingPage>
+							
+							<prism:doi>10.11646/phytotaxa.528.4.6</prism:doi>
+					</item>
+	</rdf:RDF>

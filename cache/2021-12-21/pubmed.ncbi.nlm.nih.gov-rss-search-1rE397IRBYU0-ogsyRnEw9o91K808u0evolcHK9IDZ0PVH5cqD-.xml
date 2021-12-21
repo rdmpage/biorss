@@ -1,0 +1,305 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>(new species) OR (n. sp.) OR (sp. nov.) OR (n. gen.) OR (gen. nov.) OR (n. comb.) OR (comb. nov.)</title>
+    <link>https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;ff=20211221120236&amp;v=2.16.2&amp;utm_medium=rss&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;utm_campaign=pubmed-2&amp;fc=20211108074834&amp;utm_source=Mobile Safari UI/WKWebView</link>
+    <description>(new species) OR (n. sp.) OR (sp. nov.) OR (n. gen.) OR (gen. nov.) OR (n. comb.) OR (comb. nov.): Latest results from PubMed</description>
+    <atom:link href="https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;ff=20211221120236&amp;v=2.16.2&amp;utm_medium=rss&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;utm_campaign=pubmed-2&amp;fc=20211108074834&amp;utm_source=Mobile Safari UI/WKWebView" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>PubMed RSS feeds (2.16.2)</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 21 Dec 2021 17:02:36 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Dec 2021 06:00:00 -0500</pubDate>
+    <ttl>120</ttl>
+    <item>
+      <title>Description of Gyrodactylus banmae n. sp. (Monogenea, Gyrodactylidae) parasitic on zebrafish, Danio rerio</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34929406/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211221120236&amp;v=2.16.2</link>
+      <description>A new species of Gyrodactylus was described on the body surface of zebrafish (Danio rerio) in China. Basing on morphological characteristics and ITS sequence, we identified the parasite as a new member of the Gyrodactylus-wageneri group. Morphologically, Gyrodactylus sp. nov. is greatly similar to "G. zebrae", another species parasitic on zebrafish: both have moderately stout hamulus, marginal hook sickle with a prominent heel and toe, as well as a curved blade. However, distinct haptoral shape...</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">Parasitol Int. 2021 Dec 17:102531. doi: 10.1016/j.parint.2021.102531. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">A new species of Gyrodactylus was described on the body surface of zebrafish (Danio rerio) in China. Basing on morphological characteristics and ITS sequence, we identified the parasite as a new member of the Gyrodactylus-wageneri group. Morphologically, Gyrodactylus sp. nov. is greatly similar to "G. zebrae", another species parasitic on zebrafish: both have moderately stout hamulus, marginal hook sickle with a prominent heel and toe, as well as a curved blade. However, distinct haptoral shape differences were detected between these two species. The dorsal bar is straight in Gyrodactylus sp. nov. but strongly curved in "G. zebrae", and the sickle shaft in Gyrodactylus sp. nov. is approximately perpendicular to the base, but in "G. zebrae" it is slanted downwards. The ITS1-5.8s-ITS2 sequence also indicate that Gyrodactylus sp. nov. exhibits the highest similarity to "G. zebrae": 95.7% sequence identity suggests interspecific differentiation. Phylogenetic analysis of the ITS1-ITS2 sequence showed that Gyrodactylus sp. nov. formed a sister clade with "G. zebrae", and exhibited a relatively close phylogenetic relationship with G. kobayashii, G. gurleyi, and G. longoacuminatus, all of which parasitise on goldfish, Carassius auratus. To test the susceptibility of zebrafish and goldfish to the Gyrodactylus sp. nov., ten gyrodactylids were inoculated to the caudal fin of zebrafish and goldfish. The gyrodactylids exhibited the ability to attach themselves to the goldfish, and some gyrodactylids reproduced a few days after the inoculation. On day 9, however, the mean abundance sharply decreased to zero on goldfish and increased to more than 30 on zebrafish. The result suggested that golfish is an unsuitable host for Gyrodactylus sp. nov. Therefore, on the basis of morphology, molecular sequence similarity, and host susceptibility, we conclude that the gyrodactylid found on the zebrafish is a new species, which we named Gyrodactylus banmae.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34929406/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211221120236&v=2.16.2">34929406</a> | DOI:<a href=https://doi.org/10.1016/j.parint.2021.102531>10.1016/j.parint.2021.102531</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34929406</guid>
+      <pubDate>Mon, 20 Dec 2021 06:00:00 -0500</pubDate>
+      <dc:creator>Xiao Jin</dc:creator>
+      <dc:creator>Wenxiang Li</dc:creator>
+      <dc:creator>Yingyin Cheng</dc:creator>
+      <dc:creator>Ming Li</dc:creator>
+      <dc:creator>Shangong Wu</dc:creator>
+      <dc:creator>Hong Zou</dc:creator>
+      <dc:creator>Guitang Wang</dc:creator>
+      <dc:date>2021-12-20</dc:date>
+      <dc:source>Parasitology international</dc:source>
+      <dc:title>Description of Gyrodactylus banmae n. sp. (Monogenea, Gyrodactylidae) parasitic on zebrafish, Danio rerio</dc:title>
+      <dc:identifier>pmid:34929406</dc:identifier>
+      <dc:identifier>doi:10.1016/j.parint.2021.102531</dc:identifier>
+    </item>
+    <item>
+      <title>Propioniciclava soli sp. nov., isolated from forest soil, Yunnan, China, and reclassification of the genus Brevilactibacter into the genus Propioniciclava, and Brevilactibacter sinopodophylli, Brevilactibacter flavus, and Brevilactibacter coleopterorum as Propioniciclava sinopodophylli comb. nov., Propioniciclava flava comb. nov., and Propioniciclava coleopterorum comb. nov., respectively</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34928401/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211221120236&amp;v=2.16.2</link>
+      <description>A Gram-stain-positive, coccus-shaped, facultatively anaerobic, non-motile bacterial strain, designated YIM S02567^(T), was isolated from a forest soil sample collected from Gejiu City, Yunnan Province, southwest PR China. Growth was observed at 10-45 °C, at pH 6.0-9.5, in the presence of up to 4.0% (w/v) NaCl on R2A medium. The results of 16S rRNA gene sequence similarity analysis showed that strain YIM S02567^(T) was most closely related to the type strain of Brevilactibacter sinopodophylli...</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">Arch Microbiol. 2021 Dec 20;204(1):39. doi: 10.1007/s00203-021-02621-y.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">A Gram-stain-positive, coccus-shaped, facultatively anaerobic, non-motile bacterial strain, designated YIM S02567<sup>T</sup>, was isolated from a forest soil sample collected from Gejiu City, Yunnan Province, southwest PR China. Growth was observed at 10-45 °C, at pH 6.0-9.5, in the presence of up to 4.0% (w/v) NaCl on R2A medium. The results of 16S rRNA gene sequence similarity analysis showed that strain YIM S02567<sup>T</sup> was most closely related to the type strain of Brevilactibacter sinopodophylli (95.4%) and Propioniciclava tarda (94.7%), and phylogenetic analysis based on genome data showed that strain YIM S02567<sup>T</sup> should be assigned to the genus Propioniciclava. The cell-wall diamino acid was meso-diaminopimelic acid. The major cellular fatty acids were identified as anteiso-C<sub>15:0</sub> and C<sub>16:0</sub>, and the major polar lipids were diphosphatidylglycerol, phosphatidylglycerol, and two unidentified glycolipids. The predominant menaquinone was MK-9(H<sub>4</sub>). The genomic DNA G + C content was 71.2 mol%. Based on the polyphasic taxonomic evidence, strain YIM S02567<sup>T</sup> is assigned to a novel member of the genus Propioniciclava, for which the name Propioniciclava soli sp. nov., (type strain YIM S02567<sup>T</sup> = CCTCC AB 2020128<sup>T</sup> = CGMCC 1.18504<sup>T</sup> = KCTC 49478<sup>T</sup>) is proposed. Furthermore, we propose the reclassification of Brevilactibacter as Propioniciclava gen. nov.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34928401/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211221120236&v=2.16.2">34928401</a> | DOI:<a href=https://doi.org/10.1007/s00203-021-02621-y>10.1007/s00203-021-02621-y</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34928401</guid>
+      <pubDate>Mon, 20 Dec 2021 06:00:00 -0500</pubDate>
+      <dc:creator>Le-Le Li</dc:creator>
+      <dc:creator>Jiang-Yuan Zhao</dc:creator>
+      <dc:creator>Yu Geng</dc:creator>
+      <dc:creator>Yu-Guang Zhou</dc:creator>
+      <dc:creator>Hui-Ren Yuan</dc:creator>
+      <dc:creator>Man Cai</dc:creator>
+      <dc:creator>Meng-Liang Wen</dc:creator>
+      <dc:creator>Ming-Gang Li</dc:creator>
+      <dc:creator>Shu-Kun Tang</dc:creator>
+      <dc:date>2021-12-20</dc:date>
+      <dc:source>Archives of microbiology</dc:source>
+      <dc:title>Propioniciclava soli sp. nov., isolated from forest soil, Yunnan, China, and reclassification of the genus Brevilactibacter into the genus Propioniciclava, and Brevilactibacter sinopodophylli, Brevilactibacter flavus, and Brevilactibacter coleopterorum as Propioniciclava sinopodophylli comb. nov., Propioniciclava flava comb. nov., and Propioniciclava coleopterorum comb. nov., respectively</dc:title>
+      <dc:identifier>pmid:34928401</dc:identifier>
+      <dc:identifier>doi:10.1007/s00203-021-02621-y</dc:identifier>
+    </item>
+    <item>
+      <title>A variety of highly divergent eukaryotic ssDNA viruses in sera of pigs</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34928204/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211221120236&amp;v=2.16.2</link>
+      <description>Over the last decade, viral metagenomics has been established as a non-targeted approach for identifying viruses in stock animals, including pigs. This has led to the identification of a vast diversity of small circular ssDNA viruses. The present study focuses on the investigation of eukaryotic circular Rep-encoding single-stranded (CRESS) DNA viral genomes present in serum of commercially reared pigs from southern Brazil. Several CRESS DNA viral genomes were detected, including representatives...</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">J Gen Virol. 2021 Dec;102(12). doi: 10.1099/jgv.0.001706.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Over the last decade, viral metagenomics has been established as a non-targeted approach for identifying viruses in stock animals, including pigs. This has led to the identification of a vast diversity of small circular ssDNA viruses. The present study focuses on the investigation of eukaryotic circular Rep-encoding single-stranded (CRESS) DNA viral genomes present in serum of commercially reared pigs from southern Brazil. Several CRESS DNA viral genomes were detected, including representatives of the families <i>Smacoviridae</i> (<i>n</i>=5), <i>Genomoviridae</i> (<i>n</i>=3), <i>Redondoviridae</i> (<i>n</i>=1), <i>Nenyaviridae</i> (<i>n</i>=1) and other yet unclassified genomes (<i>n</i>=9), plus a circular DNA molecule, which probably belongs to the phylum <i>Cressdnaviricota</i>. A novel genus within the family <i>Smacoviridae,</i> tentatively named '<i>Suismacovirus</i>', comprising 21 potential new species, is proposed. Although the reported genomes were recovered from pigs with clinical signs of respiratory disease, further studies should examine their potential role as pathogens. Nonetheless, these findings highlight the diversity of circular ssDNA viruses in serum of domestic pigs, expand the knowledge on CRESS DNA viruses' genetic diversity and distribution and contribute to the global picture of the virome of commercially reared pigs.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34928204/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211221120236&v=2.16.2">34928204</a> | DOI:<a href=https://doi.org/10.1099/jgv.0.001706>10.1099/jgv.0.001706</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34928204</guid>
+      <pubDate>Mon, 20 Dec 2021 06:00:00 -0500</pubDate>
+      <dc:creator>Caroline Tochetto</dc:creator>
+      <dc:creator>Samuel Paulo Cibulski</dc:creator>
+      <dc:creator>Ana Paula Muterle Varela</dc:creator>
+      <dc:creator>Cristine Cerva</dc:creator>
+      <dc:creator>Diane Alves de Lima</dc:creator>
+      <dc:creator>Thais Fumaco Teixeira</dc:creator>
+      <dc:creator>Fabiana Quoos Mayer</dc:creator>
+      <dc:creator>Paulo Michel Roehe</dc:creator>
+      <dc:date>2021-12-20</dc:date>
+      <dc:source>The Journal of general virology</dc:source>
+      <dc:title>A variety of highly divergent eukaryotic ssDNA viruses in sera of pigs</dc:title>
+      <dc:identifier>pmid:34928204</dc:identifier>
+      <dc:identifier>doi:10.1099/jgv.0.001706</dc:identifier>
+    </item>
+    <item>
+      <title>Nocardioides donggukensis sp. nov. and Hyunsoonleella aquatilis sp. nov., isolated from Jeongbang Waterfall on Jeju Island</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34928203/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211221120236&amp;v=2.16.2</link>
+      <description>Two bacterial strains, designated MJB4^(T) and SJ7^(T), were isolated from water samples collected from Jeongbang Falls on Jeju Island, Republic of Korea. Phylogenetic analysis of 16S rRNA gene sequences indicated that the two strains belonged to the genera Nocardioides and Hyunsoonleella, owing to their high similarities to Nocardioides jensenii DSM 29641^(T) (97.5 %) and Hyunsoonleella rubra FA042 ^(T) (96.3 %), respectively. These values are much lower than the gold standard for bacterial...</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">Int J Syst Evol Microbiol. 2021 Dec;71(12). doi: 10.1099/ijsem.0.005176.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Two bacterial strains, designated MJB4<sup>T</sup> and SJ7<sup>T</sup>, were isolated from water samples collected from Jeongbang Falls on Jeju Island, Republic of Korea. Phylogenetic analysis of 16S rRNA gene sequences indicated that the two strains belonged to the genera <i>Nocardioides</i> and <i>Hyunsoonleella</i>, owing to their high similarities to <i>Nocardioides jensenii</i> DSM 29641<sup>T</sup> (97.5 %) and <i>Hyunsoonleella rubra</i> FA042 <sup>T</sup> (96.3 %), respectively. These values are much lower than the gold standard for bacterial species (98.7 %). The average nucleotide identity values between strains MJB4<sup>T</sup>, SJ7<sup>T</sup> and the reference strains, <i>Nocardioides jensenii</i> DSM 29641<sup>T</sup>, <i>Nocardioides daejeonensis</i> MJ31<sup>T</sup> and <i>Hyunsoonleella flava</i> T58<sup>T</sup> were 77.2, 75.9 and 75.4 %, respectively. Strains MJB4<sup>T</sup> and SJ7<sup>T</sup> and the type strains of the species involved in system incidence have average nucleotide identity and average amino acid threshold values of 60.1-82.6 % for the species boundary (95-96 %), which confirms that strains MJB4<sup>T</sup> and SJ7<sup>T</sup> represent two new species of genus <i>Nocardioides</i> and <i>Hyunsoonleella</i>, respectively. Based on phylogenetic and phenotypic data, strains MJB4<sup>T</sup> and SJ7<sup>T</sup> are considered to represent novel species of the genus <i>Nocardioides</i> and <i>Hyunsoonleella</i>, respectively, for which the names <i>Nocardioides donggukensis</i> sp. nov. (type strain MJB4<sup>T</sup>=KACC 21724<sup>T</sup>=NBRC 114402<sup>T</sup>) and <i>Hyunsoonleella aquatilis</i> sp. nov., (type strain SJ7<sup>T</sup>=KACC 21715<sup>T</sup>=NBRC 114486<sup>T</sup>) have been proposed.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34928203/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211221120236&v=2.16.2">34928203</a> | DOI:<a href=https://doi.org/10.1099/ijsem.0.005176>10.1099/ijsem.0.005176</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34928203</guid>
+      <pubDate>Mon, 20 Dec 2021 06:00:00 -0500</pubDate>
+      <dc:creator>Inhyup Kim</dc:creator>
+      <dc:creator>Geeta Chhetri</dc:creator>
+      <dc:creator>Jiyoun Kim</dc:creator>
+      <dc:creator>Minchung Kang</dc:creator>
+      <dc:creator>Yoonseop So</dc:creator>
+      <dc:creator>Byungjo Lee</dc:creator>
+      <dc:creator>Wonhee Jang</dc:creator>
+      <dc:creator>Taegun Seo</dc:creator>
+      <dc:date>2021-12-20</dc:date>
+      <dc:source>International journal of systematic and evolutionary microbiology</dc:source>
+      <dc:title>Nocardioides donggukensis sp. nov. and Hyunsoonleella aquatilis sp. nov., isolated from Jeongbang Waterfall on Jeju Island</dc:title>
+      <dc:identifier>pmid:34928203</dc:identifier>
+      <dc:identifier>doi:10.1099/ijsem.0.005176</dc:identifier>
+    </item>
+    <item>
+      <title>Nocardia acididurans sp. nov., an acid-tolerant actinobacterium isolated from bio-fertilizer of Musa species</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34928201/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211221120236&amp;v=2.16.2</link>
+      <description>A novel acid-tolerant actinobacterium (strain LPG 2^(T)), which formed fragmented substrate mycelia, was isolated from bio-fertiliser of Musa spp. collected from Lampang Province, Thailand. Its morphological and chemotaxonomic properties, e.g., the presence of mycolic acid and MK-8 (H(4ω-cycl)) in the cells, showed that strain LPG 2^(T) was a member of the genus Nocardia. 16S rRNA gene sequence analysis revealed that this strain was closely related to Nocardia otitidiscaviarum NBRC 14405^(T)...</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">Int J Syst Evol Microbiol. 2021 Dec;71(12). doi: 10.1099/ijsem.0.005170.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">A novel acid-tolerant actinobacterium (strain LPG 2<sup>T</sup>), which formed fragmented substrate mycelia, was isolated from bio-fertiliser of <i>Musa</i> spp. collected from Lampang Province, Thailand. Its morphological and chemotaxonomic properties, e.g., the presence of mycolic acid and MK-8 (H<sub>4ω-cycl</sub>) in the cells, showed that strain LPG 2<sup>T</sup> was a member of the genus <i>Nocardia</i>. 16S rRNA gene sequence analysis revealed that this strain was closely related to <i>Nocardia otitidiscaviarum</i> NBRC 14405<sup>T</sup> (98.7 %). The low average nucleotide identity-blast and digital DNA-DNA hybridization values (&lt;78.6 and &lt;24.0 %, respectively), and several phenotypic differences between strain LPG 2<sup>T</sup> and its related <i>Nocardia</i> type strains, indicated that the strain merits classification as representing a novel species of the genus <i>Nocardia</i>, for which we propose the name <i>Nocardia acididurans</i> sp. nov. The type strain is LPG 2<sup>T</sup> (=TBRC 11242<sup>T</sup>=NBRC 114293<sup>T</sup>).</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34928201/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211221120236&v=2.16.2">34928201</a> | DOI:<a href=https://doi.org/10.1099/ijsem.0.005170>10.1099/ijsem.0.005170</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34928201</guid>
+      <pubDate>Mon, 20 Dec 2021 06:00:00 -0500</pubDate>
+      <dc:creator>Narissara Sirireung</dc:creator>
+      <dc:creator>Thitikorn Duangupama</dc:creator>
+      <dc:creator>Chanwit Suriyachadkun</dc:creator>
+      <dc:creator>Chitti Thawai</dc:creator>
+      <dc:date>2021-12-20</dc:date>
+      <dc:source>International journal of systematic and evolutionary microbiology</dc:source>
+      <dc:title>Nocardia acididurans sp. nov., an acid-tolerant actinobacterium isolated from bio-fertilizer of Musa species</dc:title>
+      <dc:identifier>pmid:34928201</dc:identifier>
+      <dc:identifier>doi:10.1099/ijsem.0.005170</dc:identifier>
+    </item>
+    <item>
+      <title>Isolation and agricultural potential of penicillic acid against citrus canker</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34927315/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211221120236&amp;v=2.16.2</link>
+      <description>CONCLUSION: Penicillic acid can be an alternative against citrus canker.</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">J Appl Microbiol. 2021 Dec 20. doi: 10.1111/jam.15413. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">AIMS: The control of Xanthomonas citri subsp. citri (X. citri), causal agent of citrus canker, relies heavily in integrated agricultural practices involving the use of copper-based chemicals. Considering the need for alternatives to control this disease and the potential of fungi from extreme regions as producers of bioactive metabolites, we isolated and identified a bioactive compound from Penicillium sp. CRM 1540 isolated from Antarctica marine sediment.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS AND RESULTS: The compound potential as an antibacterial agent against X. citri was assessed through in vitro and greenhouse experiments. Molecular taxonomy indicates this fungus is a possible new species of Penicillium. The results revealed 90% inhibition at 25 µg mL<sup>-1</sup> in vitro and a decrease in symptoms emergency for the in vivo experiment in Citrus sinensis (L.) Osbeck leaves. The number of lesions per cm² for the treatment with the isolated compound was 75.31% smaller and significantly different (p &lt;0.05) from the untreated control. The structure of the active agent was identified as penicillic acid based on detailed spectroscopic analysis.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSION: Penicillic acid can be an alternative against citrus canker.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">SIGNIFICANCE AND IMPACT OF STUDY: Research on extremophile microorganisms can lead to molecules with biotechnological potential and alternatives to current agriculture practices.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34927315/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211221120236&v=2.16.2">34927315</a> | DOI:<a href=https://doi.org/10.1111/jam.15413>10.1111/jam.15413</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34927315</guid>
+      <pubDate>Mon, 20 Dec 2021 06:00:00 -0500</pubDate>
+      <dc:creator>Gabrielle Vieira</dc:creator>
+      <dc:creator>Zeinab G Khalil</dc:creator>
+      <dc:creator>Robert J Capon</dc:creator>
+      <dc:creator>Lara Durães Sette</dc:creator>
+      <dc:creator>Henrique Ferreira</dc:creator>
+      <dc:creator>Daiane Cristina Sass</dc:creator>
+      <dc:date>2021-12-20</dc:date>
+      <dc:source>Journal of applied microbiology</dc:source>
+      <dc:title>Isolation and agricultural potential of penicillic acid against citrus canker</dc:title>
+      <dc:identifier>pmid:34927315</dc:identifier>
+      <dc:identifier>doi:10.1111/jam.15413</dc:identifier>
+    </item>
+    <item>
+      <title>A Carboniferous synapsid with caniniform teeth and a reappraisal of mandibular size-shape heterodonty in the origin of mammals</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34925870/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211221120236&amp;v=2.16.2</link>
+      <description>Heterodonty is a hallmark of early mammal evolution that originated among the non-mammalian therapsids by the Middle Permian. Nonetheless, the early evolution of heterodonty in basal synapsids is poorly understood, especially in the mandibular dentition. Here, we describe a new synapsid, Shashajaia bermani gen. et sp. nov., based on a well-preserved dentary and jaw fragments from the Carboniferous-Permian Halgaito Formation of southern Utah. Shashajaia shares with some sphenacodontids enlarged...</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">R Soc Open Sci. 2021 Dec 15;8(12):211237. doi: 10.1098/rsos.211237. eCollection 2021 Dec.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Heterodonty is a hallmark of early mammal evolution that originated among the non-mammalian therapsids by the Middle Permian. Nonetheless, the early evolution of heterodonty in basal synapsids is poorly understood, especially in the mandibular dentition. Here, we describe a new synapsid, <i>Shashajaia bermani</i> gen. et sp. nov., based on a well-preserved dentary and jaw fragments from the Carboniferous-Permian Halgaito Formation of southern Utah. <i>Shashajaia</i> shares with some sphenacodontids enlarged (canine-like) anterior dentary teeth, a dorsoventrally deep symphysis and low-crowned, subthecodont postcanines having festooned plicidentine. A phylogenetic analysis of 20 taxa and 154 characters places <i>Shashajaia</i> near the evolutionary divergence of Sphenacodontidae and Therapsida (Sphenacodontoidea). To investigate the ecomorphological context of Palaeozoic sphenacodontoid dentitions, we performed a principal component analysis based on two-dimensional geometric morphometrics of the mandibular dentition in 65 synapsids. Results emphasize the increasing terrestrialization of predator-prey interactions as a driver of synapsid heterodonty; enhanced raptorial biting (puncture/gripping) aided prey capture, but this behaviour was probably an evolutionary antecedent to more complex processing (shearing/tearing) of larger herbivore prey by the late Early to Middle Permian. The record of <i>Shashajaia</i> supports the notion that the predatory feeding ecology of sphenacodontoids emerged in palaeotropical western Pangea by late Carboniferous times.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34925870/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211221120236&v=2.16.2">34925870</a> | PMC:<a href="https://www.ncbi.nlm.nih.gov/pmc/PMC8672069/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211221120236&v=2.16.2">PMC8672069</a> | DOI:<a href=https://doi.org/10.1098/rsos.211237>10.1098/rsos.211237</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34925870</guid>
+      <pubDate>Mon, 20 Dec 2021 06:00:00 -0500</pubDate>
+      <dc:creator>Adam K Huttenlocker</dc:creator>
+      <dc:creator>Suresh A Singh</dc:creator>
+      <dc:creator>Amy C Henrici</dc:creator>
+      <dc:creator>Stuart S Sumida</dc:creator>
+      <dc:date>2021-12-20</dc:date>
+      <dc:source>Royal Society open science</dc:source>
+      <dc:title>A Carboniferous synapsid with caniniform teeth and a reappraisal of mandibular size-shape heterodonty in the origin of mammals</dc:title>
+      <dc:identifier>pmid:34925870</dc:identifier>
+      <dc:identifier>pmc:PMC8672069</dc:identifier>
+      <dc:identifier>doi:10.1098/rsos.211237</dc:identifier>
+    </item>
+    <item>
+      <title>Techno-species in the Becoming Towards a Relational Ontology of Multi-species Assemblages (ROMA)</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34925635/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211221120236&amp;v=2.16.2</link>
+      <description>Robots equipped with artificial intelligence pose a huge challenge to traditional ontological differentiations between the spheres of the human and the non-human. Drawing mainly from neo-animistic and perspectivist approaches in anthropology and science and technology studies, the paper explores the potential of new forms of interconnectedness and rhizomatic entanglements between humans and a world transcending the boundaries between species and material spheres. We argue that intelligent robots...</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">Nanoethics. 2021 Dec 13:1-11. doi: 10.1007/s11569-021-00401-y. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Robots equipped with artificial intelligence pose a huge challenge to traditional ontological differentiations between the spheres of the human and the non-human. Drawing mainly from neo-animistic and perspectivist approaches in anthropology and science and technology studies, the paper explores the potential of new forms of interconnectedness and rhizomatic entanglements between humans and a world transcending the boundaries between species and material spheres. We argue that intelligent robots meet virtually all criteria Western biology came up with to define 'life' and that it ultimately makes sense to recognize them as a new species that is part of our social universe. Contrasting dualistic concepts of man and nature with a monistic approach, we show that traditional properties of life (agency, self-replication, etc.) may apply to artefacts and that, once we accept the idea that social relationships are ultimately open connections to matter of any kind, the seemingly strict boundaries between species and material spheres can no longer be sustained. Instead, we propose to include 'matter' and ideas into the sphere of the social as agents in their own right to form a <i>relational ontology of multi-species assemblages</i> (ROMA).</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34925635/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211221120236&v=2.16.2">34925635</a> | PMC:<a href="https://www.ncbi.nlm.nih.gov/pmc/PMC8667527/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211221120236&v=2.16.2">PMC8667527</a> | DOI:<a href=https://doi.org/10.1007/s11569-021-00401-y>10.1007/s11569-021-00401-y</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34925635</guid>
+      <pubDate>Mon, 20 Dec 2021 06:00:00 -0500</pubDate>
+      <dc:creator>Tanja Kubes</dc:creator>
+      <dc:creator>Thomas Reinhardt</dc:creator>
+      <dc:date>2021-12-20</dc:date>
+      <dc:source>Nanoethics</dc:source>
+      <dc:title>Techno-species in the Becoming Towards a Relational Ontology of Multi-species Assemblages (ROMA)</dc:title>
+      <dc:identifier>pmid:34925635</dc:identifier>
+      <dc:identifier>pmc:PMC8667527</dc:identifier>
+      <dc:identifier>doi:10.1007/s11569-021-00401-y</dc:identifier>
+    </item>
+    <item>
+      <title>Ancient Metabolisms of a Thermophilic Subseafloor Bacterium</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34925271/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211221120236&amp;v=2.16.2</link>
+      <description>The ancient origins of metabolism may be rooted deep in oceanic crust, and these early metabolisms may have persisted in the habitable thermal anoxic aquifer where conditions remain similar to those when they first appeared. The Wood-Ljungdahl pathway for acetogenesis is a key early biosynthetic pathway with the potential to influence ocean chemistry and productivity, but its contemporary role in oceanic crust is not well established. Here, we describe the genome of a novel acetogen from a...</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">Front Microbiol. 2021 Dec 1;12:764631. doi: 10.3389/fmicb.2021.764631. eCollection 2021.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">The ancient origins of metabolism may be rooted deep in oceanic crust, and these early metabolisms may have persisted in the habitable thermal anoxic aquifer where conditions remain similar to those when they first appeared. The Wood-Ljungdahl pathway for acetogenesis is a key early biosynthetic pathway with the potential to influence ocean chemistry and productivity, but its contemporary role in oceanic crust is not well established. Here, we describe the genome of a novel acetogen from a thermal suboceanic aquifer olivine biofilm in the basaltic crust of the Juan de Fuca Ridge (JdFR) whose genome suggests it may utilize an ancient chemosynthetic lifestyle. This organism encodes the genes for the complete canonical Wood-Ljungdahl pathway, but is potentially unable to use sulfate and certain organic carbon sources such as lipids and carbohydrates to supplement its energy requirements, unlike other known acetogens. Instead, this organism may use peptides and amino acids for energy or as organic carbon sources. Additionally, genes involved in surface adhesion, the import of metallic cations found in Fe-bearing minerals, and use of molecular hydrogen, a product of serpentinization reactions between water and olivine, are prevalent within the genome. These adaptations are likely a reflection of local environmental micro-niches, where cells are adapted to life in biofilms using ancient chemosynthetic metabolisms dependent on H<sub>2</sub> and iron minerals. Since this organism is phylogenetically distinct from a related acetogenic group of Clostridiales, we propose it as a new species, <i>Candidatus</i> Acetocimmeria pyornia.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34925271/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211221120236&v=2.16.2">34925271</a> | PMC:<a href="https://www.ncbi.nlm.nih.gov/pmc/PMC8671834/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211221120236&v=2.16.2">PMC8671834</a> | DOI:<a href=https://doi.org/10.3389/fmicb.2021.764631>10.3389/fmicb.2021.764631</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34925271</guid>
+      <pubDate>Mon, 20 Dec 2021 06:00:00 -0500</pubDate>
+      <dc:creator>Amy R Smith</dc:creator>
+      <dc:creator>Ryan Mueller</dc:creator>
+      <dc:creator>Martin R Fisk</dc:creator>
+      <dc:creator>Frederick S Colwell</dc:creator>
+      <dc:date>2021-12-20</dc:date>
+      <dc:source>Frontiers in microbiology</dc:source>
+      <dc:title>Ancient Metabolisms of a Thermophilic Subseafloor Bacterium</dc:title>
+      <dc:identifier>pmid:34925271</dc:identifier>
+      <dc:identifier>pmc:PMC8671834</dc:identifier>
+      <dc:identifier>doi:10.3389/fmicb.2021.764631</dc:identifier>
+    </item>
+    <item>
+      <title>Taxonomic and phylogenetic studies on two new freshwater Amphileptus species (Ciliophora, Pleurostomatida), from Lake Weishan, northern China</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34922136/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211221120236&amp;v=2.16.2</link>
+      <description>The morphology and phylogeny of two new species of pleurostomatid ciliates, Amphilepus weishanensis sp. nov. and A. parapleurosigma sp. nov., collected from Lake Weishan in northern China, were studied using live observation, protargol staining and phylogenetic analyses based on small subunit ribosomal DNA (SSU rDNA) sequence data. In both species, extrusomes form an apical group and contractile vacuoles are distributed along both the dorsal and the ventral margin. Amphileptus weishanensis sp....</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur J Protistol. 2021 Dec 3;82:125854. doi: 10.1016/j.ejop.2021.125854. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">The morphology and phylogeny of two new species of pleurostomatid ciliates, Amphilepus weishanensis sp. nov. and A. parapleurosigma sp. nov., collected from Lake Weishan in northern China, were studied using live observation, protargol staining and phylogenetic analyses based on small subunit ribosomal DNA (SSU rDNA) sequence data. In both species, extrusomes form an apical group and contractile vacuoles are distributed along both the dorsal and the ventral margin. Amphileptus weishanensis sp. nov. is characterized by its body size (560-780 × 60-100 μm in vivo) and the possession of five left and 56-61 right somatic kineties, filiform extrusomes and 3-9 macronuclear nodules. Amphileptus parapleurosigma sp. nov. is characterized by possessing 4-6 left and 19-24 right somatic kineties and clavate extrusomes. The SSU rDNA sequences differ among ten similar species by 3-60 bp. Phylogenetic analyses based on the SSU rDNA sequences indicate that the family Amphileptidae is monophyletic while Amphileptus is paraphyletic with Pseudoamphileptus nesting within this genus.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34922136/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211221120236&v=2.16.2">34922136</a> | DOI:<a href=https://doi.org/10.1016/j.ejop.2021.125854>10.1016/j.ejop.2021.125854</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34922136</guid>
+      <pubDate>Sat, 18 Dec 2021 06:00:00 -0500</pubDate>
+      <dc:creator>Gongaote Zhang</dc:creator>
+      <dc:creator>Yong Chi</dc:creator>
+      <dc:creator>Zhe Wang</dc:creator>
+      <dc:creator>Ya Wang</dc:creator>
+      <dc:creator>Ran Liu</dc:creator>
+      <dc:creator>Alan Warren</dc:creator>
+      <dc:creator>Yan Zhao</dc:creator>
+      <dc:creator>Hongbo Pan</dc:creator>
+      <dc:date>2021-12-18</dc:date>
+      <dc:source>European journal of protistology</dc:source>
+      <dc:title>Taxonomic and phylogenetic studies on two new freshwater Amphileptus species (Ciliophora, Pleurostomatida), from Lake Weishan, northern China</dc:title>
+      <dc:identifier>pmid:34922136</dc:identifier>
+      <dc:identifier>doi:10.1016/j.ejop.2021.125854</dc:identifier>
+    </item>
+    <item>
+      <title>Gammarinema scyllae sp. n. and Monhystrium mangrovi sp. n. (Nematoda: Monhysteridae) from land crabs from New Caledonia</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34921651/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211221120236&amp;v=2.16.2</link>
+      <description>Two new species of nematodes associated with crabs are described from New Caledonia. Gammarinema scyllae sp. n. from the gill chambers of Scylla serrata (Forsskål) is characterised by 3-4 mm long body, small outer labial and cephalic sensilla, distinct ocelli, short straight spicules and sub-cylindrical tail. Monhystrium mangrovi sp. n. from the gill chambers and body cavity of mangrove crab Neosarmatium sp. is characterised by 1-1.4 mm long body; outer labial sensilla longer than cephalic...</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">Syst Parasitol. 2021 Dec 18. doi: 10.1007/s11230-021-10017-1. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Two new species of nematodes associated with crabs are described from New Caledonia. Gammarinema scyllae sp. n. from the gill chambers of Scylla serrata (Forsskål) is characterised by 3-4 mm long body, small outer labial and cephalic sensilla, distinct ocelli, short straight spicules and sub-cylindrical tail. Monhystrium mangrovi sp. n. from the gill chambers and body cavity of mangrove crab Neosarmatium sp. is characterised by 1-1.4 mm long body; outer labial sensilla longer than cephalic sensilla, amphid located at level with posterior stoma chamber, denticles in posterior stoma chamber and five pairs of genital papilla on tail. Phylogenetic relationships of two new species and other nematodes from the family Monhysteridae are analysed based on 18S and partial 28S rDNA sequences.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34921651/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211221120236&v=2.16.2">34921651</a> | DOI:<a href=https://doi.org/10.1007/s11230-021-10017-1>10.1007/s11230-021-10017-1</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34921651</guid>
+      <pubDate>Sat, 18 Dec 2021 06:00:00 -0500</pubDate>
+      <dc:creator>Rickard Westerman</dc:creator>
+      <dc:creator>Mohammed Ahmed</dc:creator>
+      <dc:creator>Oleksandr Holovachov</dc:creator>
+      <dc:date>2021-12-18</dc:date>
+      <dc:source>Systematic parasitology</dc:source>
+      <dc:title>Gammarinema scyllae sp. n. and Monhystrium mangrovi sp. n. (Nematoda: Monhysteridae) from land crabs from New Caledonia</dc:title>
+      <dc:identifier>pmid:34921651</dc:identifier>
+      <dc:identifier>doi:10.1007/s11230-021-10017-1</dc:identifier>
+    </item>
+    <item>
+      <title>Mesorhizobium xinjiangense sp. nov., isolated from rhizosphere soil of Alhagi sparsifolia</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34921611/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211221120236&amp;v=2.16.2</link>
+      <description>A beige-pigmented, Gram-strain-negative, aerobic, rod-shaped, non-flagellated and non-gliding bacterium, designated strain lm94^(T), was isolated from rhizosphere soil of Alhagi sparsifolia obtained from Alar city, located in Xinjiang province, China. Growth occurred at 20-45 °C (optimum, 37 °C), in the presence of 0-6% (w/v) NaCl (optimum, 0-1%) and at pH 6.0-9.5 (optimum, pH 7.0-7.5). Phylogenetic analysis based on 16S rRNA gene sequence showed that strain lm94^(T) belonged to the genus...</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">Arch Microbiol. 2021 Dec 18;204(1):29. doi: 10.1007/s00203-021-02686-9.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">A beige-pigmented, Gram-strain-negative, aerobic, rod-shaped, non-flagellated and non-gliding bacterium, designated strain lm94<sup>T</sup>, was isolated from rhizosphere soil of Alhagi sparsifolia obtained from Alar city, located in Xinjiang province, China. Growth occurred at 20-45 °C (optimum, 37 °C), in the presence of 0-6% (w/v) NaCl (optimum, 0-1%) and at pH 6.0-9.5 (optimum, pH 7.0-7.5). Phylogenetic analysis based on 16S rRNA gene sequence showed that strain lm94<sup>T</sup> belonged to the genus Mesorhizobium, with highest sequence similarity to Mesorhizobium wenxiniae WYCCWR 10195<sup>T</sup> (96.6%). Genome sequencing revealed a genome size of 5 256 375 bp and a G + C content of 63.6 mol%. The average nucleotide identity value and the digital DNA-DNA hybridization value between strain lm94<sup>T</sup> and M. wenxiniae LMG 30254<sup>T</sup> were 75.0% and 20.0%, respectively. The major respiratory quinone was Q-10. The major fatty acids were C<sub>19:0</sub> cyclo ω8c and Summed Feature 8 (C<sub>18:1</sub> ω6c and/or C<sub>18:1</sub> ω7c) and its polar lipids consisted of phosphatidylethanolamine (PE), phosphatidylglycerol (PG), unidentified phospholipid (PL), phosphatidylcholine (PC), diphosphatidylglycerol (DPG), unidentified aminolipid (AL), unknown glycolipid (GL), unidentified aminophospholipid (APL2) and unidentified polar lipid (L1 and L2). On the basis of these data, strain lm94<sup>T</sup> is considered to represent a novel species of the genus Mesorhizobium, for which the name Mesorhizobium xinjiangense sp. nov. is proposed. The type strain is lm94<sup>T</sup> (=KCTC 72863<sup>T</sup>=CCTCC AB2019377<sup>T</sup>).</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34921611/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211221120236&v=2.16.2">34921611</a> | DOI:<a href=https://doi.org/10.1007/s00203-021-02686-9>10.1007/s00203-021-02686-9</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34921611</guid>
+      <pubDate>Sat, 18 Dec 2021 06:00:00 -0500</pubDate>
+      <dc:creator>Dong Meng</dc:creator>
+      <dc:creator>Yu-Ling Liu</dc:creator>
+      <dc:creator>Jun-Jie Zhang</dc:creator>
+      <dc:creator>Peng-Fei Gu</dc:creator>
+      <dc:creator>Xiang-Yu Fan</dc:creator>
+      <dc:creator>Zhao-Song Huang</dc:creator>
+      <dc:creator>Yan Ji</dc:creator>
+      <dc:creator>Heng Meng</dc:creator>
+      <dc:creator>Zong-Jun Du</dc:creator>
+      <dc:creator>Wei-Min Li</dc:creator>
+      <dc:creator>Qiang Li</dc:creator>
+      <dc:date>2021-12-18</dc:date>
+      <dc:source>Archives of microbiology</dc:source>
+      <dc:title>Mesorhizobium xinjiangense sp. nov., isolated from rhizosphere soil of Alhagi sparsifolia</dc:title>
+      <dc:identifier>pmid:34921611</dc:identifier>
+      <dc:identifier>doi:10.1007/s00203-021-02686-9</dc:identifier>
+    </item>
+    <item>
+      <title>Comparative genome characterization of Echinicola marina sp. nov., isolated from deep-sea sediment provide insight into carotenoid biosynthetic gene cluster evolution</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34921217/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211221120236&amp;v=2.16.2</link>
+      <description>Echinicola, carotenoid-pigmented bacteria, are isolated from various hypersaline environments. Carotenoid accumulation in response to salt stress can stabilize the cell membrane in order to survive. A pink-colored strain SCS 3-6 was isolated from the deep-sea sediment of the South China Sea. Growth was found to occur at 10-45 °C. The strain could tolerate 10% (w/v) NaCl concentration and grow at pH 5-9. The complete genome of SCS 3-6 comprises 5053 putative genes with a total 5,693,670 bp and an...</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">Sci Rep. 2021 Dec 17;11(1):24188. doi: 10.1038/s41598-021-03683-0.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Echinicola, carotenoid-pigmented bacteria, are isolated from various hypersaline environments. Carotenoid accumulation in response to salt stress can stabilize the cell membrane in order to survive. A pink-colored strain SCS 3-6 was isolated from the deep-sea sediment of the South China Sea. Growth was found to occur at 10-45 °C. The strain could tolerate 10% (w/v) NaCl concentration and grow at pH 5-9. The complete genome of SCS 3-6 comprises 5053 putative genes with a total 5,693,670 bp and an average G + C content of 40.11 mol%. The 16S rRNA gene sequence analysis indicated that strain SCS 3-6 was affiliated with the genus Echinicola, with the closely strains were Echinicola arenosa CAU 1574<sup>T</sup> (98.29%)and Echinicola shivajiensis AK12<sup>T</sup> (97.98%). For Echinicola species with available genome sequences, pairwise comparisons for average nucleotide identity (ANI) and in silico DNA-DNA hybridization (DDH) revealed ANIb values from 70.77 to 74.71%, ANIm values from 82.72 to 88.88%, and DDH values from 18.00 to 23.40%. To identify their genomic features, we compared their genomes with those of other Echinicola species. Phylogenetic analysis showed that strain SCS 3-6 formed a monophyletic clade. Genomic analysis revealed that strain SCS 3-6 possessed a complete synthetic pathway of carotenoid and speculated that the production was astaxanthin. Based on phenotypic and genotypic analyses in this study, strain SCS 3-6 is considered to represent a novel species of the genus Echinicola for which the name Echinicola marina sp. nov. is proposed. The type strain is SCS 3-6<sup>T</sup> (= GDMCC 1.2220<sup>T</sup> = JCM 34403<sup>T</sup>).</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34921217/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211221120236&v=2.16.2">34921217</a> | DOI:<a href=https://doi.org/10.1038/s41598-021-03683-0>10.1038/s41598-021-03683-0</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34921217</guid>
+      <pubDate>Sat, 18 Dec 2021 06:00:00 -0500</pubDate>
+      <dc:creator>Yu Pang</dc:creator>
+      <dc:creator>Mengru Chen</dc:creator>
+      <dc:creator>Wei Lu</dc:creator>
+      <dc:creator>Ming Chen</dc:creator>
+      <dc:creator>Yongliang Yan</dc:creator>
+      <dc:creator>Min Lin</dc:creator>
+      <dc:creator>Wei Zhang</dc:creator>
+      <dc:creator>Zhengfu Zhou</dc:creator>
+      <dc:date>2021-12-18</dc:date>
+      <dc:source>Scientific reports</dc:source>
+      <dc:title>Comparative genome characterization of Echinicola marina sp. nov., isolated from deep-sea sediment provide insight into carotenoid biosynthetic gene cluster evolution</dc:title>
+      <dc:identifier>pmid:34921217</dc:identifier>
+      <dc:identifier>doi:10.1038/s41598-021-03683-0</dc:identifier>
+    </item>
+    <item>
+      <title>Morphology of the oldest fossil subfamily of Limoniidae (Diptera, Architipulinae) in the light of exceptionally preserved Mesozoic material</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34921169/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211221120236&amp;v=2.16.2</link>
+      <description>Based on known fossil evidence the extinct subfamily Architipulinae is considered to be the oldest evolutionary group of the Limoniidae, the largest family within the infraorder Tipulomorpha. The morphology of this subfamily, which includes 11 genera, has so far been based mainly on wing venation. New well-preserved representatives of the genus Cretolimonia Kalugina, 1986 were recovered from the Jurassic/Cretaceous boundary of Shevia and Daya, Transbaikalia, as well as from mid-Cretaceous amber...</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">Sci Rep. 2021 Dec 17;11(1):24137. doi: 10.1038/s41598-021-03350-4.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Based on known fossil evidence the extinct subfamily Architipulinae is considered to be the oldest evolutionary group of the Limoniidae, the largest family within the infraorder Tipulomorpha. The morphology of this subfamily, which includes 11 genera, has so far been based mainly on wing venation. New well-preserved representatives of the genus Cretolimonia Kalugina, 1986 were recovered from the Jurassic/Cretaceous boundary of Shevia and Daya, Transbaikalia, as well as from mid-Cretaceous amber from Kachin, Myanmar. This new material enriches our knowledge of the subfamily Architipulinae and of the genus Cretolimonia, and allows us to ascertain the detailed morphological structure of the female copulatory apparatus with spermathecae and the structure of the male hypopygium. The combination of detailed impression fossils with a specimen preserved three-dimensionally in resin has permitted study of the morphology of this Mesozoic fly genus almost to the level of modern genera. The paper includes descriptions of four new species of Cretolimonia: C. lukashevichae sp. nov., C. pseudojurassica sp. nov., C. dayana sp. nov. from sedimentary rocks, and C. mikolajczyki sp. nov. from Myanmar amber, supported with a key to all known species.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34921169/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211221120236&v=2.16.2">34921169</a> | DOI:<a href=https://doi.org/10.1038/s41598-021-03350-4>10.1038/s41598-021-03350-4</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34921169</guid>
+      <pubDate>Sat, 18 Dec 2021 06:00:00 -0500</pubDate>
+      <dc:creator>Katarzyna Kopeć</dc:creator>
+      <dc:creator>Agnieszka Soszyńska-Maj</dc:creator>
+      <dc:creator>Iwona Kania-Kłosok</dc:creator>
+      <dc:creator>Robert A Coram</dc:creator>
+      <dc:creator>Wiesław Krzemiński</dc:creator>
+      <dc:date>2021-12-18</dc:date>
+      <dc:source>Scientific reports</dc:source>
+      <dc:title>Morphology of the oldest fossil subfamily of Limoniidae (Diptera, Architipulinae) in the light of exceptionally preserved Mesozoic material</dc:title>
+      <dc:identifier>pmid:34921169</dc:identifier>
+      <dc:identifier>doi:10.1038/s41598-021-03350-4</dc:identifier>
+    </item>
+    <item>
+      <title>Past, present and future of the boundaries of the Pseudomonas genus: Proposal of Stutzerimonas gen. Nov</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/34920232/?utm_source=Mobile Safari UI/WKWebView&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&amp;fc=20211108074834&amp;ff=20211221120236&amp;v=2.16.2</link>
+      <description>Pseudomonas is one the best studied bacterial genera, and it is the genus with the highest number of species among the gram-negative bacteria. Pseudomonas spp. are widely distributed and play relevant ecological roles; several species are commensal or pathogenic to humans, animals and plants. The main aim of the present minireview is the discussion of how the Pseudomonas taxonomy has evolved with the development of bacterial taxonomy since the first description of the genus in 1894. We discuss...</description>
+      <content:encoded><![CDATA[<div><p style="color: #4aa564;">Syst Appl Microbiol. 2021 Dec 6;45(1):126289. doi: 10.1016/j.syapm.2021.126289. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Pseudomonas is one the best studied bacterial genera, and it is the genus with the highest number of species among the gram-negative bacteria. Pseudomonas spp. are widely distributed and play relevant ecological roles; several species are commensal or pathogenic to humans, animals and plants. The main aim of the present minireview is the discussion of how the Pseudomonas taxonomy has evolved with the development of bacterial taxonomy since the first description of the genus in 1894. We discuss how the successive implementation of novel methodologies has influenced the taxonomy of the genus and, vice versa, how the taxonomic studies developed in Pseudomonas have introduced novel tools and concepts to bacterial taxonomy. Current phylogenomic analyses of the family Pseudomonadaceae demonstrate that a considerable number of named Pseudomonas spp. are not monophyletic with P. aeruginosa, the type species of the genus, and that a reorganization of several genera can be foreseen. Phylogenomics of Pseudomonas, Azomonas and Azotobacter within the Pseudomonadaceae is presented as a case study. Five new genus names are delineated to accommodate five well-defined phylogenetic branches that are supported by the shared genes in each group, and two of them can be differentiated by physiological and ecological properties: the recently described genus Halopseudomonas and the genus Stutzerimonas proposed in the present study. Five former Pseudomonas species are transferred to Halopseudomonas and 10 species to Stutzerimonas.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/34920232/?utm_source=Mobile Safari UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20211221120236&v=2.16.2">34920232</a> | DOI:<a href=https://doi.org/10.1016/j.syapm.2021.126289>10.1016/j.syapm.2021.126289</a></p></div>]]></content:encoded>
+      <guid isPermaLink="false">pubmed:34920232</guid>
+      <pubDate>Fri, 17 Dec 2021 06:00:00 -0500</pubDate>
+      <dc:creator>Jorge Lalucat</dc:creator>
+      <dc:creator>Margarita Gomila</dc:creator>
+      <dc:creator>Magdalena Mulet</dc:creator>
+      <dc:creator>Anderson Zaruma</dc:creator>
+      <dc:creator>Elena García-Valdés</dc:creator>
+      <dc:date>2021-12-17</dc:date>
+      <dc:source>Systematic and applied microbiology</dc:source>
+      <dc:title>Past, present and future of the boundaries of the Pseudomonas genus: Proposal of Stutzerimonas gen. Nov</dc:title>
+      <dc:identifier>pmid:34920232</dc:identifier>
+      <dc:identifier>doi:10.1016/j.syapm.2021.126289</dc:identifier>
+    </item>
+  </channel>
+</rss>

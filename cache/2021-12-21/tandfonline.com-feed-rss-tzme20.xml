@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns="http://purl.org/rss/1.0/"
+         xmlns:cc="http://web.resource.org/cc/"
+         xmlns:content="http://purl.org/rss/1.0/modules/content/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">
+   <channel rdf:about="https://www.tandfonline.com/loi/tzme20?af=R">
+      <title>tandf: Zoology in the Middle East: Table of Contents</title>
+      <description>Table of Contents for Zoology in the Middle East. List of articles from both the latest and ahead of print issues.</description>
+      <link>https://www.tandfonline.com/loi/tzme20?af=R</link>
+      <dc:title>tandf: Zoology in the Middle East: Table of Contents</dc:title>
+      <dc:publisher>tandf</dc:publisher>
+      <dc:language>en-US</dc:language>
+      <prism:publicationName>Zoology in the Middle East</prism:publicationName>
+      <items>
+         <rdf:Seq>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1992835?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1992837?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1992836?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1949139?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1992834?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1957209?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1980968?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1980969?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1965072?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1980967?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1992838?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1965070?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1965071?af=R"/>
+         </rdf:Seq>
+      </items>
+   </channel>
+   <image rdf:about="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/tzme20/2021/tzme20.v067.i04/tzme20.v067.i04/20211027-01/tzme20.v067.i04.cover.jpg">
+      <title>Zoology in the Middle East</title>
+      <url>https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/tzme20/2021/tzme20.v067.i04/tzme20.v067.i04/20211027-01/tzme20.v067.i04.cover.jpg</url>
+      <link>https://www.tandfonline.com/loi/tzme20?af=R</link>
+   </image>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1992835?af=R">
+      <title>Taxonomic status of Dahl’s Jird, Meriones dahli, as inferred from cytochrome b and IRBP gene sequences (Mammalia: Rodentia)</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1992835?af=R</link>
+      <content:encoded>&lt;a href="/toc/tzme20/67/4"&gt;Volume 67, Issue 4&lt;/a&gt;, December 2021, Page 283-289&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 67, Issue 4, December 2021, Page 283-289&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Taxonomic status of Dahl’s Jird, Meriones dahli, as inferred from cytochrome b and IRBP gene sequences (Mammalia: Rodentia)</dc:title>
+      <dc:identifier>10.1080/09397140.2021.1992835</dc:identifier>
+      <dc:source>Zoology in the Middle East</dc:source>
+      <dc:date>2021-10-20T06:04:37Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Şafak Bulut</dc:creator>
+      <dc:creator>Gül Olgun Karacan</dc:creator>
+      <prism:publicationName>Taxonomic status of Dahl’s Jird, Meriones dahli, as inferred from cytochrome b and IRBP gene sequences (Mammalia: Rodentia)</prism:publicationName>
+      <prism:volume>67</prism:volume>
+      <prism:number>4</prism:number>
+      <prism:startingPage>283</prism:startingPage>
+      <prism:endingPage>289</prism:endingPage>
+      <prism:coverDate>2021-10-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-10-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/09397140.2021.1992835</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1992835?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1992837?af=R">
+      <title>Habitat use and seasonal activity of bats on a large eastern Mediterranean island: Insights from acoustic surveys (Mammalia: Chiroptera)</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1992837?af=R</link>
+      <content:encoded>&lt;a href="/toc/tzme20/67/4"&gt;Volume 67, Issue 4&lt;/a&gt;, December 2021, Page 290-301&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 67, Issue 4, December 2021, Page 290-301&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Habitat use and seasonal activity of bats on a large eastern Mediterranean island: Insights from acoustic surveys (Mammalia: Chiroptera)</dc:title>
+      <dc:identifier>10.1080/09397140.2021.1992837</dc:identifier>
+      <dc:source>Zoology in the Middle East</dc:source>
+      <dc:date>2021-10-20T06:05:28Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Marcel Uhrin</dc:creator>
+      <dc:creator>Lauren Satterfield</dc:creator>
+      <dc:creator>Peter Kaňuch</dc:creator>
+      <dc:creator>Petr Benda</dc:creator>
+      <prism:publicationName>Habitat use and seasonal activity of bats on a large eastern Mediterranean island: Insights from acoustic surveys (Mammalia: Chiroptera)</prism:publicationName>
+      <prism:volume>67</prism:volume>
+      <prism:number>4</prism:number>
+      <prism:startingPage>290</prism:startingPage>
+      <prism:endingPage>301</prism:endingPage>
+      <prism:coverDate>2021-10-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-10-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/09397140.2021.1992837</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1992837?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1992836?af=R">
+      <title>Age structure of stranded Loggerhead Turtles (Caretta caretta) in Turkey</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1992836?af=R</link>
+      <content:encoded>&lt;a href="/toc/tzme20/67/4"&gt;Volume 67, Issue 4&lt;/a&gt;, December 2021, Page 302-308&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 67, Issue 4, December 2021, Page 302-308&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Age structure of stranded Loggerhead Turtles (Caretta caretta) in Turkey</dc:title>
+      <dc:identifier>10.1080/09397140.2021.1992836</dc:identifier>
+      <dc:source>Zoology in the Middle East</dc:source>
+      <dc:date>2021-10-20T06:04:59Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Ayfer Şirin</dc:creator>
+      <dc:creator>Eyup Başkale</dc:creator>
+      <prism:publicationName>Age structure of stranded Loggerhead Turtles (Caretta caretta) in Turkey</prism:publicationName>
+      <prism:volume>67</prism:volume>
+      <prism:number>4</prism:number>
+      <prism:startingPage>302</prism:startingPage>
+      <prism:endingPage>308</prism:endingPage>
+      <prism:coverDate>2021-10-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-10-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/09397140.2021.1992836</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1992836?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1949139?af=R">
+      <title>New and non-alien: Echinogammarus mazestiensis sp. n. from the southwestern Caucasus (Amphipoda: Gammaridae)</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1949139?af=R</link>
+      <content:encoded>&lt;a href="/toc/tzme20/67/4"&gt;Volume 67, Issue 4&lt;/a&gt;, December 2021, Page 309-320&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 67, Issue 4, December 2021, Page 309-320&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>New and non-alien: Echinogammarus mazestiensis sp. n. from the southwestern Caucasus (Amphipoda: Gammaridae)</dc:title>
+      <dc:identifier>10.1080/09397140.2021.1949139</dc:identifier>
+      <dc:source>Zoology in the Middle East</dc:source>
+      <dc:date>2021-07-08T07:02:44Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Ivan Marin</dc:creator>
+      <dc:creator>Dmitry Palatov</dc:creator>
+      <prism:publicationName>New and non-alien: Echinogammarus mazestiensis sp. n. from the southwestern Caucasus (Amphipoda: Gammaridae)</prism:publicationName>
+      <prism:volume>67</prism:volume>
+      <prism:number>4</prism:number>
+      <prism:startingPage>309</prism:startingPage>
+      <prism:endingPage>320</prism:endingPage>
+      <prism:coverDate>2021-10-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-10-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/09397140.2021.1949139</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1949139?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1992834?af=R">
+      <title>Description of a new Phytocoris (Compsocerocoris) species (Heteroptera: Miridae) from southeastern Anatolia with a checklist of the Phytocoris species of Turkey</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1992834?af=R</link>
+      <content:encoded>&lt;a href="/toc/tzme20/67/4"&gt;Volume 67, Issue 4&lt;/a&gt;, December 2021, Page 321-331&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 67, Issue 4, December 2021, Page 321-331&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Description of a new Phytocoris (Compsocerocoris) species (Heteroptera: Miridae) from southeastern Anatolia with a checklist of the Phytocoris species of Turkey</dc:title>
+      <dc:identifier>10.1080/09397140.2021.1992834</dc:identifier>
+      <dc:source>Zoology in the Middle East</dc:source>
+      <dc:date>2021-10-20T06:04:14Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Barış Çerçi</dc:creator>
+      <dc:creator>İnanç Özgen</dc:creator>
+      <dc:creator>Serdar Tezcan</dc:creator>
+      <prism:publicationName>Description of a new Phytocoris (Compsocerocoris) species (Heteroptera: Miridae) from southeastern Anatolia with a checklist of the Phytocoris species of Turkey</prism:publicationName>
+      <prism:volume>67</prism:volume>
+      <prism:number>4</prism:number>
+      <prism:startingPage>321</prism:startingPage>
+      <prism:endingPage>331</prism:endingPage>
+      <prism:coverDate>2021-10-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-10-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/09397140.2021.1992834</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1992834?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1957209?af=R">
+      <title>Taxonomy and distribution of Orubesa in the Arabian Peninsula and surrounding areas (Coleoptera: Scarabaeoidea)</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1957209?af=R</link>
+      <content:encoded>&lt;a href="/toc/tzme20/67/4"&gt;Volume 67, Issue 4&lt;/a&gt;, December 2021, Page 332-343&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 67, Issue 4, December 2021, Page 332-343&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Taxonomy and distribution of Orubesa in the Arabian Peninsula and surrounding areas (Coleoptera: Scarabaeoidea)</dc:title>
+      <dc:identifier>10.1080/09397140.2021.1957209</dc:identifier>
+      <dc:source>Zoology in the Middle East</dc:source>
+      <dc:date>2021-07-21T05:08:13Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Frank-Thorsten Krell</dc:creator>
+      <prism:publicationName>Taxonomy and distribution of Orubesa in the Arabian Peninsula and surrounding areas (Coleoptera: Scarabaeoidea)</prism:publicationName>
+      <prism:volume>67</prism:volume>
+      <prism:number>4</prism:number>
+      <prism:startingPage>332</prism:startingPage>
+      <prism:endingPage>343</prism:endingPage>
+      <prism:coverDate>2021-10-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-10-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/09397140.2021.1957209</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1957209?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1980968?af=R">
+      <title>A new species of Elathous Reitter, 1890 (Coleoptera: Elateridae) from Lebanon</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1980968?af=R</link>
+      <content:encoded>&lt;a href="/toc/tzme20/67/4"&gt;Volume 67, Issue 4&lt;/a&gt;, December 2021, Page 344-349&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 67, Issue 4, December 2021, Page 344-349&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>A new species of Elathous Reitter, 1890 (Coleoptera: Elateridae) from Lebanon</dc:title>
+      <dc:identifier>10.1080/09397140.2021.1980968</dc:identifier>
+      <dc:source>Zoology in the Middle East</dc:source>
+      <dc:date>2021-09-21T07:47:09Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Tamás Németh</dc:creator>
+      <prism:publicationName>A new species of Elathous Reitter, 1890 (Coleoptera: Elateridae) from Lebanon</prism:publicationName>
+      <prism:volume>67</prism:volume>
+      <prism:number>4</prism:number>
+      <prism:startingPage>344</prism:startingPage>
+      <prism:endingPage>349</prism:endingPage>
+      <prism:coverDate>2021-10-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-10-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/09397140.2021.1980968</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1980968?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1980969?af=R">
+      <title>On the sytematics of Eremocossus vaulogeri (Staudinger, 1897) sensu lato (Lepidoptera: Cossidae)</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1980969?af=R</link>
+      <content:encoded>&lt;a href="/toc/tzme20/67/4"&gt;Volume 67, Issue 4&lt;/a&gt;, December 2021, Page 350-355&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 67, Issue 4, December 2021, Page 350-355&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>On the sytematics of Eremocossus vaulogeri (Staudinger, 1897) sensu lato (Lepidoptera: Cossidae)</dc:title>
+      <dc:identifier>10.1080/09397140.2021.1980969</dc:identifier>
+      <dc:source>Zoology in the Middle East</dc:source>
+      <dc:date>2021-09-21T07:57:13Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Roman V. Yakovlev</dc:creator>
+      <dc:creator>Günter C. Müller</dc:creator>
+      <prism:publicationName>On the sytematics of Eremocossus vaulogeri (Staudinger, 1897) sensu lato (Lepidoptera: Cossidae)</prism:publicationName>
+      <prism:volume>67</prism:volume>
+      <prism:number>4</prism:number>
+      <prism:startingPage>350</prism:startingPage>
+      <prism:endingPage>355</prism:endingPage>
+      <prism:coverDate>2021-10-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-10-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/09397140.2021.1980969</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1980969?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1965072?af=R">
+      <title>The taxonomic status of the Caucasian cave-dwelling pseudoscorpion Chthonius satapliaensis (Arachnida: Pseudoscorpiones)</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1965072?af=R</link>
+      <content:encoded>&lt;a href="/toc/tzme20/67/4"&gt;Volume 67, Issue 4&lt;/a&gt;, December 2021, Page 356-364&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 67, Issue 4, December 2021, Page 356-364&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>The taxonomic status of the Caucasian cave-dwelling pseudoscorpion Chthonius satapliaensis (Arachnida: Pseudoscorpiones)</dc:title>
+      <dc:identifier>10.1080/09397140.2021.1965072</dc:identifier>
+      <dc:source>Zoology in the Middle East</dc:source>
+      <dc:date>2021-09-21T07:27:14Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Juan A. Zaragoza</dc:creator>
+      <dc:creator>János Novák</dc:creator>
+      <dc:creator>Giulio Gardini</dc:creator>
+      <dc:creator>Eter Maghradze</dc:creator>
+      <dc:creator>Shalva Barjadze</dc:creator>
+      <prism:publicationName>The taxonomic status of the Caucasian cave-dwelling pseudoscorpion Chthonius satapliaensis (Arachnida: Pseudoscorpiones)</prism:publicationName>
+      <prism:volume>67</prism:volume>
+      <prism:number>4</prism:number>
+      <prism:startingPage>356</prism:startingPage>
+      <prism:endingPage>364</prism:endingPage>
+      <prism:coverDate>2021-10-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-10-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/09397140.2021.1965072</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1965072?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1980967?af=R">
+      <title>A new species of Compsobuthus from Saudi Arabia (Arachnida: Scorpiones)</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1980967?af=R</link>
+      <content:encoded>&lt;a href="/toc/tzme20/67/4"&gt;Volume 67, Issue 4&lt;/a&gt;, December 2021, Page 365-372&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 67, Issue 4, December 2021, Page 365-372&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>A new species of Compsobuthus from Saudi Arabia (Arachnida: Scorpiones)</dc:title>
+      <dc:identifier>10.1080/09397140.2021.1980967</dc:identifier>
+      <dc:source>Zoology in the Middle East</dc:source>
+      <dc:date>2021-09-21T07:41:18Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Bassam Abu Afifeh</dc:creator>
+      <dc:creator>Abdulhadi Aloufi</dc:creator>
+      <dc:creator>Mohammad Al-Saraireh</dc:creator>
+      <dc:creator>Zuhair Amr</dc:creator>
+      <prism:publicationName>A new species of Compsobuthus from Saudi Arabia (Arachnida: Scorpiones)</prism:publicationName>
+      <prism:volume>67</prism:volume>
+      <prism:number>4</prism:number>
+      <prism:startingPage>365</prism:startingPage>
+      <prism:endingPage>372</prism:endingPage>
+      <prism:coverDate>2021-10-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-10-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/09397140.2021.1980967</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1980967?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1992838?af=R">
+      <title>Incidental mortality events of the Indo-Pacific Finless Porpoise, Neophocaena phocaenoides in Kuwait, Northwestern Arabian Gulf</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1992838?af=R</link>
+      <content:encoded>&lt;a href="/toc/tzme20/67/4"&gt;Volume 67, Issue 4&lt;/a&gt;, December 2021, Page 373-376&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 67, Issue 4, December 2021, Page 373-376&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Incidental mortality events of the Indo-Pacific Finless Porpoise, Neophocaena phocaenoides in Kuwait, Northwestern Arabian Gulf</dc:title>
+      <dc:identifier>10.1080/09397140.2021.1992838</dc:identifier>
+      <dc:source>Zoology in the Middle East</dc:source>
+      <dc:date>2021-10-20T06:05:16Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Manickam Nithyanandan</dc:creator>
+      <dc:creator>Yusuf Bohadi</dc:creator>
+      <prism:publicationName>Incidental mortality events of the Indo-Pacific Finless Porpoise, Neophocaena phocaenoides in Kuwait, Northwestern Arabian Gulf</prism:publicationName>
+      <prism:volume>67</prism:volume>
+      <prism:number>4</prism:number>
+      <prism:startingPage>373</prism:startingPage>
+      <prism:endingPage>376</prism:endingPage>
+      <prism:coverDate>2021-10-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-10-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/09397140.2021.1992838</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1992838?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1965070?af=R">
+      <title>A new species of the spider genus Harpactea Bristowe, 1939 (Araneae: Dysderidae) from Azerbaijan</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1965070?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>A new species of the spider genus Harpactea Bristowe, 1939 (Araneae: Dysderidae) from Azerbaijan</dc:title>
+      <dc:identifier>10.1080/09397140.2021.1965070</dc:identifier>
+      <dc:source>Zoology in the Middle East</dc:source>
+      <dc:date>2021-09-21T07:17:10Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Tamara V. Nuruyeva</dc:creator>
+      <dc:creator>Elcin Huseynov</dc:creator>
+      <prism:publicationName>A new species of the spider genus Harpactea Bristowe, 1939 (Araneae: Dysderidae) from Azerbaijan</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>5</prism:endingPage>
+      <prism:doi>10.1080/09397140.2021.1965070</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1965070?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1965071?af=R">
+      <title>COI gene sequences confirm the taxonomic validity of the tooth-carp Aphaniops hormuzensis (Teleostei: Aphaniidae) from southern Iran</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1965071?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>COI gene sequences confirm the taxonomic validity of the tooth-carp Aphaniops hormuzensis (Teleostei: Aphaniidae) from southern Iran</dc:title>
+      <dc:identifier>10.1080/09397140.2021.1965071</dc:identifier>
+      <dc:source>Zoology in the Middle East</dc:source>
+      <dc:date>2021-09-21T07:25:56Z</dc:date>
+      <dc:rights>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</dc:rights>
+      <dc:creator>Azad Teimori</dc:creator>
+      <dc:creator>Hamid Reza Esmaeili</dc:creator>
+      <dc:creator>Fatah Zarei</dc:creator>
+      <dc:creator>Bettina Reichenbacher</dc:creator>
+      <prism:publicationName>COI gene sequences confirm the taxonomic validity of the tooth-carp Aphaniops hormuzensis (Teleostei: Aphaniidae) from southern Iran</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>7</prism:endingPage>
+      <prism:doi>10.1080/09397140.2021.1965071</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/09397140.2021.1965071?af=R</prism:url>
+      <prism:copyright>© 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</prism:copyright>
+   </item>
+</rdf:RDF>

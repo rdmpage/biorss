@@ -18,6 +18,15 @@ Original goal was to rely on RSS feeds, or generate my own RSS from various sour
 
 Need to set up the harvesting to be automatic. Would be nice to cache things for reanalysis if needed.
 
+#### RSS
+
+1. `harvest-feeds.php to read feed list and cache each feed as an XML file in the folder `cache/latest` (an alias).
+2. `process-rss-feeds.php` parses each XML file in `cache/latest` and for each item adds it to the data store, then augments that, updating the item in the data store.
+
+#### Google Scholar
+
+1. `harvest-gs-email.php` reads any `.eml` files in folder `cache/latest` and converts them to native JSON.
+2. `process—internal.php` parses each JSON file in `cache/latest` and for each item adds it to the data store, then augments that, updating the item in the data store.
 
 
 ## Feeds

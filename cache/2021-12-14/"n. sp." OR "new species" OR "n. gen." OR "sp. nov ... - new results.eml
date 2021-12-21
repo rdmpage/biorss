@@ -1,0 +1,1119 @@
+Delivered-To: rdmpage@gmail.com
+Received: by 2002:a05:6520:3348:b0:150:7385:796a with SMTP id r8csp4727995lkc;
+ Mon, 20 Dec 2021 16:04:05 -0800 (PST)
+X-Received: by 2002:a05:6102:3ed1:: with SMTP id
+ n17mr256008vsv.9.1640045045500; Mon, 20 Dec 2021 16:04:05 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1640045045; cv=none; d=google.com;
+ s=arc-20160816;
+ b=B+xrMxRMgI2Kg3dZ67o9F6OXhecvE+8aiZ+SGLm8MXoQWUaGZCsespJxHqF0WHxQhz
+ pjz8hfwjmAo7xLmf08sVmBo4DfgCqUl3xk2sbv9HiQeBHfzSkbTeVDbz65DQ5rG1gibJ
+ dGcp++GBOaM7btOyaYlRfpn9G3QUbrN6dEoSPsZMRP2BQyGripYIC52NeML6qWDWEsry
+ R9Jtq8dnrFYNqqeUqnKPmBKLqKSUM2al1D9cFKcpojndTwanDckWCcTFUnxZvqICAmll
+ 96bv0fC3rV3YOg/pwHamnlGe/3xVU4H5/2l+84rLAId+5Y+pBBqPFi+SdXl0xyjsJ6BI Lt6A==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com;
+ s=arc-20160816; h=content-transfer-encoding:to:from:subject:message-id:date
+ :mime-version:dkim-signature;
+ bh=Tvdfkid6pAYSdcHKM38760C0ASb4WgUxjUIeqhAcsGU=;
+ b=D6TgUcBh0s144+5kxPRH9UjVTUgaQAwMx6c6NrP/VDc2uXatvoZGfMY0673WRwH3KE
+ lsgSVVH8Z7kF8iUJDQkT7hi81c6Wpaf4aD/FNSXLr60zEDvEAtCzclJqptWkU21EOUJl
+ dc8yxIPPbakV2rUA7jO/E8hz+sqUwTQBIysFuJSoud85IU8WGWFTG4kpRZZFyk+Noj7Z
+ tcOftQ6V+xiGJ2KerFyrqUMUMNUquaweAbT8dNSZ7RuwzFMB0u4Wsyv7Xb+yyBtdVnXM
+ nX6b5iFo2taPwohmgq3HVsHBE2emSYCkvF3G8Ellw3t3vePvlNYMQdJWS/T6NaG3HeM7 9qYQ==
+ARC-Authentication-Results: i=1; mx.google.com; dkim=pass header.i=@google.com
+ header.s=20210112 header.b=LMoSRDKB; spf=pass (google.com: domain of
+ 39rnbyrukb0iwglspevepivxw-rsvitp2ksskpi.gsqvhqtekikqemp.gsq@scholar-alerts.bounces.google.com
+ designates 209.85.220.73 as permitted sender)
+ smtp.mailfrom=39RnBYRUKB0Iwglspevepivxw-rsvitp2ksskpi.gsqvhqtekikqemp.gsq@scholar-alerts.bounces.google.com;
+ dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=google.com
+Return-Path: <39RnBYRUKB0Iwglspevepivxw-rsvitp2ksskpi.gsqvhqtekikqemp.gsq@scholar-alerts.bounces.google.com>
+Received: from mail-sor-f73.google.com (mail-sor-f73.google.com.
+ [209.85.220.73]) by mx.google.com with SMTPS id
+ x16sor5611518vsr.31.2021.12.20.16.04.05 for <rdmpage@gmail.com> (Google
+ Transport Security); Mon, 20 Dec 2021 16:04:05 -0800 (PST)
+Received-SPF: pass (google.com: domain of
+ 39rnbyrukb0iwglspevepivxw-rsvitp2ksskpi.gsqvhqtekikqemp.gsq@scholar-alerts.bounces.google.com
+ designates 209.85.220.73 as permitted sender) client-ip=209.85.220.73;
+Authentication-Results: mx.google.com; dkim=pass header.i=@google.com
+ header.s=20210112 header.b=LMoSRDKB; spf=pass (google.com: domain of
+ 39rnbyrukb0iwglspevepivxw-rsvitp2ksskpi.gsqvhqtekikqemp.gsq@scholar-alerts.bounces.google.com
+ designates 209.85.220.73 as permitted sender)
+ smtp.mailfrom=39RnBYRUKB0Iwglspevepivxw-rsvitp2ksskpi.gsqvhqtekikqemp.gsq@scholar-alerts.bounces.google.com;
+ dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=google.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com;
+ s=20210112; h=mime-version:date:message-id:subject:from:to
+ :content-transfer-encoding; bh=Tvdfkid6pAYSdcHKM38760C0ASb4WgUxjUIeqhAcsGU=;
+ b=LMoSRDKBCzeVFvSRoEx1+k0R6nkR0DxDT+88dOneOG4F+VrWw1O40SWgivK8ONlLwi
+ Y3O6oZlGZyaKiK51xJHOISbYRsSoLgXFmFphOqFf3KYEV4Yg3GNOCh+KQV4S2iL9X+sI
+ wLhySKYwqq2OXA9xV+5A8CM2gkqslRL1l625wlhu0ghH1IRG+v3i8T3qFQ+GIzonBEfI
+ y3XC+Z+Svz8fzTgW1ksPQMCSPQ/OjAj5pY9uJVuu+jqTkbCrG+Emt681Kv4zXSoUG688
+ fcryhBl8EQ8vD/2EzwYN8frvSMIN1xtyHWCEv1XcYjk9lVY9Y00lf/5Z/COuLRdyKE6N defw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=1e100.net;
+ s=20210112; h=x-gm-message-state:mime-version:date:message-id:subject:from:to
+ :content-transfer-encoding; bh=Tvdfkid6pAYSdcHKM38760C0ASb4WgUxjUIeqhAcsGU=;
+ b=HlmgfuE/RAmPhzoCEncYXKXyXZdBpS/iQH6+nxN+n258hE4BNl5R4vkAE2bhUpDovK
+ KWqXeYFKQu1DVoxSTTEyrMY20XlJCYGan5xek8NUtDcSsniVFBGtEAzN+9a3R1a15TMy
+ PXTTJATil8dcyw/T5Hx5F7cwdQDwwNYo0vXP6kzC2xAKJKoyZ6bgOPxHEwODyjPlks4/
+ 4j1n0D6hBEiR/JXztHqSMwRvDd3A5WMZ/0B4OHnw8sjSe2jKrFVr5i7iHlKBYH42IQuA
+ 7XygRozmRObcPxRm3NslKih5NI8FI/9KTMU+TkUKC6dnzfQjtzP0bWWiW2H2NZ34Xd9+ wJ8g==
+X-Gm-Message-State: AOAM530pX5GZ+/seGqlVI1qPA8kYIbZSzRPk2dfPLkHSAAO3t7Ttj0ZZ
+ WkI1JOoCLTn8tlEA1uMN3Q==
+X-Google-Smtp-Source: ABdhPJyDgiB8ZhZzMcfjofWz1d8hi0KyllmC6bjKqQMRYNy8sojT+i2UB5iqunZH8rb4aj4aleQCeDTk1lYpcg==
+MIME-Version: 1.0
+X-Received: by 2002:a67:ed41:: with SMTP id m1mr353772vsp.34.1640045045105;
+ Mon, 20 Dec 2021 16:04:05 -0800 (PST)
+Date: Mon, 20 Dec 2021 16:04:05 -0800
+Message-ID: <0000000000005441fc05d39cbe64@google.com>
+Subject: "n. sp." OR "new species" OR "n. gen." OR "sp. nov ... - new results
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: rdmpage@gmail.com
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html><html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:o=3D"urn:=
+schemas-microsoft-com:office:office"><head><!--[if gte mso 9]><xml><o:Offic=
+eDocumentSettings><o:AllowPNG/><o:PixelsPerInch>96</o:PixelsPerInch></o:Off=
+iceDocumentSettings></xml><![endif]--><style>body{background-color:#fff}.gs=
+e_alrt_title{text-decoration:none}.gse_alrt_title:hover{text-decoration:und=
+erline} @media screen and (max-width: 599px) {.gse_alrt_sni br{display:none=
+;}}</style></head><body><!--[if gte mso 9]><table cellpadding=3D"0" cellspa=
+cing=3D"0" border=3D"0"><tr><td style=3D"width:600px"><![endif]--><div styl=
+e=3D"font-family:arial,sans-serif;font-size:13px;line-height:16px;color:#22=
+2;width:100%;max-width:600px"><h3 style=3D"font-weight:normal;margin:0;font=
+-size:17px;line-height:20px;"><a href=3D"https://scholar.google.ca/scholar_=
+url?url=3Dhttps://www.microbiologyresearch.org/content/journal/ijsem/10.109=
+9/ijsem.0.005160&amp;hl=3Den&amp;sa=3DX&amp;d=3D5920874659037184832&amp;ei=
+=3D9BnBYcj7C_KP6rQPj7ShiAo&amp;scisig=3DAAGBfm2Pi9znoZYU4orliiM-cfC972ACOg&=
+amp;oi=3Dscholaralrt&amp;hist=3D4Z5WABAAAAAJ:9524340157753604263:AAGBfm2s1u=
+6dXm_HqG8n9fyMDvYCTFQrnQ&amp;html=3D&amp;folt=3Dkw" class=3D"gse_alrt_title=
+" style=3D"font-size:17px;color:#1a0dab">Paraneptunicella aestuarii <b>gen<=
+/b>. <b>nov</b>., <b>sp</b>. <b>nov</b>., a member of the family Alteromona=
+daceae isolated from seawater in East China Sea</a></h3><div style=3D"color=
+:#006621">Y Zhang, S He, L Shi, Y Liu, D Mao, B Liu, X He=E2=80=A6=C2=A0- I=
+nternational Journal of=C2=A0=E2=80=A6, 2021</div><div class=3D"gse_alrt_sn=
+i">An aerobic Gram-stain-negative, curved rod-shaped and non-spore-forming =
+bacterial <br>strain (NBU2194T) was isolated from seawater collected in an =
+intertidal zone in <br>Ningbo, Zhejiang Province, PR China. It was motile t=
+hough a single polar flagellum=C2=A0=E2=80=A6</div><div style=3D"width:auto=
+"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tbody><tr><td st=
+yle=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://=
+scholar.google.ca/citations?hl=3Den&amp;update_op=3Demail_library_add&amp;i=
+nfo=3DQAOG2yEsK1IJ&amp;citsig=3DAMD79ooAAAAAY6JNdNNiarjlZ8JC15909DefcAqsO32=
+G" style=3D"text-decoration:none;display:inline-block;padding:4px 8px 4px 0=
+;mso-padding-alt:0;"><img alt=3D"Save" src=3D"https://scholar.google.ca/int=
+l/en/scholar/images/1x/save-32.png" border=3D"0" height=3D"16" width=3D"16"=
+ style=3D"vertical-align:top"></a></td><td style=3D"padding-right:4px;mso-p=
+adding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/scholar_shar=
+e?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dtw&amp;url=3Dhttps://www.microbiolo=
+gyresearch.org/content/journal/ijsem/10.1099/ijsem.0.005160&amp;rt=3DParane=
+ptunicella+aestuarii+gen.+nov.,+sp.+nov.,+a+member+of+the+family+Alteromona=
+daceae+isolated+from+seawater+in+East+China+Sea&amp;scisig=3DAAGBfm2_215vi5=
+F0BApILx5ioE3PeMntTA" style=3D"text-decoration:none;display:inline-block;pa=
+dding:4px 8px;mso-padding-alt:0;"><img alt=3D"Twitter" src=3D"https://schol=
+ar.google.ca/intl/en/scholar/images/1x/tw-32.png" border=3D"0" height=3D"16=
+" width=3D"16" style=3D"vertical-align:top"></a></td><td style=3D"padding-r=
+ight:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.c=
+a/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Din&amp;url=3Dhttps://=
+www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.005160&a=
+mp;rt=3DParaneptunicella+aestuarii+gen.+nov.,+sp.+nov.,+a+member+of+the+fam=
+ily+Alteromonadaceae+isolated+from+seawater+in+East+China+Sea&amp;scisig=3D=
+AAGBfm2_215vi5F0BApILx5ioE3PeMntTA" style=3D"text-decoration:none;display:i=
+nline-block;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"LinkedIn" src=
+=3D"https://scholar.google.ca/intl/en/scholar/images/1x/in-32.png" border=
+=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td><td=
+ style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https=
+://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dfb=
+&amp;url=3Dhttps://www.microbiologyresearch.org/content/journal/ijsem/10.10=
+99/ijsem.0.005160&amp;rt=3DParaneptunicella+aestuarii+gen.+nov.,+sp.+nov.,+=
+a+member+of+the+family+Alteromonadaceae+isolated+from+seawater+in+East+Chin=
+a+Sea&amp;scisig=3DAAGBfm2_215vi5F0BApILx5ioE3PeMntTA" style=3D"text-decora=
+tion:none;display:inline-block;padding:4px 8px;mso-padding-alt:0;"><img alt=
+=3D"Facebook" src=3D"https://scholar.google.ca/intl/en/scholar/images/1x/fb=
+-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:to=
+p"></a></td></tr></tbody></table></div><br><h3 style=3D"font-weight:normal;=
+margin:0;font-size:17px;line-height:20px;"><a href=3D"https://scholar.googl=
+e.ca/scholar_url?url=3Dhttps://www.microbiologyresearch.org/content/journal=
+/ijsem/10.1099/ijsem.0.005184&amp;hl=3Den&amp;sa=3DX&amp;d=3D89733517095866=
+68981&amp;ei=3D9BnBYcj7C_KP6rQPj7ShiAo&amp;scisig=3DAAGBfm3VkevsnOWpTaB77eG=
+suCzrowZuwg&amp;oi=3Dscholaralrt&amp;hist=3D4Z5WABAAAAAJ:952434015775360426=
+3:AAGBfm2s1u6dXm_HqG8n9fyMDvYCTFQrnQ&amp;html=3D&amp;folt=3Dkw" class=3D"gs=
+e_alrt_title" style=3D"font-size:17px;color:#1a0dab">Lentilactobacillus fun=
+gorum <b>sp</b>. <b>nov</b>., isolated from spent mushroom substrates</a></=
+h3><div style=3D"color:#006621">M Tohno, Y Tanizawa, Y Kojima, M Sakamoto=
+=E2=80=A6=C2=A0- International Journal of=C2=A0=E2=80=A6, 2021</div><div cl=
+ass=3D"gse_alrt_sni">In Japan, during a screening of lactic acid bacteria i=
+n spent mushroom substrates, an <br>unknown bacterium was isolated and coul=
+d not be assigned to any known species. <br>Strain YK48GT is Gram-stain-pos=
+itive, rod-shaped, non-motile, non-spore-forming=C2=A0=E2=80=A6</div><div s=
+tyle=3D"width:auto"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"=
+><tbody><tr><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><=
+a href=3D"https://scholar.google.ca/citations?hl=3Den&amp;update_op=3Demail=
+_library_add&amp;info=3Dtb2ORta_h3wJ&amp;citsig=3DAMD79ooAAAAAY6JNdDBZF2IzI=
+WFG2CmTAC64T-YhMoQ-" style=3D"text-decoration:none;display:inline-block;pad=
+ding:4px 8px 4px 0;mso-padding-alt:0;"><img alt=3D"Save" src=3D"https://sch=
+olar.google.ca/intl/en/scholar/images/1x/save-32.png" border=3D"0" height=
+=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td><td style=3D"pad=
+ding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.go=
+ogle.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dtw&amp;url=3Dht=
+tps://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.00=
+5184&amp;rt=3DLentilactobacillus+fungorum+sp.+nov.,+isolated+from+spent+mus=
+hroom+substrates&amp;scisig=3DAAGBfm1EY7YZVR4Tiucy9__tdlHSB89Rcg" style=3D"=
+text-decoration:none;display:inline-block;padding:4px 8px;mso-padding-alt:0=
+;"><img alt=3D"Twitter" src=3D"https://scholar.google.ca/intl/en/scholar/im=
+ages/1x/tw-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertica=
+l-align:top"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16=
+px 0 0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=
+=3Dscholaralrt&amp;ss=3Din&amp;url=3Dhttps://www.microbiologyresearch.org/c=
+ontent/journal/ijsem/10.1099/ijsem.0.005184&amp;rt=3DLentilactobacillus+fun=
+gorum+sp.+nov.,+isolated+from+spent+mushroom+substrates&amp;scisig=3DAAGBfm=
+1EY7YZVR4Tiucy9__tdlHSB89Rcg" style=3D"text-decoration:none;display:inline-=
+block;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"LinkedIn" src=3D"http=
+s://scholar.google.ca/intl/en/scholar/images/1x/in-32.png" border=3D"0" hei=
+ght=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td><td style=3D"=
+padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar=
+.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dfb&amp;url=
+=3Dhttps://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem=
+.0.005184&amp;rt=3DLentilactobacillus+fungorum+sp.+nov.,+isolated+from+spen=
+t+mushroom+substrates&amp;scisig=3DAAGBfm1EY7YZVR4Tiucy9__tdlHSB89Rcg" styl=
+e=3D"text-decoration:none;display:inline-block;padding:4px 8px;mso-padding-=
+alt:0;"><img alt=3D"Facebook" src=3D"https://scholar.google.ca/intl/en/scho=
+lar/images/1x/fb-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"v=
+ertical-align:top"></a></td></tr></tbody></table></div><br><h3 style=3D"fon=
+t-weight:normal;margin:0;font-size:17px;line-height:20px;"><span style=3D"f=
+ont-size:11px;font-weight:bold;color:#1a0dab;vertical-align:2px">[HTML]</sp=
+an> <a href=3D"https://scholar.google.ca/scholar_url?url=3Dhttps://www.natu=
+re.com/articles/s41598-021-03683-0&amp;hl=3Den&amp;sa=3DX&amp;d=3D388115144=
+4681133632&amp;ei=3D9BnBYcj7C_KP6rQPj7ShiAo&amp;scisig=3DAAGBfm2neNNkjbK7b8=
+a_M16WOwcgYJYAfw&amp;oi=3Dscholaralrt&amp;hist=3D4Z5WABAAAAAJ:9524340157753=
+604263:AAGBfm2s1u6dXm_HqG8n9fyMDvYCTFQrnQ&amp;html=3D&amp;folt=3Dkw" class=
+=3D"gse_alrt_title" style=3D"font-size:17px;color:#1a0dab">Comparative geno=
+me characterization of Echinicola marina <b>sp</b>. <b>nov</b>., isolated f=
+rom deep-sea sediment provide insight into carotenoid biosynthetic gene clu=
+ster=C2=A0=E2=80=A6</a></h3><div style=3D"color:#006621">Y Pang, M Chen, W =
+Lu, M Chen, Y Yan, M Lin=E2=80=A6=C2=A0- Scientific Reports, 2021</div><div=
+ class=3D"gse_alrt_sni">Echinicola, carotenoid-pigmented bacteria, are isol=
+ated from various hypersaline <br>environments. Carotenoid accumulation in =
+response to salt stress can stabilize the <br>cell membrane in order to sur=
+vive. A pink-colored strain SCS 3=E2=80=936 was isolated from=C2=A0=E2=80=
+=A6</div><div style=3D"width:auto"><table cellpadding=3D"0" cellspacing=3D"=
+0" border=3D"0"><tbody><tr><td style=3D"padding-right:4px;mso-padding-alt:4=
+px 16px 0 0;"><a href=3D"https://scholar.google.ca/citations?hl=3Den&amp;up=
+date_op=3Demail_library_add&amp;info=3DQI62-6ye3DUJ&amp;citsig=3DAMD79ooAAA=
+AAY6JNdJbHAYxHXE8BS5H3p2uvNmUMYCtS" style=3D"text-decoration:none;display:i=
+nline-block;padding:4px 8px 4px 0;mso-padding-alt:0;"><img alt=3D"Save" src=
+=3D"https://scholar.google.ca/intl/en/scholar/images/1x/save-32.png" border=
+=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td><td=
+ style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https=
+://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dtw=
+&amp;url=3Dhttps://www.nature.com/articles/s41598-021-03683-0&amp;rt=3DComp=
+arative+genome+characterization+of+Echinicola+marina+sp.+nov.,+isolated+fro=
+m+deep-sea+sediment+provide+insight+into+carotenoid+biosynthetic+gene+clust=
+er+evolution&amp;scisig=3DAAGBfm1Ugy9FJfeeq-otPNLpLAnNPe9paQ" style=3D"text=
+-decoration:none;display:inline-block;padding:4px 8px;mso-padding-alt:0;"><=
+img alt=3D"Twitter" src=3D"https://scholar.google.ca/intl/en/scholar/images=
+/1x/tw-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-al=
+ign:top"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0=
+ 0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dsc=
+holaralrt&amp;ss=3Din&amp;url=3Dhttps://www.nature.com/articles/s41598-021-=
+03683-0&amp;rt=3DComparative+genome+characterization+of+Echinicola+marina+s=
+p.+nov.,+isolated+from+deep-sea+sediment+provide+insight+into+carotenoid+bi=
+osynthetic+gene+cluster+evolution&amp;scisig=3DAAGBfm1Ugy9FJfeeq-otPNLpLAnN=
+Pe9paQ" style=3D"text-decoration:none;display:inline-block;padding:4px 8px;=
+mso-padding-alt:0;"><img alt=3D"LinkedIn" src=3D"https://scholar.google.ca/=
+intl/en/scholar/images/1x/in-32.png" border=3D"0" height=3D"16" width=3D"16=
+" style=3D"vertical-align:top"></a></td><td style=3D"padding-right:4px;mso-=
+padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/scholar_sha=
+re?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dfb&amp;url=3Dhttps://www.nature.co=
+m/articles/s41598-021-03683-0&amp;rt=3DComparative+genome+characterization+=
+of+Echinicola+marina+sp.+nov.,+isolated+from+deep-sea+sediment+provide+insi=
+ght+into+carotenoid+biosynthetic+gene+cluster+evolution&amp;scisig=3DAAGBfm=
+1Ugy9FJfeeq-otPNLpLAnNPe9paQ" style=3D"text-decoration:none;display:inline-=
+block;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"Facebook" src=3D"http=
+s://scholar.google.ca/intl/en/scholar/images/1x/fb-32.png" border=3D"0" hei=
+ght=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td></tr></tbody>=
+</table></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:17px;l=
+ine-height:20px;"><a href=3D"https://scholar.google.ca/scholar_url?url=3Dht=
+tps://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.00=
+5171&amp;hl=3Den&amp;sa=3DX&amp;d=3D17605940798886966772&amp;ei=3D9BnBYcj7C=
+_KP6rQPj7ShiAo&amp;scisig=3DAAGBfm2Q9ITH_IahtBUlBOQVmmufKbGpKQ&amp;oi=3Dsch=
+olaralrt&amp;hist=3D4Z5WABAAAAAJ:9524340157753604263:AAGBfm2s1u6dXm_HqG8n9f=
+yMDvYCTFQrnQ&amp;html=3D&amp;folt=3Dkw" class=3D"gse_alrt_title" style=3D"f=
+ont-size:17px;color:#1a0dab">Frateuria flava <b>sp</b>. <b>nov</b>., isolat=
+ed from soil</a></h3><div style=3D"color:#006621">S Akter, SY Lee, MA Huq=
+=C2=A0- International Journal of Systematic and Evolutionary=C2=A0=E2=80=A6=
+, 2021</div><div class=3D"gse_alrt_sni">A Gram-stain-negative, aerobic, rod=
+-shaped and non-motile novel bacterial strain, <br>designated MAH-13T, was =
+isolated from a soil sample. The colonies were observed <br>to be yellow-co=
+loured, smooth, spherical and 1.8=E2=80=933.0 mm in diameter when grown=C2=
+=A0=E2=80=A6</div><div style=3D"width:auto"><table cellpadding=3D"0" cellsp=
+acing=3D"0" border=3D"0"><tbody><tr><td style=3D"padding-right:4px;mso-padd=
+ing-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/citations?hl=3D=
+en&amp;update_op=3Demail_library_add&amp;info=3D9PU2VuDdVPQJ&amp;citsig=3DA=
+MD79ooAAAAAY6JNdM2Qb5wmFyJxCSCUOY373xr-7HK4" style=3D"text-decoration:none;=
+display:inline-block;padding:4px 8px 4px 0;mso-padding-alt:0;"><img alt=3D"=
+Save" src=3D"https://scholar.google.ca/intl/en/scholar/images/1x/save-32.pn=
+g" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:top"></a=
+></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=
+=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&am=
+p;ss=3Dtw&amp;url=3Dhttps://www.microbiologyresearch.org/content/journal/ij=
+sem/10.1099/ijsem.0.005171&amp;rt=3DFrateuria+flava+sp.+nov.,+isolated+from=
++soil&amp;scisig=3DAAGBfm202xicoFyI2cDJIMPAazxkjxqWmA" style=3D"text-decora=
+tion:none;display:inline-block;padding:4px 8px;mso-padding-alt:0;"><img alt=
+=3D"Twitter" src=3D"https://scholar.google.ca/intl/en/scholar/images/1x/tw-=
+32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:top=
+"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a=
+ href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholaral=
+rt&amp;ss=3Din&amp;url=3Dhttps://www.microbiologyresearch.org/content/journ=
+al/ijsem/10.1099/ijsem.0.005171&amp;rt=3DFrateuria+flava+sp.+nov.,+isolated=
++from+soil&amp;scisig=3DAAGBfm202xicoFyI2cDJIMPAazxkjxqWmA" style=3D"text-d=
+ecoration:none;display:inline-block;padding:4px 8px;mso-padding-alt:0;"><im=
+g alt=3D"LinkedIn" src=3D"https://scholar.google.ca/intl/en/scholar/images/=
+1x/in-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-ali=
+gn:top"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 =
+0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dsch=
+olaralrt&amp;ss=3Dfb&amp;url=3Dhttps://www.microbiologyresearch.org/content=
+/journal/ijsem/10.1099/ijsem.0.005171&amp;rt=3DFrateuria+flava+sp.+nov.,+is=
+olated+from+soil&amp;scisig=3DAAGBfm202xicoFyI2cDJIMPAazxkjxqWmA" style=3D"=
+text-decoration:none;display:inline-block;padding:4px 8px;mso-padding-alt:0=
+;"><img alt=3D"Facebook" src=3D"https://scholar.google.ca/intl/en/scholar/i=
+mages/1x/fb-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertic=
+al-align:top"></a></td></tr></tbody></table></div><br><h3 style=3D"font-wei=
+ght:normal;margin:0;font-size:17px;line-height:20px;"><a href=3D"https://sc=
+holar.google.ca/scholar_url?url=3Dhttps://www.microbiologyresearch.org/cont=
+ent/journal/ijsem/10.1099/ijsem.0.005185&amp;hl=3Den&amp;sa=3DX&amp;d=3D101=
+66491892822736558&amp;ei=3D9BnBYcj7C_KP6rQPj7ShiAo&amp;scisig=3DAAGBfm1Quy6=
+NdPMsW9nhiNSGaOxdE-mFjg&amp;oi=3Dscholaralrt&amp;hist=3D4Z5WABAAAAAJ:952434=
+0157753604263:AAGBfm2s1u6dXm_HqG8n9fyMDvYCTFQrnQ&amp;html=3D&amp;folt=3Dkw"=
+ class=3D"gse_alrt_title" style=3D"font-size:17px;color:#1a0dab">Roseococcu=
+s microcysteis <b>sp</b>. <b>nov</b>., isolated from a Microcystis aerugino=
+sa culture sample</a></h3><div style=3D"color:#006621">W Kim, M Kim, W Park=
+=C2=A0- International Journal of Systematic and Evolutionary=C2=A0=E2=80=A6=
+, 2021</div><div class=3D"gse_alrt_sni">Strain NIBR12T (=3D KACC 22094T=3D =
+HAMBI 3739T), a novel Gram-stain-negative, <br>obligate aerobic, non-spore-=
+forming, non-motile and coccobacillus-shaped <br>bacterium, was isolated fr=
+om a cyanobacterial sample culture (Microcysitis=C2=A0=E2=80=A6</div><div s=
+tyle=3D"width:auto"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"=
+><tbody><tr><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><=
+a href=3D"https://scholar.google.ca/citations?hl=3Den&amp;update_op=3Demail=
+_library_add&amp;info=3Drn6WG4OiFo0J&amp;citsig=3DAMD79ooAAAAAY6JNdPIVgKbmN=
+esTEF_SfAL9Y7-eXV27" style=3D"text-decoration:none;display:inline-block;pad=
+ding:4px 8px 4px 0;mso-padding-alt:0;"><img alt=3D"Save" src=3D"https://sch=
+olar.google.ca/intl/en/scholar/images/1x/save-32.png" border=3D"0" height=
+=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td><td style=3D"pad=
+ding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.go=
+ogle.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dtw&amp;url=3Dht=
+tps://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.00=
+5185&amp;rt=3DRoseococcus+microcysteis+sp.+nov.,+isolated+from+a+Microcysti=
+s+aeruginosa+culture+sample&amp;scisig=3DAAGBfm0W-nQI6XIbOUhhRWi-kG9jhw3l2w=
+" style=3D"text-decoration:none;display:inline-block;padding:4px 8px;mso-pa=
+dding-alt:0;"><img alt=3D"Twitter" src=3D"https://scholar.google.ca/intl/en=
+/scholar/images/1x/tw-32.png" border=3D"0" height=3D"16" width=3D"16" style=
+=3D"vertical-align:top"></a></td><td style=3D"padding-right:4px;mso-padding=
+-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=
+=3Den&amp;oi=3Dscholaralrt&amp;ss=3Din&amp;url=3Dhttps://www.microbiologyre=
+search.org/content/journal/ijsem/10.1099/ijsem.0.005185&amp;rt=3DRoseococcu=
+s+microcysteis+sp.+nov.,+isolated+from+a+Microcystis+aeruginosa+culture+sam=
+ple&amp;scisig=3DAAGBfm0W-nQI6XIbOUhhRWi-kG9jhw3l2w" style=3D"text-decorati=
+on:none;display:inline-block;padding:4px 8px;mso-padding-alt:0;"><img alt=
+=3D"LinkedIn" src=3D"https://scholar.google.ca/intl/en/scholar/images/1x/in=
+-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:to=
+p"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><=
+a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholara=
+lrt&amp;ss=3Dfb&amp;url=3Dhttps://www.microbiologyresearch.org/content/jour=
+nal/ijsem/10.1099/ijsem.0.005185&amp;rt=3DRoseococcus+microcysteis+sp.+nov.=
+,+isolated+from+a+Microcystis+aeruginosa+culture+sample&amp;scisig=3DAAGBfm=
+0W-nQI6XIbOUhhRWi-kG9jhw3l2w" style=3D"text-decoration:none;display:inline-=
+block;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"Facebook" src=3D"http=
+s://scholar.google.ca/intl/en/scholar/images/1x/fb-32.png" border=3D"0" hei=
+ght=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td></tr></tbody>=
+</table></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:17px;l=
+ine-height:20px;"><a href=3D"https://scholar.google.ca/scholar_url?url=3Dht=
+tps://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.00=
+5172&amp;hl=3Den&amp;sa=3DX&amp;d=3D15437810927628609731&amp;ei=3D9BnBYcj7C=
+_KP6rQPj7ShiAo&amp;scisig=3DAAGBfm15bn-TMkdHqJreXNkQesERzOpyNg&amp;oi=3Dsch=
+olaralrt&amp;hist=3D4Z5WABAAAAAJ:9524340157753604263:AAGBfm2s1u6dXm_HqG8n9f=
+yMDvYCTFQrnQ&amp;html=3D&amp;folt=3Dkw" class=3D"gse_alrt_title" style=3D"f=
+ont-size:17px;color:#1a0dab">Azospira inquinata <b>sp</b>. <b>nov</b>., a n=
+itrate-reducing bacterium of the family Rhodocyclaceae isolated from contam=
+inated groundwater</a></h3><div style=3D"color:#006621">MC Mikes, TK Martin=
+, WM Moe=C2=A0- International Journal of Systematic and Evolutionary=C2=A0=
+=E2=80=A6, 2021</div><div class=3D"gse_alrt_sni">Two novel Gram-stain-negat=
+ive bacterial strains, Azo-3T and Azo-2, were isolated <br>from a toluene-p=
+roducing enrichment culture that originated from contaminated <br>groundwat=
+er at a site in southeast Louisiana (USA). Cells are non-spore forming=C2=
+=A0=E2=80=A6</div><div style=3D"width:auto"><table cellpadding=3D"0" cellsp=
+acing=3D"0" border=3D"0"><tbody><tr><td style=3D"padding-right:4px;mso-padd=
+ing-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/citations?hl=3D=
+en&amp;update_op=3Demail_library_add&amp;info=3Dw2jy4j4fPtYJ&amp;citsig=3DA=
+MD79ooAAAAAY6JNdL7cJHCiw0IrAEPmV9CCCiak2tNC" style=3D"text-decoration:none;=
+display:inline-block;padding:4px 8px 4px 0;mso-padding-alt:0;"><img alt=3D"=
+Save" src=3D"https://scholar.google.ca/intl/en/scholar/images/1x/save-32.pn=
+g" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:top"></a=
+></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=
+=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&am=
+p;ss=3Dtw&amp;url=3Dhttps://www.microbiologyresearch.org/content/journal/ij=
+sem/10.1099/ijsem.0.005172&amp;rt=3DAzospira+inquinata+sp.+nov.,+a+nitrate-=
+reducing+bacterium+of+the+family+Rhodocyclaceae+isolated+from+contaminated+=
+groundwater&amp;scisig=3DAAGBfm092qzBan4dBgLAvImz7RvzpTPCsw" style=3D"text-=
+decoration:none;display:inline-block;padding:4px 8px;mso-padding-alt:0;"><i=
+mg alt=3D"Twitter" src=3D"https://scholar.google.ca/intl/en/scholar/images/=
+1x/tw-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-ali=
+gn:top"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 =
+0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dsch=
+olaralrt&amp;ss=3Din&amp;url=3Dhttps://www.microbiologyresearch.org/content=
+/journal/ijsem/10.1099/ijsem.0.005172&amp;rt=3DAzospira+inquinata+sp.+nov.,=
++a+nitrate-reducing+bacterium+of+the+family+Rhodocyclaceae+isolated+from+co=
+ntaminated+groundwater&amp;scisig=3DAAGBfm092qzBan4dBgLAvImz7RvzpTPCsw" sty=
+le=3D"text-decoration:none;display:inline-block;padding:4px 8px;mso-padding=
+-alt:0;"><img alt=3D"LinkedIn" src=3D"https://scholar.google.ca/intl/en/sch=
+olar/images/1x/in-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"=
+vertical-align:top"></a></td><td style=3D"padding-right:4px;mso-padding-alt=
+:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&=
+amp;oi=3Dscholaralrt&amp;ss=3Dfb&amp;url=3Dhttps://www.microbiologyresearch=
+.org/content/journal/ijsem/10.1099/ijsem.0.005172&amp;rt=3DAzospira+inquina=
+ta+sp.+nov.,+a+nitrate-reducing+bacterium+of+the+family+Rhodocyclaceae+isol=
+ated+from+contaminated+groundwater&amp;scisig=3DAAGBfm092qzBan4dBgLAvImz7Rv=
+zpTPCsw" style=3D"text-decoration:none;display:inline-block;padding:4px 8px=
+;mso-padding-alt:0;"><img alt=3D"Facebook" src=3D"https://scholar.google.ca=
+/intl/en/scholar/images/1x/fb-32.png" border=3D"0" height=3D"16" width=3D"1=
+6" style=3D"vertical-align:top"></a></td></tr></tbody></table></div><br><h3=
+ style=3D"font-weight:normal;margin:0;font-size:17px;line-height:20px;"><a =
+href=3D"https://scholar.google.ca/scholar_url?url=3Dhttps://www.microbiolog=
+yresearch.org/content/journal/ijsem/10.1099/ijsem.0.005175&amp;hl=3Den&amp;=
+sa=3DX&amp;d=3D6515815555365449379&amp;ei=3D9BnBYcj7C_KP6rQPj7ShiAo&amp;sci=
+sig=3DAAGBfm3n0DwIsI2GT5jsGyXROkcOXfQOzg&amp;oi=3Dscholaralrt&amp;hist=3D4Z=
+5WABAAAAAJ:9524340157753604263:AAGBfm2s1u6dXm_HqG8n9fyMDvYCTFQrnQ&amp;html=
+=3D&amp;folt=3Dkw" class=3D"gse_alrt_title" style=3D"font-size:17px;color:#=
+1a0dab">Talaromyces saxoxalicus <b>sp</b>. <b>nov</b>., isolated from the l=
+imestone walls of the Old Cathedral of Coimbra, Portugal</a></h3><div style=
+=3D"color:#006621">J Trov=C3=A3o, F Soares, I Tiago, A Portugal=C2=A0- Inte=
+rnational Journal of Systematic and=C2=A0=E2=80=A6, 2021</div><div class=3D=
+"gse_alrt_sni">Fungi are one of the main agents of stone biodeterioration w=
+orldwide, since they <br>strongly interfere with its integrity, aesthetical=
+ and structural natural properties. <br>During an experimental survey aimed=
+ to isolate fungal species contributing to the=C2=A0=E2=80=A6</div><div sty=
+le=3D"width:auto"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><=
+tbody><tr><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a =
+href=3D"https://scholar.google.ca/citations?hl=3Den&amp;update_op=3Demail_l=
+ibrary_add&amp;info=3Do66Fr7nTbFoJ&amp;citsig=3DAMD79ooAAAAAY6JNdCwHEuI2A5R=
+SfzKR_8wAZRePdC_l" style=3D"text-decoration:none;display:inline-block;paddi=
+ng:4px 8px 4px 0;mso-padding-alt:0;"><img alt=3D"Save" src=3D"https://schol=
+ar.google.ca/intl/en/scholar/images/1x/save-32.png" border=3D"0" height=3D"=
+16" width=3D"16" style=3D"vertical-align:top"></a></td><td style=3D"padding=
+-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google=
+.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dtw&amp;url=3Dhttps:=
+//www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.005175=
+&amp;rt=3DTalaromyces+saxoxalicus+sp.+nov.,+isolated+from+the+limestone+wal=
+ls+of+the+Old+Cathedral+of+Coimbra,+Portugal&amp;scisig=3DAAGBfm1mhr7St9qXE=
+IUUIsePJTOm4ExagQ" style=3D"text-decoration:none;display:inline-block;paddi=
+ng:4px 8px;mso-padding-alt:0;"><img alt=3D"Twitter" src=3D"https://scholar.=
+google.ca/intl/en/scholar/images/1x/tw-32.png" border=3D"0" height=3D"16" w=
+idth=3D"16" style=3D"vertical-align:top"></a></td><td style=3D"padding-righ=
+t:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/s=
+cholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Din&amp;url=3Dhttps://www=
+.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.005175&amp;=
+rt=3DTalaromyces+saxoxalicus+sp.+nov.,+isolated+from+the+limestone+walls+of=
++the+Old+Cathedral+of+Coimbra,+Portugal&amp;scisig=3DAAGBfm1mhr7St9qXEIUUIs=
+ePJTOm4ExagQ" style=3D"text-decoration:none;display:inline-block;padding:4p=
+x 8px;mso-padding-alt:0;"><img alt=3D"LinkedIn" src=3D"https://scholar.goog=
+le.ca/intl/en/scholar/images/1x/in-32.png" border=3D"0" height=3D"16" width=
+=3D"16" style=3D"vertical-align:top"></a></td><td style=3D"padding-right:4p=
+x;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/schol=
+ar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dfb&amp;url=3Dhttps://www.mic=
+robiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.005175&amp;rt=
+=3DTalaromyces+saxoxalicus+sp.+nov.,+isolated+from+the+limestone+walls+of+t=
+he+Old+Cathedral+of+Coimbra,+Portugal&amp;scisig=3DAAGBfm1mhr7St9qXEIUUIseP=
+JTOm4ExagQ" style=3D"text-decoration:none;display:inline-block;padding:4px =
+8px;mso-padding-alt:0;"><img alt=3D"Facebook" src=3D"https://scholar.google=
+.ca/intl/en/scholar/images/1x/fb-32.png" border=3D"0" height=3D"16" width=
+=3D"16" style=3D"vertical-align:top"></a></td></tr></tbody></table></div><b=
+r><h3 style=3D"font-weight:normal;margin:0;font-size:17px;line-height:20px;=
+"><a href=3D"https://scholar.google.ca/scholar_url?url=3Dhttps://www.microb=
+iologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.005163&amp;hl=3Den=
+&amp;sa=3DX&amp;d=3D1943761474089744215&amp;ei=3D9BnBYcj7C_KP6rQPj7ShiAo&am=
+p;scisig=3DAAGBfm1z-ZaLybY7KWCJEz1H2PUfuX7Y9g&amp;oi=3Dscholaralrt&amp;hist=
+=3D4Z5WABAAAAAJ:9524340157753604263:AAGBfm2s1u6dXm_HqG8n9fyMDvYCTFQrnQ&amp;=
+html=3D&amp;folt=3Dkw" class=3D"gse_alrt_title" style=3D"font-size:17px;col=
+or:#1a0dab">Xanthomonas hydrangeae <b>sp</b>. <b>nov</b>., a novel plant pa=
+thogen isolated from Hydrangea arborescens</a></h3><div style=3D"color:#006=
+621">NC Dia, J Van Vaerenbergh, C Van Malderghem=E2=80=A6=C2=A0- Internatio=
+nal Journal of=C2=A0=E2=80=A6, 2021</div><div class=3D"gse_alrt_sni">This p=
+aper describes a novel species isolated in 2011 and 2012 from nursery-grown=
+ <br>Hydrangea arborescens cultivars in Flanders, Belgium. After 4 days at =
+28=C2=B0 C, the <br>strains yielded yellow, round, convex and mucoid coloni=
+es. Pathogenicity of the=C2=A0=E2=80=A6</div><div style=3D"width:auto"><tab=
+le cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tbody><tr><td style=3D=
+"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://schola=
+r.google.ca/citations?hl=3Den&amp;update_op=3Demail_library_add&amp;info=3D=
+V3c1H8Og-RoJ&amp;citsig=3DAMD79ooAAAAAY6JNdONl59LbfGdDS90qK02h9tZl8UlE" sty=
+le=3D"text-decoration:none;display:inline-block;padding:4px 8px 4px 0;mso-p=
+adding-alt:0;"><img alt=3D"Save" src=3D"https://scholar.google.ca/intl/en/s=
+cholar/images/1x/save-32.png" border=3D"0" height=3D"16" width=3D"16" style=
+=3D"vertical-align:top"></a></td><td style=3D"padding-right:4px;mso-padding=
+-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=
+=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dtw&amp;url=3Dhttps://www.microbiologyre=
+search.org/content/journal/ijsem/10.1099/ijsem.0.005163&amp;rt=3DXanthomona=
+s+hydrangeae+sp.+nov.,+a+novel+plant+pathogen+isolated+from+Hydrangea+arbor=
+escens&amp;scisig=3DAAGBfm3hmi1nht3ASKFLDqMo4GLPFhJ_Hw" style=3D"text-decor=
+ation:none;display:inline-block;padding:4px 8px;mso-padding-alt:0;"><img al=
+t=3D"Twitter" src=3D"https://scholar.google.ca/intl/en/scholar/images/1x/tw=
+-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:to=
+p"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><=
+a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholara=
+lrt&amp;ss=3Din&amp;url=3Dhttps://www.microbiologyresearch.org/content/jour=
+nal/ijsem/10.1099/ijsem.0.005163&amp;rt=3DXanthomonas+hydrangeae+sp.+nov.,+=
+a+novel+plant+pathogen+isolated+from+Hydrangea+arborescens&amp;scisig=3DAAG=
+Bfm3hmi1nht3ASKFLDqMo4GLPFhJ_Hw" style=3D"text-decoration:none;display:inli=
+ne-block;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"LinkedIn" src=3D"h=
+ttps://scholar.google.ca/intl/en/scholar/images/1x/in-32.png" border=3D"0" =
+height=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td><td style=
+=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://sch=
+olar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dfb&amp;u=
+rl=3Dhttps://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs=
+em.0.005163&amp;rt=3DXanthomonas+hydrangeae+sp.+nov.,+a+novel+plant+pathoge=
+n+isolated+from+Hydrangea+arborescens&amp;scisig=3DAAGBfm3hmi1nht3ASKFLDqMo=
+4GLPFhJ_Hw" style=3D"text-decoration:none;display:inline-block;padding:4px =
+8px;mso-padding-alt:0;"><img alt=3D"Facebook" src=3D"https://scholar.google=
+.ca/intl/en/scholar/images/1x/fb-32.png" border=3D"0" height=3D"16" width=
+=3D"16" style=3D"vertical-align:top"></a></td></tr></tbody></table></div><b=
+r><h3 style=3D"font-weight:normal;margin:0;font-size:17px;line-height:20px;=
+"><span style=3D"font-size:11px;font-weight:bold;color:#1a0dab;vertical-ali=
+gn:2px">[HTML]</span> <a href=3D"https://scholar.google.ca/scholar_url?url=
+=3Dhttps://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem=
+.0.005168%3Fcrawler%3Dtrue&amp;hl=3Den&amp;sa=3DX&amp;d=3D58185121983315459=
+80&amp;ei=3D9BnBYcj7C_KP6rQPj7ShiAo&amp;scisig=3DAAGBfm1ylCELD9k68ejHD_T2uk=
+MMO637QQ&amp;oi=3Dscholaralrt&amp;hist=3D4Z5WABAAAAAJ:9524340157753604263:A=
+AGBfm2s1u6dXm_HqG8n9fyMDvYCTFQrnQ&amp;html=3D&amp;folt=3Dkw" class=3D"gse_a=
+lrt_title" style=3D"font-size:17px;color:#1a0dab">Enterococcus innesii <b>s=
+p</b>. <b>nov</b>., isolated from the wax moth Galleria mellonella</a></h3>=
+<div style=3D"color:#006621">HCC Gooch, R Kiu, S Rudder, DJ Baker, LJ Hall=
+=E2=80=A6=C2=A0- International Journal of=C2=A0=E2=80=A6, 2021</div><div cl=
+ass=3D"gse_alrt_sni">Four bacterial strains were isolated from two differen=
+t colony sources of the wax moth <br>Galleria mellonella. They were charact=
+erized by a polyphasic approach including <br>16S rRNA gene sequence analys=
+is, core-genome analysis, average nucleotide=C2=A0=E2=80=A6</div><div style=
+=3D"width:auto"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tb=
+ody><tr><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a hr=
+ef=3D"https://scholar.google.ca/citations?hl=3Den&amp;update_op=3Demail_lib=
+rary_add&amp;info=3DfDnUPgSCv1AJ&amp;citsig=3DAMD79ooAAAAAY6JNdMsGNDCMs61Nf=
+kBao0jDDOl--V65" style=3D"text-decoration:none;display:inline-block;padding=
+:4px 8px 4px 0;mso-padding-alt:0;"><img alt=3D"Save" src=3D"https://scholar=
+.google.ca/intl/en/scholar/images/1x/save-32.png" border=3D"0" height=3D"16=
+" width=3D"16" style=3D"vertical-align:top"></a></td><td style=3D"padding-r=
+ight:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.c=
+a/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dtw&amp;url=3Dhttps://=
+www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.005168%3=
+Fcrawler%3Dtrue&amp;rt=3DEnterococcus+innesii+sp.+nov.,+isolated+from+the+w=
+ax+moth+Galleria+mellonella&amp;scisig=3DAAGBfm1iDYRWuw00wAr-JTNJpOw3CvYp2A=
+" style=3D"text-decoration:none;display:inline-block;padding:4px 8px;mso-pa=
+dding-alt:0;"><img alt=3D"Twitter" src=3D"https://scholar.google.ca/intl/en=
+/scholar/images/1x/tw-32.png" border=3D"0" height=3D"16" width=3D"16" style=
+=3D"vertical-align:top"></a></td><td style=3D"padding-right:4px;mso-padding=
+-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=
+=3Den&amp;oi=3Dscholaralrt&amp;ss=3Din&amp;url=3Dhttps://www.microbiologyre=
+search.org/content/journal/ijsem/10.1099/ijsem.0.005168%3Fcrawler%3Dtrue&am=
+p;rt=3DEnterococcus+innesii+sp.+nov.,+isolated+from+the+wax+moth+Galleria+m=
+ellonella&amp;scisig=3DAAGBfm1iDYRWuw00wAr-JTNJpOw3CvYp2A" style=3D"text-de=
+coration:none;display:inline-block;padding:4px 8px;mso-padding-alt:0;"><img=
+ alt=3D"LinkedIn" src=3D"https://scholar.google.ca/intl/en/scholar/images/1=
+x/in-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-alig=
+n:top"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0=
+;"><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscho=
+laralrt&amp;ss=3Dfb&amp;url=3Dhttps://www.microbiologyresearch.org/content/=
+journal/ijsem/10.1099/ijsem.0.005168%3Fcrawler%3Dtrue&amp;rt=3DEnterococcus=
++innesii+sp.+nov.,+isolated+from+the+wax+moth+Galleria+mellonella&amp;scisi=
+g=3DAAGBfm1iDYRWuw00wAr-JTNJpOw3CvYp2A" style=3D"text-decoration:none;displ=
+ay:inline-block;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"Facebook" s=
+rc=3D"https://scholar.google.ca/intl/en/scholar/images/1x/fb-32.png" border=
+=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td></t=
+r></tbody></table></div><br><h3 style=3D"font-weight:normal;margin:0;font-s=
+ize:17px;line-height:20px;"><a href=3D"https://scholar.google.ca/scholar_ur=
+l?url=3Dhttps://www.microbiologyresearch.org/content/journal/ijsem/10.1099/=
+ijsem.0.005157&amp;hl=3Den&amp;sa=3DX&amp;d=3D513908298662702811&amp;ei=3D9=
+BnBYcj7C_KP6rQPj7ShiAo&amp;scisig=3DAAGBfm2nAn2Z7_2tuGqWciIat9d7a0AzCA&amp;=
+oi=3Dscholaralrt&amp;hist=3D4Z5WABAAAAAJ:9524340157753604263:AAGBfm2s1u6dXm=
+_HqG8n9fyMDvYCTFQrnQ&amp;html=3D&amp;folt=3Dkw" class=3D"gse_alrt_title" st=
+yle=3D"font-size:17px;color:#1a0dab">Micromonospora humida <b>sp</b>. <b>no=
+v</b>., exhibiting antimicrobial potential, isolated from riverside soil</a=
+></h3><div style=3D"color:#006621">JS Ra, MJ Kim, DH Lee, JW Jeong, SB Kim=
+=C2=A0- International Journal of Systematic and=C2=A0=E2=80=A6, 2021</div><=
+div class=3D"gse_alrt_sni">An actinobacterial strain designated MMS20-R1-14=
+T was isolated from a riverside <br>soil sample. Colonies on agar plates we=
+re orange to strong orange brown in colour, <br>which later became black. T=
+he cells grew at 10=E2=80=9340=C2=B0 C (optimum, 37=C2=B0 C), pH 5.0=E2=80=
+=9311.0=C2=A0=E2=80=A6</div><div style=3D"width:auto"><table cellpadding=3D=
+"0" cellspacing=3D"0" border=3D"0"><tbody><tr><td style=3D"padding-right:4p=
+x;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/citat=
+ions?hl=3Den&amp;update_op=3Demail_library_add&amp;info=3D227q9N_EIQcJ&amp;=
+citsig=3DAMD79ooAAAAAY6JNdJbLQKLHW7d-szSgu1kTEdI9Tjf8" style=3D"text-decora=
+tion:none;display:inline-block;padding:4px 8px 4px 0;mso-padding-alt:0;"><i=
+mg alt=3D"Save" src=3D"https://scholar.google.ca/intl/en/scholar/images/1x/=
+save-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-alig=
+n:top"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0=
+;"><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscho=
+laralrt&amp;ss=3Dtw&amp;url=3Dhttps://www.microbiologyresearch.org/content/=
+journal/ijsem/10.1099/ijsem.0.005157&amp;rt=3DMicromonospora+humida+sp.+nov=
+.,+exhibiting+antimicrobial+potential,+isolated+from+riverside+soil&amp;sci=
+sig=3DAAGBfm1ALZLEqU2Qi5NjfJdyAk4nU0xSfw" style=3D"text-decoration:none;dis=
+play:inline-block;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"Twitter" =
+src=3D"https://scholar.google.ca/intl/en/scholar/images/1x/tw-32.png" borde=
+r=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td><t=
+d style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"http=
+s://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Di=
+n&amp;url=3Dhttps://www.microbiologyresearch.org/content/journal/ijsem/10.1=
+099/ijsem.0.005157&amp;rt=3DMicromonospora+humida+sp.+nov.,+exhibiting+anti=
+microbial+potential,+isolated+from+riverside+soil&amp;scisig=3DAAGBfm1ALZLE=
+qU2Qi5NjfJdyAk4nU0xSfw" style=3D"text-decoration:none;display:inline-block;=
+padding:4px 8px;mso-padding-alt:0;"><img alt=3D"LinkedIn" src=3D"https://sc=
+holar.google.ca/intl/en/scholar/images/1x/in-32.png" border=3D"0" height=3D=
+"16" width=3D"16" style=3D"vertical-align:top"></a></td><td style=3D"paddin=
+g-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.googl=
+e.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dfb&amp;url=3Dhttps=
+://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.00515=
+7&amp;rt=3DMicromonospora+humida+sp.+nov.,+exhibiting+antimicrobial+potenti=
+al,+isolated+from+riverside+soil&amp;scisig=3DAAGBfm1ALZLEqU2Qi5NjfJdyAk4nU=
+0xSfw" style=3D"text-decoration:none;display:inline-block;padding:4px 8px;m=
+so-padding-alt:0;"><img alt=3D"Facebook" src=3D"https://scholar.google.ca/i=
+ntl/en/scholar/images/1x/fb-32.png" border=3D"0" height=3D"16" width=3D"16"=
+ style=3D"vertical-align:top"></a></td></tr></tbody></table></div><br><h3 s=
+tyle=3D"font-weight:normal;margin:0;font-size:17px;line-height:20px;"><a hr=
+ef=3D"https://scholar.google.ca/scholar_url?url=3Dhttps://www.microbiologyr=
+esearch.org/content/journal/ijsem/10.1099/ijsem.0.005166&amp;hl=3Den&amp;sa=
+=3DX&amp;d=3D9231225098049206096&amp;ei=3D9BnBYcj7C_KP6rQPj7ShiAo&amp;scisi=
+g=3DAAGBfm0sFqp5mwYPXABS9HsTsRDYqVh7LQ&amp;oi=3Dscholaralrt&amp;hist=3D4Z5W=
+ABAAAAAJ:9524340157753604263:AAGBfm2s1u6dXm_HqG8n9fyMDvYCTFQrnQ&amp;html=3D=
+&amp;folt=3Dkw" class=3D"gse_alrt_title" style=3D"font-size:17px;color:#1a0=
+dab">Methylocystis silviterrae <b>sp</b>. <b>nov</b>., a high-affinity meth=
+anotrophic bacterium isolated from the boreal forest soil</a></h3><div styl=
+e=3D"color:#006621">EN Tikhonova, DS Grouzdev, AN Avtukh=E2=80=A6=C2=A0- In=
+ternational Journal of=C2=A0=E2=80=A6, 2021</div><div class=3D"gse_alrt_sni=
+">A novel species is proposed for a high-affinity methanotrophic representa=
+tive of the <br>genus Methylocystis. Strain FST was isolated from a weakly =
+acidic (pH 5.3) mixed <br>forest soil of the southern Moscow area. Cells of=
+ FST are aerobic, Gram-negative=C2=A0=E2=80=A6</div><div style=3D"width:aut=
+o"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tbody><tr><td s=
+tyle=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https:/=
+/scholar.google.ca/citations?hl=3Den&amp;update_op=3Demail_library_add&amp;=
+info=3DULfkSlHmG4AJ&amp;citsig=3DAMD79ooAAAAAY6JNdLm9I6xcHZpO54nU-A1iCToQyN=
+GD" style=3D"text-decoration:none;display:inline-block;padding:4px 8px 4px =
+0;mso-padding-alt:0;"><img alt=3D"Save" src=3D"https://scholar.google.ca/in=
+tl/en/scholar/images/1x/save-32.png" border=3D"0" height=3D"16" width=3D"16=
+" style=3D"vertical-align:top"></a></td><td style=3D"padding-right:4px;mso-=
+padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/scholar_sha=
+re?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dtw&amp;url=3Dhttps://www.microbiol=
+ogyresearch.org/content/journal/ijsem/10.1099/ijsem.0.005166&amp;rt=3DMethy=
+locystis+silviterrae+sp.+nov.,+a+high-affinity+methanotrophic+bacterium+iso=
+lated+from+the+boreal+forest+soil&amp;scisig=3DAAGBfm1PgjG0dHJYftuqVr2_AptY=
+hmxRRA" style=3D"text-decoration:none;display:inline-block;padding:4px 8px;=
+mso-padding-alt:0;"><img alt=3D"Twitter" src=3D"https://scholar.google.ca/i=
+ntl/en/scholar/images/1x/tw-32.png" border=3D"0" height=3D"16" width=3D"16"=
+ style=3D"vertical-align:top"></a></td><td style=3D"padding-right:4px;mso-p=
+adding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/scholar_shar=
+e?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Din&amp;url=3Dhttps://www.microbiolo=
+gyresearch.org/content/journal/ijsem/10.1099/ijsem.0.005166&amp;rt=3DMethyl=
+ocystis+silviterrae+sp.+nov.,+a+high-affinity+methanotrophic+bacterium+isol=
+ated+from+the+boreal+forest+soil&amp;scisig=3DAAGBfm1PgjG0dHJYftuqVr2_AptYh=
+mxRRA" style=3D"text-decoration:none;display:inline-block;padding:4px 8px;m=
+so-padding-alt:0;"><img alt=3D"LinkedIn" src=3D"https://scholar.google.ca/i=
+ntl/en/scholar/images/1x/in-32.png" border=3D"0" height=3D"16" width=3D"16"=
+ style=3D"vertical-align:top"></a></td><td style=3D"padding-right:4px;mso-p=
+adding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/scholar_shar=
+e?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dfb&amp;url=3Dhttps://www.microbiolo=
+gyresearch.org/content/journal/ijsem/10.1099/ijsem.0.005166&amp;rt=3DMethyl=
+ocystis+silviterrae+sp.+nov.,+a+high-affinity+methanotrophic+bacterium+isol=
+ated+from+the+boreal+forest+soil&amp;scisig=3DAAGBfm1PgjG0dHJYftuqVr2_AptYh=
+mxRRA" style=3D"text-decoration:none;display:inline-block;padding:4px 8px;m=
+so-padding-alt:0;"><img alt=3D"Facebook" src=3D"https://scholar.google.ca/i=
+ntl/en/scholar/images/1x/fb-32.png" border=3D"0" height=3D"16" width=3D"16"=
+ style=3D"vertical-align:top"></a></td></tr></tbody></table></div><br><h3 s=
+tyle=3D"font-weight:normal;margin:0;font-size:17px;line-height:20px;"><a hr=
+ef=3D"https://scholar.google.ca/scholar_url?url=3Dhttps://www.microbiologyr=
+esearch.org/content/journal/ijsem/10.1099/ijsem.0.005177&amp;hl=3Den&amp;sa=
+=3DX&amp;d=3D1936926140623491690&amp;ei=3D9BnBYcj7C_KP6rQPj7ShiAo&amp;scisi=
+g=3DAAGBfm2L7pPInQB3e8zpoFwWCY2qQfwImA&amp;oi=3Dscholaralrt&amp;hist=3D4Z5W=
+ABAAAAAJ:9524340157753604263:AAGBfm2s1u6dXm_HqG8n9fyMDvYCTFQrnQ&amp;html=3D=
+&amp;folt=3Dkw" class=3D"gse_alrt_title" style=3D"font-size:17px;color:#1a0=
+dab">Arthrobacter cheniae and Arthrobacter frigidicola <b>sp</b>. <b>nov</b=
+>., isolated from a glacier</a></h3><div style=3D"color:#006621">LL Yang, H=
+C Liu, Q Liu, YH Xin=C2=A0- International Journal of Systematic and Evoluti=
+onary=C2=A0=E2=80=A6, 2021</div><div class=3D"gse_alrt_sni">Two Gram-stain-=
+positive, aerobic, rod-shaped, pink and light pink colony-forming <br>bacte=
+ria, designated as Hz2T and MDT2-14T, respectively, were isolated from <br>=
+glacier cryoconite samples. Comparisons based on 16S rRNA gene sequences=C2=
+=A0=E2=80=A6</div><div style=3D"width:auto"><table cellpadding=3D"0" cellsp=
+acing=3D"0" border=3D"0"><tbody><tr><td style=3D"padding-right:4px;mso-padd=
+ing-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/citations?hl=3D=
+en&amp;update_op=3Demail_library_add&amp;info=3DahIICBBY4RoJ&amp;citsig=3DA=
+MD79ooAAAAAY6JNdAnNeEie_xW4wN9iZ9pDKKLUJBG_" style=3D"text-decoration:none;=
+display:inline-block;padding:4px 8px 4px 0;mso-padding-alt:0;"><img alt=3D"=
+Save" src=3D"https://scholar.google.ca/intl/en/scholar/images/1x/save-32.pn=
+g" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:top"></a=
+></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=
+=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&am=
+p;ss=3Dtw&amp;url=3Dhttps://www.microbiologyresearch.org/content/journal/ij=
+sem/10.1099/ijsem.0.005177&amp;rt=3DArthrobacter+cheniae+and+Arthrobacter+f=
+rigidicola+sp.+nov.,+isolated+from+a+glacier&amp;scisig=3DAAGBfm2QRAgTS0Z5k=
+E9T7n4NwIao3aMuGQ" style=3D"text-decoration:none;display:inline-block;paddi=
+ng:4px 8px;mso-padding-alt:0;"><img alt=3D"Twitter" src=3D"https://scholar.=
+google.ca/intl/en/scholar/images/1x/tw-32.png" border=3D"0" height=3D"16" w=
+idth=3D"16" style=3D"vertical-align:top"></a></td><td style=3D"padding-righ=
+t:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/s=
+cholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Din&amp;url=3Dhttps://www=
+.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.005177&amp;=
+rt=3DArthrobacter+cheniae+and+Arthrobacter+frigidicola+sp.+nov.,+isolated+f=
+rom+a+glacier&amp;scisig=3DAAGBfm2QRAgTS0Z5kE9T7n4NwIao3aMuGQ" style=3D"tex=
+t-decoration:none;display:inline-block;padding:4px 8px;mso-padding-alt:0;">=
+<img alt=3D"LinkedIn" src=3D"https://scholar.google.ca/intl/en/scholar/imag=
+es/1x/in-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-=
+align:top"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px=
+ 0 0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3D=
+scholaralrt&amp;ss=3Dfb&amp;url=3Dhttps://www.microbiologyresearch.org/cont=
+ent/journal/ijsem/10.1099/ijsem.0.005177&amp;rt=3DArthrobacter+cheniae+and+=
+Arthrobacter+frigidicola+sp.+nov.,+isolated+from+a+glacier&amp;scisig=3DAAG=
+Bfm2QRAgTS0Z5kE9T7n4NwIao3aMuGQ" style=3D"text-decoration:none;display:inli=
+ne-block;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"Facebook" src=3D"h=
+ttps://scholar.google.ca/intl/en/scholar/images/1x/fb-32.png" border=3D"0" =
+height=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td></tr></tbo=
+dy></table></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:17p=
+x;line-height:20px;"><a href=3D"https://scholar.google.ca/scholar_url?url=
+=3Dhttps://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem=
+.0.005174&amp;hl=3Den&amp;sa=3DX&amp;d=3D587467446918990443&amp;ei=3D9BnBYc=
+j7C_KP6rQPj7ShiAo&amp;scisig=3DAAGBfm0JS5a2TX75cIdqfgTXyp9VgrVnnQ&amp;oi=3D=
+scholaralrt&amp;hist=3D4Z5WABAAAAAJ:9524340157753604263:AAGBfm2s1u6dXm_HqG8=
+n9fyMDvYCTFQrnQ&amp;html=3D&amp;folt=3Dkw" class=3D"gse_alrt_title" style=
+=3D"font-size:17px;color:#1a0dab">Alkalibacter mobilis <b>sp</b>. <b>nov</b=
+>., an anaerobic bacterium isolated from a coastal lake</a></h3><div style=
+=3D"color:#006621">M Khomyakova, A Merkel, A Novikov, A Klyukina=E2=80=A6=
+=C2=A0- International Journal of=C2=A0=E2=80=A6, 2021</div><div class=3D"gs=
+e_alrt_sni">A novel anaerobic chemoorganotrophic, facultatively alkaliphili=
+c bacterium (strain <br>M17 DMBT) was isolated from a coastal lake (Golubit=
+sckoe, Taman Peninsula, <br>Russia). Cells were motile rods, 1.6=E2=80=932.=
+1 =C2=B5m long and 0.45 =C2=B5m in diameter. The=C2=A0=E2=80=A6</div><div s=
+tyle=3D"width:auto"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"=
+><tbody><tr><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><=
+a href=3D"https://scholar.google.ca/citations?hl=3Den&amp;update_op=3Demail=
+_library_add&amp;info=3Da0q2yocaJwgJ&amp;citsig=3DAMD79ooAAAAAY6JNdALh_1P4u=
+GXjB0y4Oc-XHK-pms9o" style=3D"text-decoration:none;display:inline-block;pad=
+ding:4px 8px 4px 0;mso-padding-alt:0;"><img alt=3D"Save" src=3D"https://sch=
+olar.google.ca/intl/en/scholar/images/1x/save-32.png" border=3D"0" height=
+=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td><td style=3D"pad=
+ding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.go=
+ogle.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dtw&amp;url=3Dht=
+tps://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.00=
+5174&amp;rt=3DAlkalibacter+mobilis+sp.+nov.,+an+anaerobic+bacterium+isolate=
+d+from+a+coastal+lake&amp;scisig=3DAAGBfm2tSXZ8FziF_FS4rsD-qwE1_tgq-w" styl=
+e=3D"text-decoration:none;display:inline-block;padding:4px 8px;mso-padding-=
+alt:0;"><img alt=3D"Twitter" src=3D"https://scholar.google.ca/intl/en/schol=
+ar/images/1x/tw-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"ve=
+rtical-align:top"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4=
+px 16px 0 0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&am=
+p;oi=3Dscholaralrt&amp;ss=3Din&amp;url=3Dhttps://www.microbiologyresearch.o=
+rg/content/journal/ijsem/10.1099/ijsem.0.005174&amp;rt=3DAlkalibacter+mobil=
+is+sp.+nov.,+an+anaerobic+bacterium+isolated+from+a+coastal+lake&amp;scisig=
+=3DAAGBfm2tSXZ8FziF_FS4rsD-qwE1_tgq-w" style=3D"text-decoration:none;displa=
+y:inline-block;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"LinkedIn" sr=
+c=3D"https://scholar.google.ca/intl/en/scholar/images/1x/in-32.png" border=
+=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td><td=
+ style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https=
+://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dfb=
+&amp;url=3Dhttps://www.microbiologyresearch.org/content/journal/ijsem/10.10=
+99/ijsem.0.005174&amp;rt=3DAlkalibacter+mobilis+sp.+nov.,+an+anaerobic+bact=
+erium+isolated+from+a+coastal+lake&amp;scisig=3DAAGBfm2tSXZ8FziF_FS4rsD-qwE=
+1_tgq-w" style=3D"text-decoration:none;display:inline-block;padding:4px 8px=
+;mso-padding-alt:0;"><img alt=3D"Facebook" src=3D"https://scholar.google.ca=
+/intl/en/scholar/images/1x/fb-32.png" border=3D"0" height=3D"16" width=3D"1=
+6" style=3D"vertical-align:top"></a></td></tr></tbody></table></div><br><h3=
+ style=3D"font-weight:normal;margin:0;font-size:17px;line-height:20px;"><a =
+href=3D"https://scholar.google.ca/scholar_url?url=3Dhttps://www.microbiolog=
+yresearch.org/content/journal/ijsem/10.1099/ijsem.0.005192&amp;hl=3Den&amp;=
+sa=3DX&amp;d=3D3139005451821544781&amp;ei=3D9BnBYcj7C_KP6rQPj7ShiAo&amp;sci=
+sig=3DAAGBfm1kESK1mqefo3m23PAUa-umXwm2Gw&amp;oi=3Dscholaralrt&amp;hist=3D4Z=
+5WABAAAAAJ:9524340157753604263:AAGBfm2s1u6dXm_HqG8n9fyMDvYCTFQrnQ&amp;html=
+=3D&amp;folt=3Dkw" class=3D"gse_alrt_title" style=3D"font-size:17px;color:#=
+1a0dab">Reclassification of Olsenella gallinarum as Thermophilibacter galli=
+narum comb. nov. and description of Thermophilibacter immobilis <b>sp</b>. =
+<b>nov</b>., isolated from the mud in=C2=A0=E2=80=A6</a></h3><div style=3D"=
+color:#006621">LF Lu, Y Yang, L Zheng, R Zhang, GQ Liu, TY Tu, T Xu=E2=80=
+=A6=C2=A0- International Journal of=C2=A0=E2=80=A6, 2021</div><div class=3D=
+"gse_alrt_sni">A novel Gram-stain-positive, strictly anaerobic, elliptical,=
+ non-motile and non-<br>flagellated bacterium, designed LZLJ-2T, was isolat=
+ed from the mud in a <br>fermentation cellar used for the production of Chi=
+nese Luzhou-flavour Baijiu. Growth=C2=A0=E2=80=A6</div><div style=3D"width:=
+auto"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tbody><tr><t=
+d style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"http=
+s://scholar.google.ca/citations?hl=3Den&amp;update_op=3Demail_library_add&a=
+mp;info=3DTXXWx9P8jysJ&amp;citsig=3DAMD79ooAAAAAY6JNdPCz19-gaYqr5VQhq1LmNUB=
+inYYi" style=3D"text-decoration:none;display:inline-block;padding:4px 8px 4=
+px 0;mso-padding-alt:0;"><img alt=3D"Save" src=3D"https://scholar.google.ca=
+/intl/en/scholar/images/1x/save-32.png" border=3D"0" height=3D"16" width=3D=
+"16" style=3D"vertical-align:top"></a></td><td style=3D"padding-right:4px;m=
+so-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/scholar_=
+share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dtw&amp;url=3Dhttps://www.microb=
+iologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.005192&amp;rt=3DRe=
+classification+of+Olsenella+gallinarum+as+Thermophilibacter+gallinarum+comb=
+.+nov.+and+description+of+Thermophilibacter+immobilis+sp.+nov.,+isolated+fr=
+om+the+mud+in+a+fermentation+cellar+used+for%C2%A0%E2%80%A6&amp;scisig=3DAA=
+GBfm20ZiWW23HZyNHCnKb1OHh7DNxL-w" style=3D"text-decoration:none;display:inl=
+ine-block;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"Twitter" src=3D"h=
+ttps://scholar.google.ca/intl/en/scholar/images/1x/tw-32.png" border=3D"0" =
+height=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td><td style=
+=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://sch=
+olar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Din&amp;u=
+rl=3Dhttps://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs=
+em.0.005192&amp;rt=3DReclassification+of+Olsenella+gallinarum+as+Thermophil=
+ibacter+gallinarum+comb.+nov.+and+description+of+Thermophilibacter+immobili=
+s+sp.+nov.,+isolated+from+the+mud+in+a+fermentation+cellar+used+for%C2%A0%E=
+2%80%A6&amp;scisig=3DAAGBfm20ZiWW23HZyNHCnKb1OHh7DNxL-w" style=3D"text-deco=
+ration:none;display:inline-block;padding:4px 8px;mso-padding-alt:0;"><img a=
+lt=3D"LinkedIn" src=3D"https://scholar.google.ca/intl/en/scholar/images/1x/=
+in-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:=
+top"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"=
+><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dschola=
+ralrt&amp;ss=3Dfb&amp;url=3Dhttps://www.microbiologyresearch.org/content/jo=
+urnal/ijsem/10.1099/ijsem.0.005192&amp;rt=3DReclassification+of+Olsenella+g=
+allinarum+as+Thermophilibacter+gallinarum+comb.+nov.+and+description+of+The=
+rmophilibacter+immobilis+sp.+nov.,+isolated+from+the+mud+in+a+fermentation+=
+cellar+used+for%C2%A0%E2%80%A6&amp;scisig=3DAAGBfm20ZiWW23HZyNHCnKb1OHh7DNx=
+L-w" style=3D"text-decoration:none;display:inline-block;padding:4px 8px;mso=
+-padding-alt:0;"><img alt=3D"Facebook" src=3D"https://scholar.google.ca/int=
+l/en/scholar/images/1x/fb-32.png" border=3D"0" height=3D"16" width=3D"16" s=
+tyle=3D"vertical-align:top"></a></td></tr></tbody></table></div><br><h3 sty=
+le=3D"font-weight:normal;margin:0;font-size:17px;line-height:20px;"><span s=
+tyle=3D"font-size:11px;font-weight:bold;color:#1a0dab;vertical-align:2px">[=
+PDF]</span> <a href=3D"https://scholar.google.ca/scholar_url?url=3Dhttps://=
+phytokeys.pensoft.net/article/73913/download/pdf/&amp;hl=3Den&amp;sa=3DX&am=
+p;d=3D4878754358519768593&amp;ei=3D9BnBYcj7C_KP6rQPj7ShiAo&amp;scisig=3DAAG=
+Bfm1O_ItMFNw4BMV4CQapHJbXo7vh7A&amp;oi=3Dscholaralrt&amp;hist=3D4Z5WABAAAAA=
+J:9524340157753604263:AAGBfm2s1u6dXm_HqG8n9fyMDvYCTFQrnQ&amp;html=3D&amp;fo=
+lt=3Dkw" class=3D"gse_alrt_title" style=3D"font-size:17px;color:#1a0dab">=
+=EF=BB=BF Achnanthidium gladius <b>sp</b>. <b>nov</b>.(Bacillariophyceae)=
+=E2=80=93a new monoraphid diatom species from Indonesia</a></h3><div style=
+=3D"color:#006621">ND Tseplik, YI Maltsev, AM Glushchenko=E2=80=A6=C2=A0- P=
+hytoKeys, 2021</div><div class=3D"gse_alrt_sni">A new monoraphid diatom spe=
+cies Achnanthidium gladius <b>sp</b>. <b>nov</b>. is described from <br>Ind=
+onesia. The description is based on molecular data (18SV4), morphological <=
+br>analysis and comparison with similar species. According to molecular dat=
+a=C2=A0=E2=80=A6</div><div style=3D"width:auto"><table cellpadding=3D"0" ce=
+llspacing=3D"0" border=3D"0"><tbody><tr><td style=3D"padding-right:4px;mso-=
+padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/citations?h=
+l=3Den&amp;update_op=3Demail_library_add&amp;info=3DEab1hT3RtEMJ&amp;citsig=
+=3DAMD79ooAAAAAY6JNdPJk1kSccVZuoYjDl8CAw0AJXKbW" style=3D"text-decoration:n=
+one;display:inline-block;padding:4px 8px 4px 0;mso-padding-alt:0;"><img alt=
+=3D"Save" src=3D"https://scholar.google.ca/intl/en/scholar/images/1x/save-3=
+2.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:top"=
+></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a =
+href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralr=
+t&amp;ss=3Dtw&amp;url=3Dhttps://phytokeys.pensoft.net/article/73913/downloa=
+d/pdf/&amp;rt=3D%EF%BB%BF+Achnanthidium+gladius+sp.+nov.(Bacillariophyceae)=
+%E2%80%93a+new+monoraphid+diatom+species+from+Indonesia&amp;scisig=3DAAGBfm=
+1xWlzxiVXTofo-S1UJ2sms7ntPuA" style=3D"text-decoration:none;display:inline-=
+block;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"Twitter" src=3D"https=
+://scholar.google.ca/intl/en/scholar/images/1x/tw-32.png" border=3D"0" heig=
+ht=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td><td style=3D"p=
+adding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.=
+google.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Din&amp;url=3D=
+https://phytokeys.pensoft.net/article/73913/download/pdf/&amp;rt=3D%EF%BB%B=
+F+Achnanthidium+gladius+sp.+nov.(Bacillariophyceae)%E2%80%93a+new+monoraphi=
+d+diatom+species+from+Indonesia&amp;scisig=3DAAGBfm1xWlzxiVXTofo-S1UJ2sms7n=
+tPuA" style=3D"text-decoration:none;display:inline-block;padding:4px 8px;ms=
+o-padding-alt:0;"><img alt=3D"LinkedIn" src=3D"https://scholar.google.ca/in=
+tl/en/scholar/images/1x/in-32.png" border=3D"0" height=3D"16" width=3D"16" =
+style=3D"vertical-align:top"></a></td><td style=3D"padding-right:4px;mso-pa=
+dding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/scholar_share=
+?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dfb&amp;url=3Dhttps://phytokeys.penso=
+ft.net/article/73913/download/pdf/&amp;rt=3D%EF%BB%BF+Achnanthidium+gladius=
++sp.+nov.(Bacillariophyceae)%E2%80%93a+new+monoraphid+diatom+species+from+I=
+ndonesia&amp;scisig=3DAAGBfm1xWlzxiVXTofo-S1UJ2sms7ntPuA" style=3D"text-dec=
+oration:none;display:inline-block;padding:4px 8px;mso-padding-alt:0;"><img =
+alt=3D"Facebook" src=3D"https://scholar.google.ca/intl/en/scholar/images/1x=
+/fb-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align=
+:top"></a></td></tr></tbody></table></div><br><h3 style=3D"font-weight:norm=
+al;margin:0;font-size:17px;line-height:20px;"><span style=3D"font-size:11px=
+;font-weight:bold;color:#1a0dab;vertical-align:2px">[PDF]</span> <a href=3D=
+"https://scholar.google.ca/scholar_url?url=3Dhttps://www.biotaxa.org/Zootax=
+a/article/view/zootaxa.5082.2.1/69748&amp;hl=3Den&amp;sa=3DX&amp;d=3D771368=
+8508740099290&amp;ei=3D9BnBYcj7C_KP6rQPj7ShiAo&amp;scisig=3DAAGBfm2hOU6q-Q7=
+wa56ouT_e2NrceX4AMQ&amp;oi=3Dscholaralrt&amp;hist=3D4Z5WABAAAAAJ:9524340157=
+753604263:AAGBfm2s1u6dXm_HqG8n9fyMDvYCTFQrnQ&amp;html=3D&amp;folt=3Dkw" cla=
+ss=3D"gse_alrt_title" style=3D"font-size:17px;color:#1a0dab">Nesobasis rito=
+ <b>sp</b>. <b>nov</b>.(Zygoptera: Coenagrionidae), a <b>new species </b>of=
+ forest damselfly from Vanua Levu, Fiji</a></h3><div style=3D"color:#006621=
+">A RIVAS-TORRES, B RASHNI, H WAQA-SAKITI=E2=80=A6=C2=A0- Zootaxa, 2021</di=
+v><div class=3D"gse_alrt_sni">Nesobasis rito <b>sp</b>. <b>nov</b>.(Holotyp=
+e=E2=99=82, Fiji, Vanua Levu, Drawa, 31 v 2018, A. Rivas-<br>Torres leg.) f=
+rom the comosa group is here described, illustrated, diagnosed, and <br>com=
+pared with morphologically close species of the genus. Nesobasis rito can b=
+e=C2=A0=E2=80=A6</div><div style=3D"width:auto"><table cellpadding=3D"0" ce=
+llspacing=3D"0" border=3D"0"><tbody><tr><td style=3D"padding-right:4px;mso-=
+padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/citations?h=
+l=3Den&amp;update_op=3Demail_library_add&amp;info=3D2lx3b9SGDGsJ&amp;citsig=
+=3DAMD79ooAAAAAY6JNdEKww5nfyaAkog5NOSuhaiqp-xoi" style=3D"text-decoration:n=
+one;display:inline-block;padding:4px 8px 4px 0;mso-padding-alt:0;"><img alt=
+=3D"Save" src=3D"https://scholar.google.ca/intl/en/scholar/images/1x/save-3=
+2.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:top"=
+></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a =
+href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralr=
+t&amp;ss=3Dtw&amp;url=3Dhttps://www.biotaxa.org/Zootaxa/article/view/zootax=
+a.5082.2.1/69748&amp;rt=3DNesobasis+rito+sp.+nov.(Zygoptera:+Coenagrionidae=
+),+a+new+species+of+forest+damselfly+from+Vanua+Levu,+Fiji&amp;scisig=3DAAG=
+Bfm0dr68qGfb5BkLrJ6NzQW5ov7w1dw" style=3D"text-decoration:none;display:inli=
+ne-block;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"Twitter" src=3D"ht=
+tps://scholar.google.ca/intl/en/scholar/images/1x/tw-32.png" border=3D"0" h=
+eight=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td><td style=
+=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://sch=
+olar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Din&amp;u=
+rl=3Dhttps://www.biotaxa.org/Zootaxa/article/view/zootaxa.5082.2.1/69748&am=
+p;rt=3DNesobasis+rito+sp.+nov.(Zygoptera:+Coenagrionidae),+a+new+species+of=
++forest+damselfly+from+Vanua+Levu,+Fiji&amp;scisig=3DAAGBfm0dr68qGfb5BkLrJ6=
+NzQW5ov7w1dw" style=3D"text-decoration:none;display:inline-block;padding:4p=
+x 8px;mso-padding-alt:0;"><img alt=3D"LinkedIn" src=3D"https://scholar.goog=
+le.ca/intl/en/scholar/images/1x/in-32.png" border=3D"0" height=3D"16" width=
+=3D"16" style=3D"vertical-align:top"></a></td><td style=3D"padding-right:4p=
+x;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/schol=
+ar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dfb&amp;url=3Dhttps://www.bio=
+taxa.org/Zootaxa/article/view/zootaxa.5082.2.1/69748&amp;rt=3DNesobasis+rit=
+o+sp.+nov.(Zygoptera:+Coenagrionidae),+a+new+species+of+forest+damselfly+fr=
+om+Vanua+Levu,+Fiji&amp;scisig=3DAAGBfm0dr68qGfb5BkLrJ6NzQW5ov7w1dw" style=
+=3D"text-decoration:none;display:inline-block;padding:4px 8px;mso-padding-a=
+lt:0;"><img alt=3D"Facebook" src=3D"https://scholar.google.ca/intl/en/schol=
+ar/images/1x/fb-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"ve=
+rtical-align:top"></a></td></tr></tbody></table></div><br><h3 style=3D"font=
+-weight:normal;margin:0;font-size:17px;line-height:20px;"><span style=3D"fo=
+nt-size:11px;font-weight:bold;color:#1a0dab;vertical-align:2px">[PDF]</span=
+> <a href=3D"https://scholar.google.ca/scholar_url?url=3Dhttps://www.resear=
+chsquare.com/article/rs-1145264/latest.pdf&amp;hl=3Den&amp;sa=3DX&amp;d=3D1=
+8000917952660433697&amp;ei=3D9BnBYcj7C_KP6rQPj7ShiAo&amp;scisig=3DAAGBfm3PT=
+Ps6-LTElF-e17mThYmusc4Fgg&amp;oi=3Dscholaralrt&amp;hist=3D4Z5WABAAAAAJ:9524=
+340157753604263:AAGBfm2s1u6dXm_HqG8n9fyMDvYCTFQrnQ&amp;html=3D&amp;folt=3Dk=
+w" class=3D"gse_alrt_title" style=3D"font-size:17px;color:#1a0dab">Rhizobiu=
+m lacunae <b>sp</b>. <b>nov</b>., Isolated From a Freshwater Pond</a></h3><=
+div style=3D"color:#006621">WM Chen, CC Yang, CC Young, SY Lin, SY Sheu - 2=
+021</div><div class=3D"gse_alrt_sni">Bacterial strain designated CSW-27T wa=
+s isolated from a freshwater pond in Taiwan. <br>Cells were Gramstain-negat=
+ive, aerobic, oxidase-positive, catalase-negative, rod-<br>shaped and motil=
+e by agella. Strain CSW-27T grew at 20-40 oC (optimum, 30-37=C2=A0=E2=80=A6=
+</div><div style=3D"width:auto"><table cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0"><tbody><tr><td style=3D"padding-right:4px;mso-padding-alt:4px =
+16px 0 0;"><a href=3D"https://scholar.google.ca/citations?hl=3Den&amp;updat=
+e_op=3Demail_library_add&amp;info=3DIetGR4Eb0PkJ&amp;citsig=3DAMD79ooAAAAAY=
+6JNdC6FDGBOyKXEuuPggugbOI-8xKpk" style=3D"text-decoration:none;display:inli=
+ne-block;padding:4px 8px 4px 0;mso-padding-alt:0;"><img alt=3D"Save" src=3D=
+"https://scholar.google.ca/intl/en/scholar/images/1x/save-32.png" border=3D=
+"0" height=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td><td st=
+yle=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://=
+scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dtw&am=
+p;url=3Dhttps://www.researchsquare.com/article/rs-1145264/latest.pdf&amp;rt=
+=3DRhizobium+lacunae+sp.+nov.,+Isolated+From+a+Freshwater+Pond&amp;scisig=
+=3DAAGBfm1MXnl3oXsb-dGm9xVF9kpjDur99w" style=3D"text-decoration:none;displa=
+y:inline-block;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"Twitter" src=
+=3D"https://scholar.google.ca/intl/en/scholar/images/1x/tw-32.png" border=
+=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td><td=
+ style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https=
+://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Din=
+&amp;url=3Dhttps://www.researchsquare.com/article/rs-1145264/latest.pdf&amp=
+;rt=3DRhizobium+lacunae+sp.+nov.,+Isolated+From+a+Freshwater+Pond&amp;scisi=
+g=3DAAGBfm1MXnl3oXsb-dGm9xVF9kpjDur99w" style=3D"text-decoration:none;displ=
+ay:inline-block;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"LinkedIn" s=
+rc=3D"https://scholar.google.ca/intl/en/scholar/images/1x/in-32.png" border=
+=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td><td=
+ style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https=
+://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dfb=
+&amp;url=3Dhttps://www.researchsquare.com/article/rs-1145264/latest.pdf&amp=
+;rt=3DRhizobium+lacunae+sp.+nov.,+Isolated+From+a+Freshwater+Pond&amp;scisi=
+g=3DAAGBfm1MXnl3oXsb-dGm9xVF9kpjDur99w" style=3D"text-decoration:none;displ=
+ay:inline-block;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"Facebook" s=
+rc=3D"https://scholar.google.ca/intl/en/scholar/images/1x/fb-32.png" border=
+=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td></t=
+r></tbody></table></div><br><h3 style=3D"font-weight:normal;margin:0;font-s=
+ize:17px;line-height:20px;"><span style=3D"font-size:11px;font-weight:bold;=
+color:#1a0dab;vertical-align:2px">[PDF]</span> <a href=3D"https://scholar.g=
+oogle.ca/scholar_url?url=3Dhttps://zookeys.pensoft.net/article/75499/downlo=
+ad/pdf/&amp;hl=3Den&amp;sa=3DX&amp;d=3D15270772539252052094&amp;ei=3D9BnBYc=
+j7C_KP6rQPj7ShiAo&amp;scisig=3DAAGBfm05Wof2gx5sw5jSXmAjziteW6Oj2Q&amp;oi=3D=
+scholaralrt&amp;hist=3D4Z5WABAAAAAJ:9524340157753604263:AAGBfm2s1u6dXm_HqG8=
+n9fyMDvYCTFQrnQ&amp;html=3D&amp;folt=3Dkw" class=3D"gse_alrt_title" style=
+=3D"font-size:17px;color:#1a0dab">=EF=BB=BF Anormalous liu <b>sp</b>. <b>no=
+v</b>.: a first record and a <b>new species </b>of the genus Anormalous Liu=
+, 2011 (Orthoptera, Tettigoniidae, Phaneropterinae) from India</a></h3><div=
+ style=3D"color:#006621">MS Shah, MK Usmani=C2=A0- ZooKeys, 2021</div><div =
+class=3D"gse_alrt_sni">The Phaneropterinae, commonly known as the bush katy=
+dids, are among the most <br>diverse tettigoniids in the world. A <b>new sp=
+ecies </b>Anormalous liu <b>sp</b>. <b>nov</b>. is described <br>from Kashm=
+ir, India. This is the second species in the short-winged genus=C2=A0=E2=80=
+=A6</div><div style=3D"width:auto"><table cellpadding=3D"0" cellspacing=3D"=
+0" border=3D"0"><tbody><tr><td style=3D"padding-right:4px;mso-padding-alt:4=
+px 16px 0 0;"><a href=3D"https://scholar.google.ca/citations?hl=3Den&amp;up=
+date_op=3Demail_library_add&amp;info=3DfpDoZ7eu7NMJ&amp;citsig=3DAMD79ooAAA=
+AAY6JNdLVQyYKPcmQ9TbGISw2W0z79YzA0" style=3D"text-decoration:none;display:i=
+nline-block;padding:4px 8px 4px 0;mso-padding-alt:0;"><img alt=3D"Save" src=
+=3D"https://scholar.google.ca/intl/en/scholar/images/1x/save-32.png" border=
+=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td><td=
+ style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https=
+://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dtw=
+&amp;url=3Dhttps://zookeys.pensoft.net/article/75499/download/pdf/&amp;rt=
+=3D%EF%BB%BF+Anormalous+liu+sp.+nov.:+a+first+record+and+a+new+species+of+t=
+he+genus+Anormalous+Liu,+2011+(Orthoptera,+Tettigoniidae,+Phaneropterinae)+=
+from+India&amp;scisig=3DAAGBfm3IkKpfSIgp5asmrkNCfJL8HhldHA" style=3D"text-d=
+ecoration:none;display:inline-block;padding:4px 8px;mso-padding-alt:0;"><im=
+g alt=3D"Twitter" src=3D"https://scholar.google.ca/intl/en/scholar/images/1=
+x/tw-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-alig=
+n:top"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0=
+;"><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscho=
+laralrt&amp;ss=3Din&amp;url=3Dhttps://zookeys.pensoft.net/article/75499/dow=
+nload/pdf/&amp;rt=3D%EF%BB%BF+Anormalous+liu+sp.+nov.:+a+first+record+and+a=
++new+species+of+the+genus+Anormalous+Liu,+2011+(Orthoptera,+Tettigoniidae,+=
+Phaneropterinae)+from+India&amp;scisig=3DAAGBfm3IkKpfSIgp5asmrkNCfJL8HhldHA=
+" style=3D"text-decoration:none;display:inline-block;padding:4px 8px;mso-pa=
+dding-alt:0;"><img alt=3D"LinkedIn" src=3D"https://scholar.google.ca/intl/e=
+n/scholar/images/1x/in-32.png" border=3D"0" height=3D"16" width=3D"16" styl=
+e=3D"vertical-align:top"></a></td><td style=3D"padding-right:4px;mso-paddin=
+g-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=
+=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dfb&amp;url=3Dhttps://zookeys.pensoft.ne=
+t/article/75499/download/pdf/&amp;rt=3D%EF%BB%BF+Anormalous+liu+sp.+nov.:+a=
++first+record+and+a+new+species+of+the+genus+Anormalous+Liu,+2011+(Orthopte=
+ra,+Tettigoniidae,+Phaneropterinae)+from+India&amp;scisig=3DAAGBfm3IkKpfSIg=
+p5asmrkNCfJL8HhldHA" style=3D"text-decoration:none;display:inline-block;pad=
+ding:4px 8px;mso-padding-alt:0;"><img alt=3D"Facebook" src=3D"https://schol=
+ar.google.ca/intl/en/scholar/images/1x/fb-32.png" border=3D"0" height=3D"16=
+" width=3D"16" style=3D"vertical-align:top"></a></td></tr></tbody></table><=
+/div><br><h3 style=3D"font-weight:normal;margin:0;font-size:17px;line-heigh=
+t:20px;"><a href=3D"https://scholar.google.ca/scholar_url?url=3Dhttps://pub=
+med.ncbi.nlm.nih.gov/34914572/&amp;hl=3Den&amp;sa=3DX&amp;d=3D4694286308171=
+226096&amp;ei=3D9BnBYcj7C_KP6rQPj7ShiAo&amp;scisig=3DAAGBfm2dzW4jz7OKGZeguO=
+rKm-pv-hgurg&amp;oi=3Dscholaralrt&amp;hist=3D4Z5WABAAAAAJ:95243401577536042=
+63:AAGBfm2s1u6dXm_HqG8n9fyMDvYCTFQrnQ&amp;html=3D&amp;folt=3Dkw" class=3D"g=
+se_alrt_title" style=3D"font-size:17px;color:#1a0dab">=E2=80=A6=C2=A0ainlah=
+djerensis <b>sp</b>. <b>nov</b>., Leptospira ainazelensis <b>sp</b>. <b>nov=
+</b>., Leptospira abararensis <b>sp</b>. <b>nov</b>. and Leptospira chreens=
+is <b>sp</b>. <b>nov</b>., four <b>new species </b>isolated from water=C2=
+=A0=E2=80=A6</a></h3><div style=3D"color:#006621">AA Korba, H Lounici, M Ka=
+iniu, AT Vincent, JF Mariet=E2=80=A6=C2=A0- International journal of=C2=A0=
+=E2=80=A6, 2021</div><div class=3D"gse_alrt_sni">Leptospira strains were is=
+olated from freshwater sampled at four sites in Algeria and <br>characteriz=
+ed by whole-genome sequencing and matrix-assisted laser desorption <br>ioni=
+zation-time of flight mass spectrometry (MALDI-TOF MS). The cells were spir=
+al=C2=A0=E2=80=A6</div><div style=3D"width:auto"><table cellpadding=3D"0" c=
+ellspacing=3D"0" border=3D"0"><tbody><tr><td style=3D"padding-right:4px;mso=
+-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/citations?=
+hl=3Den&amp;update_op=3Demail_library_add&amp;info=3D8JuGoIZ0JUEJ&amp;citsi=
+g=3DAMD79ooAAAAAY6JNdAlf3afcGvfTWhkG2reKSgw1ucVR" style=3D"text-decoration:=
+none;display:inline-block;padding:4px 8px 4px 0;mso-padding-alt:0;"><img al=
+t=3D"Save" src=3D"https://scholar.google.ca/intl/en/scholar/images/1x/save-=
+32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-align:top=
+"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a=
+ href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dscholaral=
+rt&amp;ss=3Dtw&amp;url=3Dhttps://pubmed.ncbi.nlm.nih.gov/34914572/&amp;rt=
+=3DLeptospira+ainlahdjerensis+sp.+nov.,+Leptospira+ainazelensis+sp.+nov.,+L=
+eptospira+abararensis+sp.+nov.+and+Leptospira+chreensis+sp.+nov.,+four+new+=
+species+isolated+from+water+sources+in+Algeria&amp;scisig=3DAAGBfm1iQSjgIVB=
+A938T-j93sZpOc07jrA" style=3D"text-decoration:none;display:inline-block;pad=
+ding:4px 8px;mso-padding-alt:0;"><img alt=3D"Twitter" src=3D"https://schola=
+r.google.ca/intl/en/scholar/images/1x/tw-32.png" border=3D"0" height=3D"16"=
+ width=3D"16" style=3D"vertical-align:top"></a></td><td style=3D"padding-ri=
+ght:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca=
+/scholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Din&amp;url=3Dhttps://p=
+ubmed.ncbi.nlm.nih.gov/34914572/&amp;rt=3DLeptospira+ainlahdjerensis+sp.+no=
+v.,+Leptospira+ainazelensis+sp.+nov.,+Leptospira+abararensis+sp.+nov.+and+L=
+eptospira+chreensis+sp.+nov.,+four+new+species+isolated+from+water+sources+=
+in+Algeria&amp;scisig=3DAAGBfm1iQSjgIVBA938T-j93sZpOc07jrA" style=3D"text-d=
+ecoration:none;display:inline-block;padding:4px 8px;mso-padding-alt:0;"><im=
+g alt=3D"LinkedIn" src=3D"https://scholar.google.ca/intl/en/scholar/images/=
+1x/in-32.png" border=3D"0" height=3D"16" width=3D"16" style=3D"vertical-ali=
+gn:top"></a></td><td style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 =
+0;"><a href=3D"https://scholar.google.ca/scholar_share?hl=3Den&amp;oi=3Dsch=
+olaralrt&amp;ss=3Dfb&amp;url=3Dhttps://pubmed.ncbi.nlm.nih.gov/34914572/&am=
+p;rt=3DLeptospira+ainlahdjerensis+sp.+nov.,+Leptospira+ainazelensis+sp.+nov=
+.,+Leptospira+abararensis+sp.+nov.+and+Leptospira+chreensis+sp.+nov.,+four+=
+new+species+isolated+from+water+sources+in+Algeria&amp;scisig=3DAAGBfm1iQSj=
+gIVBA938T-j93sZpOc07jrA" style=3D"text-decoration:none;display:inline-block=
+;padding:4px 8px;mso-padding-alt:0;"><img alt=3D"Facebook" src=3D"https://s=
+cholar.google.ca/intl/en/scholar/images/1x/fb-32.png" border=3D"0" height=
+=3D"16" width=3D"16" style=3D"vertical-align:top"></a></td></tr></tbody></t=
+able></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:17px;line=
+-height:20px;"><a href=3D"https://scholar.google.ca/scholar_url?url=3Dhttps=
+://www.mapress.com/pt/article/view/phytotaxa.528.3.3&amp;hl=3Den&amp;sa=3DX=
+&amp;d=3D10435319298130549222&amp;ei=3D9BnBYcj7C_KP6rQPj7ShiAo&amp;scisig=
+=3DAAGBfm1A1upmCmjvvuWgdZJSYIgRKc8dOA&amp;oi=3Dscholaralrt&amp;hist=3D4Z5WA=
+BAAAAAJ:9524340157753604263:AAGBfm2s1u6dXm_HqG8n9fyMDvYCTFQrnQ&amp;html=3D&=
+amp;folt=3Dkw" class=3D"gse_alrt_title" style=3D"font-size:17px;color:#1a0d=
+ab">Paraboeremia yungensis <b>sp</b>. <b>nov</b>., a new fungal species iso=
+lated from Las Yungas, South America, with promising tyrosinase production =
+potential</a></h3><div style=3D"color:#006621">MP PERALTA, J ALIAGA, OD DEL=
+GADO, JI FARI=C3=91A=E2=80=A6=C2=A0- Phytotaxa, 2021</div><div class=3D"gse=
+_alrt_sni">In the context of a bioprospection programme for tyrosinase/L-DO=
+PA-and melanin-<br>producing fungal strains for biotechnological purposes, =
+a hyperproducer isolate was <br>obtained from Las Yungas rainforest, a rele=
+vant biodiverse ecoregion in North=C2=A0=E2=80=A6</div><div style=3D"width:=
+auto"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tbody><tr><t=
+d style=3D"padding-right:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"http=
+s://scholar.google.ca/citations?hl=3Den&amp;update_op=3Demail_library_add&a=
+mp;info=3D5pnZ6pyz0ZAJ&amp;citsig=3DAMD79ooAAAAAY6JNdEfbB6PT3KNLvlnbA43CPFE=
+6UP6v" style=3D"text-decoration:none;display:inline-block;padding:4px 8px 4=
+px 0;mso-padding-alt:0;"><img alt=3D"Save" src=3D"https://scholar.google.ca=
+/intl/en/scholar/images/1x/save-32.png" border=3D"0" height=3D"16" width=3D=
+"16" style=3D"vertical-align:top"></a></td><td style=3D"padding-right:4px;m=
+so-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/scholar_=
+share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dtw&amp;url=3Dhttps://www.mapres=
+s.com/pt/article/view/phytotaxa.528.3.3&amp;rt=3DParaboeremia+yungensis+sp.=
++nov.,+a+new+fungal+species+isolated+from+Las+Yungas,+South+America,+with+p=
+romising+tyrosinase+production+potential&amp;scisig=3DAAGBfm1l1nMUJVY93XrPB=
+qD6MIbLDG8RRA" style=3D"text-decoration:none;display:inline-block;padding:4=
+px 8px;mso-padding-alt:0;"><img alt=3D"Twitter" src=3D"https://scholar.goog=
+le.ca/intl/en/scholar/images/1x/tw-32.png" border=3D"0" height=3D"16" width=
+=3D"16" style=3D"vertical-align:top"></a></td><td style=3D"padding-right:4p=
+x;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/schol=
+ar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Din&amp;url=3Dhttps://www.map=
+ress.com/pt/article/view/phytotaxa.528.3.3&amp;rt=3DParaboeremia+yungensis+=
+sp.+nov.,+a+new+fungal+species+isolated+from+Las+Yungas,+South+America,+wit=
+h+promising+tyrosinase+production+potential&amp;scisig=3DAAGBfm1l1nMUJVY93X=
+rPBqD6MIbLDG8RRA" style=3D"text-decoration:none;display:inline-block;paddin=
+g:4px 8px;mso-padding-alt:0;"><img alt=3D"LinkedIn" src=3D"https://scholar.=
+google.ca/intl/en/scholar/images/1x/in-32.png" border=3D"0" height=3D"16" w=
+idth=3D"16" style=3D"vertical-align:top"></a></td><td style=3D"padding-righ=
+t:4px;mso-padding-alt:4px 16px 0 0;"><a href=3D"https://scholar.google.ca/s=
+cholar_share?hl=3Den&amp;oi=3Dscholaralrt&amp;ss=3Dfb&amp;url=3Dhttps://www=
+.mapress.com/pt/article/view/phytotaxa.528.3.3&amp;rt=3DParaboeremia+yungen=
+sis+sp.+nov.,+a+new+fungal+species+isolated+from+Las+Yungas,+South+America,=
++with+promising+tyrosinase+production+potential&amp;scisig=3DAAGBfm1l1nMUJV=
+Y93XrPBqD6MIbLDG8RRA" style=3D"text-decoration:none;display:inline-block;pa=
+dding:4px 8px;mso-padding-alt:0;"><img alt=3D"Facebook" src=3D"https://scho=
+lar.google.ca/intl/en/scholar/images/1x/fb-32.png" border=3D"0" height=3D"1=
+6" width=3D"16" style=3D"vertical-align:top"></a></td></tr></tbody></table>=
+</div><br><p><b>&quot;n. sp.&quot; OR &quot;new species&quot; OR &quot;n. g=
+en.&quot; OR &quot;sp. nov.&quot; OR &quot;gen. nov.&quot; - new results</b=
+></p><div style=3D"line-height:16px;mso-line-height-rule:exactly;border-top=
+:1px solid #bdbdbd">&nbsp;</div><p style=3D"margin:8px 0 16px 0;color:#666"=
+>This message was sent by Google Scholar because you're following new resul=
+ts for <a href=3D"https://scholar.google.ca/scholar?q=3D%22n.+sp.%22+OR+%22=
+new+species%22+OR+%22n.+gen.%22+OR+%22sp.+nov.%22+OR+%22gen.+nov.%22&amp;as=
+_sdt=3D0,5&amp;scisbd=3D1&amp;hl=3Den" style=3D"color:#1a0dab;">[&quot;n. s=
+p.&quot; OR &quot;new species&quot; OR &quot;n. gen.&quot; OR &quot;sp. nov=
+.&quot; OR &quot;gen. nov.&quot;]</a>.<img src=3D"https://scholar.google.ca=
+/scholar_url?url=3Dhttps://scholar.google.ca/scholar/images/cleardot.gif&am=
+p;hl=3Den&amp;sa=3DX&amp;ei=3D9BnBYcj7C_KP6rQPj7ShiAo&amp;scisig=3DAAGBfm0M=
+grS2nIxD34QSOqYL9V-_gIvqdA&amp;hist=3D4Z5WABAAAAAJ:9524340157753604263:AAGB=
+fm2s1u6dXm_HqG8n9fyMDvYCTFQrnQ&amp;html=3D&amp;folt=3Dkw" height=3D1 width=
+=3D1 alt=3D""></p><div style=3D"margin-bottom:8px;"><div><!--[if gte mso 9]=
+><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0"><tr><td style=3D"m=
+so-line-height-rule:exactly;line-height:27px;border-top:1px solid #fff;bord=
+er-bottom:1px solid #fff;mso-text-raise:-1px;"><![endif]--><a href=3D"https=
+://scholar.google.ca/scholar_alerts?view_op=3Dlist_alerts&amp;email_for_op=
+=3Drdmpage%40gmail.com&amp;alert_id=3DpzjkTulALYQJ&amp;hl=3Den" style=3D"di=
+splay:inline-block;text-decoration:none;font-family:arial,sans-serif;font-s=
+ize:13px;font-size:11px;text-transform:uppercase;font-size:13px;line-height=
+:21px;padding:3px 0;color:#1a0dab;border-top:1px solid transparent;border-b=
+ottom:1px solid transparent;border-radius:3px;mso-padding-alt:0;mso-border-=
+alt:none;"><span style=3D"mso-text-raise:5px">List alerts</span></a><!--[if=
+ gte mso 9]></td></tr></table><![endif]--></div><div><!--[if gte mso 9]><ta=
+ble border=3D"0" cellspacing=3D"0" cellpadding=3D"0"><tr><td style=3D"mso-l=
+ine-height-rule:exactly;line-height:27px;border-top:1px solid #fff;border-b=
+ottom:1px solid #fff;mso-text-raise:-1px;"><![endif]--><a href=3D"https://s=
+cholar.google.ca/scholar_alerts?view_op=3Dcancel_alert_options&amp;email_fo=
+r_op=3Drdmpage%40gmail.com&amp;alert_id=3DpzjkTulALYQJ&amp;hl=3Den&amp;cits=
+ig=3DAMD79ooAAAAAYdOO9OtwU1TyI26Q6B0QJ3n0YxEq9wmN" style=3D"display:inline-=
+block;text-decoration:none;font-family:arial,sans-serif;font-size:13px;font=
+-size:11px;text-transform:uppercase;font-size:13px;line-height:21px;padding=
+:3px 0;color:#1a0dab;border-top:1px solid transparent;border-bottom:1px sol=
+id transparent;border-radius:3px;mso-padding-alt:0;mso-border-alt:none;"><s=
+pan style=3D"mso-text-raise:5px">Cancel alert</span></a><!--[if gte mso 9]>=
+</td></tr></table><![endif]--></div></div></div><!--[if gte mso 9]></td></t=
+r></table><![endif]--></body></html>

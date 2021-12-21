@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+	xmlns:cc="http://web.resource.org/cc/">
+
+	<channel rdf:about="https://www.mapress.com/zt">
+				<title>Zootaxa</title>
+		<link>https://www.mapress.com/zt</link>
+
+							
+		<description>&lt;p&gt;&lt;strong&gt;Zootaxa&lt;/strong&gt; is a mega-journal for zoological taxonomists in the world&lt;/p&gt;</description>
+
+									<dc:publisher>Mangolia Press</dc:publisher>
+		
+					<dc:language>en-US</dc:language>
+		
+		<prism:publicationName>Zootaxa</prism:publicationName>
+
+							
+					<prism:issn>1175-5326</prism:issn>
+		
+		
+		<items>
+			<rdf:Seq>
+												<rdf:li rdf:resource="https://www.mapress.com/zt/article/view/zootaxa.5082.5.1"/>
+									<rdf:li rdf:resource="https://www.mapress.com/zt/article/view/zootaxa.5082.5.2"/>
+									<rdf:li rdf:resource="https://www.mapress.com/zt/article/view/zootaxa.5082.5.3"/>
+									<rdf:li rdf:resource="https://www.mapress.com/zt/article/view/zootaxa.5082.5.4"/>
+									<rdf:li rdf:resource="https://www.mapress.com/zt/article/view/zootaxa.5082.5.5"/>
+									<rdf:li rdf:resource="https://www.mapress.com/zt/article/view/zootaxa.5082.5.6"/>
+																<rdf:li rdf:resource="https://www.mapress.com/zt/article/view/zootaxa.5082.5.7"/>
+									<rdf:li rdf:resource="https://www.mapress.com/zt/article/view/zootaxa.5082.5.8"/>
+										</rdf:Seq>
+		</items>
+	</channel>
+
+					<item rdf:about="https://www.mapress.com/zt/article/view/zootaxa.5082.5.1">
+
+						<title>&lt;p&gt;&lt;strong&gt;Description of &lt;em&gt;Nola estonica&lt;/em&gt; sp. nov., with comparison to &lt;em&gt;N. aerugula&lt;/em&gt; and&lt;em&gt; N. atomosa&lt;/em&gt; stat. rev. (Lepidoptera, Nolidae, Nolinae) &lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.mapress.com/zt/article/view/zootaxa.5082.5.1</link>
+
+										<description>&lt;p&gt;&lt;em&gt;Nola estonica&lt;/em&gt; Õunap &lt;strong&gt;sp. nov.&lt;/strong&gt; (Lepidoptera, Nolidae, Nolinae) is described based on type material from Estonia. The lectotype is designated for &lt;em&gt;Glaphyra atomosa&lt;/em&gt; Bremer, 1861, which is reinstated from a subspecies of &lt;em&gt;Nola aerugula&lt;/em&gt; (Hübner, [1793]) to a full species: &lt;em&gt;Nola atomosa&lt;/em&gt; (Bremer, 1861) &lt;strong&gt;stat. rev.&lt;/strong&gt; The status of these three taxa as separate species is supported by the results of phylogenetic analysis of DNA barcodes, as well as external and genital morphology of adult specimens. Two new synonyms are established as follows: &lt;em&gt;Nola atomosa&lt;/em&gt; (Bremer, 1861) = &lt;em&gt;Nola candidalis&lt;/em&gt; Staudinger, 1892 &lt;strong&gt;syn. nov.&lt;/strong&gt; and &lt;em&gt;Nola shin&lt;/em&gt; Inoue, 1982 &lt;strong&gt;syn. nov. &lt;/strong&gt;&lt;em&gt;N. estonica&lt;/em&gt; occurs sympatrically with &lt;em&gt;N. aerugula&lt;/em&gt; in Estonia, and with &lt;em&gt;N. atomosa&lt;/em&gt; in South Korea and easternmost Russia. While the available data suggest a disjunct distribution of &lt;em&gt;N. estonica&lt;/em&gt; (eastern Europe and the temperate Far East), it appears highly possible that the species has a wide transpalaearctic distribution.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			
+							<dc:creator>ERKI ÕUNAP</dc:creator>
+							<dc:creator>SEI-WOONG CHOI</dc:creator>
+							<dc:creator>ALEXEY MATOV</dc:creator>
+							<dc:creator>TOOMAS TAMMARU</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-12-21</dc:date>
+				<prism:publicationDate>2021-12-21</prism:publicationDate>
+						<prism:volume>5082</prism:volume>			<prism:number>5</prism:number>
+												<prism:startingPage>401</prism:startingPage>
+													<prism:endingPage>424</prism:endingPage>
+							
+							<prism:doi>10.11646/zootaxa.5082.5.1</prism:doi>
+					</item>
+					<item rdf:about="https://www.mapress.com/zt/article/view/zootaxa.5082.5.2">
+
+						<title>&lt;p&gt;&lt;strong&gt;New records of water mites (Acari, Hydrachnidia) from Iran with the description of one new species based on morphology and DNA barcodes&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.mapress.com/zt/article/view/zootaxa.5082.5.2</link>
+
+										<description>&lt;p&gt;In this study, based on morphology and DNA barcodes, new records of water mites (Acari, Hydrachnidia) collected in August 2017 in North Iran are presented. &lt;em&gt;Hydrodroma golestanica&lt;/em&gt; &lt;strong&gt;n. sp. &lt;/strong&gt;(Hydrodromidae) is described as new for science. We also resurrect three previously synonymized species: &lt;em&gt;Sperchon amuzgari&lt;/em&gt; Bader &amp;amp; Sepasgosarian, 1979 (Sperchontidae), &lt;em&gt;Monatractides persicus &lt;/em&gt;Pešić &amp;amp; Saboori, 2004 and &lt;em&gt;Torrenticola baueri &lt;/em&gt;Bader &amp;amp; Sepasgozarian, 1987 (Torrenticolidae).&amp;nbsp;&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			
+							<dc:creator>VLADIMIR PEŠIĆ</dc:creator>
+							<dc:creator>ANDRZEJ ZAWAL</dc:creator>
+							<dc:creator>ALIREZA SABOORI</dc:creator>
+							<dc:creator>HARRY SMIT</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-12-21</dc:date>
+				<prism:publicationDate>2021-12-21</prism:publicationDate>
+						<prism:volume>5082</prism:volume>			<prism:number>5</prism:number>
+												<prism:startingPage>425</prism:startingPage>
+													<prism:endingPage>440</prism:endingPage>
+							
+							<prism:doi>10.11646/zootaxa.5082.5.2</prism:doi>
+					</item>
+					<item rdf:about="https://www.mapress.com/zt/article/view/zootaxa.5082.5.3">
+
+						<title>&lt;p&gt;&lt;strong&gt;New records of Cochylini moths (Lepidoptera: Tortricidae) from the Balkans&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.mapress.com/zt/article/view/zootaxa.5082.5.3</link>
+
+										<description>&lt;p&gt;In the course of expeditions conducted on the Balkan Peninsula by Ignác Richter in 2004–2019, altogether 45 species of Cochylini moths were collected. The examination of the collected specimens revealed one new species of the genus &lt;em&gt;Aethes&lt;/em&gt;: &lt;em&gt;Aethes larissae &lt;/em&gt;&lt;strong&gt;sp. nov.&lt;/strong&gt;, from the North Macedonia. Additionally, a new subspecies, &lt;em&gt;Aethes&lt;/em&gt; &lt;em&gt;kindermanniana macedonica &lt;/em&gt;&lt;strong&gt;ssp. nov.&lt;/strong&gt; is described from the North Macedonia too. &lt;em&gt;Phtheochroa amasiana&lt;/em&gt; (Ragonot, 1894) and &lt;em&gt;Cochylimorpha erlebachi&lt;/em&gt; Huemer &amp;amp; Trematerra, 1997 are recorded from the Balkans for the first time. A male of &lt;em&gt;Aethes eichleri &lt;/em&gt;Razowski, 1983 is collected for the first time, and DNA barcoding data of this species was obtained. We established a new synonymy: &lt;em&gt;Aethes eichleri &lt;/em&gt;Razowski, 1983 &lt;strong&gt;syn. nov.&lt;/strong&gt; of&lt;em&gt; Aethes francillana &lt;/em&gt;(Fabricius, 1794). Illustrations of specimens and photographs of the genitalia of all described taxa are provided.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			
+							<dc:creator>YURIY BUDASHKIN</dc:creator>
+							<dc:creator>IGNÁC RICHTER</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-12-21</dc:date>
+				<prism:publicationDate>2021-12-21</prism:publicationDate>
+						<prism:volume>5082</prism:volume>			<prism:number>5</prism:number>
+												<prism:startingPage>441</prism:startingPage>
+													<prism:endingPage>456</prism:endingPage>
+							
+							<prism:doi>10.11646/zootaxa.5082.5.3</prism:doi>
+					</item>
+					<item rdf:about="https://www.mapress.com/zt/article/view/zootaxa.5082.5.4">
+
+						<title>&lt;p&gt;&lt;strong&gt;Illustrated key to the genera included in the tribe Acanthocephalini (Hemiptera: Heteroptera: Coreidae: Coreinae), with descriptions of three new genera, seven new species, new taxonomic rearrangements, and a key to genera of Placoscelini&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.mapress.com/zt/article/view/zootaxa.5082.5.4</link>
+
+										<description>&lt;p&gt;Three new genera and seven new species of Acanthocephalini Stål (Hemiptera: Heteroptera: Coreidae) are described: &lt;em&gt;Anomalopetalops&lt;/em&gt; with three new species, &lt;em&gt;A. brulei&lt;/em&gt; (French Guiana),&lt;em&gt; A. ariquemesus&lt;/em&gt; (Brazil), and &lt;em&gt;A. diamantinus&lt;/em&gt; (Brazil); &lt;em&gt;Antipetalops&lt;/em&gt; with two new species, &lt;em&gt;A. colombianus &lt;/em&gt;(Colombia), and &lt;em&gt;A. discretus &lt;/em&gt;(Bolivia); and &lt;em&gt;Cryptopetalops&lt;/em&gt; with two new species, &lt;em&gt;C. llorentei &lt;/em&gt;(Brazil and French Guiana), and &lt;em&gt;C. pluteus&lt;/em&gt; (Peru). Dorsal habitus photographs, and keys to the new species of each genus are added. Dorsal habitus photographs and a key to the 18 known genera of Acanthocephalini are given. &lt;em&gt;Placophyllopus &lt;/em&gt;Blöte, 1938 is synonymized under &lt;em&gt;Meluchopetalops&lt;/em&gt; Breddin, 1903.&lt;em&gt; Placophyllopus cothurnatus &lt;/em&gt;Blöte, 1938 is considered a junior synonym of &lt;em&gt;Meluchopetalops banausus &lt;/em&gt;Breddin, 1903. &lt;em&gt;Bermejanus&lt;/em&gt; Brailovsky, 2018 is transferred to the tribe Placoscelini, and a key to the known genera of that tribe is provided.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			
+							<dc:creator>HARRY BRAILOVSKY</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-12-21</dc:date>
+				<prism:publicationDate>2021-12-21</prism:publicationDate>
+						<prism:volume>5082</prism:volume>			<prism:number>5</prism:number>
+												<prism:startingPage>457</prism:startingPage>
+													<prism:endingPage>475</prism:endingPage>
+							
+							<prism:doi>10.11646/zootaxa.5082.5.4</prism:doi>
+					</item>
+					<item rdf:about="https://www.mapress.com/zt/article/view/zootaxa.5082.5.5">
+
+						<title>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Clitobius grimmi&lt;/em&gt; sp. n. from Egypt with notes on &lt;em&gt;C. oblongiusculus&lt;/em&gt; (Fairmaire, 1875) (Coleoptera: Tenebrionidae: Blaptinae)&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.mapress.com/zt/article/view/zootaxa.5082.5.5</link>
+
+										<description>&lt;p&gt;Ten valid species of the genus &lt;em&gt;Clitobius&lt;/em&gt; Mulsant &amp;amp; Rey, 1859 have been published so far from the Palaearctic, Afrotropical and Oriental Regions. With &lt;em&gt;C. grimmi &lt;/em&gt;&lt;strong&gt;sp. n.&lt;/strong&gt; from Egypt an eleventh species is here described and illustrated. Specimens representing the newly proposed species were identified as &lt;em&gt;C. oblongiusculus &lt;/em&gt;(Fairmaire, 1875) in many of the surveyed entomological collections. This could potentially be explained by the superficial convergence of &lt;em&gt;C. grimmi &lt;/em&gt;&lt;strong&gt;sp. n. &lt;/strong&gt;with the description of &lt;em&gt;Halomenus lineicollis&lt;/em&gt; Fairmaire, 1879, which is now considered a junior synonym of &lt;em&gt;C. oblongiusculu&lt;/em&gt;s. Morphological distinctiveness of all of the above mentioned taxa is hereby discussed. The lectotype for &lt;em&gt;Halonomus lineicollis&lt;/em&gt; Fairmaire, 1879 is designated in order to fix the nomenclatural status of that taxon. The determination key of Purchart &amp;amp; Kamiński (2017) to the &lt;em&gt;Clitobius&lt;/em&gt; species is updated with the following taxa: &lt;em&gt;Clitobius subplumbeus &lt;/em&gt;(Fairmaire, 1892) and &lt;em&gt;C. grimmi &lt;/em&gt;&lt;strong&gt;sp. n.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			
+							<dc:creator>MARTIN LILLIG</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-12-21</dc:date>
+				<prism:publicationDate>2021-12-21</prism:publicationDate>
+						<prism:volume>5082</prism:volume>			<prism:number>5</prism:number>
+												<prism:startingPage>476</prism:startingPage>
+													<prism:endingPage>484</prism:endingPage>
+							
+							<prism:doi>10.11646/zootaxa.5082.5.5</prism:doi>
+					</item>
+					<item rdf:about="https://www.mapress.com/zt/article/view/zootaxa.5082.5.6">
+
+						<title>&lt;p&gt;&lt;strong&gt;Three new species of &lt;em&gt;Scolytoplatypus&lt;/em&gt; Schaufuss from China, and notes on the movement and functions of the prosternal processes (Coleoptera: Curculionidae: Scolytinae)&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.mapress.com/zt/article/view/zootaxa.5082.5.6</link>
+
+										<description>&lt;p&gt;Three new species from China (Yunnan), &lt;em&gt;Scolytoplatypus costatus &lt;/em&gt;Gebhardt &amp;amp; Beaver, &lt;em&gt;S. geminus &lt;/em&gt;Gebhardt &amp;amp; Beaver and &lt;em&gt;S. peniculatus&lt;/em&gt; Gebhardt &amp;amp; Beaver, are described and compared with related species of the genus. The male prosternum of Asian &lt;em&gt;Scolytoplatypus&lt;/em&gt; species shows species-specific characters, and frequently bears a pair of processes on or close to the anterior margin. We comment here for the first time on the movement of the processes and their likely functions, and survey their occurrence in Asian species of &lt;em&gt;Scolytoplatypus&lt;/em&gt;.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			
+							<dc:creator>HEIKO GEBHARDT</dc:creator>
+							<dc:creator>ROGER A. BEAVER</dc:creator>
+							<dc:creator>CHRISTOPH ALLGAIER</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-12-21</dc:date>
+				<prism:publicationDate>2021-12-21</prism:publicationDate>
+						<prism:volume>5082</prism:volume>			<prism:number>5</prism:number>
+												<prism:startingPage>485</prism:startingPage>
+													<prism:endingPage>493</prism:endingPage>
+							
+							<prism:doi>10.11646/zootaxa.5082.5.6</prism:doi>
+					</item>
+						<item rdf:about="https://www.mapress.com/zt/article/view/zootaxa.5082.5.7">
+
+						<title>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Orodruina&lt;/em&gt; nom. n. (gen.) and Orodruinidae nom. n. (fam.) pro &lt;em&gt;Gruberella&lt;/em&gt; Page 1983 non Corliss 1960 and Gruberellidae Page &amp;amp; Blanton 1985 (Discoba = Eozoa: Discicristata, Heterolobosea = Percolozoa, &lt;em&gt;incertae&lt;/em&gt; &lt;em&gt;sedis&lt;/em&gt;), with Orodruina flavescens comb. n. for &lt;em&gt;Gruberella&lt;/em&gt; &lt;em&gt;flavescens&lt;/em&gt; Page 1983&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.mapress.com/zt/article/view/zootaxa.5082.5.7</link>
+
+						
+							<dc:creator>YEGOR SHƗSHKIN</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-12-21</dc:date>
+				<prism:publicationDate>2021-12-21</prism:publicationDate>
+						<prism:volume>5082</prism:volume>			<prism:number>5</prism:number>
+												<prism:startingPage>494</prism:startingPage>
+													<prism:endingPage>496</prism:endingPage>
+							
+							<prism:doi>10.11646/zootaxa.5082.5.7</prism:doi>
+					</item>
+					<item rdf:about="https://www.mapress.com/zt/article/view/zootaxa.5082.5.8">
+
+						<title>&lt;p&gt;&lt;strong&gt;Protaspaidae nom. n. (fam.) pro Protaspidae Skuja 1939 (Cryomonadida, Eothecia, Thecofilosea, Filosa, Rhizaria), with &lt;em&gt;Protaspa&lt;/em&gt; &lt;em&gt;obliqua&lt;/em&gt; transferred to &lt;em&gt;Stultaspa&lt;/em&gt; gen. n. (Stultaspidae fam. n.) as &lt;em&gt;Stultaspa&lt;/em&gt; &lt;em&gt;obliqua&lt;/em&gt; comb. n. and diagnosis of the former family amended&lt;/strong&gt;&lt;/p&gt;</title>
+			<link>https://www.mapress.com/zt/article/view/zootaxa.5082.5.8</link>
+
+						
+							<dc:creator>YEGOR SHƗSHKIN</dc:creator>
+			
+			<dc:rights>
+				Copyright (c) 2021 
+				
+			</dc:rights>
+							<cc:license></cc:license>
+			
+							<dc:date>2021-12-21</dc:date>
+				<prism:publicationDate>2021-12-21</prism:publicationDate>
+						<prism:volume>5082</prism:volume>			<prism:number>5</prism:number>
+												<prism:startingPage>497</prism:startingPage>
+													<prism:endingPage>500</prism:endingPage>
+							
+							<prism:doi>10.11646/zootaxa.5082.5.8</prism:doi>
+					</item>
+	</rdf:RDF>

@@ -100,7 +100,6 @@ foreach ($uuids as $uuid)
 		}
 	
 		// HTML has some additional stuff such as DOI and a more precise date
-		$html = 
 		$dom = HtmlDomParser::str_get_html($files['html']);
 	
 		if ($dom)
