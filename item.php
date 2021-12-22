@@ -52,7 +52,9 @@ function add_to_item(&$item, $key, $value)
 			
 		case 'endpage':
 		case 'endingPage':
+		case 'end_page':
 			$item->pageEnd = $value;
+			$item->pageEnd = preg_replace('/^0/', '', $item->pageEnd);
 			break;	
 			
 		case 'Id':
@@ -83,6 +85,7 @@ function add_to_item(&$item, $key, $value)
 			$item->datePublished = date("Y-m-H", strtotime($value));
 			break;
 
+		case 'journal':
 		case 'parentreference':
 		case 'publicationTitle':		
 			$item->container = $value;
@@ -90,7 +93,9 @@ function add_to_item(&$item, $key, $value)
 			
 		case 'startpage':
 		case 'startingPage':
+		case 'start_page':
 			$item->pageStart = $value;
+			$item->pageStart = preg_replace('/^0/', '', $item->pageStart);
 			break;
 			
 		case 'PeriodicalTitle':
