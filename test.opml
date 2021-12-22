@@ -25,6 +25,16 @@
 		htmlUrl="https://www.jstage.jst.go.jp/browse/asjaa/-char/en" 
 		xmlUrl="https://www.jstage.jst.go.jp/AF05S010NewRssDld?btnaction=JT0040&amp;sryCd=asjaa&amp;rssLang=en"/>
 		
+	<!-- Annales de la Société entomologique de France (N.S.) -->
+	<outline 
+		text="Annales de la Société entomologique de France (N.S.)" 
+		title="Annales de la Société entomologique de France (N.S.)" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://www.tandfonline.com/toc/tase20/current" 
+		xmlUrl="https://www.tandfonline.com/feed/rss/tase20"/>
+
 
 	<outline 
 		text="Asian Herpetological Research" 
@@ -57,7 +67,16 @@
 		htmlUrl="https://www.contributions-to-entomology.org/index" 
 		xmlUrl="https://www.contributions-to-entomology.org/gateway/plugin/WebFeedGatewayPlugin/atom"/>		
 
-
+	<!-- Cretaceous Research -->
+	<outline 
+		text="Cretaceous Research" 
+		title="Cretaceous Research" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://www.sciencedirect.com/journal/cretaceous-research/issues" 
+		xmlUrl="https://rss.sciencedirect.com/publication/science/019566713"/>
+	
 
 <!-- E -->	
 
@@ -80,14 +99,15 @@
 		xmlUrl="http://et-online.nu/index.php/contents/gateway/plugin/WebFeedGatewayPlugin/atom"/>
 
 
+	<!-- European Journal of Taxonomy -->
 	<outline 
-		text="Entomologist's Monthly Magazine" 
-		title="Entomologist's Monthly Magazine" 
+		text="European Journal of Taxonomy" 
+		title="European Journal of Taxonomy" 
 		description="" 
 		type="rss" 
 		version="RSS" 
-		htmlUrl="https://www.ingentaconnect.com/content/pemberley/emm;jsessionid=1lobinp36he79.x-ic-live-01" 
-		xmlUrl="https://api.ingentaconnect.com/content/pemberley/emm/latest?format=rss"/>
+		htmlUrl="https://europeanjournaloftaxonomy.eu/index.php/ejt" 
+		xmlUrl="https://europeanjournaloftaxonomy.eu/index.php/ejt/gateway/plugin/WebFeedGatewayPlugin/rss"/>
 	
 	
 
@@ -225,6 +245,16 @@
 		version="RSS" 
 		htmlUrl="https://www.tandfonline.com/toc/nnfe20/current" 
 		xmlUrl="https://www.tandfonline.com/feed/rss/nnfe20"/>
+
+
+		<outline 
+			text="Subterranean Biology" 
+			title="Subterranean Biology"
+			description="" 
+			type="rss" 
+			version="RSS" 
+			htmlUrl="https://subtbiol.pensoft.net/articles"
+			xmlUrl="https://subtbiol.pensoft.net/rss.php" />
 
 
 	<outline 

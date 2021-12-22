@@ -16,7 +16,7 @@
         "modified": "Sat, 06 Nov 2021 02:11:48 GMT"
     },
     "https://onlinelibrary.wiley.com/feed/19968175/most-recent": {
-        "modified": "Tue, 21 Dec 2021 09:23:58 GMT"
+        "modified": "Wed, 22 Dec 2021 11:01:01 GMT"
     },
     "https://www.mapress.com/zt/gateway/plugin/WebFeedGatewayPlugin/rss": {},
     "http://zoobank.org/rss/rss.xml": {
@@ -32,7 +32,7 @@
     "https://www.contributions-to-entomology.org/gateway/plugin/WebFeedGatewayPlugin/atom": {},
     "https://navi.cnki.net/knavi/rss/yzlq": {},
     "https://www.tandfonline.com/feed/rss/nnfe20": {
-        "modified": "Mon, 13 Dec 2021 10:45:32 GMT"
+        "modified": "Wed, 22 Dec 2021 03:44:06 GMT"
     },
     "https://academic.oup.com/rss/site_5579/3435.xml": {
         "etag": "\"377398931df6d71:0\"",
@@ -53,5 +53,10 @@
     "https://www.tandfonline.com/feed/rss/tzme20": {
         "modified": "Mon, 06 Dec 2021 11:18:27 GMT"
     },
-    "https://tlhlxojs02-prd.flvc.org/troplep/gateway/plugin/WebFeedGatewayPlugin/rss": {}
+    "https://tlhlxojs02-prd.flvc.org/troplep/gateway/plugin/WebFeedGatewayPlugin/rss": {},
+    "https://www.tandfonline.com/feed/rss/tase20": {
+        "modified": "Tue, 07 Dec 2021 11:23:32 GMT"
+    },
+    "https://europeanjournaloftaxonomy.eu/index.php/ejt/gateway/plugin/WebFeedGatewayPlugin/rss": {},
+    "https://subtbiol.pensoft.net/rss.php": {}
 }
