@@ -28,6 +28,11 @@ Need to set up the harvesting to be automatic. Would be nice to cache things for
 1. `harvest-gs-email.php` reads any `.eml` files in folder `cache/latest` and converts them to native JSON.
 2. `process—internal.php` parses each JSON file in `cache/latest` and for each item adds it to the data store, then augments that, updating the item in the data store.
 
+#### DOAJ
+
+1. `harvest-doaj.php` fetches journal articles using ISSN as key, then generates native JSON from the BibJSON the DOAJ API returns.
+2. `process—internal.php` parses each JSON file in `cache/latest` and for each item adds it to the data store, then augments that, updating the item in the data store.
+
 
 ## Feeds
 
