@@ -4,6 +4,7 @@
 require_once (dirname(__FILE__) . '/process-feed.php');
 
 $force = false;
+//$force = true;
 
 $latest_dir = $config['cache'] . '/latest';
 
@@ -21,7 +22,7 @@ foreach ($files as $filename)
 
 		$dataFeed = json_decode($json);
 
-		process_feed($dataFeed);
+		process_feed($dataFeed, $force);
 
 	}
 }
