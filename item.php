@@ -77,6 +77,7 @@ function add_to_item(&$item, $key, $value)
 			break;
 			
 		case 'Page':
+		case 'pages':
 			$item->pagination = $value;
 			break;
 						
