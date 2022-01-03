@@ -162,9 +162,39 @@ function get_doc($debug = false)
 			"issueNumber": "2",
 			"pageStart": "383",
 			"pageEnd": "391"
-		}';		
+		}';
 		
-		$json = '{"@type":"DataFeedItem","@id":"https:\/\/www.ingentaconnect.com\/content\/aspt\/sb\/2021\/00000046\/00000003\/art00028","url":"https:\/\/www.ingentaconnect.com\/content\/aspt\/sb\/2021\/00000046\/00000003\/art00028","name":"Taxonomic Reevaluation of Endemic Hawaiian Planchonella (Sapotaceae)","author":[{"name":"Havran, J. Christopher"},{"name":"Nylinder, Stephan"},{"name":"Swenson, Ulf"}],"volumeNumber":"46","issueNumber":"3","pageStart":"875","pageEnd":"888","doi":"10.1600\/036364421X16312067913480","image":"https:\/\/www.ingentaconnect.com\/images\/journal-logos\/aspt\/sb.gif","contentLocation":[],"about":[]}';
+		$json = '{
+            "id": "urn:lsid:indexfungorum.org:names:842068",
+            "url": "http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=842068",
+            "datePublished": "2022-01-03T18:19:54+0000",
+            "name": "Xylodon laeratus C.L. Zhao2021",
+            "item": {
+                "container": "Journal of Fungi",
+                "volumeNumber": "8",
+                "issueNumber": "1, no. 35",
+                "pagination": "8",
+                "datePublished": "2021-00-00",
+                "description": "Journal of Fungi 8 1, no. 35 8 2021"
+            }
+        }';	
+        
+        $json = '{
+            "id": "urn:lsid:indexfungorum.org:names:842172",
+            "url": "http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=842172",
+            "datePublished": "2022-01-03T18:29:09+0000",
+            "name": "Mariorajchenbergia australiae (Y.C. Dai, Yuan Yuan & Ya.R. Wang) Gibertoni2021",
+            "item": {
+                "container": "Mycosphere",
+                "volumeNumber": "12",
+                "issueNumber": "1",
+                "pagination": "1169",
+                "datePublished": "2021-00-00"
+            },
+            "description": "Mycosphere 12 1 1169 2021"
+        }';
+		
+		//$json = '{"@type":"DataFeedItem","@id":"https:\/\/www.ingentaconnect.com\/content\/aspt\/sb\/2021\/00000046\/00000003\/art00028","url":"https:\/\/www.ingentaconnect.com\/content\/aspt\/sb\/2021\/00000046\/00000003\/art00028","name":"Taxonomic Reevaluation of Endemic Hawaiian Planchonella (Sapotaceae)","author":[{"name":"Havran, J. Christopher"},{"name":"Nylinder, Stephan"},{"name":"Swenson, Ulf"}],"volumeNumber":"46","issueNumber":"3","pageStart":"875","pageEnd":"888","doi":"10.1600\/036364421X16312067913480","image":"https:\/\/www.ingentaconnect.com\/images\/journal-logos\/aspt\/sb.gif","contentLocation":[],"about":[]}';
 
 
 		$doc = json_decode($json);
@@ -765,5 +795,18 @@ if (0)
 
 	send_doc($doc, $status);
 }
+
+if (0)
+{
+	// Taxonomic names
+	$status = 200;
+
+	$doc = get_doc(true);
+	$status = add_taxa($doc);
+
+	print_r($doc);
+}
+
+
 
 ?>
