@@ -157,8 +157,11 @@ foreach ($files as $filename)
 		
 				// clean up
 				//unset($obj->mimetype);
-		
-				$dataFeed->dataFeedElement[] = $obj;	
+				
+				if (isset($obj->name) && ($obj->name != ''))
+				{		
+					$dataFeed->dataFeedElement[] = $obj;	
+				}
 		
 		
 			}
