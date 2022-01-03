@@ -3,3 +3,5 @@
 /vendor/
 env.php
 /cache/zoobank/
+/cache/
+/cache/latest
