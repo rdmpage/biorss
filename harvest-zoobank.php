@@ -46,11 +46,11 @@ $clean_filename = preg_replace('/\//', '-', $clean_filename);
 $clean_filename = preg_replace('/\?(.*)$/', '', $clean_filename);
 $clean_filename = preg_replace('/\.xml$/', '', $clean_filename);
 
-$data = null;
+//$data = null;
 $rss = conditional_get($url, $data);
 
 // update feed status
-//file_put_contents($feed_history_filename, json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE));
+file_put_contents($feed_history_filename, json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE));
 
 // Process RSS feed
 if ($rss != '')
@@ -73,9 +73,8 @@ if ($rss != '')
 	}
 	
 	print_r($uuids);
-	
-	
-	$uuids = array($uuids[0]);
+		
+	//$uuids = array($uuids[0]);
 	
 	// Build feed from UUIDs
 	

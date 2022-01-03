@@ -6,7 +6,11 @@ require_once (dirname(__FILE__) . '/process-feed.php');
 $force = false;
 
 $latest_dir = $config['cache'] . '/latest';
+
 $files = scandir($latest_dir);
+
+// debugging
+//$files = array('doaj.json');
 
 foreach ($files as $filename)
 {
