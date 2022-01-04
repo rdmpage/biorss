@@ -363,6 +363,14 @@ function add_meta(&$doc)
 			}
 		}
 		
+		if (preg_match('/ipni.org/', $url))
+		{
+			if (isset($doc->item->doi))
+			{
+				$url = 'https://doi.org/' . $doc->item->doi;
+			}
+		}		
+		
 		if (!$go)
 		{
 			return $status;
