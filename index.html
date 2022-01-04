@@ -318,14 +318,18 @@ var getHumanTime = function (timestamp) {
 							if (data.dataFeedElement[i].image.match(/d200x_.jpg/)) {
 								image_ok = false;							
 							}
-
-							// is it a URL?
-							if (!data.dataFeedElement[i].image.match(/^https?/)) {
-								image_ok = false;							
-							}
 							
-							if (image_ok) {		
-								html += '<img class="responsive-img" src="./imageproxy.php?url=' + encodeURIComponent(data.dataFeedElement[i].image) + '">';
+							if (image_ok) {
+														
+								// is it a URL?
+								if (data.dataFeedElement[i].image.match(/^https?/)) {
+									html += '<img class="responsive-img" src="./imageproxy.php?url=' + encodeURIComponent(data.dataFeedElement[i].image) + '">';
+								}
+							
+								// is it data?
+								if (data.dataFeedElement[i].image.match(/^data?/)) {
+									html += '<img class="responsive-img" src="' + data.dataFeedElement[i].image + '">';
+								}
 							}
 						}
 						html += '</div>';
