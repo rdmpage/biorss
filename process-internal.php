@@ -11,7 +11,14 @@ $latest_dir = $config['cache'] . '/latest';
 $files = scandir($latest_dir);
 
 // debugging
-//$files = array('doaj.json');
+//$files = array('ipni.json');
+//$files = array('0003-3847.json');
+//$files = array('2657-5000.json');
+//$files = array('0035-418X.json');
+
+$files = array('1803-6465.json');
+
+//$files = array('zoobank-list.json');
 
 foreach ($files as $filename)
 {

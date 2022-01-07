@@ -99,8 +99,20 @@ function process_feed($dataFeed, $force = false)
 			{
 				switch ($dataFeedElement->item->container)
 				{
+					case 'Acta Arachnologica':
+						$dataFeedElement->thumbnailUrl = 'https://www.jstage.jst.go.jp/pub/asjaa/thumbnail/asjaa_70_1.jpg';
+						break;
+	
 					case 'Annales Botanici Fennici':
 						$dataFeedElement->thumbnailUrl = 'https://bioone.org/ContentImages/journals/anbf/58/4-6/4-6/WebImages/085.058.0400.cover.jpg';
+						break;
+
+					case 'Mycoscience':
+						$dataFeedElement->thumbnailUrl = 'https://www.jstage.jst.go.jp/pub/mycosci/thumbnail/mycosci_62_6.png';
+						break;
+												
+					case 'Systematic and Applied Acarology':
+						$dataFeedElement->thumbnailUrl = 'https://www.biotaxa.org/public/site/images/zhangz/saasb.png';
 						break;
 				
 					default:

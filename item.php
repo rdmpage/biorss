@@ -83,6 +83,7 @@ function add_to_item(&$item, $key, $value)
 			break;
 						
 		case 'publicationDate':
+		case 'Publication date':
 		case 'PublishDate':
 			$item->datePublished = date("Y-m-H", strtotime($value));
 			break;

@@ -6,10 +6,21 @@ require_once (dirname(__FILE__) . '/rss.php');
 require_once (dirname(__FILE__) . '/process-feed.php');
 
 $force = false;
+//$force = true;
 
 $latest_dir = $config['cache'] . '/latest';
 
 $files = scandir($latest_dir);
+
+/*
+$files = array('publish.csiro.au-RSS_Feed-CSIRO_Publishing_Recent_IS.xml');
+$files = array('rss.sciencedirect.com-publication-science-13835769.xml');
+$files = array('africaninvertebrates.pensoft.net-rss.php.xml');
+$files = array('onlinelibrary.wiley.com-feed-1522239xb-most-recent.xml');
+$files = array('vertebrate-zoology.arphahub.com-rss.xml');
+*/
+
+//$files=array('jstage.jst.go.jp-AF05S010NewRssDld-btnaction=JT0041-sryCd=asjaa-rssLang=en.xml');
 
 foreach ($files as $filename)
 {
@@ -18,9 +29,11 @@ foreach ($files as $filename)
 	{	
 		$xml = file_get_contents($latest_dir . '/' . $filename);
 
-		$dataFeed = rss_to_internal($xml);
+		$dataFeed = rss_to_internal($xml);	
 		
-		process_feed($dataFeed);
+		//print_r($dataFeed);
+		
+		process_feed($dataFeed, $force);
 
 	}
 }
