@@ -4,7 +4,6 @@ mb_internal_encoding("UTF-8");
 setlocale(LC_ALL, 0);
 date_default_timezone_set('UTC');
 
-
 define ('WHITESPACE_CHARS', ' \f\n\r\t\x{00a0}\x{0020}\x{1680}\x{180e}\x{2028}\x{2029}\x{2000}\x{2001}\x{2002}\x{2003}\x{2004}\x{2005}\x{2006}\x{2007}\x{2008}\x{2009}\x{200a}\x{202f}\x{205f}\x{3000}');
 
 //----------------------------------------------------------------------------------------
@@ -232,6 +231,105 @@ function conditional_get($url, &$data)
 	return $content;
 }
 
+//----------------------------------------------------------------------------------------
+function get_image($url)
+{
+	$ch = curl_init();
+	curl_setopt($ch, CURLOPT_URL, $url);
+	
+	curl_setopt($ch, CURLOPT_HEADER, 0);
+	curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+	curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
+	
+	curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0);
+	curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
+	
+	// Cookies 
+	curl_setopt($ch, CURLOPT_COOKIEJAR, sys_get_temp_dir() . '/cookies.txt');
+	curl_setopt($ch, CURLOPT_COOKIEFILE, sys_get_temp_dir() . '/cookies.txt');	
+	
+	curl_setopt($ch, CURLOPT_HTTPHEADER, array(
+		"Accept-Language: en-gb",
+		"User-agent: Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405" 	
+		));
+	
+	$response = curl_exec($ch);
+	
+	
+	if($response == FALSE) 
+	{
+		$errorText = curl_error($ch);
+		curl_close($ch);
+		//die($errorText);
+		return "";
+	}
+	
+	$info = curl_getinfo($ch);
+	$http_code = $info['http_code'];
+	
+	//print_r($info);
+		
+	curl_close($ch);
+	
+	return $response;
+}
+
+//----------------------------------------------------------------------------------------
+// Encode image
+function encode_image($doc)
+{
+	$url = '';
+	
+	if ($url == '')
+	{
+		if (isset($doc->thumbnailUrl) && !isset($doc->image))
+		{
+			$url = $doc->thumbnailUrl;
+		}
+	}
+
+	if ($url == '')
+	{
+		if (isset($doc->image) && preg_match('/^http/', $doc->image))
+		{
+			$url = $doc->image;
+		}
+	}
+
+	if ($url != '')
+	{
+		// get image URL		
+		$image = get_image($url);
+		
+		if ($image != '')
+		{
+			// store image in a temporary file
+			$image_file_name = tempnam("/tmp", "image");			
+			file_put_contents($image_file_name, $image);
+			
+			// get MIME type
+			$finfo = finfo_open(FILEINFO_MIME_TYPE); // return mime type ala mimetype extension
+			$mime_type = finfo_file($finfo, $image_file_name);
+			finfo_close($finfo);
+			
+			// resize
+			$command = 'mogrify -resize 128 ' . $image_file_name;
+			system($command);
+
+			// encode 			
+			$image = file_get_contents($image_file_name);
+			$base64 = chunk_split(base64_encode($image));
+			
+			// save image URL then replace image
+			if (!isset($doc->thumbnailUrl))
+			{
+				$doc->thumbnailUrl = $url;
+			}			
+			$doc->image = 'data:' . $mime_type . ';base64,' . $base64;	
+		}
+	}
+	return $doc;
+}
 
 
 ?>
