@@ -77,6 +77,7 @@ function add_to_item(&$item, $key, $value)
 			break;
 			
 		case 'Page':
+		case 'page':
 		case 'pages':
 			$item->pagination = $value;
 			break;
@@ -86,6 +87,7 @@ function add_to_item(&$item, $key, $value)
 			$item->datePublished = date("Y-m-H", strtotime($value));
 			break;
 
+		case 'container-title':
 		case 'journal':
 		case 'parentreference':
 		case 'publicationTitle':		
