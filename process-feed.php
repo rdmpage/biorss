@@ -3,6 +3,7 @@
 // Process feed
 require_once (dirname(__FILE__) . '/config.inc.php');
 require_once (dirname(__FILE__) . '/datastore.php');
+require_once (dirname(__FILE__) . '/utils.php');
 
 //----------------------------------------------------------------------------------------
 // post
@@ -71,6 +72,8 @@ function process_feed($dataFeed, $force = false)
 		
 			echo "DON'T HAVE IT\n";
 		}
+		
+		
 	
 		if (!isset($dataFeedElement->meta) || $force)
 		{
@@ -84,7 +87,37 @@ function process_feed($dataFeed, $force = false)
 		{
 			echo "Have already added metadata\n";
 		}
-	
+		
+		//print_r($dataFeedElement);
+		
+		//exit();
+		
+		// image
+		if (!isset($dataFeedElement->thumbnailUrl))
+		{
+			if (isset($dataFeedElement->item->container))
+			{
+				switch ($dataFeedElement->item->container)
+				{
+					case 'Annales Botanici Fennici':
+						$dataFeedElement->thumbnailUrl = 'https://bioone.org/ContentImages/journals/anbf/58/4-6/4-6/WebImages/085.058.0400.cover.jpg';
+						break;
+				
+					default:
+						break;
+				}
+			}
+		}		
+		
+		if (isset($dataFeedElement->thumbnailUrl))
+		{
+			$dataFeedElement = encode_image($dataFeedElement);
+			$modified = true;
+		}
+		
+		//print_r($dataFeedElement);
+			
+		
 		if (!isset($dataFeedElement->contentLocation) || $force)
 		{
 			echo "Geoparsing\n";
@@ -97,6 +130,7 @@ function process_feed($dataFeed, $force = false)
 		{
 			echo "Have already geoparsed\n";
 		}
+		
 				
 		if (!isset($dataFeedElement->classification) || $force)
 		{
@@ -111,7 +145,14 @@ function process_feed($dataFeed, $force = false)
 			echo "Have already added taxa\n";
 		}
 
-		print_r($dataFeedElement);
+		if (!$dataFeedElement)
+		{
+			echo "Line " . __LINE__  . " badness problem\n";
+			exit();
+		}
+
+		
+		// exit();
 
 		if ($modified)
 		{

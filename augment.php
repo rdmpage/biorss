@@ -290,30 +290,34 @@ function add_geo(&$doc)
 				{
 					if ($feature->geometry->type == 'Point')
 					{
-						if (!in_array($feature->properties->wikidata_id, $wikidata))
+						if (isset($feature->properties->wikidata_id))
 						{
-							$place = new stdclass;				
-							$place->type = 'Place';
-		
-							// coordinates
-							$place->geo = new stdclass;
-							$place->geo->type = 'GeoCoordinates';
-		
-							$place->geo->latitude 	= (float)$feature->geometry->coordinates[1];
-							$place->geo->longitude 	= (float)$feature->geometry->coordinates[0];
-							
-							if (isset($feature->properties->country_code))
+					
+							if (!in_array($feature->properties->wikidata_id, $wikidata))
 							{
-								$place->geo->addressCountry = $feature->properties->country_code;
-							}
+								$place = new stdclass;				
+								$place->type = 'Place';
+		
+								// coordinates
+								$place->geo = new stdclass;
+								$place->geo->type = 'GeoCoordinates';
+		
+								$place->geo->latitude 	= (float)$feature->geometry->coordinates[1];
+								$place->geo->longitude 	= (float)$feature->geometry->coordinates[0];
+							
+								if (isset($feature->properties->country_code))
+								{
+									$place->geo->addressCountry = $feature->properties->country_code;
+								}
 						
-							$place->id 	= 'http://www.wikidata.org/entity/' . $feature->properties->wikidata_id;
-							$place->name = $feature->properties->name;
+								$place->id 	= 'http://www.wikidata.org/entity/' . $feature->properties->wikidata_id;
+								$place->name = $feature->properties->name;
 				
-							$doc->contentLocation[] = $place;
+								$doc->contentLocation[] = $place;
 							
-							$wikidata[] = $feature->properties->wikidata_id;
+								$wikidata[] = $feature->properties->wikidata_id;
 							
+							}
 						}
 					}
 				}
@@ -348,7 +352,7 @@ function add_meta(&$doc)
 	// add empty array to signal that we have processed this, even if we find no names
 	$doc->meta = array();
 		
-	if (isset($doc->url) && (!isset($doc->item->doi) || !isset($doc->image) || !isset($doc->datePublished)  || !isset($doc->description)))
+	if (isset($doc->url) && (!isset($doc->item->doi) || !isset($doc->thumbnailUrl) || !isset($doc->datePublished)  || !isset($doc->description)))
 	{
 		$go = true;
 		
@@ -449,7 +453,7 @@ function add_meta(&$doc)
 					
 					
 					// Image
-					if (!isset($doc->image) && isset($meta->property) && ($meta->content != ''))
+					if (!isset($doc->thumbnailUrl) && isset($meta->property) && ($meta->content != ''))
 					{
 						switch ($meta->property)
 						{				
@@ -464,7 +468,7 @@ function add_meta(&$doc)
 								
 								if ($go)
 								{
-									$doc->image = $meta->content;
+									$doc->thumbnailUrl = $meta->content;
 								}
 								break;					
 
@@ -509,21 +513,21 @@ function add_meta(&$doc)
 				// image
 				
 				// If we don't have an image in <META> go looking elsewhere
-				if (!isset($doc->image))
+				if (!isset($doc->thumbnailUrl))
 				{
 					// Magnolia Press 
 					foreach ($dom->find('div[class=item cover_image] div img') as $img)	
 					{
-						$doc->image = $img->src;				
+						$doc->thumbnailUrl = $img->src;				
 					}
 				}
 				
-				if (!isset($doc->image))
+				if (!isset($doc->thumbnailUrl))
 				{
 					// Ingenta
 					foreach ($dom->find('div[id=article-journal-logo] img') as $img)	
 					{
-						$doc->image = 'https://www.ingentaconnect.com' . $img->src;				
+						$doc->thumbnailUrl = 'https://www.ingentaconnect.com' . $img->src;				
 					}
 				}	
 				
@@ -546,7 +550,7 @@ function add_meta(&$doc)
 			$doc->meta = array_unique($doc->meta);
 		}
 		
-		if (!isset($doc->image))
+		if (!isset($doc->thumbnailUrl))
 		{
 			// try and find an image
 			if (isset($doc->url))
@@ -554,7 +558,7 @@ function add_meta(&$doc)
 				// wanfangdata.com.cn/periodical/dwfl202102003
 				if (preg_match('/.cn\/periodical\/(?<code>[a-z]{4})\d+/', $doc->url, $m))
 				{
-					$doc->image = 'https://www.wanfangdata.com.cn/images/PeriodicalImages/' . $m['code'] . '/' . $m['code'] . '.jpg';
+					$doc->thumbnailUrl = 'https://www.wanfangdata.com.cn/images/PeriodicalImages/' . $m['code'] . '/' . $m['code'] . '.jpg';
 				}
 			
 			}

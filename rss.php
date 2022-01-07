@@ -75,24 +75,24 @@ function rss_to_internal($xml)
 	// ATOM
 	foreach ($xpath->query('//atom:icon') as $node)
 	{
-		$dataFeed->image = $node->firstChild->nodeValue;
+		$dataFeed->thumbnailUrl = $node->firstChild->nodeValue;
 	}
 
 	// RSS2
 	foreach ($xpath->query('//channel/image/url') as $node)
 	{
-		$dataFeed->image = $node->firstChild->nodeValue;
+		$dataFeed->thumbnailUrl = $node->firstChild->nodeValue;
 	}
 
 	// RSS1
 	foreach ($xpath->query('/rdf:RDF/rss:channel/rss:image/@rdf:resource') as $node)
 	{
-		$dataFeed->image = $node->firstChild->nodeValue;
+		$dataFeed->thumbnailUrl = $node->firstChild->nodeValue;
 	}
 
 	foreach ($xpath->query('/rdf:RDF/rss:image/@rdf:about') as $node)
 	{
-		$dataFeed->image = $node->firstChild->nodeValue;
+		$dataFeed->thumbnailUrl = $node->firstChild->nodeValue;
 	}
 
 	//------------------------------------------------------------------------------------
@@ -473,9 +473,9 @@ function rss_content($source, $feed, $target, $tagname = 'content')
 	{
 		$description_content = '';
 		
-		if (isset($source->image))
+		if (isset($source->thumbnailUrl))
 		{
-			$description_content = '<p>' . '<img src="' . $source->image . '" width="240"></p>';
+			$description_content = '<p>' . '<img src="' . $source->thumbnailUrl . '" width="240"></p>';
 			$description_content .= '<p>' . $source->description . '</p>';
 		}
 		else
@@ -688,9 +688,9 @@ function internal_to_rss($dataFeed, $format = 'atom')
 				{
 					$description_content = '';
 					
-					if (isset($dataFeedElement->image))
+					if (isset($dataFeedElement->thumbnailUrl))
 					{
-						$description_content = '<p>' . '<img src="' . $dataFeedElement->image . '" width="240"></p>';
+						$description_content = '<p>' . '<img src="' . $dataFeedElement->thumbnailUrl . '" width="240"></p>';
 						$description_content .= '<p>' . $dataFeedElement->description . '</p>';
 						$description_content .= '<p>' . $dataFeedElement->url . '</p>';
 						
