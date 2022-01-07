@@ -23,7 +23,19 @@
 		type="rss" 
 		version="RSS" 
 		htmlUrl="https://www.jstage.jst.go.jp/browse/asjaa/-char/en" 
-		xmlUrl="https://www.jstage.jst.go.jp/AF05S010NewRssDld?btnaction=JT0040&amp;sryCd=asjaa&amp;rssLang=en"/>
+		xmlUrl="https://www.jstage.jst.go.jp/AF05S010NewRssDld?btnaction=JT0041&amp;sryCd=asjaa&amp;rssLang=en"/>
+		
+
+	<outline 
+		text="African Invertebrates" 
+		title="African Invertebrates" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="http://africaninvertebrates.pensoft.net" 
+		xmlUrl="http://africaninvertebrates.pensoft.net/rss.php"/>		
+		
+		
 		
 	<!-- Annales de la Société entomologique de France (N.S.) -->
 	<outline 
@@ -110,6 +122,17 @@
 		xmlUrl="https://europeanjournaloftaxonomy.eu/index.php/ejt/gateway/plugin/WebFeedGatewayPlugin/rss"/>
 	
 	
+<!-- F -->
+
+	<outline 
+		text="Feddes Repertorium" 
+		title="Feddes Repertorium" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://onlinelibrary.wiley.com/journal/1522239xb" 
+		xmlUrl="https://onlinelibrary.wiley.com/feed/1522239xb/most-recent"/>
+
 
 	
 <!-- I -->	
@@ -134,9 +157,27 @@
 		htmlUrl="https://www.microbiologyresearch.org/content/journal/ijsem" 
 		xmlUrl="https://www.microbiologyresearch.org/rss/content/journal/ijsem/latestarticles?fmt=rss"/>
 
+	<outline 
+		text="Invertebrate Systematics" 
+		title="Invertebrate Systematics" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://www.publish.csiro.au/is" 
+		xmlUrl="http://www.publish.csiro.au/RSS_Feed/CSIRO_Publishing_Recent_IS.xml"/>
+
 		
-<!-- Journal of Threatened Taxa -->
+<!-- J -->
 	
+		<outline 
+		text="Journal of Paleontology" 
+		title="Journal of Paleontology" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://www.cambridge.org/core/journals/journal-of-paleontology" 
+		xmlUrl="https://www.cambridge.org/core/rss/product/id/56B1B6F705BBEC4F8958383925A06535"/>
+
 		<outline 
 		text="Journal of Threatened Taxa" 
 		title="Journal of Threatened Taxa" 
@@ -169,6 +210,26 @@
 		
 		
 	<outline 
+		text="Mycologia" 
+		title="Mycologia" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://www.tandfonline.com/toc/umyc20/current" 
+		xmlUrl="https://www.tandfonline.com/feed/rss/umyc20"/>		
+		
+	<!-- mycological progress is via CrossRef -->
+		
+	<outline 
+		text="Mycoscience" 
+		title="Mycoscience" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://www.jstage.jst.go.jp/browse/mycosci/-char/en" 
+		xmlUrl="https://www.jstage.jst.go.jp/AF05S010NewRssDld?btnaction=JT0041&amp;sryCd=mycosci&amp;rssLang=en"/>		
+				
+	<outline 
 		text="Mycotaxon" 
 		title="Mycotaxon" 
 		description="" 
@@ -180,7 +241,15 @@
 		
 <!-- N -->
 
-	
+		<outline 
+		text="Nordic Journal of Botany" 
+		title="Nordic Journal of Botany" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://onlinelibrary.wiley.com/toc/17561051/current" 
+		xmlUrl="https://onlinelibrary.wiley.com/action/showFeed?jc=17561051&amp;type=etoc&amp;feed=rss"/>		
+
 
 	<outline 
 		text="Arbeiten aus Nova Hedwigia" 
@@ -189,10 +258,24 @@
 		type="rss" 
 		version="RSS" 
 		htmlUrl="http://www.schweizerbart.de//journals/nova_hedwigia" 
-		xmlUrl="https://www.schweizerbart.de/services/feeds/papers/nova_hedwigia/de/rss.xml	"/>		
+		xmlUrl="https://www.schweizerbart.de/services/feeds/papers/nova_hedwigia/de/rss.xml"/>		
 
 
 <!-- P -->	
+
+
+
+
+	<outline 
+		text="Parasitology International" 
+		title="Parasitology International" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://www.sciencedirect.com/journal/parasitology-international" 
+		xmlUrl="https://rss.sciencedirect.com/publication/science/13835769"/>		
+
+
 
 	<outline 
 		text="Latest Issue of PERSOONIA MOLECULAR PHYLOGENY AND EVOLUTION OF FUNGI" 
@@ -221,6 +304,18 @@
 		version="RSS" 
 		htmlUrl="https://www.biotaxa.org/Phytotaxa/issue/current" 
 		xmlUrl="https://www.biotaxa.org/Phytotaxa/gateway/plugin/WebFeedGatewayPlugin/rss"/>
+		
+
+	<outline 
+		text="Protist" 
+		title="Protist" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://www.sciencedirect.com/journal/protist" 
+		xmlUrl="https://rss.sciencedirect.com/publication/science/14344610"/>		
+
+		
 
 
 <!-- R -->
@@ -236,6 +331,18 @@
 
 
 <!-- S -->
+
+https://api.ingentaconnect.com/content/wfbi/sim/latest?format=rss
+
+	<outline 
+		text="Studies in Mycology" 
+		title="Studies in Mycology" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://www.ingentaconnect.com/content/wfbi/sim" 
+		xmlUrl="https://api.ingentaconnect.com/content/wfbi/sim/latest?format=rss"/>
+
 
 	<outline 
 		text="Studies on Neotropical Fauna and Environment" 
@@ -285,6 +392,29 @@
 		version="RSS" 
 		htmlUrl="https://tlhlxojs02-prd.flvc.org/troplep/index" 
 		xmlUrl="https://tlhlxojs02-prd.flvc.org/troplep/gateway/plugin/WebFeedGatewayPlugin/rss"/>
+
+
+	<outline 
+		text="Turczaninowia" 
+		title="Turczaninowia" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="http://turczaninowia.asu.ru" 
+		xmlUrl="http://turczaninowia.asu.ru/gateway/plugin/WebFeedGatewayPlugin/rss"/>
+
+
+	
+<!-- V -->	
+
+		<outline 
+			text="Vertebrate Zoology" 
+			title="Vertebrate Zoology"
+			description="" 
+			type="rss" 
+			version="RSS" 
+			htmlUrl="https://vertebrate-zoology.arphahub.com/articles"
+			xmlUrl="https://vertebrate-zoology.arphahub.com/rss" />
 
 
 <!-- Z -->		
@@ -371,8 +501,7 @@
 			xmlUrl="https://pubmed.ncbi.nlm.nih.gov/rss/search/1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD/?limit=15&amp;utm_campaign=pubmed-2&amp;fc=20211108074834"/>
 			
 	</outline>
-	
-	
+
 	
 	</body>
 </opml>
