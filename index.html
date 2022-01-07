@@ -328,7 +328,11 @@ var getHumanTime = function (timestamp) {
 							
 								// is it data?
 								if (data.dataFeedElement[i].image.match(/^data?/)) {
-									html += '<img class="responsive-img" src="' + data.dataFeedElement[i].image + '">';
+									// sanity check
+									
+									if (!data.dataFeedElement[i].image.match(/text\/html/)) {								
+										html += '<img class="responsive-img" src="' + data.dataFeedElement[i].image + '">';
+									}
 								}
 							}
 						}
