@@ -147,6 +147,16 @@
 		htmlUrl="https://journals.flvc.org/mundi/index" 
 		xmlUrl="https://journals.flvc.org/mundi/gateway/plugin/WebFeedGatewayPlugin/rss"/>
 
+	<outline 
+		text="Insect Systematics and Diversity" 
+		title="Insect Systematics and Diversity" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://academic.oup.com/isd" 
+		xmlUrl="https://academic.oup.com/rss/site_5595/3451.xml"/>
+
+
 
 	<outline 
 		text="International Journal of Systematic and Evolutionary Microbiology" 
@@ -362,6 +372,18 @@ https://api.ingentaconnect.com/content/wfbi/sim/latest?format=rss
 			version="RSS" 
 			htmlUrl="https://subtbiol.pensoft.net/articles"
 			xmlUrl="https://subtbiol.pensoft.net/rss.php" />
+
+
+
+
+	<outline 
+		text="Systematic and Applied Acarology" 
+		title="Systematic and Applied Acarology" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://www.biotaxa.org/saa/index" 
+		xmlUrl="https://www.biotaxa.org/saa/gateway/plugin/WebFeedGatewayPlugin/rss"/>
 
 
 	<outline 
