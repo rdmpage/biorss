@@ -243,6 +243,7 @@ function rss_to_internal($xml)
 				}
 			}
 
+			//----------------------------------------------------------------------------
 			// summary / content
 			foreach ($xpath->query('atom:summary[@type="html"] | atom:content[@type="html"]', $item) as $node)
 			{
@@ -251,7 +252,6 @@ function rss_to_internal($xml)
 				$dataFeedElement->description  = full_clean_text($dataFeedElement->description);
 			}
 	
-		
 			//----------------------------------------------------------------------------
 			// date
 	
@@ -454,6 +454,94 @@ function rss_to_internal($xml)
 					add_to_item($dataFeedElement->item, 'issn', trim($node->firstChild->nodeValue));
 				}
 				*/
+				
+				
+				// JSTAGE special handling
+				if (preg_match('/tag:jstage/', $dataFeedElement->id))
+				{
+					$abbreviation = '';
+				
+					if (preg_match('/tag:jstage.jst.go.jp:\/WhatsNew\/([a-z]+)\/NewArticle\/([a-z]+)_(\d+)_(\d+)_(\d+_[a-zA-Z0-9]+)/', $dataFeedElement->id, $m))
+					{
+						$dataFeedElement->url = 'https://www.jstage.jst.go.jp/article/' . $m[2] . '/' . $m[3] . '/' . $m[4] . '/' . $m[5] . '/_article/-char/' . $m[1];
+						$dataFeedElement->id = $dataFeedElement->url;
+						
+						$abbreviation = $m[2];
+					}				
+
+					if (preg_match('/tag:jstage.jst.go.jp:\/WhatsNew\/([a-z]+)\/NewArticle\/([a-z]+)_(advpub)_(\d+)_(advpub_[a-zA-Z0-9]+)/', $dataFeedElement->id, $m))
+					{
+						$dataFeedElement->url = 'https://www.jstage.jst.go.jp/article/' . $m[2] . '/' . $m[3] . '/' . $m[4] . '/' . $m[5] . '/_article/-char/' . $m[1];
+						$dataFeedElement->id = $dataFeedElement->url;
+						
+						$abbreviation = $m[2];
+					}				
+					
+					switch ($abbreviation)
+					{
+						case 'asjaa':
+							add_to_item($dataFeedElement->item, 'journal', 'Acta Arachnologica');
+							break;
+						
+						case 'mycosci':
+							add_to_item($dataFeedElement->item, 'journal', 'Mycoscience');
+							break;
+							
+						default:
+							break;
+					}
+				
+					/*
+					[ Title ] Description of a new species of <I>Pseudofluda</I> Mello-Leitão 1928 (Salticidae: Dendryphantini: Dendryphantina) from Chaco, Argentina
+					[ Author ] María Florencia Nadal
+					[ Publication date ] 2021-12-30
+					[ DOI ] https://doi.org/10.2476/asjaa.70.107
+					*/
+								
+					foreach ($xpath->query('atom:summary', $item) as $node)
+					{
+						$dataFeedElement->description = $node->firstChild->nodeValue;
+						
+						$lines = explode("\n", $dataFeedElement->description);
+						
+						// $dataFeedElement->lines = $lines;
+						
+						foreach ($lines as $line)
+						{
+						
+							if (preg_match('/\[ Title \] (?<title>.*)/', trim($line), $m))
+							{
+								add_to_item($dataFeedElement->item, 'name', full_clean_text($m['title']));
+								
+								// feed has default name "The new article is now available..."
+								$dataFeedElement->name = full_clean_text($m['title']);
+							}
+													
+							if (preg_match('/\[ DOI \] https?:\/\/doi.org\/(?<doi>.*)/', trim($line), $m))
+							{
+								add_to_item($dataFeedElement->item, 'doi', strtolower($m['doi']));
+								$dataFeedElement->item->id = 'https://doi.org/' . strtolower($m['doi']);								
+							}
+
+							if (preg_match('/\[ Publication date \] (?<date>.*)/', trim($line), $m))
+							{
+								add_to_item($dataFeedElement->item, 'Publication date', $m['date']);
+							}
+
+							if (preg_match('/\[ Author \] (?<author>.*)/', trim($line), $m))
+							{
+								$parts = preg_split('/,/u', $m['author']);
+								foreach ($parts as $part)
+								{	
+									add_to_item($dataFeedElement->item, 'author', trim($part));
+								}
+							}
+						
+						}
+						
+					}
+				
+				}
 	
 			}
 	
