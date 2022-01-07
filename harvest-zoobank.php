@@ -2,6 +2,8 @@
 
 // ZooBank-specific code
 
+// Rich says run http://zoobank.org/rssfeed.cfm to refesh...
+
 require_once(dirname(__FILE__) . '/vendor/autoload.php');
 require_once(dirname(__FILE__) . '/config.inc.php');
 require_once(dirname(__FILE__) . '/utils.php');
@@ -86,105 +88,11 @@ if ($rss != '')
 
 	foreach ($uuids as $uuid)
 	{
-		$files = zoobank_retrieve($uuid);
-
-		//print_r($files);
-
-		if (count($files) == 2)
-		{
-			$obj = json_decode($files['json']);
-	
-			//print_r($obj);
-
-			$dataFeedElement = new stdclass;
-			$dataFeedElement->id = 'http://zoobank.org/References/' . $obj->referenceuuid;
-			$dataFeedElement->url = $dataFeedElement->id;
-	
-			$dataFeedElement->name = full_clean_text($obj->title);
+		$dataFeedElement = zoobank_to_feed_item($uuid);
 		
-			// $dataFeedElement->datePublished = $item->PublishDate;
-
-			// item
-			$dataFeedElement->item = new stdclass;
-	
-			foreach ($obj as $k => $v)
-			{
-				switch ($k)
-				{
-					case 'title':
-						add_to_item($dataFeedElement->item, 'name', full_clean_text($v));
-						break;
-				
-					case 'endpage':
-					case 'lsid':
-					case 'number':
-					case 'parentreference':
-					case 'referenceuuid':
-					case 'startpage':			
-					case 'volume':
-					case 'year':
-						add_to_item($dataFeedElement->item, $k, $v);
-						break;
-				
-					case 'authors':
-						foreach ($v as $element)
-						{
-							$parts = array();
-					
-							if (isset($element[0]->givenname) && ($element[0]->givenname != ''))
-							{
-								$parts[] = $element[0]->givenname;
-							}
-
-							if (isset($element[0]->familyname) && ($element[0]->familyname != ''))
-							{
-								$parts[] = $element[0]->familyname;
-							}
-					
-							add_to_item($dataFeedElement->item, 'author', join(' ', $parts));				
-						}
-						break;
-				
-					default:
-						break;
-				}
-	
-			}
-	
-			// HTML has some additional stuff such as DOI and a more precise date
-			$dom = HtmlDomParser::str_get_html($files['html']);
-	
-			if ($dom)
-			{	
-				foreach ($dom->find('tr th[class=entry_label]') as $th)
-				{
-					switch (trim($th->plaintext))
-					{
-						case 'Date Published:':
-							add_to_item($dataFeedElement->item, 'publicationDate', trim($th->next_sibling()->plaintext));	
-							break;
-
-						case 'DOI:':
-							add_to_item($dataFeedElement->item, 'doi', trim($th->next_sibling()->plaintext));	
-							break;
-			
-						default:
-							break;
-					}
-	
-				}
-			}
-	
-			// set date for DataFeedElement
-			if (isset($dataFeedElement->item->datePublished))
-			{
-				$dataFeedElement->datePublished = $dataFeedElement->item->datePublished;
-			}
-	
+		if ($dataFeedElement)
+		{
 			$dataFeed->dataFeedElement[] = $dataFeedElement;
-	
-	
-
 		}
 	}
 	
