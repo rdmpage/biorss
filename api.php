@@ -32,6 +32,7 @@ function display_feed ($country, $path, $format= 'json', $callback = '')
 	$url = '_design/key/_view/query?startkey=' . urlencode(json_encode($startkey))
 		. '&endkey=' .  urlencode(json_encode($endkey))
 		. '&descending=true'
+		. '&limit=100'
 		;
 	
 	$resp = $couch->send("GET", "/" . $config['couchdb_options']['database'] . "/" . $url);
