@@ -199,7 +199,14 @@ foreach ($xpath->query('//outline/@xmlUrl') as $node)
 	$clean_filename = $url;
 	$clean_filename = preg_replace('/https?:\/\/(www\.)?/', '', $clean_filename);
 	$clean_filename = preg_replace('/\//', '-', $clean_filename);
+	
+	// J-Stage we need to keep parameters after ? otherwise string is not unique	
+	$clean_filename = preg_replace('/\?btnaction=/', '-btnaction=', $clean_filename);	
+	$clean_filename = preg_replace('/&(amp;)?/', '-', $clean_filename);
+	
+	// everything else strip HTTP parameters
 	$clean_filename = preg_replace('/\?(.*)$/', '', $clean_filename);
+		
 	$clean_filename = preg_replace('/\.xml$/', '', $clean_filename);
 
 	// $clean_filename = preg_replace('/[:\?#=]/', '', $clean_filename);

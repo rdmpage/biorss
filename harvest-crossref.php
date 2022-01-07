@@ -88,9 +88,11 @@ $feed_timestamp = time() - (60 * 60 * 24 * 30 * 3);
 
 $issns = array(
 	//'0003-3847' => 'Annales Botanici Fennici',  // BioOne
-	'1572-9699' => 'Antonie van Leeuwenhoek', // Springer
+	//'1572-9699' => 'Antonie van Leeuwenhoek', // Springer
 	
 	//'0010-065X' => 'The Coleopterists Bulletin', // BioOne
+	
+	'1803-6465' => 'Folia Parasitologica',
 	
 	//'1878-9129' => 'Fungal Diversity', // Springer
 	
