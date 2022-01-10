@@ -196,7 +196,36 @@ function get_doc($debug = false)
 		
 		//$json = '{"@type":"DataFeedItem","@id":"https:\/\/www.ingentaconnect.com\/content\/aspt\/sb\/2021\/00000046\/00000003\/art00028","url":"https:\/\/www.ingentaconnect.com\/content\/aspt\/sb\/2021\/00000046\/00000003\/art00028","name":"Taxonomic Reevaluation of Endemic Hawaiian Planchonella (Sapotaceae)","author":[{"name":"Havran, J. Christopher"},{"name":"Nylinder, Stephan"},{"name":"Swenson, Ulf"}],"volumeNumber":"46","issueNumber":"3","pageStart":"875","pageEnd":"888","doi":"10.1600\/036364421X16312067913480","image":"https:\/\/www.ingentaconnect.com\/images\/journal-logos\/aspt\/sb.gif","contentLocation":[],"about":[]}';
 
+		$json = '{"id":"https:\/\/doi.org\/10.1163\/18759866-bja10025","url":"http:\/\/dx.doi.org\/10.1163\/18759866-bja10025","item":{"doi":"10.1163\/18759866-bja10025","name":"The world\u2019s tiniest land snails from Laos and Vietnam (Gastropoda, Pulmonata, Hypselostomatidae)","author":["Barna P\u00e1ll-Gergely","Adrienne Jochum","Jaap J. Vermeulen","Katja Anker","Andr\u00e1s Hunyadi","Aydin \u00d6rstan","\u00c1bel Szab\u00f3","L\u00e1szl\u00f3 D\u00e1nyi","Menno Schilthuizen"],"container":"Contributions to Zoology","issn":["1383-4517","1875-9866"],"pagination":"1-17","datePublished":"2022-01-05","id":"https:\/\/doi.org\/10.1163\/18759866-bja10025"},"description":"Abstract Two new, extremely small land snail species, Angustopila coprologos P\u00e1ll-Gergely, Jochum & Hunyadi n. sp. and Angustopila psammion P\u00e1ll-Gergely, Vermeulen & Anker n. sp. are described from northern Vietnam and northern Laos, respectively. The former is characterized by a rough surface sculpture and bears tiny mud granules arranged in a pattern of radial lines on its shell surface. The latter species is the new global record-holder of the tiniest land snail title, with a shell width of 0.6\u20130.68 mm and a shell height of 0.46\u20130.57 mm. These measurements surpass the former records of Angustopila pallgergelyi and Acmella nana.","name":"The world\u2019s tiniest land snails from Laos and Vietnam (Gastropoda, Pulmonata, Hypselostomatidae)","datePublished":"2022-01-05","meta":[]}';
 
+        
+        $json = '{
+    "id": "http://zoobank.org/References/5b105f82-ef77-4c18-b9dc-df4b51123a54",
+    "url": "http://zoobank.org/References/5b105f82-ef77-4c18-b9dc-df4b51123a54",
+    "name": "Hydrodroma angelieri (Acari, Hydrachnidia: Hydrodromidae) a new water mite species from Corsica based on morphological and DNA barcode evidence",
+    "item": {
+      "identifier": [
+        "5b105f82-ef77-4c18-b9dc-df4b51123a54",
+        "urn:lsid:zoobank.org:pub:5B105F82-EF77-4C18-B9DC-DF4B51123A54"
+      ],
+      "datePublished": "2022-01-00",
+      "name": "Hydrodroma angelieri (Acari, Hydrachnidia: Hydrodromidae) a new water mite species from Corsica based on morphological and DNA barcode evidence",
+      "volumeNumber": "62",
+      "issueNumber": "1",
+      "pageStart": "3",
+      "pageEnd": "11",
+      "container": "Acarologia",
+      "author": [
+        "Vladimir Pešić",
+        "Harry Smit"
+      ],
+      "doi": "https://doi.org/10.24349/l06c-j0qm",
+      "id": "https://doi.org/https://doi.org/10.24349/l06c-j0qm"
+    },
+    "datePublished": "2022-01-00",
+    "description": "In the present study we used morphological data and DNA barcodes to describe a new species, Hydrodroma angelieri sp. nov. from Corsica, France. A high genetic distance of 17.3±0.017% K2P from its molecularly most closely related European congener, H. despiciens (Müller, 1776), supports H. angelieri sp. nov. as a distinct species. Morphologically the new species can be identified on the basis of relatively small leg claws, the presence of only one swimming seta on II-L-5 and 4-6 swimming setae on the anterior surface of IV-L-5. An updated key for the European species of Hydrodroma is provided. "
+}';
+		
 		$doc = json_decode($json);
 	}
 	
@@ -383,6 +412,7 @@ function add_meta(&$doc)
 	
 		$html = get($url);	
 		
+		
 		if ($html == '')
 		{
 			$status = 404;
@@ -465,6 +495,12 @@ function add_meta(&$doc)
 								{
 									$go = false;
 								}
+
+								// check for poor choices of image, e.g. Acaralogia
+								if (preg_match('/vignettetwitter.png/', $meta->content))
+								{
+									$go = false;
+								}
 								
 								if ($go)
 								{
@@ -475,6 +511,8 @@ function add_meta(&$doc)
 							default:
 								break;
 						}
+						
+						
 					}
 					
 					// Description
@@ -531,6 +569,20 @@ function add_meta(&$doc)
 					}
 				}	
 				
+				
+				if (!isset($doc->thumbnailUrl))
+				{
+					// Acarologia
+					if (isset($doc->item->doi) && preg_match('/10.24349/', $doc->item->doi))
+					{
+						foreach ($dom->find('figure img[class=img-fluid]') as $img)	
+						{
+							$doc->thumbnailUrl = 'https://www1.montpellier.inrae.fr/CBGP/acarologia/' . $img->src;		
+							break;		
+						}
+					}
+				}	
+				
 				// description
 				if (!isset($doc->description))
 				{
@@ -545,6 +597,21 @@ function add_meta(&$doc)
 				
 						
 						
+			}
+			else
+			{
+				// echo "oops\n";
+				
+				// Couldn't parse HTML so try regular expressions
+				
+				// <meta content="https://brill.com/cover/covers/13834517.jpg" property="og:image">
+				if (preg_match('/<meta content="(.*)" property="og:image"\/>/', $html, $m))
+				{
+					$doc->thumbnailUrl = $m[1];
+					$doc->meta[] = 'og:image';
+				}
+				
+				
 			}
 			
 			$doc->meta = array_unique($doc->meta);
