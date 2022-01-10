@@ -479,8 +479,26 @@ function add_meta(&$doc)
 							default:
 								break;
 						}
-					}				
+					}		
 					
+					// Twitter card	image	
+					if (!isset($doc->thumbnailUrl) && isset($meta->name) && ($meta->content != ''))
+					{
+						switch ($meta->name)
+						{				
+							case 'twitter:image':
+								$go = true;
+								
+								if ($go)
+								{
+									$doc->thumbnailUrl = $meta->content;
+								}
+								break;					
+
+							default:
+								break;
+						}
+					}
 					
 					// Image
 					if (!isset($doc->thumbnailUrl) && isset($meta->property) && ($meta->content != ''))
@@ -569,7 +587,7 @@ function add_meta(&$doc)
 					}
 				}	
 				
-				
+				/*
 				if (!isset($doc->thumbnailUrl))
 				{
 					// Acarologia
@@ -581,7 +599,8 @@ function add_meta(&$doc)
 							break;		
 						}
 					}
-				}	
+				}
+				*/	
 				
 				// description
 				if (!isset($doc->description))
