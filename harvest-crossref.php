@@ -87,23 +87,22 @@ $feed_timestamp = time() - (60 * 60 * 24 * 30 * 3);
 
 
 $issns = array(
+	'2107-7207' => 'Acarologia', 
 	//'0003-3847' => 'Annales Botanici Fennici',  // BioOne
 	//'1572-9699' => 'Antonie van Leeuwenhoek', // Springer
-	
 	//'0010-065X' => 'The Coleopterists Bulletin', // BioOne
-	
-	'1803-6465' => 'Folia Parasitologica',
-	
+	//'1875-9866' => 'Contributions to Zoology', // Brill
+	//'1803-6465' => 'Folia Parasitologica',
 	//'1878-9129' => 'Fungal Diversity', // Springer
 	
+	//'0022-1511' => 'Journal of Herpetology', // BioOne
+	
+	//'1874-933X' => 'Kew Bulletin', // Springer
 	//'1861-8952' => 'Mycological Progress', // Springer
-	
 	//'2657-5000' => 'Plant and Fungal Systematics',
-	
 	//'0035-418X' => 'Revue suisse de Zoologie', // BioOne
-	
+	//'1573-5192' => 'Systematic Parasitology', // Springer
 	//'0002-8320' => 'Transactions of the American Entomological Society',  // BioOne
-	
 );
 
 foreach ($issns as $issn => $journal)
