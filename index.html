@@ -330,7 +330,7 @@ var getHumanTime = function (timestamp) {
 								if (data.dataFeedElement[i].image.match(/^data?/)) {
 									// sanity check
 									
-									if (!data.dataFeedElement[i].image.match(/text\/html/)) {								
+									if (!data.dataFeedElement[i].image.match(/text\/html/) && !data.dataFeedElement[i].image.match(/application\/xml/)) {								
 										html += '<img class="responsive-img" src="' + data.dataFeedElement[i].image + '">';
 									}
 								}
