@@ -39,6 +39,7 @@ $json = file_get_contents($feed_history_filename);
 $data = json_decode($json);
 
 $url = 'http://zoobank.org/rss/rss.xml';
+$url = 'http://rss.zoobank.org';
 
 $force = false;
 
