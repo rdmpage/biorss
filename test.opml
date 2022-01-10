@@ -35,6 +35,14 @@
 		htmlUrl="http://africaninvertebrates.pensoft.net" 
 		xmlUrl="http://africaninvertebrates.pensoft.net/rss.php"/>		
 		
+	<outline 
+		text="African Journal of Herpetology" 
+		title="African Journal of Herpetology" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://www.tandfonline.com/toc/ther20/current" 
+		xmlUrl="https://www.tandfonline.com/feed/rss/ther20"/>		
 		
 		
 	<!-- Annales de la Société entomologique de France (N.S.) -->
@@ -338,6 +346,15 @@
 		version="RSS" 
 		htmlUrl="https://riviste.unimi.it/index.php/RIPS/index" 
 		xmlUrl="https://riviste.unimi.it/index.php/RIPS/gateway/plugin/WebFeedGatewayPlugin/rss"/>
+
+	<outline 
+		text="Russian Journal of Herpetology" 
+		title="Russian Journal of Herpetology" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="http://rjh.folium.ru/index.php/rjh/index" 
+		xmlUrl="http://rjh.folium.ru/index.php/rjh/gateway/plugin/WebFeedGatewayPlugin/rss"/>
 
 
 <!-- S -->
