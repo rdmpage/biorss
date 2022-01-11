@@ -147,14 +147,17 @@ foreach ($files as $filename)
 		
 				// get snippet of text 
 				$sib = $h3->next_sibling();
-				$sib = $sib->next_sibling();
-				if (isset($sib->class) && ($sib->class == "gse_alrt_sni"))
+				if ($sib)
 				{
-					$obj->description = html_entity_decode($sib->plaintext, ENT_QUOTES | ENT_HTML5, 'UTF-8');
-					$obj->description = preg_replace('/\R/u', ' ', $obj->description);
-					$obj->description = preg_replace('/\s\s+/u', ' ', $obj->description);
+					$sib = $sib->next_sibling();
+					if (isset($sib->class) && ($sib->class == "gse_alrt_sni"))
+					{
+						$obj->description = html_entity_decode($sib->plaintext, ENT_QUOTES | ENT_HTML5, 'UTF-8');
+						$obj->description = preg_replace('/\R/u', ' ', $obj->description);
+						$obj->description = preg_replace('/\s\s+/u', ' ', $obj->description);
+					}
 				}
-		
+				
 				// clean up
 				//unset($obj->mimetype);
 				
