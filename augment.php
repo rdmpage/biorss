@@ -459,7 +459,14 @@ function add_meta(&$doc)
 									$doc->item->doi = $doi;	
 								}								
 								break;					
-												
+											
+							// https://www.thebhs.org/publications/the-herpetological-journal/volume-32-number-1-january-2022/3430-05-i-acanthosaura-meridiona-i-sp-nov-squamata-agamidae-a-new-short-horned-lizard-from-southern-thailand	
+							case 'description':
+								if (preg_match('/(DOI:\s+)?https:\/\/doi.org\/(?<doi>[^\s]+)/', $meta->content, $m))
+								{
+									$doc->item->doi = $m['doi'];
+								}
+								break;				
 
 							default:
 								break;
