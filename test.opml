@@ -55,7 +55,8 @@
 		htmlUrl="https://www.tandfonline.com/toc/tase20/current" 
 		xmlUrl="https://www.tandfonline.com/feed/rss/tase20"/>
 
-
+	<!-- feed generates a unique id each time we harvest it! -->
+	<!--
 	<outline 
 		text="Asian Herpetological Research" 
 		title="Asian Herpetological Research" 
@@ -64,9 +65,11 @@
 		version="RSS" 
 		htmlUrl="https://navi.cnki.net/knavi/journals/YZLQ/detail?uniplatform=NZKPT" 
 		xmlUrl="https://navi.cnki.net/knavi/rss/yzlq"/>
+	-->	
 		
-		
-		
+<!-- B -->
+	
+	
 <!-- C -->			
 		
 	<outline 
@@ -141,6 +144,16 @@
 		htmlUrl="https://onlinelibrary.wiley.com/journal/1522239xb" 
 		xmlUrl="https://onlinelibrary.wiley.com/feed/1522239xb/most-recent"/>
 
+<!-- H -->
+
+		<outline 
+		text="The Herpetological Journal" 
+		title="The Herpetological Journal" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://www.thebhs.org/publications/the-herpetological-journal" 
+		xmlUrl="https://www.thebhs.org/publications/the-herpetological-journal?format=rss"/>
 
 	
 <!-- I -->	
