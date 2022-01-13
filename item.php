@@ -34,6 +34,7 @@ function add_to_item(&$item, $key, $value)
 			add_multingual_key_value($item, 'description', $value);
 			break;			
 	
+		case 'DC.Contributor':
 		case 'author':
 			if (!isset($item->author))
 			{
@@ -46,10 +47,13 @@ function add_to_item(&$item, $key, $value)
 			$item->author = $value;
 			break;
 			
+		case 'citation_doi':
 		case 'doi':
 			$item->{$key} = strtolower($value);
 			break;
 			
+		case 'lastPage':
+		case 'citation_lastpage':
 		case 'endpage':
 		case 'endingPage':
 		case 'end_page':
@@ -63,12 +67,14 @@ function add_to_item(&$item, $key, $value)
 			$item->identifier[] = $value;
 			break;		
 			
+		case 'citation_issue':
 		case 'issue':
 		case 'Issue':
 		case 'number':
 			$item->issueNumber = $value;
 			break;			
 			
+		case 'citation_issn':
 		case 'issn':
 		case 'ISSN':
 		case 'name':
@@ -81,13 +87,19 @@ function add_to_item(&$item, $key, $value)
 		case 'pages':
 			$item->pagination = $value;
 			break;
+			
+		case 'citation_pdf_url':
+			$item->pdf = $value;
+			break;
 						
+		case 'citation_date':
 		case 'publicationDate':
 		case 'Publication date':
 		case 'PublishDate':
 			$item->datePublished = date("Y-m-H", strtotime($value));
 			break;
 
+		case 'citation_journal_title':
 		case 'container-title':
 		case 'journal':
 		case 'parentreference':
@@ -95,6 +107,8 @@ function add_to_item(&$item, $key, $value)
 			$item->container = $value;
 			break;
 			
+		case 'firstPage':
+		case 'citation_firstpage':
 		case 'startpage':
 		case 'startingPage':
 		case 'start_page':
@@ -110,11 +124,13 @@ function add_to_item(&$item, $key, $value)
 			add_multingual_key_value($item, 'name', $value);
 			break;			
 						
+		case 'citation_volume':
 		case 'volume':
 		case 'Volum':
 			$item->volumeNumber = $value;
 			break;
 			
+		case 'publicationYear':
 		case 'year':
 			$item->datePublished = $value . "-00-00";
 			break;
