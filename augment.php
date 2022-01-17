@@ -594,6 +594,16 @@ function add_meta(&$doc)
 					}
 				}	
 				
+				if (!isset($doc->thumbnailUrl))
+				{					
+					// Cahiers de Biologie Marine
+					foreach ($dom->find('div[id=logobar] img') as $img)	
+					{
+						$doc->thumbnailUrl = 'http://application.sb-roscoff.fr/cbm/' . $img->src;				
+					}
+				}	
+				
+				
 				/*
 				if (!isset($doc->thumbnailUrl))
 				{
