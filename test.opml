@@ -103,6 +103,18 @@
 
 <!-- E -->	
 
+	<!-- Ecologica Montenegrina -->
+	
+	<outline 
+		text="Ecologica Montenegrina" 
+		title="Ecologica Montenegrina" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://www.biotaxa.org/em/issue/current" 
+		xmlUrl="https://www.biotaxa.org/em/gateway/plugin/WebFeedGatewayPlugin/rss"/>
+	
+
 	<outline 
 		text="Edinburgh Journal of Botany" 
 		title="Edinburgh Journal of Botany" 
@@ -120,6 +132,16 @@
 		version="RSS" 
 		htmlUrl="http://et-online.nu/index.php/contents/issue/current" 
 		xmlUrl="http://et-online.nu/index.php/contents/gateway/plugin/WebFeedGatewayPlugin/atom"/>
+
+
+	<outline 
+		text="European Journal of Protistology" 
+		title="European Journal of Protistology" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://www.sciencedirect.com/journal/european-journal-of-protistology" 
+		xmlUrl="https://rss.sciencedirect.com/publication/science/09324739"/>
 
 
 	<!-- European Journal of Taxonomy -->
