@@ -292,7 +292,23 @@ function zoobank_to_feed_item($uuid)
 				switch (trim($th->plaintext))
 				{
 					case 'Date Published:':
-						add_to_item($dataFeedElement->item, 'publicationDate', trim($th->next_sibling()->plaintext));	
+						$value = trim($th->next_sibling()->plaintext);
+						
+						if (preg_match('/^[0-9]{4}$/', $value))
+						{
+							$value .= '-00-00';
+							$dataFeedElement->item->datePublished = $value;
+						}
+						else
+						{
+							// date
+							if (preg_match('/(?<date>\d+\s+[A-Z]\w+\s+[0-9]{4})/', $value))
+							{
+								$value = preg_replace('/\s\s+/', ' ', $value);
+								$dateTime = date_create_from_format('d F Y', $value);
+								$dataFeedElement->item->datePublished = date_format($dateTime, 'Y-m-d');	
+							}
+						}
 						break;
 
 					case 'DOI:':
@@ -6224,6 +6240,11 @@ foreach ($uuids as $uuid)
 if (0)
 {
 	$uuid = '5F93E4EB-0C09-4F4E-8C08-12887C0D49BD';
+	
+	$uuid = '3FE0C7CC-651D-4CDF-ADA7-162CE31546D1';
+	
+	$uuid = '21A845DF-709C-4A18-BD5B-7D7ABDAEFD01';
+	
 	$d = zoobank_to_feed_item($uuid);
 	
 	print_r($d);
