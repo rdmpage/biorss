@@ -482,6 +482,10 @@ function add_meta(&$doc)
 							case 'DCTERMS.issued':
 								$doc->datePublished = date(DATE_ISO8601, strtotime($meta->content));
 								break;	
+
+							case 'citation_date':
+								$doc->datePublished = date(DATE_ISO8601, strtotime($meta->content));
+								break;	
 								
 							default:
 								break;
@@ -580,6 +584,16 @@ function add_meta(&$doc)
 				{
 					// Magnolia Press 
 					foreach ($dom->find('div[class=item cover_image] div img') as $img)	
+					{
+						$doc->thumbnailUrl = $img->src;				
+					}
+				}
+
+				// oaj.fupress.net
+				if (!isset($doc->thumbnailUrl))
+				{
+					// Magnolia Press 
+					foreach ($dom->find('div[class=article_cover_wrapper] img') as $img)	
 					{
 						$doc->thumbnailUrl = $img->src;				
 					}
