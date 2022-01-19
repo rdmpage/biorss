@@ -27,6 +27,16 @@
 		
 
 	<outline 
+		text="Acta Herpetologica" 
+		title="Acta Herpetologica" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://oaj.fupress.net/index.php/ah/issue/current" 
+		xmlUrl="https://oaj.fupress.net/index.php/ah/gateway/plugin/WebFeedGatewayPlugin/rss"/>
+		
+
+	<outline 
 		text="African Invertebrates" 
 		title="African Invertebrates" 
 		description="" 
@@ -100,6 +110,21 @@
 		htmlUrl="https://www.sciencedirect.com/journal/cretaceous-research/issues" 
 		xmlUrl="https://rss.sciencedirect.com/publication/science/019566713"/>
 	
+<!-- D -->
+
+	<outline 
+		text="Dugesiana" 
+		title="Dugesiana" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="http://dugesiana.cucba.udg.mx/index.php/DUG/issue/current" 
+		xmlUrl="http://dugesiana.cucba.udg.mx/index.php/DUG/gateway/plugin/WebFeedGatewayPlugin/rss"/>
+
+
+
+
+
 
 <!-- E -->	
 
@@ -222,6 +247,16 @@
 		
 <!-- J -->
 	
+		<outline 
+		text="Journal of Hymenoptera Research" 
+		title="Journal of Hymenoptera Research" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://jhr.pensoft.net/articles" 
+		xmlUrl="https://jhr.pensoft.net/rss.php"/>
+
+
 		<outline 
 		text="Journal of Paleontology" 
 		title="Journal of Paleontology" 
@@ -394,8 +429,6 @@
 
 <!-- S -->
 
-https://api.ingentaconnect.com/content/wfbi/sim/latest?format=rss
-
 	<outline 
 		text="Studies in Mycology" 
 		title="Studies in Mycology" 
@@ -489,6 +522,17 @@ https://api.ingentaconnect.com/content/wfbi/sim/latest?format=rss
 			version="RSS" 
 			htmlUrl="https://vertebrate-zoology.arphahub.com/articles"
 			xmlUrl="https://vertebrate-zoology.arphahub.com/rss" />
+
+<!-- W -->
+
+	<outline 
+		text="Webbia" 
+		title="Webbia" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://oaj.fupress.net/index.php/webbia/issue/current" 
+		xmlUrl="https://oaj.fupress.net/index.php/webbia/gateway/plugin/WebFeedGatewayPlugin/rss"/>
 
 
 <!-- Z -->		
