@@ -29,8 +29,7 @@ foreach ($files as $filename)
 		$file_handle = fopen($latest_dir . '/' . $filename, "r");
 		while (!feof($file_handle)) 
 		{
-			$line = trim(fgets($file_handle));
-	
+			$line = fgets($file_handle);
 	
 			if ($state == 1)
 			{
