@@ -617,6 +617,15 @@ function add_meta(&$doc)
 					}
 				}	
 				
+				// Brill
+				if (!isset($doc->thumbnailUrl))
+				{
+					// Ingenta
+					foreach ($dom->find('img[alt=Cover Tijdschrift voor Entomologie]') as $img)	
+					{
+						$doc->thumbnailUrl = 'https://brill.com' . $img->src;				
+					}
+				}	
 				
 				/*
 				if (!isset($doc->thumbnailUrl))
@@ -677,6 +686,14 @@ function add_meta(&$doc)
 				{
 					$doc->thumbnailUrl = 'https://www.wanfangdata.com.cn/images/PeriodicalImages/' . $m['code'] . '/' . $m['code'] . '.jpg';
 				}
+				
+				if (preg_match('/xbkcflxb/', $doc->url))
+				{
+					$doc->thumbnailUrl = 'http://xbkcflxb.cnjournals.com/xbkcflxb/ch/ext_images/未命名1.jpg';
+				}
+				
+				
+				
 			
 			}
 		
