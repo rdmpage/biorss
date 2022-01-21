@@ -158,6 +158,15 @@
 		htmlUrl="http://et-online.nu/index.php/contents/issue/current" 
 		xmlUrl="http://et-online.nu/index.php/contents/gateway/plugin/WebFeedGatewayPlugin/atom"/>
 
+	<outline 
+		text="Entomotaxonomia" 
+		title="Entomotaxonomia" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="http://xbkcflxb.cnjournals.com/xbkcflxb/ch/index.aspx" 
+		xmlUrl="http://xbkcflxb.cnjournals.com/xbkcflxb/ch/reader/current.aspx"/>
+
 
 	<outline 
 		text="European Journal of Protistology" 
@@ -167,7 +176,6 @@
 		version="RSS" 
 		htmlUrl="https://www.sciencedirect.com/journal/european-journal-of-protistology" 
 		xmlUrl="https://rss.sciencedirect.com/publication/science/09324739"/>
-
 
 	<!-- European Journal of Taxonomy -->
 	<outline 

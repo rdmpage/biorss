@@ -217,9 +217,16 @@ foreach ($xpath->query('//outline/@xmlUrl') as $node)
 	if (!file_exists($rss_filename) || $force)
 	{
 		$rss = conditional_get($url, $data);
-	
+		
+
 		if ($rss != '')
 		{	
+			// check for encoding issues
+			if (preg_match('/xbkcflxb.cnjournals.com/', $url))
+			{
+				$rss = mb_convert_encoding($rss, 'UTF-8', 'GB2312');
+			}
+		
 			file_put_contents($rss_filename, $rss);
 		}
 	}
