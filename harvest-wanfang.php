@@ -273,7 +273,7 @@ foreach ($periodicals as $journal)
 				$dataFeedElement->name = join(' / ', $item->Title);
 				$dataFeedElement->description = join(' / ', $item->Abstract);
 				
-				$dataFeedElement->datePublished = $item->PublishDate;
+				$dataFeedElement->datePublished = date(DATE_ISO8601, strtotime($item->PublishDate));
 		
 				// name whole feed based on the journal
 				if (!isset($dataFeed->name))
