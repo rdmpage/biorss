@@ -331,5 +331,15 @@ function encode_image($doc)
 	return $doc;
 }
 
+//----------------------------------------------------------------------------------------
+// Clean a DOI
+function clean_doi($doi)
+{
+	$doi = preg_replace('/https?:\/\/(dx\.)?doi.org\//i', '', $doi);
+	
+	$doi = strtolower($doi);
+	
+	return $doi;
+}
 
 ?>
