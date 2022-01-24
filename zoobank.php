@@ -312,7 +312,9 @@ function zoobank_to_feed_item($uuid)
 						break;
 
 					case 'DOI:':
-						add_to_item($dataFeedElement->item, 'doi', trim($th->next_sibling()->plaintext));	
+						$doi = trim($th->next_sibling()->plaintext);
+						$doi = clean_doi($doi);
+						add_to_item($dataFeedElement->item, 'doi', $doi);	
 						break;
 		
 					default:
