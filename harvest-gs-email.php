@@ -160,7 +160,7 @@ foreach ($files as $filename)
 				// clean up
 				//unset($obj->mimetype);
 				
-				if (isset($obj->name) && ($obj->name != ''))
+				if (isset($obj->id) && isset($obj->name) && ($obj->name != ''))
 				{		
 					$dataFeed->dataFeedElement[] = $obj;	
 				}
