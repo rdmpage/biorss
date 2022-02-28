@@ -22,6 +22,12 @@ $files = array('vertebrate-zoology.arphahub.com-rss.xml');
 
 //$files=array('jstage.jst.go.jp-AF05S010NewRssDld-btnaction=JT0041-sryCd=asjaa-rssLang=en.xml');
 
+//$files = array('thebhs.org-publications-the-herpetological-journal.xml');
+
+//$files = array('rostaniha.areeo.ac.ir-ju.rss.xml');
+
+//$files = array('li01.tci-thaijo.org-index.php-ThaiForestBulletin-gateway-plugin-WebFeedGatewayPlugin-rss.xml');
+
 foreach ($files as $filename)
 {
 	// process RSS (XML) files
@@ -31,7 +37,9 @@ foreach ($files as $filename)
 
 		$dataFeed = rss_to_internal($xml);	
 		
-		//print_r($dataFeed);
+		print_r($dataFeed);
+		
+		//exit();
 		
 		process_feed($dataFeed, $force);
 

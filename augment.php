@@ -587,7 +587,18 @@ function add_meta(&$doc)
 					{
 						$doc->thumbnailUrl = $img->src;				
 					}
+										
 				}
+				
+				// threatenedtaxa.org
+				if (!isset($doc->thumbnailUrl))
+				{
+					// Magnolia Press 
+					foreach ($dom->find('div[class=cover_image] img') as $img)	
+					{
+						$doc->thumbnailUrl = $img->src;				
+					}
+				}				
 
 				// oaj.fupress.net
 				if (!isset($doc->thumbnailUrl))
@@ -691,9 +702,17 @@ function add_meta(&$doc)
 				{
 					$doc->thumbnailUrl = 'http://xbkcflxb.cnjournals.com/xbkcflxb/ch/ext_images/未命名1.jpg';
 				}
-				
-				
-				
+				// https://europeanjournaloftaxonomy.eu/index.php/ejt/article/view/1653
+				if (preg_match('/europeanjournaloftaxonomy/', $doc->url))
+				{
+					$doc->thumbnailUrl = 'https://pbs.twimg.com/profile_images/1233042952236257281/3cZ7IjEE_400x400.jpg';
+				}
+								
+				// https://pubmed.ncbi.nlm.nih.gov/34982242/?utm_source=Mobile%20Safari%20UI/WKWebView&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD&fc=20211108074834&ff=20220106081823&v=2.17.5
+				if (preg_match('/pubmed.ncbi.nlm.nih.gov/', $doc->url))
+				{
+					$doc->thumbnailUrl = 'https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png';
+				}
 			
 			}
 		

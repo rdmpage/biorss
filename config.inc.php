@@ -28,7 +28,7 @@ $config['platform'] = 'local';
 $config['platform'] = 'cloud';
 
 $config['site']		= 'local';
-$config['site']		= 'heroku';
+//$config['site']		= 'heroku';
 
 switch ($config['site'])
 {
@@ -71,6 +71,7 @@ if ($config['platform'] == 'cloud')
 
 
 $config['stale'] = false;
+$config['stale'] = true;
 
 // Twitter--------------------------------------------------------------------------------
 $config['twitter_api_key'] = getenv('TWITTER_BEARER_TOKEN');

@@ -16,9 +16,18 @@ $files = scandir($latest_dir);
 //$files = array('2657-5000.json');
 //$files = array('0035-418X.json');
 
-$files = array('1803-6465.json');
+//$files = array('2107-7207.json');
 
 //$files = array('zoobank-list.json');
+//$files = array('zoobank.json');
+
+//$files = array('zs.json');
+
+// Google Scholar 
+//$files = array('"n. sp." OR "new species" OR "n. gen." OR "sp. nov ... - new results.json');
+//$files = array('new  intitle_"new species" - new results.json');
+
+//$files = array('zxxb.json');
 
 foreach ($files as $filename)
 {

@@ -64,6 +64,16 @@
 		version="RSS" 
 		htmlUrl="https://www.tandfonline.com/toc/tase20/current" 
 		xmlUrl="https://www.tandfonline.com/feed/rss/tase20"/>
+		
+	<outline 
+		text="Acta Zoologica Academiae Scientiarum Hungaricae" 
+		title="Acta Zoologica Academiae Scientiarum Hungaricae" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://ojs.mtak.hu/index.php/actazool/issue/current" 
+		xmlUrl="https://ojs.mtak.hu/index.php/actazool/gateway/plugin/WebFeedGatewayPlugin/rss"/>		
+		
 
 	<!-- feed generates a unique id each time we harvest it! -->
 	<!--
@@ -198,6 +208,16 @@
 		version="RSS" 
 		htmlUrl="https://onlinelibrary.wiley.com/journal/1522239xb" 
 		xmlUrl="https://onlinelibrary.wiley.com/feed/1522239xb/most-recent"/>
+		
+	<outline 
+		text="Fungal Systematics and Evolution" 
+		title="Fungal Systematics and Evolution" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://www.ingentaconnect.com/content/wfbi/fuse" 
+		xmlUrl="https://api.ingentaconnect.com/content/wfbi/fuse/latest?format=rss"/>		
+		
 
 <!-- H -->
 
@@ -264,6 +284,14 @@
 		htmlUrl="https://jhr.pensoft.net/articles" 
 		xmlUrl="https://jhr.pensoft.net/rss.php"/>
 
+		<outline 
+		text="Journal of Orthoptera Research" 
+		title="Journal of Orthoptera Research" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://jor.pensoft.net/articles" 
+		xmlUrl="https://jor.pensoft.net/rss.php"/>
 
 		<outline 
 		text="Journal of Paleontology" 
@@ -285,6 +313,18 @@
 			
 		
 <!-- M -->		
+
+
+	<outline 
+		text="Memoranda Societatis pro Fauna et Flora Fennica" 
+		title="AcMemoranda Societatis pro Fauna et Flora Fennica" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://journal.fi/msff/issue/current" 
+		xmlUrl="https://journal.fi/msff/gateway/plugin/WebFeedGatewayPlugin/rss"/>		
+
+
 
 	<outline 
 		text="Molecular Phylogenetics and Evolution" 
@@ -346,6 +386,15 @@
 		htmlUrl="https://onlinelibrary.wiley.com/toc/17561051/current" 
 		xmlUrl="https://onlinelibrary.wiley.com/action/showFeed?jc=17561051&amp;type=etoc&amp;feed=rss"/>		
 
+		<outline 
+		text="Nota Lepidopterologica" 
+		title="Nota Lepidopterologica" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://nl.pensoft.net/" 
+		xmlUrl="https://nl.pensoft.net/rss"/>
+
 
 	<outline 
 		text="Arbeiten aus Nova Hedwigia" 
@@ -356,6 +405,7 @@
 		htmlUrl="http://www.schweizerbart.de//journals/nova_hedwigia" 
 		xmlUrl="https://www.schweizerbart.de/services/feeds/papers/nova_hedwigia/de/rss.xml"/>		
 
+<!-- O -->	
 
 <!-- P -->	
 
@@ -400,6 +450,16 @@
 		version="RSS" 
 		htmlUrl="https://www.biotaxa.org/Phytotaxa/issue/current" 
 		xmlUrl="https://www.biotaxa.org/Phytotaxa/gateway/plugin/WebFeedGatewayPlugin/rss"/>
+		
+		
+	<outline 
+		text="Plant Diversity" 
+		title="Plant Diversity" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://www.sciencedirect.com/journal/plant-diversity" 
+		xmlUrl="https://rss.sciencedirect.com/publication/science/24682659"/>		
 		
 
 	<outline 
@@ -498,6 +558,16 @@
 		version="RSS" 
 		htmlUrl="https://onlinelibrary.wiley.com/journal/19968175" 
 		xmlUrl="https://onlinelibrary.wiley.com/feed/19968175/most-recent"/>
+		
+	<outline 
+		text="THAI FOREST BULL., BOT." 
+		title="THAI FOREST BULL., BOT." 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://li01.tci-thaijo.org/index.php/ThaiForestBulletin/issue/current" 
+		xmlUrl="https://li01.tci-thaijo.org/index.php/ThaiForestBulletin/gateway/plugin/WebFeedGatewayPlugin/rss"/>		
+		
 
 	<outline 
 		text="Tropical Lepidoptera Research" 

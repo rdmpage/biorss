@@ -180,7 +180,7 @@ function display_search ($query, $callback = '')
 //display_search('Lamb, 1914');
 
 //display_search('novel species coi');
-display_search('Chrysomelidae');
+display_search('Squamata Agamidae');
 
 ?>
 

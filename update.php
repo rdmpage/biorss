@@ -3,6 +3,7 @@
 // Update a record
 
 require_once (dirname(__FILE__) . '/datastore.php');
+require_once (dirname(__FILE__) . '/utils.php');
 
 
 //----------------------------------------------------------------------------------------
@@ -48,10 +49,10 @@ function get($url)
 	return $response;
 }
 
+
 //----------------------------------------------------------------------------------------
-
-
-function encode_image($doc)
+// Encode image
+function x_encode_image($doc)
 {
 	$url = '';
 	
@@ -105,7 +106,6 @@ function encode_image($doc)
 	}
 	return $doc;
 }
-
 
 //----------------------------------------------------------------------------------------
 
@@ -1685,6 +1685,14 @@ $ids=array(
            "urn:lsid:ipni.org:names:77222294-1",
 );
 
+$ids=array(
+//'https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.530.1.8',
+//'https://www.biotaxa.org/Phytotaxa/article/view/phytotaxa.530.1.4',
+
+
+'http://zoobank.org/References/947d88e4-c53d-4631-b6ee-94a4df9f540a',
+);
+
 
 foreach ($ids as $id)
 {
@@ -1694,12 +1702,12 @@ foreach ($ids as $id)
 	
 	print_r($doc);
 	
-	$doc = encode_image($doc);
+	$doc = x_encode_image($doc);
 	
 	//if ($modified)
 	{
 		print_r($doc);
-		store($doc->message, true);
+		//store($doc->message, true);
 	}
 
 }

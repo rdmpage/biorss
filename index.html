@@ -138,6 +138,8 @@ isodate_to_string = function (datestring) {
 			options.day = 'numeric';
 		}
 	}
+	
+	console.log(datestring);
 
 	var d = new Date(datestring);
 	datestring = d.toLocaleString('en-gb', options);

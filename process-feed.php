@@ -51,11 +51,15 @@ function process_feed($dataFeed, $force = false)
 {
 	global $couch;
 	
+	$counter = 1;
+	
 	$n = count($dataFeed->dataFeedElement);
 
 	for ($i = 0; $i < $n; $i++)
 	{
 		$modified = false;
+		
+		//print_r($dataFeedElement);
 
 		// do we have this already?
 		if ($couch->exists($dataFeed->dataFeedElement[$i]->id) && !$force)
@@ -64,6 +68,18 @@ function process_feed($dataFeed, $force = false)
 			$dataFeedElement = $doc->message;
 
 			echo "HAVE IT\n";
+			
+			/*
+			// Give server a break 
+			if (($counter++ % 2) == 0)
+			{
+				$rand = rand(1000000, 3000000);
+				echo "Counter = $counter\n";
+				echo "\n-- ...sleeping for " . round(($rand / 1000000),2) . ' seconds' . "\n\n";
+				usleep($rand);
+			}
+			*/
+			
 		}
 		else
 		{
@@ -90,6 +106,8 @@ function process_feed($dataFeed, $force = false)
 		
 		//print_r($dataFeedElement);
 		
+		// echo json_encode($dataFeedElement);
+		
 		//exit();
 		
 		// image
@@ -106,6 +124,10 @@ function process_feed($dataFeed, $force = false)
 					case 'Annales Botanici Fennici':
 						$dataFeedElement->thumbnailUrl = 'https://bioone.org/ContentImages/journals/anbf/58/4-6/4-6/WebImages/085.058.0400.cover.jpg';
 						break;
+						
+					case 'European Journal of Taxonomy':
+						$dataFeedElement->thumbnailUrl = 'https://pbs.twimg.com/profile_images/1233042952236257281/3cZ7IjEE_400x400.jpg';
+						break;						
 
 					case 'Mycoscience':
 						$dataFeedElement->thumbnailUrl = 'https://www.jstage.jst.go.jp/pub/mycosci/thumbnail/mycosci_62_6.png';
@@ -127,7 +149,7 @@ function process_feed($dataFeed, $force = false)
 			$modified = true;
 		}
 		
-		//print_r($dataFeedElement);
+		print_r($dataFeedElement);
 			
 		
 		if (!isset($dataFeedElement->contentLocation) || $force)
@@ -143,7 +165,7 @@ function process_feed($dataFeed, $force = false)
 			echo "Have already geoparsed\n";
 		}
 		
-				
+		
 		if (!isset($dataFeedElement->classification) || $force)
 		{
 			echo "Classifying\n";
@@ -156,6 +178,7 @@ function process_feed($dataFeed, $force = false)
 		{
 			echo "Have already added taxa\n";
 		}
+		
 
 		if (!$dataFeedElement)
 		{
@@ -167,8 +190,18 @@ function process_feed($dataFeed, $force = false)
 		// exit();
 
 		if ($modified)
-		{
+		{		
 			store($dataFeedElement);
+			
+			// Give server a break 
+			if (($counter++ % 2) == 0)
+			{				
+				$rand = rand(1000000, 3000000);
+				echo "Counter = $counter\n";
+				echo "\n-- ...sleeping for " . round(($rand / 1000000),2) . ' seconds' . "\n\n";
+				usleep($rand);
+			}
+					
 		}
 	}
 }

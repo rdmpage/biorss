@@ -57,6 +57,7 @@ function add_to_item(&$item, $key, $value)
 		case 'endpage':
 		case 'endingPage':
 		case 'end_page':
+		case 'epage':
 			$item->pageEnd = $value;
 			$item->pageEnd = preg_replace('/^0/', '', $item->pageEnd);
 			break;	
@@ -112,6 +113,7 @@ function add_to_item(&$item, $key, $value)
 		case 'startpage':
 		case 'startingPage':
 		case 'start_page':
+		case 'spage':
 			$item->pageStart = $value;
 			$item->pageStart = preg_replace('/^0/', '', $item->pageStart);
 			break;

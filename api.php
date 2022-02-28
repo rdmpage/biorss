@@ -34,6 +34,11 @@ function display_feed ($country, $path, $format= 'json', $callback = '')
 		. '&descending=true'
 		. '&limit=100'
 		;
+		
+	if ($config['stale'])
+	{
+		$url .= '&stale=ok';
+	}			
 	
 	$resp = $couch->send("GET", "/" . $config['couchdb_options']['database'] . "/" . $url);
 
@@ -113,6 +118,11 @@ function display_treemap ($path, $callback = '')
 	$url = '_design/key/_view/classification?startkey=' . urlencode(json_encode($startkey))
 		. '&endkey=' .  urlencode(json_encode($endkey))
 		. '&group_level=' . ($level + 2);
+		
+	if ($config['stale'])
+	{
+		$url .= '&stale=ok';
+	}			
 	
 	$resp = $couch->send("GET", "/" . $config['couchdb_options']['database'] . "/" . $url);
 
