@@ -638,6 +638,17 @@ function add_meta(&$doc)
 					}
 				}	
 				
+				// AEMNP
+				// http://dx.doi.org/10.37520/aemnp.2021.020
+				if (!isset($doc->thumbnailUrl))
+				{
+					// AEMNP
+					foreach ($dom->find('div[class=articleRightSideTop] a img') as $img)	
+					{
+						$doc->thumbnailUrl = $img->src;				
+					}
+				}	
+
 				/*
 				if (!isset($doc->thumbnailUrl))
 				{
