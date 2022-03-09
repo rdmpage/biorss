@@ -71,7 +71,7 @@ if ($config['platform'] == 'cloud')
 
 
 $config['stale'] = false;
-$config['stale'] = true;
+//$config['stale'] = true;
 
 // Twitter--------------------------------------------------------------------------------
 $config['twitter_api_key'] = getenv('TWITTER_BEARER_TOKEN');
