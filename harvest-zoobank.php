@@ -42,6 +42,7 @@ $url = 'http://zoobank.org/rss/rss.xml';
 $url = 'http://rss.zoobank.org';
 
 $force = false;
+//$force = true;
 
 $clean_filename = $url;
 $clean_filename = preg_replace('/https?:\/\/(www\.)?/', '', $clean_filename);
@@ -50,7 +51,14 @@ $clean_filename = preg_replace('/\?(.*)$/', '', $clean_filename);
 $clean_filename = preg_replace('/\.xml$/', '', $clean_filename);
 
 //$data = null;
-$rss = conditional_get($url, $data);
+if ($force)
+{
+	$rss = get($url);
+}
+else
+{
+	$rss = conditional_get($url, $data);
+}
 
 // update feed status
 file_put_contents($feed_history_filename, json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE));
