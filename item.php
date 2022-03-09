@@ -94,6 +94,7 @@ function add_to_item(&$item, $key, $value)
 			break;
 						
 		case 'citation_date':
+		case 'MetadataOnlineDate':
 		case 'publicationDate':
 		case 'Publication date':
 		case 'PublishDate':
