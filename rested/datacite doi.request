@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>baseURL</key>
-	<string>https://api.crossref.org/works</string>
+	<string>https://api.datacite.org/dois/10.25664/art-0321</string>
 	<key>followRedirect</key>
 	<true/>
 	<key>handleJSONPCallbacks</key>
@@ -17,16 +17,7 @@
 	<key>paramBodyUIChoice</key>
 	<integer>0</integer>
 	<key>parameters</key>
-	<array>
-		<dict>
-			<key>inUse</key>
-			<true/>
-			<key>parameter</key>
-			<string>filter</string>
-			<key>value</key>
-			<string>issn:0003-3847,from-pub-date:2021-10-01</string>
-		</dict>
-	</array>
+	<array/>
 	<key>parametersType</key>
 	<integer>0</integer>
 	<key>presentBeforeChallenge</key>

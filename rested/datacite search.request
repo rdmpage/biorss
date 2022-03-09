@@ -3,22 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>baseURL</key>
-	<string>http://beta.ipni.org/api/1/search</string>
+	<string>https://api.datacite.org/dois</string>
 	<key>followRedirect</key>
 	<true/>
 	<key>handleJSONPCallbacks</key>
 	<false/>
 	<key>headers</key>
-	<array>
-		<dict>
-			<key>header</key>
-			<string>Accept</string>
-			<key>inUse</key>
-			<true/>
-			<key>value</key>
-			<string>application/json</string>
-		</dict>
-	</array>
+	<array/>
 	<key>httpMethod</key>
 	<string>GET</string>
 	<key>jsonpScript</key>
@@ -31,25 +22,33 @@
 			<key>inUse</key>
 			<false/>
 			<key>parameter</key>
-			<string>q</string>
+			<string>query</string>
 			<key>value</key>
-			<string>Fagaceae</string>
+			<string>container.title:Raffles Bulletin of Zoology</string>
 		</dict>
 		<dict>
 			<key>inUse</key>
 			<true/>
 			<key>parameter</key>
-			<string>f</string>
+			<string>query</string>
 			<key>value</key>
-			<string>f_familial,f_infrafamilial,f_generic,f_specific</string>
+			<string>relatedIdentifiers.relatedIdentifier:2224-6304</string>
 		</dict>
 		<dict>
 			<key>inUse</key>
 			<true/>
 			<key>parameter</key>
-			<string>sort</string>
+			<string>registered</string>
 			<key>value</key>
-			<string>published_desc</string>
+			<string>2021</string>
+		</dict>
+		<dict>
+			<key>inUse</key>
+			<true/>
+			<key>parameter</key>
+			<string>page[size]</string>
+			<key>value</key>
+			<string>50</string>
 		</dict>
 	</array>
 	<key>parametersType</key>

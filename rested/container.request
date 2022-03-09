@@ -3,22 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>baseURL</key>
-	<string>http://beta.ipni.org/api/1/search</string>
+	<string>http://34.65.247.244:5984/biorss/_design/key/_view/container</string>
 	<key>followRedirect</key>
 	<true/>
 	<key>handleJSONPCallbacks</key>
 	<false/>
 	<key>headers</key>
-	<array>
-		<dict>
-			<key>header</key>
-			<string>Accept</string>
-			<key>inUse</key>
-			<true/>
-			<key>value</key>
-			<string>application/json</string>
-		</dict>
-	</array>
+	<array/>
 	<key>httpMethod</key>
 	<string>GET</string>
 	<key>jsonpScript</key>
@@ -29,27 +20,19 @@
 	<array>
 		<dict>
 			<key>inUse</key>
-			<false/>
+			<true/>
 			<key>parameter</key>
-			<string>q</string>
+			<string>key</string>
 			<key>value</key>
-			<string>Fagaceae</string>
+			<string>"Israel Journal of Entomology"</string>
 		</dict>
 		<dict>
 			<key>inUse</key>
 			<true/>
 			<key>parameter</key>
-			<string>f</string>
+			<string>reduce</string>
 			<key>value</key>
-			<string>f_familial,f_infrafamilial,f_generic,f_specific</string>
-		</dict>
-		<dict>
-			<key>inUse</key>
-			<true/>
-			<key>parameter</key>
-			<string>sort</string>
-			<key>value</key>
-			<string>published_desc</string>
+			<string>false</string>
 		</dict>
 	</array>
 	<key>parametersType</key>
@@ -58,6 +41,8 @@
 	<false/>
 	<key>stringEncoding</key>
 	<integer>4</integer>
+	<key>username</key>
+	<string>admin</string>
 	<key>usingHTTPBody</key>
 	<false/>
 </dict>
