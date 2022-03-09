@@ -77,7 +77,7 @@ symlink($cache_dir, $latest_dir);
 $feed_timestamp = time() - (60 * 60 * 24 * 30 * 3);
 
 // one month ago
-//$feed_timestamp = time() - (60 * 60 * 24 * 30);
+$feed_timestamp = time() - (60 * 60 * 24 * 30);
 
 // one week ago
 //$feed_timestamp = time() - (60 * 60 * 24 * 7);
@@ -85,25 +85,54 @@ $feed_timestamp = time() - (60 * 60 * 24 * 30 * 3);
 // today
 //$feed_timestamp = time();
 
+// one year
+$feed_timestamp = time() - (60 * 60 * 24 * 365);
+
+//$feed_timestamp = time() - (60 * 60 * 24 * 600);
+
 
 $issns = array(
 	'2107-7207' => 'Acarologia', 
-	//'0003-3847' => 'Annales Botanici Fennici',  // BioOne
-	//'1572-9699' => 'Antonie van Leeuwenhoek', // Springer
-	//'0010-065X' => 'The Coleopterists Bulletin', // BioOne
-	//'1875-9866' => 'Contributions to Zoology', // Brill
-	//'1803-6465' => 'Folia Parasitologica',
-	//'1878-9129' => 'Fungal Diversity', // Springer
+	'0003-3847' => 'Annales Botanici Fennici',  // BioOne
+	'1572-9699' => 'Antonie van Leeuwenhoek', // Springer
 	
-	//'0022-1511' => 'Journal of Herpetology', // BioOne
+	'1814-3326'	=> 'Caucasian Entomological Bulletin',	
+	'0010-065X' => 'The Coleopterists Bulletin', // BioOne
+	'1875-9866' => 'Contributions to Zoology', // Brill
 	
-	//'1874-933X' => 'Kew Bulletin', // Springer
-	//'1861-8952' => 'Mycological Progress', // Springer
-	//'2657-5000' => 'Plant and Fungal Systematics',
-	//'0035-418X' => 'Revue suisse de Zoologie', // BioOne
-	//'1573-5192' => 'Systematic Parasitology', // Springer
-	//'0002-8320' => 'Transactions of the American Entomological Society',  // BioOne
+	'2601-7105' => 'Entomologica Romanica', 
+	
+	'1803-6465' => 'Folia Parasitologica',
+	'1878-9129' => 'Fungal Diversity', // Springer
+	
+	'2159-6719' => 'International Journal of Odonatology', // Springer
+	
+	'0022-1511' => 'Journal of Herpetology', // BioOne
+	
+	'1874-933X' => 'Kew Bulletin', // Springer
+	
+	'1861-8952' => 'Mycological Progress', // Springer
+	
+	'2657-5000' => 'Plant and Fungal Systematics',
+	'1615-6110' => 'Plant Systematics and Evolution', // Springer
+
+	
+	'0035-418X' => 'Revue suisse de Zoologie', // BioOne
+	
+	'1573-5192' => 'Systematic Parasitology', // Springer
+	
+	'2211-9434' => 'Tijdschrift voor Entomologie', // Brill
+	'0002-8320' => 'Transactions of the American Entomological Society',  // BioOne
 );
+
+
+$issns = array(
+	//'2159-6719' => 'International Journal of Odonatology', // Wachholtz Verlag
+	
+	'1804-6487' => 'Acta Entomologica Musei Nationalis Pragae', 
+);
+
+
 
 foreach ($issns as $issn => $journal)
 {
@@ -111,6 +140,15 @@ foreach ($issns as $issn => $journal)
 	$parameters = array(
 		'filter' 		=> 'issn:' . $issn . ',from-pub-date:' . date("Y-m-H", $feed_timestamp)
 		);
+		
+	if ($issn == '1814-3326')
+	{
+		// dates don't have months or days
+	$parameters = array(
+		'filter' 		=> 'issn:' . $issn . ',from-pub-date:' . date("Y", $feed_timestamp)
+		);
+	
+	}
 	
 	$url = 'https://api.crossref.org/works?' . http_build_query($parameters);
 	
