@@ -230,6 +230,17 @@
 		htmlUrl="https://www.thebhs.org/publications/the-herpetological-journal" 
 		xmlUrl="https://www.thebhs.org/publications/the-herpetological-journal?format=rss"/>
 
+		
+	<outline 
+		text="Historia naturalis bulgarica" 
+		title="Historia naturalis bulgarica" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://www.nmnhs.com/historia-naturalis-bulgarica/" 
+		xmlUrl="https://www.nmnhs.com/historia-naturalis-bulgarica/assets/f_atom.php"/>
+		
+
 	
 <!-- I -->	
 
