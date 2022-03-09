@@ -69,17 +69,6 @@ function process_feed($dataFeed, $force = false)
 
 			echo "HAVE IT\n";
 			
-			/*
-			// Give server a break 
-			if (($counter++ % 2) == 0)
-			{
-				$rand = rand(1000000, 3000000);
-				echo "Counter = $counter\n";
-				echo "\n-- ...sleeping for " . round(($rand / 1000000),2) . ' seconds' . "\n\n";
-				usleep($rand);
-			}
-			*/
-			
 		}
 		else
 		{
@@ -194,7 +183,7 @@ function process_feed($dataFeed, $force = false)
 			store($dataFeedElement);
 			
 			// Give server a break 
-			if (($counter++ % 2) == 0)
+			if (($counter++ % 10) == 0)
 			{				
 				$rand = rand(1000000, 3000000);
 				echo "Counter = $counter\n";
