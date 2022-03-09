@@ -97,7 +97,9 @@ class CouchSimple
     	
 		if (curl_errno ($ch) != 0 )
 		{
-			echo "CURL error: ", curl_errno ($ch), " ", curl_error($ch);
+			echo "CURL error: ", curl_errno ($ch), " ", curl_error($ch) . "\n";
+			echo __FILE__ . ' ' . __LINE__ . "\n";
+			exit();
 		}
     		
    		return $response;
