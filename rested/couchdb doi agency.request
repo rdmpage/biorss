@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>baseURL</key>
-	<string>https://api.datacite.org/dois/10.20363/bzb-2019.68.2.183</string>
+	<string>http://34.65.99.205:5984/biorss/_design/key/_view/doi_agency</string>
 	<key>followRedirect</key>
-	<true/>
+	<false/>
 	<key>handleJSONPCallbacks</key>
 	<false/>
 	<key>headers</key>
@@ -17,13 +17,32 @@
 	<key>paramBodyUIChoice</key>
 	<integer>0</integer>
 	<key>parameters</key>
-	<array/>
+	<array>
+		<dict>
+			<key>inUse</key>
+			<true/>
+			<key>parameter</key>
+			<string>key</string>
+			<key>value</key>
+			<string>"CNKI"</string>
+		</dict>
+		<dict>
+			<key>inUse</key>
+			<false/>
+			<key>parameter</key>
+			<string>key</string>
+			<key>value</key>
+			<string>""</string>
+		</dict>
+	</array>
 	<key>parametersType</key>
 	<integer>0</integer>
 	<key>presentBeforeChallenge</key>
 	<false/>
 	<key>stringEncoding</key>
 	<integer>4</integer>
+	<key>username</key>
+	<string>admin</string>
 	<key>usingHTTPBody</key>
 	<false/>
 </dict>

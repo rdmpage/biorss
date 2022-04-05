@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>baseURL</key>
-	<string>https://api.datacite.org/dois</string>
+	<string>https://zenodo.org/api/records</string>
 	<key>followRedirect</key>
 	<true/>
 	<key>handleJSONPCallbacks</key>
@@ -20,43 +20,43 @@
 	<array>
 		<dict>
 			<key>inUse</key>
+			<true/>
+			<key>parameter</key>
+			<string>page</string>
+			<key>value</key>
+			<string>1</string>
+		</dict>
+		<dict>
+			<key>inUse</key>
 			<false/>
 			<key>parameter</key>
-			<string>query</string>
+			<string>q</string>
 			<key>value</key>
-			<string>container.title:Raffles Bulletin of Zoology</string>
+			<string>"Raffles Bulletin of Zoology"</string>
 		</dict>
 		<dict>
 			<key>inUse</key>
 			<true/>
 			<key>parameter</key>
-			<string>query</string>
+			<string>size</string>
 			<key>value</key>
-			<string>relatedIdentifiers.relatedIdentifier:2224-6304</string>
+			<string>100</string>
 		</dict>
 		<dict>
 			<key>inUse</key>
 			<false/>
 			<key>parameter</key>
-			<string>query</string>
+			<string>q</string>
 			<key>value</key>
-			<string>relatedIdentifiers.relatedIdentifier:2190–7307</string>
-		</dict>
-		<dict>
-			<key>inUse</key>
-			<false/>
-			<key>parameter</key>
-			<string>registered</string>
-			<key>value</key>
-			<string>2021</string>
+			<string>"Cahiers de Biologie Marine"</string>
 		</dict>
 		<dict>
 			<key>inUse</key>
 			<true/>
 			<key>parameter</key>
-			<string>page[size]</string>
+			<string>q</string>
 			<key>value</key>
-			<string>1000</string>
+			<string>"Acta Entomologica Silesiana"</string>
 		</dict>
 	</array>
 	<key>parametersType</key>

@@ -3,13 +3,38 @@
 <plist version="1.0">
 <dict>
 	<key>baseURL</key>
-	<string>https://api.datacite.org/dois/10.20363/bzb-2019.68.2.183</string>
+	<string>https://zenodo.org/api/records/1194617</string>
 	<key>followRedirect</key>
 	<true/>
 	<key>handleJSONPCallbacks</key>
 	<false/>
 	<key>headers</key>
-	<array/>
+	<array>
+		<dict>
+			<key>header</key>
+			<string>Accept</string>
+			<key>inUse</key>
+			<false/>
+			<key>value</key>
+			<string>application/json</string>
+		</dict>
+		<dict>
+			<key>header</key>
+			<string>Accept</string>
+			<key>inUse</key>
+			<true/>
+			<key>value</key>
+			<string>application/vnd.zenodo.v1+json</string>
+		</dict>
+		<dict>
+			<key>header</key>
+			<string>Accept</string>
+			<key>inUse</key>
+			<false/>
+			<key>value</key>
+			<string>vnd.citationstyles.csl+json</string>
+		</dict>
+	</array>
 	<key>httpMethod</key>
 	<string>GET</string>
 	<key>jsonpScript</key>
