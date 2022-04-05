@@ -61,6 +61,9 @@
     },
     "doi_export": {
       "map": "function get_doi(doc) {\n  var doi = '';\n  if (doc.message.item.doi) {\n    doi = doc.message.item.doi;\n  }\n  return doi;\n}\n\nfunction (doc) {\n  var doi = get_doi(doc);\n  if (doi !== '') {\n    emit(null, doi);\n  }\n}"
+    },
+    "doi_agency": {
+      "map": "function (doc) {\n  if (doc.message.item.doi_agency) {\n    emit(doc.message.item.doi_agency, doc.message.item.doi);\n  }\n}"
     }
   },
   "language": "javascript"
