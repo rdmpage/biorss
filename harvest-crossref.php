@@ -93,6 +93,7 @@ $feed_timestamp = time() - (60 * 60 * 24 * 365);
 
 $issns = array(
 	'2107-7207' => 'Acarologia', 
+	'1804-6487' => 'Acta Entomologica Musei Nationalis Pragae', 
 	'0003-3847' => 'Annales Botanici Fennici',  // BioOne
 	'1572-9699' => 'Antonie van Leeuwenhoek', // Springer
 	
@@ -125,14 +126,12 @@ $issns = array(
 	'0002-8320' => 'Transactions of the American Entomological Society',  // BioOne
 );
 
-
+/*
 $issns = array(
-	//'2159-6719' => 'International Journal of Odonatology', // Wachholtz Verlag
-	
-	'1804-6487' => 'Acta Entomologica Musei Nationalis Pragae', 
+	//'2159-6719' => 'International Journal of Odonatology', // Wachholtz Verlag	
+	//'1804-6487' => 'Acta Entomologica Musei Nationalis Pragae', 
 );
-
-
+*/
 
 foreach ($issns as $issn => $journal)
 {

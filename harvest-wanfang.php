@@ -221,7 +221,28 @@ $journal->num_issues				= 2;
 $journal->num_articles_per_issue 	= 20;
 $journal->article_ids				= array();
 
+//$periodicals[] = $journal;
+
+$journal = new stdclass;
+$journal->name 						= 'Zoological Systematics';
+$journal->code 						= 'dwfl';
+$journal->num_issues				= 4;
+$journal->num_articles_per_issue 	= 20;
+$journal->article_ids				= array();
+
 $periodicals[] = $journal;
+
+/*
+// Mycosystema - doesn't work
+$journal = new stdclass;
+$journal->name 						= 'Mycosystema';
+$journal->code 						= 'jwxt';
+$journal->num_issues				= 12;
+$journal->num_articles_per_issue 	= 30;
+$journal->article_ids				= array();
+
+$periodicals[] = $journal;
+*/
 
 
 $latest_dir = $config['cache'] . '/latest';
@@ -243,7 +264,11 @@ foreach ($periodicals as $journal)
 	
 			$journal->article_ids[] = $article_id;
 		}
-	}		
+	}	
+	
+	//print_r($journal->article_ids);
+	
+	//exit();
 
 	// fetch metadata
 	foreach ($journal->article_ids as $id)
@@ -292,7 +317,7 @@ foreach ($periodicals as $journal)
 				$dataFeedElement->item = new stdclass;
 				//$dataFeedElement->item->{'@type'} = "CreativeWork";
 							
-				if (isset($item->DOI))
+				if (isset($item->DOI) && ($item->DOI != '') && ($item->DOI != null))
 				{
 					add_to_item($dataFeedElement->item, 'doi', $item->DOI);
 					$dataFeedElement->item->id = 'https://doi.org/' . $dataFeedElement->item->doi;
@@ -309,7 +334,8 @@ foreach ($periodicals as $journal)
 						case 'Issue':
 						case 'Page':
 						case 'PeriodicalTitle':
-						case 'PublishDate':
+						//case 'PublishDate':
+						case 'MetadataOnlineDate':
 						case 'Volum':
 						case 'Title':
 							add_to_item($dataFeedElement->item, $k, $v);

@@ -81,7 +81,7 @@ $feed_timestamp = time() - (60 * 60 * 24 * 30);
 $feed_timestamp = time() - (60 * 60 * 24 * 7);
 
 // today
-$feed_timestamp = time();
+//$feed_timestamp = time();
 
 
 // query IF for records modified within this time period

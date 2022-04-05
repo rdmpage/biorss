@@ -82,7 +82,7 @@ symlink($cache_dir, $latest_dir);
 
 //----------------------------------------------------------------------------------------
 
-$year = 2021;
+$year = 2022;
 
 $publishers = array(
 	'Naturhistorisches Museum Bern',
