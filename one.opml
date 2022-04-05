@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.1">
+	<head>
+		<title>Feeds</title>
+	</head>
+<body>
+
+<!-- D -->
+
+<!--
+	<outline 
+		text="Dugesiana" 
+		title="Dugesiana" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="http://dugesiana.cucba.udg.mx/index.php/DUG/issue/current" 
+		xmlUrl="http://dugesiana.cucba.udg.mx/index.php/DUG/gateway/plugin/WebFeedGatewayPlugin/rss"/>
+
+-->
+
+<!--
+	<outline 
+		text="Journal of Hymenoptera Research" 
+		title="Journal of Hymenoptera Research" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://jhr.pensoft.net/articles" 
+		xmlUrl="https://jhr.pensoft.net/rss.php"/>
+		
+-->
+
+<!--
+	<outline 
+		text="Acta Herpetologica" 
+		title="Acta Herpetologica" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://oaj.fupress.net/index.php/ah/issue/current" 
+		xmlUrl="https://oaj.fupress.net/index.php/ah/gateway/plugin/WebFeedGatewayPlugin/rss"/>
+
+-->
+<!--
+	<outline 
+		text="Webbia" 
+		title="Webbia" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://oaj.fupress.net/index.php/webbia/issue/current" 
+		xmlUrl="https://oaj.fupress.net/index.php/webbia/gateway/plugin/WebFeedGatewayPlugin/rss"/>
+-->
+<!--
+	<outline 
+		text="Rostaniha" 
+		title="Rostaniha" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://rostaniha.areeo.ac.ir" 
+		xmlUrl="https://rostaniha.areeo.ac.ir/ju.rss"/>
+-->
+
+<!--
+	<outline 
+		text="Entomotaxonomia" 
+		title="Entomotaxonomia" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="http://xbkcflxb.cnjournals.com/xbkcflxb/ch/index.aspx" 
+		xmlUrl="http://xbkcflxb.cnjournals.com/xbkcflxb/ch/reader/current.aspx"/>
+-->
+
+<!--
+	<outline 
+		text="Plant Diversity" 
+		title="Plant Diversity" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://www.sciencedirect.com/journal/plant-diversity" 
+		xmlUrl="https://rss.sciencedirect.com/publication/science/24682659"/>		
+
+-->
+
+<!--
+	<outline 
+		text="Fungal Systematics and Evolution" 
+		title="Fungal Systematics and Evolution" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://www.ingentaconnect.com/content/wfbi/fuse" 
+		xmlUrl="https://api.ingentaconnect.com/content/wfbi/fuse/latest?format=rss"/>		
+
+-->
+<!--
+		<outline 
+		text="Journal of Orthoptera Research" 
+		title="Journal of Orthoptera Research" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://jor.pensoft.net/articles" 
+		xmlUrl="https://jor.pensoft.net/rss.php"/>
+-->
+<!--
+	<outline 
+		text="Acta Zoologica Academiae Scientiarum Hungaricae" 
+		title="Acta Zoologica Academiae Scientiarum Hungaricae" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://ojs.mtak.hu/index.php/actazool/issue/current" 
+		xmlUrl="https://ojs.mtak.hu/index.php/actazool/gateway/plugin/WebFeedGatewayPlugin/rss"/>		
+-->
+
+<!--
+	<outline 
+		text="Memoranda Societatis pro Fauna et Flora Fennica" 
+		title="Memoranda Societatis pro Fauna et Flora Fennica" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://journal.fi/msff/issue/current" 
+		xmlUrl="https://journal.fi/msff/gateway/plugin/WebFeedGatewayPlugin/rss"/>		
+-->
+
+<!--
+	<outline 
+		text="THAI FOREST BULL., BOT." 
+		title="THAI FOREST BULL., BOT." 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://li01.tci-thaijo.org/index.php/ThaiForestBulletin/issue/current" 
+		xmlUrl="https://li01.tci-thaijo.org/index.php/ThaiForestBulletin/gateway/plugin/WebFeedGatewayPlugin/rss"/>		
+
+-->
+
+
+<!--
+		<outline 
+		text="Nota Lepidopterologica" 
+		title="Nota Lepidopterologica" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://nl.pensoft.net/" 
+		xmlUrl="https://nl.pensoft.net/rss"/>
+-->
+
+<!--
+	<outline 
+		text="Travaux du Muséum National d’Histoire Naturelle Grigore Antipa" 
+		title="Travaux du Muséum National d’Histoire Naturelle Grigore Antipa" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://travaux.pensoft.net/" 
+		xmlUrl="https://travaux.pensoft.net/rss"/>
+		-->
+		
+		<!--
+	<outline 
+		text="Historia naturalis bulgarica" 
+		title="Historia naturalis bulgarica" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://www.nmnhs.com/historia-naturalis-bulgarica/" 
+		xmlUrl="https://www.nmnhs.com/historia-naturalis-bulgarica/assets/f_atom.php"/>
+		-->
+		
+<!--		
+	<outline 
+		text="Entomologist's Monthly Magazine" 
+		title="Entomologist's Monthly Magazine" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://www.ingentaconnect.com/content/pemberley/emm" 
+		xmlUrl="https://api.ingentaconnect.com/content/pemberley/emm/latest?format=rss"/>
+
+-->
+
+	<outline 
+		text="Euscorpius" 
+		title="Euscorpius" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://mds.marshall.edu/euscorpius/" 
+		xmlUrl="https://mds.marshall.edu/euscorpius/recent.rss"/>
+
+	
+	</body>
+</opml>

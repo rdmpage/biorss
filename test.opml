@@ -167,7 +167,7 @@
 		version="RSS" 
 		htmlUrl="http://et-online.nu/index.php/contents/issue/current" 
 		xmlUrl="http://et-online.nu/index.php/contents/gateway/plugin/WebFeedGatewayPlugin/atom"/>
-
+		
 	<outline 
 		text="Entomotaxonomia" 
 		title="Entomotaxonomia" 
@@ -196,6 +196,15 @@
 		version="RSS" 
 		htmlUrl="https://europeanjournaloftaxonomy.eu/index.php/ejt" 
 		xmlUrl="https://europeanjournaloftaxonomy.eu/index.php/ejt/gateway/plugin/WebFeedGatewayPlugin/rss"/>
+	
+	<outline 
+		text="Euscorpius" 
+		title="Euscorpius" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://mds.marshall.edu/euscorpius/" 
+		xmlUrl="https://mds.marshall.edu/euscorpius/recent.rss"/>
 	
 	
 <!-- F -->
