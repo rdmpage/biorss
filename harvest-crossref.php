@@ -80,13 +80,13 @@ $feed_timestamp = time() - (60 * 60 * 24 * 30 * 3);
 $feed_timestamp = time() - (60 * 60 * 24 * 30);
 
 // one week ago
-//$feed_timestamp = time() - (60 * 60 * 24 * 7);
+$feed_timestamp = time() - (60 * 60 * 24 * 7);
 
 // today
 //$feed_timestamp = time();
 
 // one year
-$feed_timestamp = time() - (60 * 60 * 24 * 365);
+//$feed_timestamp = time() - (60 * 60 * 24 * 365);
 
 //$feed_timestamp = time() - (60 * 60 * 24 * 600);
 

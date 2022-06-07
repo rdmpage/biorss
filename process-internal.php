@@ -14,7 +14,7 @@ $files = scandir($latest_dir);
 //$files = array('ipni.json');
 //$files = array('0003-3847.json');
 //$files = array('2657-5000.json');
-//$files = array('0035-418X.json');
+//$files = array('1804-6487.json');
 
 //$files = array('2107-7207.json');
 
@@ -22,6 +22,8 @@ $files = scandir($latest_dir);
 //$files = array('zoobank.json');
 
 //$files = array('zs.json');
+
+//$files = array('extras.json');
 
 // Google Scholar 
 //$files = array('"n. sp." OR "new species" OR "n. gen." OR "sp. nov ... - new results.json');

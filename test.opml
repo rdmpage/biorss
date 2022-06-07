@@ -53,6 +53,15 @@
 		version="RSS" 
 		htmlUrl="https://www.tandfonline.com/toc/ther20/current" 
 		xmlUrl="https://www.tandfonline.com/feed/rss/ther20"/>		
+
+	<outline 
+		text="Ameghiniana" 
+		title="Ameghiniana" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://www.ameghiniana.org.ar/index.php/ameghiniana/issue/current" 
+		xmlUrl="https://www.ameghiniana.org.ar/index.php/ameghiniana/gateway/plugin/WebFeedGatewayPlugin/rss"/>		
 		
 		
 	<!-- Annales de la Société entomologique de France (N.S.) -->
@@ -167,7 +176,8 @@
 		version="RSS" 
 		htmlUrl="http://et-online.nu/index.php/contents/issue/current" 
 		xmlUrl="http://et-online.nu/index.php/contents/gateway/plugin/WebFeedGatewayPlugin/atom"/>
-		
+
+<!--
 	<outline 
 		text="Entomotaxonomia" 
 		title="Entomotaxonomia" 
@@ -176,7 +186,7 @@
 		version="RSS" 
 		htmlUrl="http://xbkcflxb.cnjournals.com/xbkcflxb/ch/index.aspx" 
 		xmlUrl="http://xbkcflxb.cnjournals.com/xbkcflxb/ch/reader/current.aspx"/>
-
+-->
 
 	<outline 
 		text="European Journal of Protistology" 

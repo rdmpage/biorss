@@ -1,15 +1,11 @@
 {
-    "http://rss.zoobank.org": {
-        "etag": "\"9710733fd33fd81:0\"",
-        "modified": "Thu, 24 Mar 2022 23:02:34 GMT"
-    },
     "https://www.jstage.jst.go.jp/AF05S010NewRssDld?btnaction=JT0041&sryCd=asjaa&rssLang=en": {},
     "http://africaninvertebrates.pensoft.net/rss.php": {},
     "https://www.tandfonline.com/feed/rss/ther20": {
-        "modified": "Wed, 23 Mar 2022 10:14:23 GMT"
+        "modified": "Tue, 10 May 2022 09:54:58 GMT"
     },
     "https://www.tandfonline.com/feed/rss/tase20": {
-        "modified": "Mon, 14 Mar 2022 16:08:01 GMT"
+        "modified": "Thu, 19 May 2022 10:10:02 GMT"
     },
     "https://www.cambridge.org/core/rss/product/id/2DD17A42E6E59026C256A7EBBDB96645": {},
     "https://www.contributions-to-entomology.org/gateway/plugin/WebFeedGatewayPlugin/atom": {},
@@ -17,48 +13,48 @@
     "https://journals.rbge.org.uk/ejb/gateway/plugin/WebFeedGatewayPlugin/rss": {},
     "http://et-online.nu/index.php/contents/gateway/plugin/WebFeedGatewayPlugin/atom": {},
     "https://rss.sciencedirect.com/publication/science/09324739": {
-        "etag": "W/\"9e6213d848c5da4453b5b11c550f1192\"",
-        "modified": "Wed, 30 Mar 2022 09:03:08 GMT"
+        "etag": "W/\"06b2c4efc803ba4f22276c2c553461fe\"",
+        "modified": "Mon, 23 May 2022 09:03:00 GMT"
     },
     "https://europeanjournaloftaxonomy.eu/index.php/ejt/gateway/plugin/WebFeedGatewayPlugin/rss": {},
     "https://onlinelibrary.wiley.com/feed/1522239xb/most-recent": {
-        "modified": "Wed, 30 Mar 2022 16:16:29 GMT"
+        "modified": "Wed, 04 May 2022 07:41:36 GMT"
     },
     "https://www.thebhs.org/publications/the-herpetological-journal?format=rss": {
-        "modified": "Wed, 30 Mar 2022 18:50:31 GMT"
+        "modified": "Tue, 24 May 2022 08:46:36 GMT"
     },
     "https://journals.flvc.org/mundi/gateway/plugin/WebFeedGatewayPlugin/rss": {},
     "https://academic.oup.com/rss/site_5595/3451.xml": {
-        "etag": "\"b9e242caf439d81:0\"",
-        "modified": "Thu, 17 Mar 2022 11:47:33 GMT"
+        "etag": "\"69765b3ba36ed81:0\"",
+        "modified": "Mon, 23 May 2022 12:47:16 GMT"
     },
     "https://www.microbiologyresearch.org/rss/content/journal/ijsem/latestarticles?fmt=rss": {},
     "http://www.publish.csiro.au/RSS_Feed/CSIRO_Publishing_Recent_IS.xml": {
-        "etag": "\"878c4ec9843d81:0\"",
-        "modified": "Tue, 29 Mar 2022 18:15:08 GMT"
+        "etag": "\"f1affd3f106ed81:0\"",
+        "modified": "Sun, 22 May 2022 19:15:07 GMT"
     },
     "https://www.cambridge.org/core/rss/product/id/56B1B6F705BBEC4F8958383925A06535": {},
     "https://threatenedtaxa.org/index.php/JoTT/gateway/plugin/WebFeedGatewayPlugin/rss": {},
     "https://rss.sciencedirect.com/publication/science/10557903": {
-        "etag": "W/\"e7854e7461decb9bc425def78f928389\"",
-        "modified": "Wed, 30 Mar 2022 09:15:06 GMT"
+        "etag": "W/\"7b6b2ec7549615717c11f59dcbe5d701\"",
+        "modified": "Mon, 23 May 2022 09:15:24 GMT"
     },
     "http://mycokeys.pensoft.net/rss.php": {},
     "https://www.tandfonline.com/feed/rss/umyc20": {
-        "modified": "Tue, 29 Mar 2022 10:16:02 GMT"
+        "modified": "Wed, 18 May 2022 17:03:49 GMT"
     },
     "https://www.jstage.jst.go.jp/AF05S010NewRssDld?btnaction=JT0041&sryCd=mycosci&rssLang=en": {},
     "https://api.ingentaconnect.com/content/mtax/mt/latest?format=rss": {
-        "etag": "\"774f-5d8567b0876f2\"",
-        "modified": "Sat, 19 Feb 2022 03:20:26 GMT"
+        "etag": "\"5b74-5de7779109e13\"",
+        "modified": "Sun, 08 May 2022 03:13:17 GMT"
     },
     "https://onlinelibrary.wiley.com/action/showFeed?jc=17561051&type=etoc&feed=rss": {
-        "modified": "Wed, 30 Mar 2022 15:55:49 GMT"
+        "modified": "Mon, 23 May 2022 22:44:45 GMT"
     },
     "https://www.schweizerbart.de/services/feeds/papers/nova_hedwigia/de/rss.xml": {},
     "https://rss.sciencedirect.com/publication/science/13835769": {
-        "etag": "W/\"6352de5a9c6444240363288aeb81305b\"",
-        "modified": "Wed, 30 Mar 2022 09:49:41 GMT"
+        "etag": "W/\"6455f2f511e90260ae9a2b96325d0db8\"",
+        "modified": "Mon, 23 May 2022 09:51:07 GMT"
     },
     "https://api.ingentaconnect.com/content/nhn/pimj/latest?format=rss": {
         "etag": "\"cff0-5d5aade76b80c\"",
@@ -67,14 +63,14 @@
     "https://phytokeys.pensoft.net/rss.php": {},
     "https://www.biotaxa.org/Phytotaxa/gateway/plugin/WebFeedGatewayPlugin/rss": {},
     "https://rss.sciencedirect.com/publication/science/14344610": {
-        "etag": "W/\"dd81c7f3254a5906cc043b3ed8022a48\"",
-        "modified": "Wed, 30 Mar 2022 09:11:15 GMT"
+        "etag": "W/\"00bb036f1c7e5c2457b65fcaa5661b28\"",
+        "modified": "Mon, 23 May 2022 09:11:20 GMT"
     },
     "https://riviste.unimi.it/index.php/RIPS/gateway/plugin/WebFeedGatewayPlugin/rss": {},
     "http://rjh.folium.ru/index.php/rjh/gateway/plugin/WebFeedGatewayPlugin/rss": {},
     "https://api.ingentaconnect.com/content/wfbi/sim/latest?format=rss": {},
     "https://www.tandfonline.com/feed/rss/nnfe20": {
-        "modified": "Tue, 22 Mar 2022 09:39:22 GMT"
+        "modified": "Fri, 13 May 2022 08:09:56 GMT"
     },
     "https://subtbiol.pensoft.net/rss.php": {},
     "https://www.biotaxa.org/saa/gateway/plugin/WebFeedGatewayPlugin/rss": {},
@@ -83,18 +79,18 @@
         "modified": "Mon, 28 Mar 2022 02:09:56 GMT"
     },
     "https://onlinelibrary.wiley.com/feed/19968175/most-recent": {
-        "modified": "Wed, 30 Mar 2022 10:57:52 GMT"
+        "modified": "Wed, 04 May 2022 08:24:08 GMT"
     },
     "https://tlhlxojs02-prd.flvc.org/troplep/gateway/plugin/WebFeedGatewayPlugin/rss": {},
     "http://turczaninowia.asu.ru/gateway/plugin/WebFeedGatewayPlugin/rss": {},
     "https://vertebrate-zoology.arphahub.com/rss": {},
     "https://zookeys.pensoft.net/rss.php": {},
     "https://academic.oup.com/rss/site_5579/3435.xml": {
-        "etag": "\"6f9bae841433d81:0\"",
-        "modified": "Tue, 08 Mar 2022 17:47:02 GMT"
+        "etag": "\"9964e95ef761d81:0\"",
+        "modified": "Sat, 07 May 2022 09:46:48 GMT"
     },
     "https://www.tandfonline.com/feed/rss/tzme20": {
-        "modified": "Mon, 14 Mar 2022 09:57:40 GMT"
+        "modified": "Mon, 16 May 2022 11:32:38 GMT"
     },
     "https://www.mapress.com/zt/gateway/plugin/WebFeedGatewayPlugin/rss": {},
     "https://pubmed.ncbi.nlm.nih.gov/rss/search/1rE397IRBYU0-ogsyRnEw9o91K808u0evolcHK9IDZ0PVH5cqD/?limit=15&utm_campaign=pubmed-2&fc=20211108074834": {},
@@ -105,8 +101,8 @@
     "https://rostaniha.areeo.ac.ir/ju.rss": {},
     "http://xbkcflxb.cnjournals.com/xbkcflxb/ch/reader/current.aspx": {},
     "https://rss.sciencedirect.com/publication/science/24682659": {
-        "etag": "W/\"88aa10432fc9db915b59e39e9a9a31db\"",
-        "modified": "Wed, 30 Mar 2022 09:35:07 GMT"
+        "etag": "W/\"4d898b586c24cfde7adf21cb9f970888\"",
+        "modified": "Mon, 23 May 2022 09:36:10 GMT"
     },
     "https://api.ingentaconnect.com/content/wfbi/fuse/latest?format=rss": {
         "etag": "\"6dbe-5d47e034f5f7e\"",
@@ -128,7 +124,12 @@
         "modified": "Fri, 04 Feb 2022 03:44:04 GMT"
     },
     "https://mds.marshall.edu/euscorpius/recent.rss": {
-        "etag": "\"622c6a70-583b\"",
-        "modified": "Sat, 12 Mar 2022 09:40:00 GMT"
-    }
+        "etag": "\"628c0727-5bb4\"",
+        "modified": "Mon, 23 May 2022 22:13:59 GMT"
+    },
+    "http://rss.zoobank.org": {
+        "etag": "\"8432faedf86ed81:0\"",
+        "modified": "Mon, 23 May 2022 23:00:43 GMT"
+    },
+    "https://www.ameghiniana.org.ar/index.php/ameghiniana/gateway/plugin/WebFeedGatewayPlugin/rss": {}
 }

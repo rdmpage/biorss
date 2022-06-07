@@ -71,7 +71,10 @@ if (file_exists($latest_dir))
 symlink($cache_dir, $latest_dir);
 
 $dois = array(
-'10.22438/jeb/43/1/MRN-1975',
+//'10.22438/jeb/43/1/MRN-1975',
+//'10.11646/zootaxa.5104.2.4',
+//'10.15298/arthsel.30.4.11',
+'10.37520/aemnp.2021.020',
 );
 
 // feed
