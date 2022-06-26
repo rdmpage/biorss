@@ -8,7 +8,10 @@ require_once (dirname(__FILE__) . '/config.inc.php');
 require_once (dirname(__FILE__) . '/item.php');
 require_once (dirname(__FILE__) . '/utils.php');
 
-
+if (1)
+{
+	require_once (dirname(__FILE__) . '/HtmlDomParser.php');
+}
 use Sunra\PhpSimple\HtmlDomParser;
 
 

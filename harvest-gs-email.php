@@ -9,8 +9,11 @@ require_once (dirname(__FILE__) . '/vendor/autoload.php');
 require_once (dirname(__FILE__) . '/config.inc.php');
 require_once (dirname(__FILE__) . '/utils.php');
 
+if (1)
+{
+	require_once (dirname(__FILE__) . '/HtmlDomParser.php');
+}
 use Sunra\PhpSimple\HtmlDomParser;
-
 
 $latest_dir = $config['cache'] . '/latest';
 $files = scandir($latest_dir);

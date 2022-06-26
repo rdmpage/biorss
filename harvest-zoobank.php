@@ -10,6 +10,10 @@ require_once(dirname(__FILE__) . '/utils.php');
 require_once(dirname(__FILE__) . '/rss.php');
 require_once(dirname(__FILE__) . '/zoobank.php');
 
+if (1)
+{
+	require_once (dirname(__FILE__) . '/HtmlDomParser.php');
+}
 use Sunra\PhpSimple\HtmlDomParser;
 
 
