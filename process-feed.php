@@ -50,6 +50,7 @@ function post_job($url, &$doc)
 function process_feed($dataFeed, $force = false)
 {
 	global $couch;
+	global $config;
 	
 	$counter = 1;
 	
@@ -83,7 +84,9 @@ function process_feed($dataFeed, $force = false)
 		if (!isset($dataFeedElement->meta) || $force)
 		{
 			echo "Adding metadata\n";
-			$url = 'http://localhost/~rpage/biorss/meta.php';
+			
+			$url = $config['web_server'] . $config['web_root'] . 'meta.php';
+			//$url = 'http://localhost/~rpage/biorss/meta.php';
 			$code = post_job($url, $dataFeedElement);
 		
 			$modified = true;
@@ -144,7 +147,8 @@ function process_feed($dataFeed, $force = false)
 		if (!isset($dataFeedElement->contentLocation) || $force)
 		{
 			echo "Geoparsing\n";
-			$url = 'http://localhost/~rpage/biorss/geoparser.php';
+			$url = $config['web_server'] . $config['web_root'] . 'geoparser.php';
+			//$url = 'http://localhost/~rpage/biorss/geoparser.php';
 			$code = post_job($url, $dataFeedElement);
 		
 			$modified = true;
@@ -158,7 +162,8 @@ function process_feed($dataFeed, $force = false)
 		if (!isset($dataFeedElement->classification) || $force)
 		{
 			echo "Classifying\n";
-			$url = 'http://localhost/~rpage/biorss/taxa.php';
+			$url = $config['web_server'] . $config['web_root'] . 'taxa.php';
+			//$url = 'http://localhost/~rpage/biorss/taxa.php';
 			$code = post_job($url, $dataFeedElement);
 		
 			$modified = true;

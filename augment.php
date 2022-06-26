@@ -6,6 +6,7 @@ error_reporting(E_ALL);
 
 require_once (dirname(__FILE__) . '/vendor/autoload.php');
 require_once (dirname(__FILE__) . '/globalnames-graphql.php');
+require_once (dirname(__FILE__) . '/config.inc.php');
 require_once (dirname(__FILE__) . '/utils.php');
 
 if (1)
@@ -272,6 +273,8 @@ function send_doc($doc, $status)
 // Extract geographic localities from text
 function add_geo(&$doc)
 {
+	global $config;
+	
 	$status = 200;
 	
 	// add empty array to signal that we have processed this, even if we find no names
@@ -298,7 +301,8 @@ function add_geo(&$doc)
 			"text" => $text
 		);
 
-		$url = 'http://localhost/~rpage/biorss/geoparser/';
+		$url = $config['web_server'] . $config['web_root'] . 'geoparser/';
+		//$url = 'http://localhost/~rpage/biorss/geoparser/';
 
 		$json = post($url, http_build_query($parameters));
 
