@@ -34,6 +34,10 @@ foreach ($files as $filename)
 	if (preg_match('/\.xml$/', $filename))
 	{	
 		$xml = file_get_contents($latest_dir . '/' . $filename);
+		
+		// clean XML if necessary
+		// https://recordsofzsi.com/index.php/zsoi/gateway/plugin/WebFeedGatewayPlugin/rss has leading spaces
+		$xml = preg_replace('/^\s+/', '', $xml);
 
 		$dataFeed = rss_to_internal($xml);	
 		

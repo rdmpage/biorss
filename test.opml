@@ -608,7 +608,7 @@
 		htmlUrl="https://tlhlxojs02-prd.flvc.org/troplep/index" 
 		xmlUrl="https://tlhlxojs02-prd.flvc.org/troplep/gateway/plugin/WebFeedGatewayPlugin/rss"/>
 
-
+<!-- broken? 
 	<outline 
 		text="Turczaninowia" 
 		title="Turczaninowia" 
@@ -617,7 +617,7 @@
 		version="RSS" 
 		htmlUrl="http://turczaninowia.asu.ru" 
 		xmlUrl="http://turczaninowia.asu.ru/gateway/plugin/WebFeedGatewayPlugin/rss"/>
-
+-->
 
 	
 <!-- V -->	

@@ -187,6 +187,7 @@
 
 -->
 
+<!--
 	<outline 
 		text="Euscorpius" 
 		title="Euscorpius" 
@@ -195,6 +196,28 @@
 		version="RSS" 
 		htmlUrl="https://mds.marshall.edu/euscorpius/" 
 		xmlUrl="https://mds.marshall.edu/euscorpius/recent.rss"/>
+-->
+
+<!--
+	<outline 
+		text="Acta Chiropterologica" 
+		title="Acta Chiropterologica" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://www.ingentaconnect.com/content/miiz/actac" 
+		xmlUrl="https://api.ingentaconnect.com/content/miiz/actac/latest?format=rss"/>
+
+-->
+
+	<outline 
+		text="Records of the Zoological Survey Of India" 
+		title="Records of the Zoological Survey Of India" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://recordsofzsi.com/index.php/zsoi/issue/archive" 
+		xmlUrl="https://recordsofzsi.com/index.php/zsoi/gateway/plugin/WebFeedGatewayPlugin/rss"/>
 
 	
 	</body>

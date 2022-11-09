@@ -127,6 +127,10 @@ foreach ($files as $filename)
 			
 						// link
 						$obj->url = $query['url'];
+						
+						// remove any stray encoded spaces in URL
+						$obj->url = str_replace('%20', '', $obj->url);
+						
 						$obj->item->url = $obj->url;
 				
 						$doi = url_pattern_to_doi($obj->item->url);
