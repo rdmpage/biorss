@@ -415,11 +415,9 @@ function add_meta(&$doc)
 		{
 			return $status;
 		}
-	
-	
+		
 		$html = get($url);	
-		
-		
+				
 		if ($html == '')
 		{
 			$status = 404;
@@ -815,30 +813,60 @@ function add_taxa(&$doc)
 			// Get identifiers and classification for names
 			$query = $taxon_names;
 		
-			$response = global_names_index($query);
-					
-			// print_r($response);
-			
-			// we want to add the names, the GBIF ids, and represent the main subject somehow
-			
-			$paths = array();
-			
-			$taxon_ids = array();
 		
-			if (isset($response->data->nameResolver->responses))
+			if (0)
 			{
-				foreach ($response->data->nameResolver->responses as $r)
+				// original GlobalNames GraphQL code
+				$response = global_names_index($query);
+					
+				// print_r($response);
+			
+				// we want to add the names, the GBIF ids, and represent the main subject somehow
+			
+				$paths = array();
+			
+				$taxon_ids = array();
+		
+				if (isset($response->data->nameResolver->responses))
 				{
-					if (isset($r->results[0]))
+					foreach ($response->data->nameResolver->responses as $r)
 					{
-						$paths[] = explode("|", $r->results[0]->classification->path);
+						if (isset($r->results[0]))
+						{
+							$paths[] = explode("|", $r->results[0]->classification->path);
 						
-						$taxon_ids[] = $r->results[0]->taxonId;
+							$taxon_ids[] = $r->results[0]->taxonId;
+						}
 					}
 				}
 			}
+			else
+			{
+				// GlobalNames API
+				$response = global_names_verifier($query);
+				
+				$paths = array();			
+				$taxon_ids = array();
+				
+				//print_r($response);
+		
+				if (isset($response->names))
+				{
+					foreach ($response->names as $r)
+					{
+						if (isset($r->bestResult))
+						{
+							$paths[] = explode("|", $r->bestResult->classificationPath);
+						
+							$taxon_ids[] = $r->bestResult->currentRecordId;
+						}
+					}
+				}
+						
+			}
 			
-			//print_r($path);
+						
+			//print_r($paths);
 			
 			//echo json_encode($path);
 			

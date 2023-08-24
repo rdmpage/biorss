@@ -1,6 +1,6 @@
 <?php
 
-// get records for a view and post process them, e.g. DOI classify
+// get records for a view and post process them, e.g. and Wikidata id
 
 error_reporting(E_ALL);
 
@@ -43,61 +43,41 @@ function get($url, $user_agent='', $content_type = '')
 }
 
 //----------------------------------------------------------------------------------------
-function doi_to_agency($prefix, $doi)
+// Does wikidata have this DOI?
+function wikidata_item_from_doi($doi)
 {
-	global $prefix_to_agency;
+	$item = '';
 	
-	$agency = '';
-			
-	if (isset($prefix_to_agency[$prefix]))
-	{
-		$agency = $prefix_to_agency[$prefix];
-	}
-	else
-	{
-		$url = 'https://doi.org/ra/' . $doi;
+	$sparql = 'SELECT * WHERE { ?work wdt:P356 "' . mb_strtoupper($doi) . '" }';
 	
-		$json = get($url);
+	//echo $sparql . "\n";
 	
-		echo $json;
+	$url = 'https://query.wikidata.org/bigdata/namespace/wdq/sparql?query=' . urlencode($sparql);
+	$json = get($url, '', 'application/json');
 	
-		$obj = json_decode($json);
-	
-		if ($obj)
-		{
-			if (isset($obj[0]->RA))
-			{
-				$agency = $obj[0]->RA;
+	//echo $json;
 		
-				$prefix_to_agency[$prefix] = $agency;
-			}
-			else
+	if ($json != '')
+	{
+		$obj = json_decode($json);
+		if (isset($obj->results->bindings))
+		{
+			if (count($obj->results->bindings) != 0)	
 			{
-				// Bad DOI
-				if (isset($obj[0]->status))
-				{
-					$agency = $obj[0]->status;
-				}
+				$item = $obj->results->bindings[0]->work->value;
+				$item = preg_replace('/https?:\/\/www.wikidata.org\/entity\//', '', $item);
 			}
-	
 		}
 	}
 	
-	return $agency;
+	return $item;
 }
-
-echo "Getting prefixes...\n";
-
-
-$prefix_filename = 'prefix.json';
-$json = file_get_contents($prefix_filename);
-$prefix_to_agency = json_decode($json, true);
 
 echo "Getting queue...\n";
 
 $limit = 1000;
 
-$url = '_design/queue/_view/doi_no_agency'
+$url = '_design/queue/_view/doi_no_wikidata'
 	. '?descending=true'
 	. '&include_docs=true'
 	. '&limit=' . $limit
@@ -107,6 +87,7 @@ $resp = $couch->send("GET", "/" . $config['couchdb_options']['database'] . "/" .
 
 $obj = json_decode($resp);
 
+$dois = array();
 
 foreach ($obj->rows as $row)
 {
@@ -115,31 +96,36 @@ foreach ($obj->rows as $row)
 	// print_r($dataFeedElement->message->item);
 	
 	$doi = $dataFeedElement->message->item->doi;
-	
+
 	echo $doi . "\n";
-	echo $dataFeedElement->_id . "\n";
 	
-	$parts = explode('/', $doi);
-	$prefix = $parts[0];
-		
-	$agency = doi_to_agency($prefix, $doi);
+	$qid = wikidata_item_from_doi($doi);
 	
-	echo "agency=$agency\n";
-
-	$dataFeedElement->message->item->doi_agency = $agency;
-
-	store($dataFeedElement->message);
-	
-
+	if ($qid != '')
+	{	
+		echo "QID=$qid\n";
+		$dataFeedElement->message->item->wikidata = $qid;
+		store($dataFeedElement->message);
+	}
+	else
+	{
+		$dois[] = $doi;
+	}
 
 }
+
+$dois = array_unique($dois);
+
+// echo "DOIs not in Wikidata\n";
+echo "\n" . '$dois=array(' . "\n";
+foreach ($dois as $doi)
+{
+	echo '"' . $doi . '",' . "\n";
+}
+echo ");\n";
+
 
 
 
 
 ?>
-
-
-
-
-

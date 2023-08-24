@@ -25,8 +25,8 @@
     },
     "https://journals.flvc.org/mundi/gateway/plugin/WebFeedGatewayPlugin/rss": {},
     "https://academic.oup.com/rss/site_5595/3451.xml": {
-        "etag": "\"69765b3ba36ed81:0\"",
-        "modified": "Mon, 23 May 2022 12:47:16 GMT"
+        "etag": "\"96620ca49ced91:0\"",
+        "modified": "Mon, 14 Aug 2023 00:53:50 GMT"
     },
     "https://www.microbiologyresearch.org/rss/content/journal/ijsem/latestarticles?fmt=rss": {},
     "http://www.publish.csiro.au/RSS_Feed/CSIRO_Publishing_Recent_IS.xml": {
@@ -86,8 +86,8 @@
     "https://vertebrate-zoology.arphahub.com/rss": {},
     "https://zookeys.pensoft.net/rss.php": {},
     "https://academic.oup.com/rss/site_5579/3435.xml": {
-        "etag": "\"9964e95ef761d81:0\"",
-        "modified": "Sat, 07 May 2022 09:46:48 GMT"
+        "etag": "\"e81764894dc4d91:0\"",
+        "modified": "Tue, 01 Aug 2023 07:55:28 GMT"
     },
     "https://www.tandfonline.com/feed/rss/tzme20": {
         "modified": "Mon, 16 May 2022 11:32:38 GMT"
@@ -128,8 +128,11 @@
         "modified": "Mon, 23 May 2022 22:13:59 GMT"
     },
     "http://rss.zoobank.org": {
-        "etag": "\"8432faedf86ed81:0\"",
-        "modified": "Mon, 23 May 2022 23:00:43 GMT"
+        "etag": "\"6e474996fa1d91:0\"",
+        "modified": "Sat, 17 Jun 2023 23:01:07 GMT"
     },
-    "https://www.ameghiniana.org.ar/index.php/ameghiniana/gateway/plugin/WebFeedGatewayPlugin/rss": {}
+    "https://www.ameghiniana.org.ar/index.php/ameghiniana/gateway/plugin/WebFeedGatewayPlugin/rss": {},
+    "https://api.ingentaconnect.com/content/miiz/actac/latest?format=rss": {},
+    "https://recordsofzsi.com/index.php/zsoi/gateway/plugin/WebFeedGatewayPlugin/rss": {},
+    "https://www.bnhsjournal.in/index.php/bnhs/gateway/plugin/WebFeedGatewayPlugin/rss": {}
 }

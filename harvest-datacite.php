@@ -88,11 +88,11 @@ symlink($cache_dir, $latest_dir);
 // 0399-0974	10.26028/cybium/2017-411-005	"publisher": "Société Française d'Ichtyologie"
 
 $issns = array(
-	//'0217-2445' => 'Raffles Bulletin of Zoology', 
+	'0217-2445' => 'Raffles Bulletin of Zoology', 
 	//'2224-6304' => 'Israel Journal of Entomology', // eISSN
-	//	'2262-3094'	=> 'Cahiers de Biologie Marine',
+	'2262-3094'	=> 'Cahiers de Biologie Marine',
 	
-	'2100-0840' => 'Ascomycete.org',
+	//'2100-0840' => 'Ascomycete.org',
 
 );
 

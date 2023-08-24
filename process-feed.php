@@ -34,6 +34,7 @@ function post_job($url, &$doc)
 	
 	//echo $http_code . "\n";
 	//echo $response;
+	//echo $url . "\n";
 	
 	if ($http_code == 200)
 	{
@@ -87,6 +88,13 @@ function process_feed($dataFeed, $force = false)
 			
 			$url = $config['web_server'] . $config['web_root'] . 'meta.php';
 			//$url = 'http://localhost/~rpage/biorss/meta.php';
+			
+			if (0)
+			{
+				echo $url . "\n";
+				echo json_encode($dataFeedElement) . "\n";			
+			}			
+			
 			$code = post_job($url, $dataFeedElement);
 		
 			$modified = true;
@@ -158,6 +166,11 @@ function process_feed($dataFeed, $force = false)
 			echo "Have already geoparsed\n";
 		}
 		
+		if (!$dataFeedElement)
+		{
+			echo __FILE__ . ", line " . __LINE__  . " badness problem\n";
+			exit();
+		}
 		
 		if (!isset($dataFeedElement->classification) || $force)
 		{
@@ -176,7 +189,7 @@ function process_feed($dataFeed, $force = false)
 
 		if (!$dataFeedElement)
 		{
-			echo "Line " . __LINE__  . " badness problem\n";
+			echo __FILE__ . ", line " . __LINE__  . " badness problem\n";
 			exit();
 		}
 

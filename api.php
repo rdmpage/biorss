@@ -57,6 +57,8 @@ function display_feed ($country, $path, $format= 'json', $callback = '')
 
 	$dataFeed->url = $config['web_server'] . $config['web_root'] . 'api.php?feed=' . base64_encode(http_build_query($parameters));
 	$dataFeed->parameters = base64_encode(http_build_query($parameters));
+	
+	$dataFeed->query = urldecode($url);
 
 	$dataFeed->dataFeedElement = array();
 	

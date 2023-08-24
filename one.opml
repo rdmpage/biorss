@@ -210,6 +210,7 @@
 
 -->
 
+<!-- 
 	<outline 
 		text="Records of the Zoological Survey Of India" 
 		title="Records of the Zoological Survey Of India" 
@@ -218,7 +219,16 @@
 		version="RSS" 
 		htmlUrl="https://recordsofzsi.com/index.php/zsoi/issue/archive" 
 		xmlUrl="https://recordsofzsi.com/index.php/zsoi/gateway/plugin/WebFeedGatewayPlugin/rss"/>
+-->
 
-	
+	<outline 
+		text="Journal of the Bombay Natural History Society (JBNHS)" 
+		title="Journal of the Bombay Natural History Society (JBNHS)" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://www.bnhsjournal.in/index.php/bnhs/index" 
+		xmlUrl="https://www.bnhsjournal.in/index.php/bnhs/gateway/plugin/WebFeedGatewayPlugin/rss"/>
+
 	</body>
 </opml>

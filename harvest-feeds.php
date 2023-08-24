@@ -125,7 +125,7 @@ function conditional_get($url, &$data)
 			}
 			
 			// store header details
-			if (data)
+			if ($data)
 			{
 				if (!isset($data->{$url}))
 				{

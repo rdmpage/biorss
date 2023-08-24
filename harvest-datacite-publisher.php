@@ -86,7 +86,7 @@ $year = 2022;
 
 $publishers = array(
 	'Naturhistorisches Museum Bern',
-	//'Société Française d\'Ichtyologie',
+	'Société Française d\'Ichtyologie',
 
 );
 

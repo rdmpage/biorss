@@ -92,7 +92,7 @@ foreach ($issns as $issn => $journal)
 	
 	$obj = json_decode($json);
 	
-	// print_r($obj);
+	print_r($obj);
 	
 	// convert to internal RSS format
 	

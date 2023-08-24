@@ -9,7 +9,7 @@ require_once (dirname(__FILE__) . '/couchsimple.php');
 
 if (1)
 {
-	// Things with no DOI sorted by recency of being added
+	// DOIs for a specific agency
 
 	$limit = 100;
 	
@@ -17,10 +17,11 @@ if (1)
 	
 	$key = 'CNKI';
 	$key = 'Airiti';
-	$key = 'Crossref';
+	//$key = 'Crossref';
 	//$key = 'DataCite';
 	//$key = 'mEDRA';
 	//$key = 'ISTIC';
+	//$key = 'JALC';
 
 	$url = '_design/key/_view/doi_agency'
 		. '?key=' . urlencode('"' . $key . '"')

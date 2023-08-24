@@ -507,6 +507,16 @@
 <!-- R -->
 
 	<outline 
+		text="Records of the Zoological Survey Of India" 
+		title="Records of the Zoological Survey Of India" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://recordsofzsi.com/index.php/zsoi/issue/archive" 
+		xmlUrl="https://recordsofzsi.com/index.php/zsoi/gateway/plugin/WebFeedGatewayPlugin/rss"/>
+
+
+	<outline 
 		text="RIVISTA ITALIANA DI PALEONTOLOGIA E STRATIGRAFIA" 
 		title="RIVISTA ITALIANA DI PALEONTOLOGIA E STRATIGRAFIA" 
 		description="" 

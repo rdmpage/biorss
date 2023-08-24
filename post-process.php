@@ -29,7 +29,7 @@ if (1)
 		$dataFeedElement = $row->doc;
 	
 		// echo $dataFeedElement->message->url . "\n";
-		print_r($dataFeedElement->message->item);
+		//print_r($dataFeedElement->message->item);
 
 		$url = $dataFeedElement->_id;
 	
