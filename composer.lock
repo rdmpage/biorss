@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c30c881d2164c96ee9927ffa6e9ad8c5",
+    "content-hash": "1dac0cbd3c9974cac46e64014496343e",
     "packages": [
         {
             "name": "endyjasmi/cuid",
@@ -58,6 +58,7 @@
                 "issues": "https://github.com/endyjasmi/cuid/issues",
                 "source": "https://github.com/endyjasmi/cuid"
             },
+            "abandoned": true,
             "time": "2020-01-02T02:46:25+00:00"
         }
     ],
@@ -67,7 +68,9 @@
     "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
-    "platform": [],
+    "platform": {
+        "ext-mbstring": "*"
+    },
     "platform-dev": [],
     "plugin-api-version": "2.3.0"
 }
