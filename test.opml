@@ -167,6 +167,16 @@
 		version="RSS" 
 		htmlUrl="https://journals.rbge.org.uk/ejb/index" 
 		xmlUrl="https://journals.rbge.org.uk/ejb/gateway/plugin/WebFeedGatewayPlugin/rss"/>
+		
+	<outline 
+		text="EntomoBrasilis" 
+		title="EntomoBrasilis" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://www.entomobrasilis.org/index.php/ebras/issue/current" 
+		xmlUrl="https://www.entomobrasilis.org/index.php/ebras/gateway/plugin/WebFeedGatewayPlugin/rss"/>
+			
 
 	<outline 
 		text="Entomologisk Tidskrift" 
@@ -227,6 +237,15 @@
 		version="RSS" 
 		htmlUrl="https://onlinelibrary.wiley.com/journal/1522239xb" 
 		xmlUrl="https://onlinelibrary.wiley.com/feed/1522239xb/most-recent"/>
+		
+	<outline 
+		text="Fragmenta Entomologica" 
+		title="Fragmenta Entomologica" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://rosa.uniroma1.it/rosa02/fragmenta_entomologica/" 
+		xmlUrl="https://rosa.uniroma1.it/rosa02/fragmenta_entomologica/gateway/plugin/WebFeedGatewayPlugin/rss"/>
 		
 	<outline 
 		text="Fungal Systematics and Evolution" 
@@ -304,6 +323,19 @@
 
 		
 <!-- J -->
+
+
+	
+		<outline 
+		text="Journal of Asia-Pacific Entomology" 
+		title="Journal of Asia-Pacific Entomology" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://www.sciencedirect.com/journal/journal-of-asia-pacific-entomology" 
+		xmlUrl="https://rss.sciencedirect.com/publication/science/12268615"/>
+
+
 	
 		<outline 
 		text="Journal of Hymenoptera Research" 
@@ -313,6 +345,15 @@
 		version="RSS" 
 		htmlUrl="https://jhr.pensoft.net/articles" 
 		xmlUrl="https://jhr.pensoft.net/rss.php"/>
+		
+		<outline 
+		text="Journal of Insect Biodiversity (JIB)" 
+		title="Journal of Insect Biodiversity (JIB)" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://mapress.com/jib/index" 
+		xmlUrl="https://mapress.com/jib/gateway/plugin/WebFeedGatewayPlugin/rss"/>
 
 		<outline 
 		text="Journal of Orthoptera Research" 
@@ -566,6 +607,14 @@
 			htmlUrl="https://subtbiol.pensoft.net/articles"
 			xmlUrl="https://subtbiol.pensoft.net/rss.php" />
 
+	<outline 
+		text="SUGAPA Digital" 
+		title="SUGAPA Digital" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://www.sugapa.org/" 
+		xmlUrl="https://www.sugapa.org/feed/"/>
 
 
 

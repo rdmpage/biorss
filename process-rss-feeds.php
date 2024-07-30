@@ -10,6 +10,10 @@ $force = false;
 
 $latest_dir = $config['cache'] . '/latest';
 
+//$latest_dir = $config['cache'] . '/2024-02-02';
+//$latest_dir = $config['cache'] . '/2024-03-17';
+//$latest_dir = $config['cache'] . '/2024-02-06';
+
 $files = scandir($latest_dir);
 
 /*

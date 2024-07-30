@@ -220,6 +220,7 @@
 		htmlUrl="https://recordsofzsi.com/index.php/zsoi/issue/archive" 
 		xmlUrl="https://recordsofzsi.com/index.php/zsoi/gateway/plugin/WebFeedGatewayPlugin/rss"/>
 -->
+<!--
 
 	<outline 
 		text="Journal of the Bombay Natural History Society (JBNHS)" 
@@ -229,6 +230,42 @@
 		version="RSS" 
 		htmlUrl="https://www.bnhsjournal.in/index.php/bnhs/index" 
 		xmlUrl="https://www.bnhsjournal.in/index.php/bnhs/gateway/plugin/WebFeedGatewayPlugin/rss"/>
+		
+		-->
+<!--		
+	<outline 
+		text="SUGAPA Digital" 
+		title="SUGAPA Digital" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://www.sugapa.org/" 
+		xmlUrl="https://www.sugapa.org/feed/"/>
+
+-->
+
+<!--
+
+	<outline 
+		text="Feddes Repertorium" 
+		title="Feddes Repertorium" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://rosa.uniroma1.it/rosa02/fragmenta_entomologica/" 
+		xmlUrl="https://rosa.uniroma1.it/rosa02/fragmenta_entomologica/gateway/plugin/WebFeedGatewayPlugin/rss"/>
+		
+-->
+		
+		<outline 
+		text="Journal of Asia-Pacific Entomology" 
+		title="Journal of Asia-Pacific Entomology" 
+		description="" 
+		type="rss" 
+		version="RSS" 
+		htmlUrl="https://www.sciencedirect.com/journal/journal-of-asia-pacific-entomology" 
+		xmlUrl="https://rss.sciencedirect.com/publication/science/12268615"/>
+		
 
 	</body>
 </opml>

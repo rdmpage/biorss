@@ -18,8 +18,8 @@ $limit = 1000;
 
 
 $url = '_design/debugging/_view/no_classification'
-	. '?startkey=' . urlencode('"' . 'https://jhr.pensoft.net/article/100689/' . '"')
-	. '&endkey=' . urlencode('"' . 'https://m' . '"')
+	. '?startkey=' . urlencode('"' . 'https://zookeys.pensoft.net/article/99686/' . '"')
+	. '&endkey=' . urlencode('"' . 'https://zzz' . '"')
 	. '&include_docs=true'
 	. '&limit=' . $limit
 	;

@@ -18,7 +18,7 @@ if (1)
 	$key = 'CNKI';
 	$key = 'Airiti';
 	//$key = 'Crossref';
-	//$key = 'DataCite';
+	$key = 'DataCite';
 	//$key = 'mEDRA';
 	//$key = 'ISTIC';
 	//$key = 'JALC';
