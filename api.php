@@ -233,6 +233,121 @@ function display_treemap ($path, $callback = '')
 
 }
 
+//----------------------------------------------------------------------------------------
+// Get numbers of records for each country for a year
+function display_country_year ($year, $callback = '')
+{
+	global $config;
+	global $couch;
+
+
+	$startkey = array((Integer)$year);
+	$endkey = array((Integer)$year, new stdclass);
+	
+	$url = '_design/visualise/_view/year-country?startkey=' . urlencode(json_encode($startkey))
+		. '&endkey=' .  urlencode(json_encode($endkey))
+		. '&group_level=2'
+		;
+		
+	if ($config['stale'])
+	{
+		$url .= '&stale=ok';
+	}			
+	
+	$resp = $couch->send("GET", "/" . $config['couchdb_options']['database'] . "/" . $url);
+
+	$obj = json_decode($resp);
+	
+	$data = array();
+	$data[] = array("Country", "Items");
+	
+	foreach ($obj->rows as $row)
+	{
+		$data[] = array($row->key[1], $row->value);
+	}
+	
+	// output
+	header("Content-type: text/plain");	
+	if ($callback != '')
+	{
+		echo $callback . '(';
+	}
+
+	echo json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
+	
+	if ($callback != '')
+	{
+		echo ')';
+	}	
+
+}
+
+
+//----------------------------------------------------------------------------------------
+// Get numbers of records for each major taxon for a year
+function display_taxon_year ($year, $callback = '')
+{
+	global $config;
+	global $couch;
+
+
+	$startkey = array((Integer)$year);
+	$endkey = array((Integer)$year, new stdclass);
+	
+	$url = '_design/visualise/_view/year-classification?startkey=' . urlencode(json_encode($startkey))
+		. '&endkey=' .  urlencode(json_encode($endkey))
+		. '&group_level=3'
+		;
+		
+	if ($config['stale'])
+	{
+		$url .= '&stale=ok';
+	}			
+	
+	$resp = $couch->send("GET", "/" . $config['couchdb_options']['database'] . "/" . $url);
+
+	$obj = json_decode($resp);
+	
+	
+	$parents = array();
+		
+	$data = array();
+	$data[] = array("Child", "Parent", "Items");
+	
+	foreach ($obj->rows as $row)
+	{
+		if ($row->key[1] != "")
+		{
+			$data[] = array($row->key[2], $row->key[1], $row->value);
+		
+			$parents[] = $row->key[1];
+		}
+	}
+	
+	$parents = array_unique($parents);
+	
+	foreach ($parents as $p)
+	{
+		$data[] = array($p, 'BIOTA', 0);
+	}
+	$data[] = array('BIOTA', null, 0);
+	
+	// output
+	header("Content-type: text/plain");	
+	if ($callback != '')
+	{
+		echo $callback . '(';
+	}
+
+	echo json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
+	
+	if ($callback != '')
+	{
+		echo ')';
+	}	
+
+}
+
 
 //----------------------------------------------------------------------------------------
 function main()
@@ -323,6 +438,39 @@ function main()
 		}
 		
 	}	
+	
+	if (!$handled)
+	{
+		if (isset($_GET['stats']))
+		{
+			$year = 2023;
+			
+			if (isset($_GET['year']))
+			{
+				$year = $_GET['year'];
+			}
+						
+			$taxon = false;
+			if (isset($_GET['taxon']))
+			{
+				$taxon = true;
+			}
+
+			if ($taxon)
+			{
+				display_taxon_year ($year, $callback);			
+			}
+			else
+			{
+				display_country_year ($year, $callback);
+			}
+					
+			$handled = true;
+		
+		}
+	
+	}
+	
 	
 	if (!$handled)
 	{

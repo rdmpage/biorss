@@ -1,0 +1,153 @@
+<html>
+<head>
+	<head>
+		<meta charset="utf-8" /> 
+		
+		<title>
+			BioRSS - Statistics
+		</title>	
+		
+		<p>
+		</p>	
+		
+		<!--Import Google Icon Font-->
+		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	
+		  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.js"></script>
+		  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.css">
+		  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.js"></script>
+	
+	   <!--Let browser know website is optimized for mobile-->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+	
+	<!-- Google Charts -->
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+		
+		<style>
+			/* body and main styles to give us a fixed footer, see https://materializecss.com/footer.html */	
+			body {
+			    display: flex;
+			    min-height: 100vh;
+			    flex-direction: column;
+			    background: #eeeeee; 
+			    
+			    
+			  }	
+		</style>	
+		
+		
+    <script type="text/javascript">
+      google.charts.load('current', {
+        'packages':['geochart', 'treemap'],
+      });
+	</script>
+	
+	<script>
+		var year = 2024;
+	</script>
+	
+	<script>
+		//http://stackoverflow.com/a/25359264
+		$.urlParam = function(name, url){
+			var results = new RegExp('[\?&]' + name + '=([^&#]*)').exec(url);
+			if (results==null){
+			   return null;
+			}
+			else{
+			   return results[1] || 0;
+			}
+		}    
+	</script>	
+
+				
+</head>
+<body>
+
+<div class="container">
+	<h1>BioRSS Stats</h1>
+	<p>Summary statistics for <a href=".">BioRSS</a> for <span id="year"></span>. 
+	See also <a href="stats.html?year=2022">2022</a>, <a href="stats.html?year=2023">2023</a>, 
+	and <a href="stats.html?year=2024">2024 </a>.</p>
+	
+	<h2>Number of articles for each country</h2>
+	<p>Diagram shows the number of articles geotagged to each country, 
+	based on the title and/or abstract of the article.</p>
+	
+	<div class="row">
+		<div id="regions_div" style="width: 100%;height:500px;"></div>
+	</div>
+	
+	<h2>Number of articles for major taxonomic group</h2>
+	<p>Diagram shows the number of articles that mention a taxon, 
+	 based on the title and/or abstract of the article.</p>
+	
+	<div class="row">
+		<div id="chart_div" style="width: 100%;height:500px;"></div>
+	</div>
+	
+</div>
+
+<script>
+
+	
+
+	function countryCount(year) {
+		var url = 'api.php?stats&year=' + year;
+
+		 $.getJSON(url + '&callback=?', function(data) {
+			if (data) {
+				var gData = google.visualization.arrayToDataTable(data);
+			
+				var options = {
+					colorAxis: {colors: ['#FFF', '#000']},
+					/* backgroundColor: 'none' */
+				};
+	
+				var chart = new google.visualization.GeoChart(document.getElementById('regions_div'));
+	
+				chart.draw(gData, options);
+			}
+		});		
+	}
+	
+	function taxonCount(year) {
+		var url = 'api.php?stats&taxon&year=' + year;
+
+		 $.getJSON(url + '&callback=?', function(data) {
+			if (data) {
+				var gData = google.visualization.arrayToDataTable(data);
+			
+				var options = {
+					minColor: '#009688',
+					midColor: '#f7f7f7',
+					maxColor: '#ee8100',          
+					maxDepth: 2,
+					eventsConfig: { drilldown: [] }
+				};
+				
+        		tree = new google.visualization.TreeMap(document.getElementById('chart_div'));
+
+        		tree.draw(gData, options);
+			}
+		});		
+	}
+	
+	if ($.urlParam('year', window.location.href))
+	{
+		year = $.urlParam('year', window.location.href);
+	}
+	
+	document.getElementById("year").innerHTML = year;
+
+	countryCount(year);
+	taxonCount(year);
+
+</script>
+
+
+
+</body>
+</html>
