@@ -64,6 +64,10 @@
     },
     "doi_agency": {
       "map": "function (doc) {\n  if (doc.message.item.doi_agency) {\n    emit(doc.message.item.doi_agency, doc.message.item.doi);\n  }\n}"
+    },
+    "wikidata": {
+      "reduce": "_sum",
+      "map": "function (doc) {\n  if (doc.message.item.wikidata) {\n    emit(doc.message.item.wikidata, 1);\n  }\n}"
     }
   },
   "language": "javascript"

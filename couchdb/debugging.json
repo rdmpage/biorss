@@ -1,0 +1,9 @@
+{
+  "_id": "_design/debugging",
+  "views": {
+    "no_classification": {
+      "map": "function (doc) {\n  if (doc.message.keywords.length > 0) {\n    // we have candidfate scientific names but no classification\n    if (doc.message.classification && doc.message.classification.length === 0) {\n      emit(doc._id, 1);\n    }\n  }\n}"
+    }
+  },
+  "language": "javascript"
+}
