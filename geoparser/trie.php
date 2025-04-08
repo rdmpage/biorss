@@ -9,6 +9,8 @@
 
 error_reporting(E_ALL);
 
+ini_set('memory_limit', '-1');
+
 mb_internal_encoding("UTF-8");
 
 //----------------------------------------------------------------------------------------
@@ -54,6 +56,11 @@ class Trie {
 		$strings = array();
 		
 		$strings[] = $thing->name;
+		
+		if (isset($thing->enwiki_title))
+		{
+			$strings[] = $thing->enwiki_title;
+		}		
 		
 		if ($use_alternate_names)
 		{
