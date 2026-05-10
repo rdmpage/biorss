@@ -1,0 +1,625 @@
+funder,wikidata,country_code,name,rowid
+10.13039/501100000781,Q1377836,,European Research Council,1
+10.13039/501100001870,Q5474469,PL,Foundation for Polish Science,2
+10.13039/501100004543,Q5099895,CN,China Scholarship Council,3
+10.13039/501100014434,,,,4
+10.13039/501100001711,Q471732,CH,Swiss National Science Foundation,5
+10.13039/501100001809,Q4501917,CN,National Natural Science Foundation of China,6
+10.13039/501100001665,Q392500,FR,Agence Nationale de la Recherche,7
+10.13039/501100003388,Q789848,FR,Ministry for Europe and Foreign Affairs,8
+10.13039/501100004409,,,,9
+10.13039/501100004794,Q280413,FR,National Center for Scientific Research,10
+10.13039/501100006537,Q2935609,FR,Campus France,11
+10.13039/501100007525,Q726595,FR,University of Rennes 1,12
+10.13039/100007463,Q7377936,GB,Rufford Foundation,13
+10.13039/100007479,Q25058101,IT,Fondazione Cariparo,14
+10.13039/501100002322,Q5167991,BR,Coordenação de Aperfeicoamento de Pessoal de Nível Superior,15
+10.13039/501100001411,Q291019,IN,Indian Council of Medical Research,16
+10.13039/501100001407,Q4294472,IN,Ministry of Science and Technology,17
+10.13039/501100003593,Q2994429,BR,National Council for Scientific and Technological Development,18
+10.13039/501100004586,Q10286268,BR,Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do Rio de Janeiro,19
+10.13039/100009038,Q7895461,IR,University of Guilan,20
+10.13039/501100004481,Q737835,IR,University of Tehran,21
+10.13039/501100001843,Q17053587,IN,Science and Engineering Research Board,22
+10.13039/100008696,Q1549932,PK,University of the Punjab,23
+10.13039/501100006606,Q45135295,CN,Natural Science Foundation of Tianjin City,24
+10.13039/100005156,Q590267,DE,Alexander von Humboldt Foundation,25
+10.13039/501100001663,Q1766743,DE,Volkswagen Foundation,26
+10.13039/501100001807,Q5508997,BR,São Paulo Research Foundation,27
+10.13039/501100004608,Q45134565,CN,Natural Science Foundation of Jiangsu Province,28
+10.13039/501100012246,,,,29
+10.13039/501100002460,Q41790,KR,Chung-Ang University,30
+10.13039/100000104,Q23548,US,National Aeronautics and Space Administration,31
+10.13039/501100001691,Q199781,JP,Japan Society for the Promotion of Science,32
+10.13039/501100003654,Q30296609,KR,Korea Environmental Industry and Technology Institute,33
+10.13039/501100011700,,,,34
+10.13039/501100007161,Q45134061,MX,,35
+10.13039/501100013066,,,,36
+10.13039/501100005273,Q45135445,CN,Natural Science Foundation of Yunnan Province,37
+10.13039/501100008871,Q30297449,CN,Yunnan Provincial Science and Technology Department,38
+10.13039/501100002555,Q484230,KR,Seoul Women's University,39
+10.13039/501100005880,Q16094637,KR,National Institute of Biological Resources,40
+10.13039/501100002858,Q30296542,CN,China Postdoctoral Science Foundation,41
+10.13039/100014718,,,,42
+10.13039/501100004663,Q11626123,TW,National Science and Technology Council,43
+10.13039/501100010426,Q30266622,IN,UGC DAE Consortium for Scientific Research,44
+10.13039/501100007693,Q30272799,CN,National Infrastructure for Microbiological Resources,45
+10.13039/501100018914,,,,46
+10.13039/501100003725,Q6431703,KR,National Research Foundation of Korea,47
+10.13039/501100004874,Q4515521,TW,National Chung-Shan Institute of Science and Technology,48
+10.13039/501100003825,Q265058,HU,Hungarian Academy of Sciences,49
+10.13039/501100012550,,,,50
+10.13039/501100012165,,,,51
+10.13039/501100021171,,,,52
+10.13039/501100013699,,,,53
+10.13039/501100018543,,,,54
+10.13039/100008903,Q697240,TW,Ministry of Health and Welfare,55
+10.13039/100008036,Q5676392,US,Harvard University Faculty of Arts and Sciences,56
+10.13039/501100002790,Q45135900,CA,"Canadian Network for Research and Innovation in Machining Technology, Natural Sciences and Engineering Research Council of Canada",57
+10.13039/501100018531,,,,58
+10.13039/501100004763,Q45134518,CN,Natural Science Foundation of Inner Mongolia,59
+10.13039/501100002628,Q497488,KR,Incheon National University,60
+10.13039/501100012190,,,,61
+10.13039/501100004079,Q324555,DE,Konrad Adenauer Foundation,62
+10.13039/501100004366,Q7673574,IR,Tabriz University of Medical Sciences,63
+10.13039/501100005626,Q574571,DE,University of Regensburg,64
+10.13039/100000001,Q304878,US,National Science Foundation,65
+10.13039/501100001501,Q3345459,IN,University Grants Commission,66
+10.13039/100014717,,,,67
+10.13039/501100003392,Q45133827,CN,Natural Science Foundation of Fujian Province,68
+10.13039/100000060,Q3519875,US,National Institute of Allergy and Infectious Diseases,69
+10.13039/100000190,Q503577,US,United States Department of Commerce,70
+10.13039/100005798,Q30297043,US,Oregon Sea Grant,71
+10.13039/100008629,Q7566951,US,South Dakota Board of Regents,72
+10.13039/501100003052,Q491047,KR,"Ministry of Trade, Industry and Energy",73
+10.13039/501100003566,Q625097,KR,Ministry of Oceans and Fisheries,74
+10.13039/501100009338,Q24867026,KR,National Marine Biodiversity Institute of Korea,75
+10.13039/501100007129,Q45135116,CN,Natural Science Foundation of Shandong Province,76
+10.13039/501100003715,Q6431704,KR,Korea Research Institute of Bioscience and Biotechnology,77
+10.13039/501100012421,,,,78
+10.13039/501100001412,Q3519967,IN,Council of Scientific and Industrial Research,79
+10.13039/501100010825,,,,80
+10.13039/501100003850,Q834458,CN,Inner Mongolia University,81
+10.13039/501100007270,Q12585707,KR,National Academy of Agricultural Science,82
+10.13039/501100012476,,,,83
+10.13039/501100004281,Q11789682,PL,National Science Centre Poland,84
+10.13039/501100007636,Q30271372,CH,Fondation Ernst et Lucie Schmidheiny,85
+10.13039/100009646,Q96180315,US,"National Academies of Sciences, Engineering, and Medicine Gulf Research Program",86
+10.13039/501100003182,Q3032414,RU,Siberian Branch of the Russian Academy of Sciences,87
+10.13039/501100002261,Q4398141,RU,Russian Center for Science Information,88
+10.13039/501100006769,Q30297418,RU,Russian Science Foundation,89
+10.13039/501100002674,Q83172,RU,Russian Academy of Sciences,90
+10.13039/501100000038,Q2993807,CA,Natural Sciences and Engineering Research Council,91
+10.13039/501100001824,Q12018444,CZ,Czech Science Foundation,92
+10.13039/501100004240,Q374686,CZ,Czech Academy of Sciences,93
+10.13039/501100003065,Q165980,AT,University of Vienna,94
+10.13039/501100010030,,,,95
+10.13039/501100001659,Q707283,DE,German Research Foundation,96
+10.13039/501100008001,Q54096,DE,University of Cologne,97
+10.13039/501100010324,,,,98
+10.13039/501100002457,Q56143,KR,Chosun University,99
+10.13039/501100004901,Q10286423,BR,Fundação de Amparo à Pesquisa do Estado de Minas Gerais,100
+10.13039/501100007846,Q30273306,CN,Yunnan Provincial Department of Education,101
+10.13039/501100007403,,,,102
+10.13039/501100002347,Q492234,DE,Federal Ministry of Education and Research,103
+10.13039/501100004115,Q678982,DE,Leibniz University Hannover,104
+10.13039/501100010221,Q6792583,PK,Higher Education Commission of Pakistan,105
+10.13039/100005985,Q30273301,US,Zonta International Foundation,106
+10.13039/501100012629,Q1519715,JP,Japan Foundation,107
+10.13039/501100007807,Q10312431,JP,Japan Science Society,108
+10.13039/501100009391,,,,109
+10.13039/501100003246,Q129724,NL,Dutch Research Council,110
+10.13039/501100005039,Q2406409,NL,Leiden University Medical Center,111
+10.13039/501100011051,Q36875018,RU,Council for Grants of the President of the Russian Federation,112
+10.13039/501100001871,Q5509000,PT,Fundação para a Ciência e Tecnologia,113
+10.13039/501100017639,,,,114
+10.13039/100012957,Q154561,DE,University of Jena,115
+10.13039/501100012579,,,,116
+10.13039/501100006054,Q641889,MX,Universidad de Guanajuato,117
+10.13039/501100012166,,,,118
+10.13039/100007802,Q11579094,JP,Institute for Fermentation,119
+10.13039/501100006345,Q1752712,PL,Nicolaus Copernicus University in Toruń,120
+10.13039/501100007288,Q766248,TH,Mahasarakham University,121
+10.13039/501100004704,Q30296571,TH,National Research Council of Thailand,122
+10.13039/501100001655,Q696935,DE,German Academic Exchange Service,123
+10.13039/501100003453,,,,124
+10.13039/100009377,Q30297368,CN,Education Department of Hunan Province,125
+10.13039/501100004761,Q45134149,CN,Natural Science Foundation of Hainan Province,126
+10.13039/501100005090,Q30296511,CN,Beijing Municipal Science & Technology Commission,127
+10.13039/501100005912,Q30262967,IN,National Bureau of Agriculturally Important Microorganisms,128
+10.13039/501100002923,Q6978293,AR,National Scientific and Technical Research Council,129
+10.13039/501100006668,Q45133713,AR,,130
+10.13039/501100001138,Q4823886,AU,Australian Biological Resources Study,131
+10.13039/501100001160,Q30296828,AU,Australian Society for Parasitology,132
+10.13039/501100001700,Q1054379,JP,"Ministry of Education, Culture, Sports, Science and Technology",133
+10.13039/100005825,Q11683311,US,National Institute of Food and Agriculture,134
+10.13039/100006959,Q1891156,US,United States Forest Service,135
+10.13039/100008247,Q1201513,NZ,University of Otago,136
+10.13039/100003231,Q30296646,US,PADI Foundation,137
+10.13039/100008190,Q30296743,AU,Equity Trustees,138
+10.13039/100009034,Q505518,AU,Sea World,139
+10.13039/501100001794,Q866012,AU,University of Queensland,140
+10.13039/501100005288,Q29184143,BR,Foundation for Research Support of the State of Pará,141
+10.13039/100000057,Q6973666,US,National Institute of General Medical Sciences,142
+10.13039/501100000979,Q5454885,AU,Fisheries Research and Development Corporation,143
+10.13039/501100007601,,,,144
+10.13039/501100003508,Q383568,ES,University of Valencia,145
+10.13039/100007841,Q11626125,TW,Council of Agriculture (Republic of China),146
+10.13039/501100007051,Q185246,SE,Uppsala University,147
+10.13039/501100006162,Q29184766,BR,Fundação de Amparo à Ciência e Tecnologia de Pernambuco,148
+10.13039/501100008530,Q1361297,,European Regional Development Fund,149
+10.13039/501100001823,Q11781505,CZ,"Ministry of Education, Youth and Sports",150
+10.13039/501100003194,Q45131885,SK,"Agentúra Ministerstva školstva, vedy, výskumu a športu SR",151
+10.13039/501100002661,Q2600910,BE,National Fund for Scientific Research,152
+10.13039/501100002749,Q2328260,BE,Federal Public Planning Service Science Policy,153
+10.13039/501100002910,Q89959,BE,French Community of Belgium,154
+10.13039/100007861,Q16969547,US,Institute of Food and Agricultural Sciences,155
+10.13039/501100004192,Q5970603,TH,Thailand National Science and Technology Development Agency,156
+10.13039/501100007275,Q17062405,TH,Ministry of Science and Technology,157
+10.13039/100007917,Q2827151,US,Agricultural Research Service,158
+10.13039/501100008816,Q720958,LK,University of Sri Jayewardenepura,159
+10.13039/501100004351,Q1808326,OM,Sultan Qaboos University,160
+10.13039/501100015319,,,,161
+10.13039/501100003968,Q6066838,IR,Iran National Science Foundation,162
+10.13039/501100015634,,,,163
+10.13039/100017421,,,,164
+10.13039/501100015600,Q5613641,CN,Guangdong Ocean University,165
+10.13039/501100012688,Q159895,DE,University of Rostock,166
+10.13039/501100005746,Q265866,AR,Universidad Nacional del Litoral,167
+10.13039/501100001410,Q30297009,IN,Human Resource Development Group,168
+10.13039/100014809,,,,169
+10.13039/501100003141,Q5162816,MX,Consejo Nacional de Ciencia y Tecnología,170
+10.13039/501100020652,,,,171
+10.13039/100009092,Q2037040,ES,University of Alicante,172
+10.13039/501100010034,Q844581,TH,Walailak University,173
+10.13039/100011310,Q45137399,GB,Rural and Environment Science and Analytical Services Division,174
+10.13039/501100004071,Q368329,TH,Khon Kaen University,175
+10.13039/501100001332,Q849145,ZA,Council for Scientific and Industrial Research,176
+10.13039/501100005424,Q45137477,FI,Varsinais-Suomi Regional Fund,177
+10.13039/501100005609,Q501841,FI,University of Turku,178
+10.13039/501100004539,Q452406,TH,Kasetsart University,179
+10.13039/100010663,,,,180
+10.13039/501100003339,Q1024362,ES,Spanish National Research Council,181
+10.13039/501100011033,Q32826443,ES,Agencia Estatal de Investigación,182
+10.13039/501100004869,Q168426,DE,University of Münster,183
+10.13039/100000076,Q30299783,US,National Science Foundation Directorate for Biological Sciences,184
+10.13039/100007631,Q5030174,CA,Canadian Institute for Advanced Research,185
+10.13039/100016884,,,,186
+10.13039/100007386,Q30296986,IT,Fondazione Cassa di Risparmio di Modena,187
+10.13039/100016698,,,,188
+10.13039/501100004837,Q3315331,ES,Ministry of Science and Innovation,189
+10.13039/100000154,Q30299792,US,Division of Integrative Organismal Systems,190
+10.13039/501100006181,Q5508994,BR,Fundação de Amparo à Pesquisa do Estado da Bahia,191
+10.13039/501100005412,Q3707072,IR,Shahid Chamran University of Ahvaz,192
+10.13039/100019789,,,,193
+10.13039/501100004410,Q2096577,TR,TÜBİTAK,194
+10.13039/501100003758,Q29183938,BR,Foundation for Research and Scientific and Technological Development of Maranhão,195
+10.13039/501100006447,Q206702,CH,University of Zurich,196
+10.13039/100010100,Q1428711,CZ,University of South Bohemia in České Budějovice,197
+10.13039/501100007907,Q2749442,IN,"Ministry of Environment, Forest and Climate Change",198
+10.13039/501100014345,,,,199
+10.13039/501100019236,,,,200
+10.13039/100014440,Q54834070,ES,"Ministry of Science, Innovation and Universities",201
+10.13039/501100000780,Q8880,BE,European Commission,202
+10.13039/501100002809,Q8022,ES,Generalitat of Catalonia,203
+10.13039/501100003030,Q25424116,ES,Agency for Administration of University and Research,204
+10.13039/501100004895,Q752343,,European Social Fund Plus,205
+10.13039/501100002367,Q530471,CN,Chinese Academy of Sciences,206
+10.13039/501100000831,Q309388,GB,Natural History Museum,207
+10.13039/501100003443,Q2625105,RU,Ministry of Education and Science of the Russian Federation,208
+10.13039/501100000275,Q6535298,GB,Leverhulme Trust,209
+10.13039/501100003524,Q6866650,NZ,"Ministry of Business, Innovation and Employment",210
+10.13039/501100011002,,,,211
+10.13039/501100002383,Q1752043,SA,King Saud University,212
+10.13039/501100001732,Q12307230,DK,Danish National Research Foundation,213
+10.13039/501100002808,Q1043358,DK,Carlsberg Foundation,214
+10.13039/501100004285,Q27621,RU,Saint Petersburg State University,215
+10.13039/501100000921,Q1024175,BE,European Cooperation in Science and Technology,216
+10.13039/501100008770,Q483758,TR,Anadolu University,217
+10.13039/501100010203,,,,218
+10.13039/501100017668,,,,219
+10.13039/501100004826,Q45133688,CN,Natural Science Foundation of Beijing Municipality,220
+10.13039/100007594,Q31392,SK,Comenius University,221
+10.13039/501100005357,Q30296523,SK,Slovak Research and Development Agency,222
+10.13039/501100006109,,,,223
+10.13039/501100011841,,,,224
+10.13039/501100007128,Q45135043,CN,Natural Science Foundation of Shaanxi Province,225
+10.13039/501100012659,,,,226
+10.13039/501100003562,Q488961,KR,Ministry of Environment,227
+10.13039/501100003621,Q482761,KR,"Ministry of Science, ICT and Future Planning",228
+10.13039/501100021829,,,,229
+10.13039/501100004195,Q1074015,CN,Ocean University of China,230
+10.13039/501100015407,Q30296375,CN,Guangxi Academy of Agricultural Science,231
+10.13039/501100011045,Q2726949,FR,Ministry of Higher Education and Research,232
+10.13039/501100011697,,,,233
+10.13039/501100017644,,,,234
+10.13039/100013092,,,,235
+10.13039/501100008702,,,,236
+10.13039/501100004564,Q16664620,RS,"Ministry of Education, Science and Technological Development of the Republic of Serbia",237
+10.13039/501100003074,Q30297386,AR,Agencia Nacional de Promoción Científica y Tecnológica,238
+10.13039/501100007350,Q30264286,GT,Consejo Nacional de Ciencia y Tecnología,239
+10.13039/100000139,Q460173,US,United States Environmental Protection Agency,240
+10.13039/100012796,,,,241
+10.13039/100005966,Q28972841,US,Leakey Foundation,242
+10.13039/100006363,Q167186,US,National Geographic Society,243
+10.13039/100016761,Q902706,US,Cleveland Museum of Natural History,244
+10.13039/501100000277,Q3044721,GB,"Department for Environment, Food and Rural Affairs",245
+10.13039/100012527,Q16305079,TH,Office of the Higher Education Commission,246
+10.13039/501100002873,Q855730,TH,Chulalongkorn University,247
+10.13039/501100014795,,,,248
+10.13039/501100017170,,,,249
+10.13039/501100013072,,,,250
+10.13039/501100005031,Q854682,IN,Bhabha Atomic Research Centre,251
+10.13039/501100012274,,,,252
+10.13039/100001250,Q21015828,US,Morris Animal Foundation,253
+10.13039/100010897,,,,254
+10.13039/501100006454,Q30292252,CH,Federal Food Safety and Veterinary Office,255
+10.13039/501100007103,Q7449718,IR,Semnan University,256
+10.13039/501100005739,Q222738,MX,National Autonomous University of Mexico,257
+10.13039/501100004087,Q1151045,JP,Shizuoka University,258
+10.13039/501100005946,Q1057199,JP,Hokkaido University,259
+10.13039/100015060,,,,260
+10.13039/501100003093,Q3893588,MY,Ministry of Higher Education,261
+10.13039/501100000925,Q6973022,AU,National Health and Medical Research Council,262
+10.13039/501100000996,Q3055310,AU,Department of Foreign Affairs and Trade,263
+10.13039/100009619,Q23010232,JP,Japan Agency for Medical Research and Development,264
+10.13039/501100004156,Q626804,TH,Mahidol University,265
+10.13039/501100002855,Q839875,CN,Ministry of Science and Technology of the People's Republic of China,266
+10.13039/501100003787,Q45134219,CN,Natural Science Foundation of Hebei Province,267
+10.13039/501100014825,,,,268
+10.13039/501100004792,,,,269
+10.13039/501100004793,Q112085365,FR,"Ministère de l'Education Nationale, de l'Enseignement Supérieur et de la Recherche",270
+10.13039/501100015723,Q1319786,FR,Clermont Auvergne University,271
+10.13039/501100015515,,,,272
+10.13039/501100004697,Q6559935,IR,Hamadan University of Medical Sciences,273
+10.13039/100007449,Q11546221,JP,Takeda Science Foundation,274
+10.13039/501100013996,,,,275
+10.13039/501100008641,Q5116334,TW,Chung Shan Medical University,276
+10.13039/501100009730,,,,277
+10.13039/501100003196,Q745634,IT,Ministry of Health,278
+10.13039/501100003407,Q1307461,IT,"Ministry of Education, Universities and Research",279
+10.13039/501100007163,Q112113506,MX,General Directorate of Technological Higher Education,280
+10.13039/501100009432,,,,281
+10.13039/501100008828,Q11179769,CN,Heilongjiang Bayi Agricultural University,282
+10.13039/501100009410,Q1235594,ES,University of Lleida,283
+10.13039/501100004775,Q45133911,CN,Natural Science Foundation of Gansu Province,284
+10.13039/501100013804,,,,285
+10.13039/501100001409,Q3595663,IN,Department of Science and Technology,286
+10.13039/501100010803,,,,287
+10.13039/100000865,Q655286,US,Bill & Melinda Gates Foundation,288
+10.13039/501100002241,Q11595927,JP,Japan Science and Technology Agency,289
+10.13039/100016979,Q1135937,JP,Obihiro University of Agriculture and Veterinary Medicine,290
+10.13039/100014423,Q11574038,JP,Environmental Restoration and Conservation Agency,291
+10.13039/501100004739,Q30296596,CN,Youth Innovation Promotion Association,292
+10.13039/501100012262,Q22100881,CN,Nanjing Institute of Geology and Paleontology,293
+10.13039/501100013494,,,,294
+10.13039/501100011190,Q6444881,CN,Kunming Institute of Botany,295
+10.13039/501100005197,Q30279645,CN,Chinese Academy of Forestry,296
+10.13039/501100007825,Q5975403,CN,State Forestry Administration of the People's Republic of China,297
+10.13039/501100002631,Q56147,KR,Gachon University,298
+10.13039/501100011908,Q6431670,KR,Korea National Arboretum,299
+10.13039/100007229,Q13371,US,Harvard University,300
+10.13039/501100012226,,,,301
+10.13039/100015750,,,,302
+10.13039/501100000270,Q4272261,GB,Natural Environment Research Council,303
+10.13039/501100011798,Q50484565,CN,Ministry of Agriculture and Rural Affairs of the People's Republic of China,304
+10.13039/501100018537,Q30297344,CN,National Science and Technology Major Project,305
+10.13039/100010743,Q6963657,CN,Nanjing Forestry University,306
+10.13039/100000936,Q3070474,US,Gordon and Betty Moore Foundation,307
+10.13039/501100004052,Q1463036,SA,King Abdullah University of Science and Technology,308
+10.13039/100007397,Q31519,CZ,Charles University,309
+10.13039/100006755,Q45137561,US,"School of Life Sciences, Arizona State University",310
+10.13039/100013825,,,,311
+10.13039/100007543,Q45134893,CZ,Charles University Grant Agency,312
+10.13039/100008231,,,,313
+10.13039/501100004755,Q7896530,CZ,"University of Veterinary and Pharmaceutical Sciences, Brno",314
+10.13039/501100004001,Q30297413,CN,Guizhou Provincial Science and Technology Department,315
+10.13039/100004421,Q7164,US,World Bank,316
+10.13039/501100020277,,,,317
+10.13039/501100020278,,,,318
+10.13039/501100010751,Q95951974,PE,"Fondo Nacional de Desarrollo Científico, Tecnológico y de Innovación Tecnológica",319
+10.13039/100000199,Q501542,US,United States Department of Agriculture,320
+10.13039/100007250,Q1939211,US,Mississippi State University,321
+10.13039/100007579,Q540672,US,Auburn University,322
+10.13039/501100022077,,,,323
+10.13039/501100008431,Q45136095,ES,"Ministry of Education, Government of Castile-Leon",324
+10.13039/501100014180,,,,325
+10.13039/100010269,Q706247,GB,Wellcome,326
+10.13039/501100003130,Q13636795,BE,Research Foundation - Flanders,327
+10.13039/501100004385,Q1137665,BE,Ghent University,328
+10.13039/501100015737,,,,329
+10.13039/501100004442,Q11789682,PL,National Science Centre Poland,330
+10.13039/501100005908,Q699656,DE,"Federal Ministry of Food, Agriculture and Consumer Protection",331
+10.13039/100009068,Q659080,CH,University of Bern,332
+10.13039/501100010812,Q1391025,DE,Agency for Renewable Resources,333
+10.13039/501100011056,Q4294670,ZA,"Department of Agriculture, Forestry and Fisheries",334
+10.13039/501100004387,Q4391363,CN,Ningbo University,335
+10.13039/501100018544,,,,336
+10.13039/501100001869,Q337266,TW,Academia Sinica,337
+10.13039/100000002,Q390551,US,National Institutes of Health,338
+10.13039/100005835,Q217717,US,American Museum of Natural History,339
+10.13039/100010389,Q2843017,US,American Society of Mammalogists,340
+10.13039/501100004609,Q30296603,CN,Education Department of Henan Province,341
+10.13039/501100000646,Q50357031,GB,Japan Society for the Promotion of Science,342
+10.13039/501100006004,Q1062129,JP,Tohoku University,343
+10.13039/501100001421,Q2749442,IN,"Ministry of Environment, Forest and Climate Change",344
+10.13039/501100001502,Q3523073,IN,Department of Atomic Energy,345
+10.13039/501100014188,,,,346
+10.13039/501100001734,Q186285,DK,University of Copenhagen,347
+10.13039/501100004836,Q12308341,DK,Independent Research Fund Denmark,348
+10.13039/100008135,Q1026926,US,"California State University, Long Beach",349
+10.13039/100013235,Q5146647,US,College of Arts and Sciences,350
+10.13039/501100000923,Q4824612,AU,Australian Research Council,351
+10.13039/501100017529,,,,352
+10.13039/501100002428,Q383273,AT,Austrian Science Fund,353
+10.13039/100004410,Q1376791,DE,European Molecular Biology Organization,354
+10.13039/501100004569,Q4294468,PL,Ministry of Science and Higher Education,355
+10.13039/501100002850,Q5863568,CL,National Fund for Scientific and Technological Development,356
+10.13039/501100020884,,,,357
+10.13039/100016927,,,,358
+10.13039/501100006397,Q706712,TW,National Taiwan Normal University,359
+10.13039/501100001321,Q6978050,ZA,National Research Foundation,360
+10.13039/100006686,Q738258,US,University of Miami,361
+10.13039/100006405,Q465985,US,American Ornithological Society,362
+10.13039/100014080,,,,363
+10.13039/501100003086,Q2554299,ES,Basque Government,364
+10.13039/501100003451,Q1232428,ES,University of the Basque Country,365
+10.13039/501100004233,Q2003976,ES,Technical University of Valencia,366
+10.13039/501100001793,Q1144750,AU,Queensland University of Technology,367
+10.13039/100010661,Q13583472,,Horizon 2020,368
+10.13039/100010665,Q6762810,,Marie Skłodowska-Curie Actions,369
+10.13039/501100004912,Q2281517,CN,Sichuan University,370
+10.13039/501100015471,Q85756401,AU,"Department of Agriculture, Water and the Environment",371
+10.13039/100014013,Q38609561,GB,UK Research and Innovation,372
+10.13039/100011484,Q7054616,US,North Carolina State University College of Agriculture and Life Sciences,373
+10.13039/100013847,Q7413726,,San Diego State University College of Arts & Letters,374
+10.13039/100008175,,,,375
+10.13039/501100006273,Q138691,FR,Bureau de Recherches Géologiques et Minières,376
+10.13039/501100004613,Q5099694,CN,China Geological Survey,377
+10.13039/501100007504,Q344334,TR,Istanbul Technical University,378
+10.13039/100010841,Q1626671,US,Paleontological Society,379
+10.13039/100011375,Q7127175,US,Paleontological Research Institution,380
+10.13039/501100003500,Q193510,IT,University of Padua,381
+10.13039/501100013314,,,,382
+10.13039/501100004359,Q7654827,SE,Swedish Research Council,383
+10.13039/501100004230,Q12586319,KR,Korea Polar Research Institute,384
+10.13039/501100020693,,,,385
+10.13039/501100003947,Q784171,AR,National University of La Plata,386
+10.13039/501100000288,Q123885,GB,Royal Society,387
+10.13039/100015872,Q3551621,FR,University of Lille,388
+10.13039/501100007856,Q500740,FR,Lille University of Science and Technology,389
+10.13039/501100010095,,,,390
+10.13039/501100008789,Q45134163,IN,"Department of Science and Technology, Government of West Bengal",391
+10.13039/501100010963,Q8310414,CZ,Institute of Parasitology of the Czech Academy of Sciences,392
+10.13039/100004419,Q5013851,US,CRDF Global,393
+10.13039/100010499,Q45133298,US,"BioFrontiers Institute, University of Colorado Colorado Springs",394
+10.13039/100014455,,,,395
+10.13039/100000893,Q28148561,US,Simons Foundation,396
+10.13039/501100004607,Q45134055,CN,Natural Science Foundation of Guangxi Province,397
+10.13039/501100015763,Q369839,HU,University of Szeged,398
+10.13039/501100018818,,,,399
+10.13039/100007515,Q30285994,US,National Youth Science Foundation,400
+10.13039/100002861,Q2411202,US,The Explorers Club,401
+10.13039/100016214,,,,402
+10.13039/501100004352,Q670307,TH,Suranaree University of Technology,403
+10.13039/501100005200,Q30264199,CN,Bureau of International Cooperation,404
+10.13039/501100009075,Q30262630,CN,Guangdong Academy of Science,405
+10.13039/501100001403,Q782682,IN,Indian Institute of Technology Kanpur,406
+10.13039/501100001862,Q10497831,SE,Formas,407
+10.13039/501100002869,Q156737,DE,University of Kiel,408
+10.13039/501100006645,Q30264255,AU,National Landcare Programme,409
+10.13039/501100000040,Q1046164,CA,Agriculture and Agri-Food Canada,410
+10.13039/501100004381,Q1144262,CA,Western University,411
+10.13039/501100005881,Q989266,HU,Ministry of Human Capacities,412
+10.13039/501100011019,,,,413
+10.13039/501100005046,Q45134286,CN,Natural Science Foundation of Heilongjiang Province,414
+10.13039/100008744,Q4744833,US,American Rhododendron Society,415
+10.13039/501100005668,Q10286429,BR,Foundation for Research Support of the Federal District,416
+10.13039/100006229,Q7073702,US,Oak Ridge Institute for Science and Education,417
+10.13039/100009495,Q45132419,NZ,"Faculty of Science, Victoria University of Wellington",418
+10.13039/100001364,,,,419
+10.13039/501100006182,Q30264219,BR,Fundação de Amparo à Pesquisa do Espírito Santo,420
+10.13039/100007225,Q10743658,VN,Ministry of Science and Technology,421
+10.13039/100007142,Q30264576,US,Idea Wild,422
+10.13039/100014263,,,,423
+10.13039/501100005285,Q29183994,BR,Fundação de Apoio a Pesquisa do Estado de Goiás,424
+10.13039/100009472,Q33121730,BR,Boticário Group Foundation,425
+10.13039/501100015997,,,,426
+10.13039/501100005286,Q29184310,BR,Fundação de Amparo à Pesquisa do Estado de Mato Grosso,427
+10.13039/501100010067,,,,428
+10.13039/501100003010,Q1297001,TR,Ege University,429
+10.13039/100007406,Q30296991,ES,Fundación BBVA,430
+10.13039/501100003549,Q12815593,HU,Hungarian Scientific Research Fund,431
+10.13039/501100010024,,,,432
+10.13039/100010952,Q1420782,US,Museum of Comparative Zoology,433
+10.13039/501100004916,Q29184025,BR,Fundação de Amparo à Pesquisa do Estado do Amazonas,434
+10.13039/501100011820,,,,435
+10.13039/501100000782,Q764847,FR,European Science Foundation,436
+10.13039/501100012164,,,,437
+10.13039/501100013795,Q5507368,CN,Fujian Medical University,438
+10.13039/100008725,Q30297336,UY,Agencia Nacional de Investigación e Innovación,439
+10.13039/501100006143,Q3595663,IN,Department of Science and Technology,440
+10.13039/100013326,,,,441
+10.13039/501100002924,Q30296516,ES,Federación Española de Enfermedades Raras,442
+10.13039/100013633,,,,443
+10.13039/501100003711,,,,444
+10.13039/501100004565,Q30296765,BN,Ministry of Education,445
+10.13039/100016472,Q4742996,,American Arachnological Society,446
+10.13039/100017651,,,,447
+10.13039/100001451,Q4740843,US,Amazon Conservation Association,448
+10.13039/501100001509,Q609093,NZ,Royal Society Te Apārangi,449
+10.13039/501100004343,Q1726129,GR,Stavros Niarchos Foundation,450
+10.13039/100000138,Q861556,US,United States Department of Education,451
+10.13039/100000202,Q674113,US,United States Fish and Wildlife Service,452
+10.13039/100006596,Q5461376,US,Florida Fish and Wildlife Conservation Commission,453
+10.13039/100000014,Q131626,US,Smithsonian Institution,454
+10.13039/100006271,Q148554,US,National Museum of Natural History,455
+10.13039/501100006087,Q45136210,MX,"DGAPA, UNAM",456
+10.13039/100006108,Q16932123,US,National Center for Advancing Translational Sciences,457
+10.13039/100000005,Q11209,US,United States Department of Defense,458
+10.13039/100007270,Q230492,US,University of Michigan,459
+10.13039/100010002,Q697093,TW,Ministry of Education,460
+10.13039/100007797,Q28695,FI,University of Helsinki,461
+10.13039/501100004809,Q5449568,BR,Financiadora de Estudos e Projetos,462
+10.13039/100009152,Q30271466,CH,Fondation Bertarelli,463
+10.13039/501100003329,Q27703163,ES,"Ministry of Economy, Industry and Competitiveness",464
+10.13039/501100001381,Q30297407,SG,National Research Foundation,465
+10.13039/100001399,Q117892,,World Wide Fund for Nature,466
+10.13039/501100022397,,,,467
+10.13039/501100004263,Q10286424,BR,Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul,468
+10.13039/501100018554,,,,469
+10.13039/100016711,,,,470
+10.13039/100008398,Q7931130,DK,Villum Foundation,471
+10.13039/100007636,Q1202253,DE,German Federal Environmental Foundation,472
+10.13039/501100013076,,,,473
+10.13039/501100008787,Q10855566,KR,National Institute of Fisheries Science,474
+10.13039/501100004396,Q1702646,TH,Thailand Research Fund,475
+10.13039/501100005621,,,,476
+10.13039/501100002527,Q483189,KR,Kyonggi University,477
+10.13039/501100002848,Q2985226,CL,CONICYT,478
+10.13039/501100005147,Q45132397,CN,Applied Basic Research Key Project of Yunnan,479
+10.13039/501100008921,Q45135365,CN,China Tobacco Guizhou Industrial,480
+10.13039/501100010871,,,,481
+10.13039/501100010905,,,,482
+10.13039/501100003668,Q30296529,KR,"Korea Institute of Planning and Evaluation for Technology in Food, Agriculture, Forestry and Fisheries",483
+10.13039/501100006003,Q30296690,ES,Fundación General,484
+10.13039/501100010198,,,,485
+10.13039/501100013948,,,,486
+10.13039/501100010031,,,,487
+10.13039/501100012269,,,,488
+10.13039/501100013093,,,,489
+10.13039/100011094,Q2826604,CA,Public Health Agency of Canada,490
+10.13039/501100012309,,,,491
+10.13039/501100003401,Q45132861,BR,Alagoas State Research Foundation,492
+10.13039/501100012544,,,,493
+10.13039/501100003993,Q1376786,JP,"Ministry of Agriculture, Forestry and Fisheries",494
+10.13039/501100003072,,,,495
+10.13039/501100021180,,,,496
+10.13039/501100010823,,,,497
+10.13039/100007014,Q5167909,US,"Cooperative State Research, Education, and Extension Service",498
+10.13039/501100012230,,,,499
+10.13039/501100004360,Q1312762,SE,Swedish University of Agricultural Sciences,500
+10.13039/501100011496,,,,501
+10.13039/100012540,,,,502
+10.13039/501100012692,,,,503
+10.13039/501100013142,,,,504
+10.13039/501100003700,Q30253819,KR,Korea Institute of Geoscience and Mineral Resources,505
+10.13039/501100008783,Q18815340,KR,National Research Council of Science and Technology,506
+10.13039/501100004731,Q30296507,CN,Zhejiang Provincial Natural Science Foundation,507
+10.13039/501100012239,,,,508
+10.13039/501100012248,,,,509
+10.13039/501100002941,Q45135820,CL,"Departamento de Investigaciones Científicas y Tecnológicas, Universidad de Santiago de Chile",510
+10.13039/100015081,,,,511
+10.13039/501100006110,Q45137142,IR,"College of Agriculture Natural Resources, University of Tehran",512
+10.13039/501100003495,Q1615996,DE,Hessian Ministry for Science and the Arts,513
+10.13039/501100007162,Q30297352,CN,Guangdong Science and Technology Department,514
+10.13039/501100011844,,,,515
+10.13039/501100003357,Q33121657,CH,Gebert Rüf Stiftung,516
+10.13039/100016287,,,,517
+10.13039/501100014911,,,,518
+10.13039/501100005270,Q30296675,CN,Fujian Provincial Department of Science and Technology,519
+10.13039/501100015017,,,,520
+10.13039/501100000146,Q30279646,CA,Alberta Innovates,521
+10.13039/501100003627,Q11232895,KR,Rural Development Administration,522
+10.13039/501100011088,Q111643013,MX,Instituto Nacional de la Pesca,523
+10.13039/501100004329,Q12792240,SI,Slovenian Research Agency,524
+10.13039/501100004937,,,,525
+10.13039/100006132,Q7079302,US,Office of Science,526
+10.13039/501100015218,,,,527
+10.13039/501100003662,Q12623242,KR,Korea Evaluation Institute of Industrial Technology,528
+10.13039/100016691,,,,529
+10.13039/501100001054,Q6804254,AU,Meat and Livestock Australia,530
+10.13039/501100008916,Q5260137,AU,"Department of Agriculture, Fisheries and Forestry",531
+10.13039/501100000268,Q2904256,GB,Biotechnology and Biological Sciences Research Council,532
+10.13039/501100014175,,,,533
+10.13039/100000008,Q1177343,US,David and Lucile Packard Foundation,534
+10.13039/501100009193,,,,535
+10.13039/100000054,Q664846,US,National Cancer Institute,536
+10.13039/100006752,Q1049334,US,United States Army Corps of Engineers,537
+10.13039/501100001851,Q4294372,IN,Ministry of Earth Sciences,538
+10.13039/100001184,Q1666594,US,International Fund for Animal Welfare,539
+10.13039/501100014742,Q10982109,IN,Indian Council of Forestry Research and Education,540
+10.13039/501100018974,,,,541
+10.13039/100011150,Q384410,US,Global Environment Facility,542
+10.13039/100016195,,,,543
+10.13039/501100019402,Q3567811,IN,National Botanical Research Institute,544
+10.13039/501100001647,Q311801,DE,DESY,545
+10.13039/100007844,Q32751,TW,National Sun Yat-sen University,546
+10.13039/100013035,,,,547
+10.13039/501100009952,Q29520561,BR,Itaipu Technological Park Foundation,548
+10.13039/100018736,,,,549
+10.13039/100006759,Q5020425,US,California Department of Food and Agriculture,550
+10.13039/501100014785,Q4201427,RU,Koltzov Institute of Developmental Biology,551
+10.13039/501100002701,Q9404048,KR,Ministry of Education,552
+10.13039/100007637,Q4683466,CO,"Ministry of Science, Technology and Innovation",553
+10.13039/501100004508,Q1519696,TH,Prince of Songkla University,554
+10.13039/501100010801,Q1779601,ES,Xunta de Galicia,555
+10.13039/501100012151,,,,556
+10.13039/100015403,,,,557
+10.13039/501100009559,,,,558
+10.13039/501100004530,Q1458579,MY,University of Putra Malaysia,559
+10.13039/100000192,Q214700,US,National Oceanic and Atmospheric Administration,560
+10.13039/501100013211,,,,561
+10.13039/501100004735,Q45135540,CN,Natural Science Foundation of Hunan Province,562
+10.13039/501100004595,Q1973130,MY,University of Science Malaysia,563
+10.13039/501100018527,,,,564
+10.13039/501100000024,Q5030193,CA,Canadian Institutes of Health Research,565
+10.13039/501100000156,Q30296544,CA,Fonds de Recherche du Québec  Santé,566
+10.13039/100009823,Q1467508,US,Wisconsin Department of Natural Resources,567
+10.13039/501100000981,Q30296635,AU,Horticulture Innovation Australia Limited,568
+10.13039/100013397,,,,569
+10.13039/100000203,Q193755,US,United States Geological Survey,570
+10.13039/100010251,Q30283743,US,Washington State Department of Agriculture,571
+10.13039/100001073,Q7714561,US,The Arthur Vining Davis Foundations,572
+10.13039/501100009082,Q45134483,SG,Wildlife Reserves Singapore Conservation Fund,573
+10.13039/501100000943,Q1117048,AU,Commonwealth Scientific and Industrial Research Organisation,574
+10.13039/501100019491,,,,575
+10.13039/100008074,,,,576
+10.13039/501100010195,,,,577
+10.13039/100007801,Q30254654,ES,Fundación Seneca,578
+10.13039/501100012338,,,,579
+10.13039/501100003459,Q461033,CN,Guizhou University,580
+10.13039/501100007839,Q649882,CN,Yunnan University,581
+10.13039/100009080,Q45136896,US,LSU College of Science,582
+10.13039/501100013461,Q614203,CN,Anhui Normal University,583
+10.13039/501100010651,Q4570168,CN,Fujian Normal University,584
+10.13039/501100002729,Q545540,CN,Anhui University,585
+10.13039/501100013345,Q641676,NL,Naturalis Biodiversity Center,586
+10.13039/501100005329,Q45134107,CN,Natural Science Foundation of Guizhou Province,587
+10.13039/501100002341,Q414422,FI,Academy of Finland,588
+10.13039/501100003400,Q6867507,CA,Ministry of Research and Innovation,589
+10.13039/501100006400,Q7894245,MX,Universidad Autónoma del Estado de Hidalgo,590
+10.13039/100004913,Q7707495,,Texas AgriLife Research,591
+10.13039/100008647,Q1127365,US,Conservation International,592
+10.13039/501100015239,,,,593
+10.13039/501100005074,Q6448840,KW,Kuwait Institute for Scientific Research,594
+10.13039/501100007061,Q30264227,PA,"Secretaría Nacional de Ciencia, Tecnología e Innovación",595
+10.13039/100015522,Q965731,US,California Academy of Sciences,596
+10.13039/501100012216,Q11135052,CN,Jiangsu University of Science and Technology,597
+10.13039/501100002965,Q10869592,CN,Northeast Forestry University,598
+10.13039/501100007925,Q3429270,CN,Huazhong Agricultural University,599
+10.13039/100012899,,,,600
+10.13039/501100014769,,,,601
+10.13039/501100005187,Q547867,GR,National and Kapodistrian University of Athens,602
+10.13039/501100001799,Q1375146,AU,Murdoch University,603
+10.13039/100012046,Q7928484,VN,Vietnam Academy of Science and Technology,604
+10.13039/100009201,Q1673980,PA,Smithsonian Tropical Research Institute,605
+10.13039/501100011099,Q462763,DE,Deutsche Gesellschaft für Internationale Zusammenarbeit,606
+10.13039/501100000159,Q349770,CA,Natural Resources Canada,607
+10.13039/501100003545,Q4251321,BR,"Ministry of Science, Technology and Innovation",608
+10.13039/501100017486,,,,609
+10.13039/501100003988,Q1683113,JP,Japan Agency for Marine-Earth Science and Technology,610
+10.13039/501100019945,,,,611
+10.13039/100007684,Q720484,JP,AGC,612
+10.13039/501100003659,Q487077,KR,"National Science Museum, South Korea",613
+10.13039/501100003338,Q1005498,CH,Federal Office for the Environment,614
+10.13039/501100004488,Q30296546,HR,Croatian Science Foundation,615
+10.13039/501100011186,Q15944807,CN,"Institute of Zoology, Chinese Academy of Sciences",616
+10.13039/100004413,Q30296531,SE,International Foundation for Science,617
+10.13039/100013701,,,,618
+10.13039/100014595,,,,619
+10.13039/501100005414,Q498407,LV,University of Latvia,620
+10.13039/501100001264,Q867447,GB,Linnean Society of London,621
+10.13039/501100001772,Q1814435,AU,University of New England,622
+10.13039/501100007329,Q3117949,CO,University of Valle,623
+10.13039/501100004299,Q10865837,EC,"Secretariat of Higher Education, Science, Technology and Innovation",624

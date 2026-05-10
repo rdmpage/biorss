@@ -1,0 +1,246 @@
+Level 1	Level 2	Level 3	Level 4	Count
+				1766
+	Caulimoviridae	Soymovirus		1
+	Luteoviridae	Enamovirus		1
+	Partitiviridae			1
+	Poxviridae	Parapoxvirus		1
+	Triplophysa			1
+Animalia				103
+Animalia	Acanthocephala			3
+Animalia	Acanthocephala	Palaeacanthocephala		1
+Animalia	Ammodiscus	Ammodiscus pennyi		1
+Animalia	Annelida			11
+Animalia	Annelida	Clitellata		17
+Animalia	Annelida	Eisenia		1
+Animalia	Annelida	Polychaeta		44
+Animalia	Arthropoda			15
+Animalia	Arthropoda	Arachnida		403
+Animalia	Arthropoda	Branchiopoda		7
+Animalia	Arthropoda	Chilopoda		14
+Animalia	Arthropoda	Diplopoda		45
+Animalia	Arthropoda	Entognatha		21
+Animalia	Arthropoda	Hexanauplia		33
+Animalia	Arthropoda	Insecta		1668
+Animalia	Arthropoda	Malacostraca		130
+Animalia	Arthropoda	Maxillopoda		3
+Animalia	Arthropoda	Merostomata		2
+Animalia	Arthropoda	Ostracoda		17
+Animalia	Arthropoda	Pycnogonida		1
+Animalia	Arthropoda	Trilobita		11
+Animalia	Brachiopoda			1
+Animalia	Brachiopoda	Rhynchonellata		5
+Animalia	Brachiopoda	Strophomenata		2
+Animalia	Bryozoa			4
+Animalia	Bryozoa	Gymnolaemata		2
+Animalia	Bryozoa	Stenolaemata		1
+Animalia	Cephalorhyncha	Kinorhyncha		13
+Animalia	Cephalorhyncha	Loricifera		1
+Animalia	Chaetognatha	Sagittoidea		2
+Animalia	Chordata			6
+Animalia	Chordata	Actinopterygii		257
+Animalia	Chordata	Amphibia		122
+Animalia	Chordata	Ascidiacea		1
+Animalia	Chordata	Aves		92
+Animalia	Chordata	Balognathidae		1
+Animalia	Chordata	Bothriolepididae		1
+Animalia	Chordata	Elasmobranchii		11
+Animalia	Chordata	Histiodella		1
+Animalia	Chordata	Icriodontidae		1
+Animalia	Chordata	Idiognathodontidae		2
+Animalia	Chordata	Mammalia		159
+Animalia	Chordata	Reptilia		185
+Animalia	Chordata	Sarcopterygii		2
+Animalia	Chordata	Siphonodella		1
+Animalia	Chordata	Thaliacea		1
+Animalia	Cnidaria			4
+Animalia	Cnidaria	Anthozoa		28
+Animalia	Cnidaria	Cryptolichenariidae		1
+Animalia	Cnidaria	Hydrozoa		2
+Animalia	Cnidaria	Scyphozoa		9
+Animalia	Ctenophora			1
+Animalia	Echinodermata			3
+Animalia	Echinodermata	Asteroidea		2
+Animalia	Echinodermata	Blastocystis		1
+Animalia	Echinodermata	Crinoidea		2
+Animalia	Echinodermata	Echinoidea		2
+Animalia	Echinodermata	Holothuroidea		5
+Animalia	Echinodermata	Ophiuroidea		7
+Animalia	Echinodermata	Zeuxo		1
+Animalia	Entoprocta	Loxosomatidae		1
+Animalia	Eozoon			1
+Animalia	Euglena			2
+Animalia	Gastrotricha	Chaetonotida		2
+Animalia	Geodia			1
+Animalia	Hemichordata			1
+Animalia	Hemichordata	Enteropneusta		1
+Animalia	Mollusca			7
+Animalia	Mollusca	Bivalvia		28
+Animalia	Mollusca	Cephalopoda		12
+Animalia	Mollusca	Gastropoda		118
+Animalia	Mollusca	Laminaria		1
+Animalia	Mollusca	Monoplacophora		1
+Animalia	Mollusca	Polyplacophora		6
+Animalia	Myxozoa			4
+Animalia	Myxozoa	Myxosporea		3
+Animalia	Nematoda			15
+Animalia	Nematoda	Adenophorea		15
+Animalia	Nematoda	Secernentea		22
+Animalia	Nematomorpha			1
+Animalia	Nemertea			3
+Animalia	Nemertea	Pilidiophora		2
+Animalia	Plasmodium	Plasmodium falciparum		5
+Animalia	Plasmodium	Plasmodium malariae		1
+Animalia	Platyhelminthes			5
+Animalia	Platyhelminthes	Cestoda		18
+Animalia	Platyhelminthes	Fecampiida		1
+Animalia	Platyhelminthes	Monogenea		9
+Animalia	Platyhelminthes	Polycladida		4
+Animalia	Platyhelminthes	Rhabdocoela		2
+Animalia	Platyhelminthes	Trematoda		34
+Animalia	Platyhelminthes	Tricladida		2
+Animalia	Porifera			1
+Animalia	Porifera	Clathrodictyidae		1
+Animalia	Porifera	Demospongiae		10
+Animalia	Porifera	Homoscleromorpha		1
+Animalia	Rhombocorniculum	Helenia cancellata		1
+Animalia	Rotifera			2
+Animalia	Rusophycus			1
+Animalia	Tardigrada			2
+Animalia	Tardigrada	Eutardigrada		9
+Animalia	Tardigrada	Heterotardigrada		2
+Animalia	Xenacoelomorpha	Acoela		1
+Archaea				1
+Archaea	Crenarchaeota	Thermoprotei		4
+Archaea	Euryarchaeota	Halobacteria		8
+Archaea	Euryarchaeota	Methanomicrobia		1
+Bacillus				1
+Bacteria				9
+Bacteria	Acidobacteria	Acidobacteriales		2
+Bacteria	Acidobacteria	Holophagae		1
+Bacteria	Actinobacteria			2
+Bacteria	Actinobacteria	Actinobacteria		2
+Bacteria	Actinobacteria	Actinomycetales		115
+Bacteria	Bacteroidetes			2
+Bacteria	Bacteroidetes	Bacteroidia		9
+Bacteria	Bacteroidetes	Cytophagia		17
+Bacteria	Bacteroidetes	Flavobacteriia		40
+Bacteria	Bacteroidetes	Sphingobacteriia		5
+Bacteria	Cyanobacteria			14
+Bacteria	Cyanobacteria	Cyanophyceae		11
+Bacteria	Deinococcus-thermus	Deinococci		3
+Bacteria	Firmicutes			1
+Bacteria	Firmicutes	Bacilli		47
+Bacteria	Firmicutes	Clostridia		18
+Bacteria	Firmicutes	Erysipelotrichia		4
+Bacteria	Planctomycetes			3
+Bacteria	Planctomycetes	Planctomycetacia		3
+Bacteria	Proteobacteria			4
+Bacteria	Proteobacteria	Alphaproteobacteria		63
+Bacteria	Proteobacteria	Betaproteobacteria		31
+Bacteria	Proteobacteria	Deltaproteobacteria		9
+Bacteria	Proteobacteria	Epsilonproteobacteria		8
+Bacteria	Proteobacteria	Gammaproteobacteria		100
+Bacteria	Spirochaetae	Spirochaetes		2
+Bacteria	Synergistetes	Synergistia		1
+Bacteria	Tenericutes	Mycoplasmatales		2
+Bacteria	Thermotogae	Thermotogae		1
+Bacteria	Verrucomicrobia			1
+Bacteria	Verrucomicrobia	Verrucomicrobiae		3
+Chromista				3
+Chromista	Ciliophora			42
+Chromista	Ciliophora	Cyrtophoria		1
+Chromista	Ciliophora	Gymnostomatea		1
+Chromista	Ciliophora	Heterotrichea		4
+Chromista	Ciliophora	Hypotrichea		3
+Chromista	Ciliophora	Karyorelictea		4
+Chromista	Ciliophora	Nassophorea		1
+Chromista	Ciliophora	Oligohymenophorea		6
+Chromista	Ciliophora	Prostomatea		1
+Chromista	Cryptophyta	Cryptophyceae		4
+Chromista	Foraminifera			8
+Chromista	Foraminifera	Globothalamea		5
+Chromista	Foraminifera	Lagenida		1
+Chromista	Haptophyta			1
+Chromista	Haptophyta	Prymnesiophyceae		3
+Chromista	Heliozoa	Centrohelida		1
+Chromista	Myzozoa			1
+Chromista	Myzozoa	Aconoidasida		3
+Chromista	Myzozoa	Conoidasida		16
+Chromista	Myzozoa	Dinophyceae		19
+Chromista	Ochrophyta			1
+Chromista	Ochrophyta	Bacillariophyceae		68
+Chromista	Ochrophyta	Chrysophyceae		6
+Chromista	Ochrophyta	Eustigmatophyceae		3
+Chromista	Ochrophyta	Phaeophyceae		6
+Chromista	Ochrophyta	Raphidophyceae		1
+Chromista	Oomycota	Bigyromonadea		2
+Chromista	Oomycota	Peronosporea		11
+Chromista	Radiozoa	Polycystina		1
+Fungi				6
+Fungi	Ascomycota			35
+Fungi	Ascomycota	Arthoniomycetes		4
+Fungi	Ascomycota	Dothideomycetes		52
+Fungi	Ascomycota	Eurotiomycetes		22
+Fungi	Ascomycota	Gangliostilbe		1
+Fungi	Ascomycota	Geoglossomycetes		3
+Fungi	Ascomycota	Laboulbeniomycetes		2
+Fungi	Ascomycota	Lecanoromycetes		42
+Fungi	Ascomycota	Leotiomycetes		25
+Fungi	Ascomycota	Lichinomycetes		3
+Fungi	Ascomycota	Orbiliomycetes		1
+Fungi	Ascomycota	Pezizomycetes		15
+Fungi	Ascomycota	Saccharomycetes		19
+Fungi	Ascomycota	Sordariomycetes		107
+Fungi	Basidiomycota			25
+Fungi	Basidiomycota	Agaricomycetes		210
+Fungi	Basidiomycota	Dacrymycetes		4
+Fungi	Basidiomycota	Pucciniomycetes		6
+Fungi	Basidiomycota	Tremellomycetes		2
+Fungi	Basidiomycota	Ustilaginomycetes		1
+Fungi	Chytridiomycota			1
+Fungi	Chytridiomycota	Chytridiomycetes		3
+Fungi	Chytridiomycota	Neocallimastigomycetes		1
+Fungi	Glomeromycota			3
+Fungi	Glomeromycota	Glomeromycetes		3
+Fungi	Mallomonas			1
+Fungi	Tappania			1
+Fungi	Zygomycota	Entomophthoromycetes		2
+Fungi	Zygomycota	Mucoromycetes		3
+Fungi	Zygomycota	Zoopagomycetes		1
+Plantae				5
+Plantae	Bryophyta			5
+Plantae	Bryophyta	Bryopsida		21
+Plantae	Charophyta	Charophyceae		3
+Plantae	Charophyta	Zygnematophyceae		2
+Plantae	Chlorophyta			7
+Plantae	Chlorophyta	Chlorophyceae		6
+Plantae	Chlorophyta	Trebouxiophyceae		3
+Plantae	Chlorophyta	Ulvophyceae		3
+Plantae	Enzonalasporites			1
+Plantae	Ghoshiasporites			1
+Plantae	Marchantiophyta			2
+Plantae	Marchantiophyta	Jungermanniopsida		14
+Plantae	Marchantiophyta	Marchantiopsida		7
+Plantae	Rhodophyta			10
+Plantae	Rhodophyta	Florideophyceae		17
+Plantae	Striatites			1
+Plantae	Tracheophyta			17
+Plantae	Tracheophyta	Cycadopsida		4
+Plantae	Tracheophyta	Gnetopsida		5
+Plantae	Tracheophyta	Liliopsida		314
+Plantae	Tracheophyta	Lycopodiopsida		15
+Plantae	Tracheophyta	Magnoliopsida		958
+Plantae	Tracheophyta	Pinopsida		24
+Plantae	Tracheophyta	Polypodiopsida		52
+Plantae	Tracheophyta	Trimerophytaceae		1
+Protozoa				1
+Protozoa	Amoebozoa			14
+Protozoa	Amoebozoa	Lobosa		11
+Protozoa	Choanozoa	Choanoflagellatea		5
+Protozoa	Difflugia			2
+Protozoa	Euglenozoa	Euglenoidea		1
+Protozoa	Euglenozoa	Kinetoplastea		7
+Protozoa	Filosia	Aconchulinida		2
+Protozoa	Lancettopsis			1
+Protozoa	Microsporidia	Microsporea		7
+Protozoa	Mycetozoa	Myxomycetes		16
