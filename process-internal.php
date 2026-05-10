@@ -31,11 +31,15 @@ $files = scandir($latest_dir);
 
 //$files = array('zxxb.json');
 
+print_r($files);
+
 foreach ($files as $filename)
 {
 	// Process JSON files
 	if (preg_match('/\.json$/', $filename))
 	{	
+		echo "Processing $filename\n\n";
+	
 		$json = file_get_contents($latest_dir . '/' . $filename);
 
 		$dataFeed = json_decode($json);

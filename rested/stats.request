@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>baseURL</key>
-	<string>admin:couchdb@95.217.23.82:5984/biorss/_design/key/_view/doi_agency</string>
+	<string>http://95.217.23.82:5984/biorss/_design/visualise/_view/year-classification</string>
 	<key>followRedirect</key>
-	<false/>
+	<true/>
 	<key>handleJSONPCallbacks</key>
 	<false/>
 	<key>headers</key>
@@ -20,51 +20,27 @@
 	<array>
 		<dict>
 			<key>inUse</key>
-			<false/>
+			<true/>
 			<key>parameter</key>
-			<string>key</string>
+			<string>group_level</string>
 			<key>value</key>
-			<string>"CNKI"</string>
-		</dict>
-		<dict>
-			<key>inUse</key>
-			<false/>
-			<key>parameter</key>
-			<string>key</string>
-			<key>value</key>
-			<string>"DataCite"</string>
-		</dict>
-		<dict>
-			<key>inUse</key>
-			<false/>
-			<key>parameter</key>
-			<string>key</string>
-			<key>value</key>
-			<string>"mEDRA"</string>
-		</dict>
-		<dict>
-			<key>inUse</key>
-			<false/>
-			<key>parameter</key>
-			<string>key</string>
-			<key>value</key>
-			<string>"JaLC"</string>
+			<string>3</string>
 		</dict>
 		<dict>
 			<key>inUse</key>
 			<true/>
 			<key>parameter</key>
-			<string>key</string>
+			<string>startkey</string>
 			<key>value</key>
-			<string>"Airiti"</string>
+			<string>[2023]</string>
 		</dict>
 		<dict>
 			<key>inUse</key>
 			<true/>
 			<key>parameter</key>
-			<string>key</string>
+			<string>endkey</string>
 			<key>value</key>
-			<string>"ISTIC"</string>
+			<string>[2023,{}]</string>
 		</dict>
 	</array>
 	<key>parametersType</key>
@@ -73,8 +49,6 @@
 	<false/>
 	<key>stringEncoding</key>
 	<integer>4</integer>
-	<key>username</key>
-	<string>admin</string>
 	<key>usingHTTPBody</key>
 	<false/>
 </dict>

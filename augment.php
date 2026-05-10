@@ -775,6 +775,8 @@ function add_taxa(&$doc)
 		
 		$url = 'https://right-frill.glitch.me/api/find?text=' . urlencode($text);
 		
+		$url = 'http://localhost:3000/api/find?text=' . urlencode($text);
+		
 		//echo "\n" . $url . "\n";
 	
 		$result = get($url);
@@ -788,7 +790,7 @@ function add_taxa(&$doc)
 		}
 		else
 		{
-			// print_r($result);
+			//print_r($result);
 			
 			$taxon_names = array();
 			
@@ -865,9 +867,6 @@ function add_taxa(&$doc)
 						
 			}
 			
-						
-			//print_r($paths);
-			
 			//echo json_encode($path);
 			
 			//----------------------------------------------------------------------------
@@ -886,6 +885,13 @@ function add_taxa(&$doc)
 						$doc->about[] = $about_uri;
 					}
 				}
+			}
+			
+			
+			if (0)
+			{
+				echo "Paths\n";
+				print_r($paths);
 			}
 			
 			//----------------------------------------------------------------------------

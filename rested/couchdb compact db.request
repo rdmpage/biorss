@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>baseURL</key>
-	<string>http://34.65.99.205:5984/biorss/_compact/key</string>
+	<string>http://95.217.23.82:5984/biorss/_compact</string>
 	<key>followRedirect</key>
 	<false/>
 	<key>handleJSONPCallbacks</key>
@@ -20,7 +20,7 @@
 		</dict>
 	</array>
 	<key>httpMethod</key>
-	<string>GET</string>
+	<string>POST</string>
 	<key>jsonpScript</key>
 	<string></string>
 	<key>paramBodyUIChoice</key>

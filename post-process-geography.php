@@ -13,7 +13,7 @@ require_once (dirname(__FILE__) . '/augment.php');
 echo "Getting all records\n";
 
 
-$limit = 100;
+$limit = 500;
 
 $url = '_design/queue/_view/modified'
 	. '?descending=false'
@@ -31,8 +31,18 @@ foreach ($obj->rows as $row)
 {
 	$dataFeedElement = $row->doc;
 	
+	
+	
 	echo "\n" . $row->doc->_id . "\n";
-	echo $dataFeedElement->message->item->name . "\n";
+	
+	if (isset($dataFeedElement->message->item->name) && is_string($dataFeedElement->message->item->name))
+	{
+		echo $dataFeedElement->message->item->name . "\n";
+	}
+	else
+	{
+		echo "Bad name\n";
+	}
 	
 	
 	echo "Geoparsing...\n";

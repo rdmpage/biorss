@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>baseURL</key>
-	<string>http://34.65.247.244:5984/biorss/_design/key/_view/classification</string>
+	<string>http://95.217.23.82:5984/biorss/_design/key/_view/classification</string>
 	<key>followRedirect</key>
 	<true/>
 	<key>handleJSONPCallbacks</key>
@@ -70,7 +70,7 @@
 	<key>parametersType</key>
 	<integer>0</integer>
 	<key>presentBeforeChallenge</key>
-	<false/>
+	<true/>
 	<key>stringEncoding</key>
 	<integer>4</integer>
 	<key>username</key>

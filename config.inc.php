@@ -28,7 +28,7 @@ $config['platform'] = 'local';
 $config['platform'] = 'cloud';
 
 $config['site']		= 'local';
-$config['site']		= 'heroku';
+//$config['site']		= 'heroku';
 
 switch ($config['site'])
 {
@@ -41,7 +41,7 @@ switch ($config['site'])
 	case 'local':
 	default:
 		$config['web_server']	= 'http://localhost'; 
-		$config['web_root']		= '/~rpage/biorss/';
+		$config['web_root']		= '/biorss/'; // trailing "/" is important!
 		$config['site_name'] 	= 'BioRSS';
 		break;
 }
@@ -52,7 +52,7 @@ if ($config['platform'] == 'local')
 {
 	$config['couchdb_options'] = array(
 		'database' 	=> 'biorss',
-		'host' 		=> '127.0.0.1',
+		'host' 		=> 'admin:peacrab@127.0.0.1',
 		'port' 		=> 5984,
 		'prefix' 	=> 'http://'
 		);	
